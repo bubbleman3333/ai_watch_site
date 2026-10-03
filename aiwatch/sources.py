@@ -100,7 +100,7 @@ def save_items(root: Path, source: str, items: list[dict]) -> int:
                     if k in it:
                         old[k] = it[k]
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(json.dumps(dict(sorted(cur.items())), ensure_ascii=False, indent=0) + "\n", encoding="utf-8")
+        path.write_text(json.dumps(dict(sorted(cur.items())), ensure_ascii=False, indent=0) + "\n", encoding="utf-8", newline="\n")
     return added
 
 
@@ -201,7 +201,7 @@ def save_models(root: Path, models: list[dict], day: str) -> None:
         return
     path = root / "models" / f"{day}.json"
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(models, ensure_ascii=False, indent=0) + "\n", encoding="utf-8")
+    path.write_text(json.dumps(models, ensure_ascii=False, indent=0) + "\n", encoding="utf-8", newline="\n")
 
 
 # ---------- GitHub（作られたばかりで急にスターを集めているリポジトリ） ----------
@@ -383,7 +383,7 @@ def fetch_arxiv_weekly(http: Http, root: Path, weeks: int) -> None:
             if n is not None:
                 row[key] = n
         print(f"  arXiv {slug}: {len(row)} 週")
-        path.write_text(json.dumps(data, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
+        path.write_text(json.dumps(data, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
 
 
 # ---------- まとめて ----------
