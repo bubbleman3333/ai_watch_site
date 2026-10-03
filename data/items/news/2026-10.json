@@ -629,6 +629,21 @@
 "lang": "en"
 }
 },
+"news-huggingface-89764eae0099": {
+"id": "news-huggingface-89764eae0099",
+"source": "news",
+"kind": "news",
+"title": "The Agent Said It Was Done. The Database Disagreed.",
+"url": "https://huggingface.co/blog/microsoft/thinkingbox",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Hugging Face",
+"feed": "huggingface",
+"lang": "en"
+}
+},
 "news-huggingface-a885ed61f54a": {
 "id": "news-huggingface-a885ed61f54a",
 "source": "news",
@@ -1889,6 +1904,21 @@
 "lang": "en"
 }
 },
+"news-verge-f1c80105d2f2": {
+"id": "news-verge-f1c80105d2f2",
+"source": "news",
+"kind": "media",
+"title": "Capcom is preparing for a ‘future where we create games together with AI’",
+"url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "The Verge",
+"feed": "verge",
+"lang": "en"
+}
+},
 "news-verge-f829ccaecea0": {
 "id": "news-verge-f829ccaecea0",
 "source": "news",
@@ -2594,6 +2624,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-9af58f54558e": {
+"id": "news-zenn-genai-9af58f54558e",
+"source": "news",
+"kind": "community",
+"title": "AIへの指示書を別ファイルに追い出したら、最初の入力は8230トークン減った。でも合計は最大1.86倍に増えた",
+"url": "https://zenn.dev/numarn/articles/claude-md-pointer-vs-inline-rules-handson",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-a368353582ae": {
 "id": "news-zenn-genai-a368353582ae",
 "source": "news",
@@ -2714,6 +2759,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-0b3c3fcc0ae5": {
+"id": "news-zenn-llm-0b3c3fcc0ae5",
+"source": "news",
+"kind": "community",
+"title": "AI の書いた日本語を「人間が書いたっぽく」直す — chaffjs と LLM で 5 周ブラッシュアップした記録",
+"url": "https://zenn.dev/singularity/articles/chaffjs-llm-brush-up-5-passes",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-166a12bca7c1": {
 "id": "news-zenn-llm-166a12bca7c1",
 "source": "news",
@@ -2819,6 +2879,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-56da7264e74c": {
+"id": "news-zenn-llm-56da7264e74c",
+"source": "news",
+"kind": "community",
+"title": "【godot-llm-gamebench】GPT-6 LunaはEffortによってどのように性能が変わるのか",
+"url": "https://zenn.dev/oubakiou/articles/28ae9321d2c3c7",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-60d03bd433e5": {
 "id": "news-zenn-llm-60d03bd433e5",
 "source": "news",
@@ -2834,12 +2909,132 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-61034c362160": {
+"id": "news-zenn-llm-61034c362160",
+"source": "news",
+"kind": "community",
+"title": "AIが研究チームになった——Geminiを使う「Cogentic」が5つの未解決問題に新成果",
+"url": "https://zenn.dev/humanos_lab/articles/80c13016cf9daa",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-649f94e546c4": {
+"id": "news-zenn-llm-649f94e546c4",
+"source": "news",
+"kind": "community",
+"title": "Sparsely-Gated MoEを実装目線で読む：Router・Top-k・負荷分散",
+"url": "https://zenn.dev/kas_blog/articles/20260509-llm-28-moe",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-64cc39fbf8e0": {
+"id": "news-zenn-llm-64cc39fbf8e0",
+"source": "news",
+"kind": "community",
+"title": "日本語の名前を一括置換してはいけない — 敬称で置換スコープを切った話",
+"url": "https://zenn.dev/shinsei99/articles/name-substitution-misfires",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-6eaebc55d39a": {
 "id": "news-zenn-llm-6eaebc55d39a",
 "source": "news",
 "kind": "community",
 "title": "AI Security Labの実験環境 ― OllamaとPythonでLLMの動作を実験する",
 "url": "https://zenn.dev/kondonator/articles/9d3f7195895d1c",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-70449f165879": {
+"id": "news-zenn-llm-70449f165879",
+"source": "news",
+"kind": "community",
+"title": "AIの能力をフルに使うプロンプトを突き詰めたら、完全に「禁呪の詠唱」になった",
+"url": "https://zenn.dev/c_a_p_engineer/articles/ai-prompt-incantation",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-71499c53bc43": {
+"id": "news-zenn-llm-71499c53bc43",
+"source": "news",
+"kind": "community",
+"title": "Claude Code で他社製モデルをサブエージェントとして Claude と協働させる",
+"url": "https://zenn.dev/ml/articles/6d0f27a130c0a6",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-7805d169391e": {
+"id": "news-zenn-llm-7805d169391e",
+"source": "news",
+"kind": "community",
+"title": "【godot-llm-gamebench】GPT-6.1 SolはEffortによってどのように性能が変わるのか",
+"url": "https://zenn.dev/oubakiou/articles/8a07c6caba788d",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-7af3fd3bd510": {
+"id": "news-zenn-llm-7af3fd3bd510",
+"source": "news",
+"kind": "community",
+"title": "クレーム対応ロールプレイ、役に背景設定を足すと手強い相手が入れ替わる",
+"url": "https://zenn.dev/every_ai_recipe/articles/complaint-call-role-detail-flip",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-8267f2951fad": {
+"id": "news-zenn-llm-8267f2951fad",
+"source": "news",
+"kind": "community",
+"title": "ローカルLLMのエージェントにサイト運営を任せてみた",
+"url": "https://zenn.dev/llmonmac/articles/d46f6a5ff5733f",
 "date": "2026-10-03",
 "summary": "",
 "score": 0,
@@ -3005,6 +3200,21 @@
 "kind": "community",
 "title": "生成AIを理解し、問いを立て、運用するための4冊",
 "url": "https://zenn.dev/infra_ojisan/articles/books_for_llm_recommend",
+"date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-f1686122432d": {
+"id": "news-zenn-llm-f1686122432d",
+"source": "news",
+"kind": "community",
+"title": "Claude Code で開発ループを回す：auto mode の権限設定と hook による検証",
+"url": "https://zenn.dev/coworker_jp/articles/claude-code-loop-engineering-brakes",
 "date": "2026-10-03",
 "summary": "",
 "score": 0,

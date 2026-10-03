@@ -9576,7 +9576,7 @@
 "alt_url": "https://arxiv.org/abs/2609.31847",
 "date": "2026-09-30",
 "summary": "General-purpose agents can plan, reason, and act over long horizons, yet their production capabilities remain fragmented across text, images, audio, video, documents, 3D assets, and code.",
-"score": 285,
+"score": 287,
 "extra": {
 "github": "https://github.com/any2any-mllm/Omni-IO-Skill",
 "stars": 44,
@@ -9768,7 +9768,7 @@
 "alt_url": "https://arxiv.org/abs/2609.32522",
 "date": "2026-09-30",
 "summary": "Long-term memory enables agents to accumulate information and reason across sessions, yet existing research primarily focuses on dyadic text or image-text conversations, leaving long-term memory for multi-party spoken conversations underexplored.",
-"score": 62,
+"score": 63,
 "extra": {
 "github": "https://github.com/VoxPolyMem/Code",
 "stars": 1,
@@ -9832,7 +9832,7 @@
 "alt_url": "https://arxiv.org/abs/2609.32607",
 "date": "2026-09-30",
 "summary": "Spoken conversational systems must recover information from prior interactions (i.e., memory), yet relevant information in speech extends beyond what was said to who said it, how it was spoken, and what was audible, information that exists only in the audio s…",
-"score": 144,
+"score": 145,
 "extra": {
 "github": "https://github.com/swagshaw/voxmem",
 "stars": 3,
@@ -10248,7 +10248,7 @@
 "alt_url": "https://arxiv.org/abs/2609.33439",
 "date": "2026-09-30",
 "summary": "As large language models advance, AI agents are moving beyond isolated, domain-specific tasks toward long-horizon, cross-domain workflows.",
-"score": 535,
+"score": 549,
 "extra": {
 "github": "https://github.com/EverMind-AI/Raven",
 "stars": 5100,
@@ -10648,7 +10648,7 @@
 "alt_url": "https://arxiv.org/abs/2609.34309",
 "date": "2026-09-30",
 "summary": "Executable programs offer explicit control over how images and videos are constructed, but generating runnable code is only the beginning of visual creation. A program can execute correctly while violating the requested composition, appearance, or motion.",
-"score": 402,
+"score": 404,
 "extra": {
 "github": "https://github.com/gulucaptain/MaLiang-Harness",
 "stars": 27,
@@ -10696,7 +10696,7 @@
 "alt_url": "https://arxiv.org/abs/2609.34378",
 "date": "2026-09-30",
 "summary": "Humans naturally possess the ability to work persistently toward long-term goals. Given a challenging task, humans can continuously work for months or even years to accomplish a specific objective.",
-"score": 35,
+"score": 37,
 "extra": {
 "github": "",
 "stars": 0,
@@ -10808,7 +10808,7 @@
 "alt_url": "https://arxiv.org/abs/2609.34606",
 "date": "2026-09-30",
 "summary": "Leveraging the paradigm of autoregressive diffusion, text-conditioned interactive video world models aim to simulate temporally coherent environments guided by textual instructions.",
-"score": 43,
+"score": 44,
 "extra": {
 "github": "https://github.com/alibaba-damo-academy/WorldAttention",
 "stars": 13,
@@ -10968,7 +10968,7 @@
 "alt_url": "https://arxiv.org/abs/2609.34981",
 "date": "2026-09-30",
 "summary": "World action models (WAMs) predict the future alongside actions during training.",
-"score": 125,
+"score": 127,
 "extra": {
 "github": "https://github.com/LeapLabTHU/Simple-WAM",
 "stars": 68,
@@ -11144,7 +11144,7 @@
 "alt_url": "https://arxiv.org/abs/2609.35427",
 "date": "2026-09-30",
 "summary": "Modern LLMs are increasingly capable as autonomous agents, but they follow sequential interaction cycles: read, think, reply or call tools, repeat.",
-"score": 74,
+"score": 75,
 "extra": {
 "github": "https://github.com/dvmazur/async_llm",
 "stars": 14,
@@ -11560,7 +11560,7 @@
 "alt_url": "https://arxiv.org/abs/2609.36012",
 "date": "2026-09-30",
 "summary": "General-purpose robots must infer what a new task requires and translate that understanding into appropriate physical action.",
-"score": 375,
+"score": 378,
 "extra": {
 "github": "https://github.com/JethroJames/awesome-robots-icl",
 "stars": 16,
@@ -11592,7 +11592,7 @@
 "alt_url": "https://arxiv.org/abs/2609.36071",
 "date": "2026-09-30",
 "summary": "We present LongCat-DeepResearch, a deep research system that combines an enhanced LongCat model with a multi-agent workflow for producing comprehensive, evidence-grounded reports.",
-"score": 62,
+"score": 63,
 "extra": {
 "github": "https://github.com/meituan-longcat/LongCat-DeepResearch",
 "stars": 18,
@@ -11640,7 +11640,7 @@
 "alt_url": "https://arxiv.org/abs/2609.36159",
 "date": "2026-09-30",
 "summary": "Large language models can reason in continuous space instead of decoded text, by recurring on their own hidden states or by passing those states between agents, while training supervises only the Cross-Entropy (CE) of the final decoded answer and does not con…",
-"score": 4,
+"score": 5,
 "extra": {
 "github": "https://github.com/FARD-Lab/REST",
 "stars": 0,
@@ -11816,7 +11816,7 @@
 "alt_url": "https://arxiv.org/abs/2609.36651",
 "date": "2026-09-30",
 "summary": "Long-context reasoning in large language models incurs substantial computation and memory costs.",
-"score": 28,
+"score": 29,
 "extra": {
 "github": "https://github.com/fangzhi-zhong/FoucsVTC",
 "stars": 3,
@@ -11832,7 +11832,7 @@
 "alt_url": "https://arxiv.org/abs/2609.36653",
 "date": "2026-09-30",
 "summary": "Recurrent reasoning models have attracted growing attention for scaling test-time computation, typically by iteratively refining latent states with shared parameters.",
-"score": 15,
+"score": 16,
 "extra": {
 "github": "",
 "stars": 0,
@@ -11947,7 +11947,7 @@
 "score": 5,
 "extra": {
 "github": "https://github.com/CompVis/iDDM",
-"stars": 15,
+"stars": 17,
 "comments": 2
 }
 },
@@ -11976,7 +11976,7 @@
 "alt_url": "https://arxiv.org/abs/2609.37236",
 "date": "2026-09-30",
 "summary": "An agent that uses tools typically responds to what the user explicitly asks, yet completing the task may require information the user never requested.",
-"score": 36,
+"score": 37,
 "extra": {
 "github": "https://github.com/dolev31/ProactiveInquirer",
 "stars": 12,
@@ -12040,7 +12040,7 @@
 "alt_url": "https://arxiv.org/abs/2609.37559",
 "date": "2026-09-30",
 "summary": "To serve as real-world personal assistants, streaming video models need persistent memory that retains past experiences for later use.",
-"score": 41,
+"score": 42,
 "extra": {
 "github": "https://github.com/Jianguo-Huang11/APM-Bench",
 "stars": 5,
@@ -12120,7 +12120,7 @@
 "alt_url": "https://arxiv.org/abs/2609.37868",
 "date": "2026-09-30",
 "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) methods such as GRPO rely on successful self-generated trajectories, but finite rollout budgets can produce all-fail groups with no reward-based policy-gradient signal.",
-"score": 57,
+"score": 58,
 "extra": {
 "github": "",
 "stars": 0,
@@ -12168,7 +12168,7 @@
 "alt_url": "https://arxiv.org/abs/2609.37969",
 "date": "2026-09-30",
 "summary": "High-resolution video generation is expensive, as its cost grows rapidly with the number of spatiotemporal tokens.",
-"score": 35,
+"score": 37,
 "extra": {
 "github": "",
 "stars": 0,
@@ -12216,7 +12216,7 @@
 "alt_url": "https://arxiv.org/abs/2609.38057",
 "date": "2026-09-30",
 "summary": "Improving robot policies on new tasks without collecting additional expert demonstrations remains a central challenge in robot learning.",
-"score": 36,
+"score": 38,
 "extra": {
 "github": "https://github.com/Clausy9/EVO-WAM",
 "stars": 9,
@@ -12232,7 +12232,7 @@
 "alt_url": "https://arxiv.org/abs/2609.38059",
 "date": "2026-09-30",
 "summary": "Real-world robot learning is constrained by the cost of collecting experience and evaluating candidate behaviors. Video generation models offer a scalable foundation for visual simulators that predict action outcomes before physical execution.",
-"score": 26,
+"score": 27,
 "extra": {
 "github": "https://github.com/Zhengsh123/WorldLine",
 "stars": 1,
@@ -12328,7 +12328,7 @@
 "alt_url": "https://arxiv.org/abs/2609.38154",
 "date": "2026-09-30",
 "summary": "Video diffusion models are increasingly developed into specialized models for diverse downstream tasks, and this development often includes a distillation stage, for example to accelerate sampling or to improve long-video generation.",
-"score": 36,
+"score": 38,
 "extra": {
 "github": "https://github.com/NVlabs/LongLive",
 "stars": 2649,

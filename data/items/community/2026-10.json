@@ -563,6 +563,27 @@
 "lang": "en"
 }
 },
+"devto-4784593": {
+"id": "devto-4784593",
+"source": "community",
+"kind": "community",
+"title": "RAG Retrieval Gotchas at Scale: Insights and Solutions",
+"url": "https://dev.to/the-hive-collective/rag-retrieval-gotchas-at-scale-insights-and-solutions-5b7c",
+"date": "2026-10-01",
+"summary": "A deep dive into the challenges and solutions for implementing RAG at scale.",
+"score": 1,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"rag",
+"ai",
+"retrieval",
+"scalability"
+],
+"lang": "en"
+}
+},
 "devto-4785723": {
 "id": "devto-4785723",
 "source": "community",
@@ -697,7 +718,7 @@
 "url": "https://dev.to/dj29/hacktoberfest-is-coming-to-nadiad-gujarat-official-mlh-meetup-at-ddu-15-oct-1dc4",
 "date": "2026-10-02",
 "summary": "Most students hear about hackathons, open source and developer communities in their third or fourth...",
-"score": 54,
+"score": 56,
 "extra": {
 "comments": 15,
 "publisher": "DEV Community",
@@ -843,15 +864,36 @@
 "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
 "date": "2026-10-02",
 "summary": "This is a submission for the Kaggle Benchmarking Challenge I fed 15 AI models a growing pile of...",
-"score": 43,
+"score": 48,
 "extra": {
-"comments": 31,
+"comments": 32,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
 "kagglechallenge",
 "ai",
 "machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4788388": {
+"id": "devto-4788388",
+"source": "community",
+"kind": "community",
+"title": "How many samples does a false-positive budget need?",
+"url": "https://dev.to/pm25coder/how-many-samples-does-a-false-positive-budget-need-1ni",
+"date": "2026-10-02",
+"summary": "Pick a detector, run it over some benign traffic, and choose a threshold. Usually the threshold is an...",
+"score": 1,
+"extra": {
+"comments": 2,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"security",
+"machinelearning",
+"testing"
 ],
 "lang": "en"
 }
@@ -971,7 +1013,7 @@
 "summary": "Every RAG demo works. You pick five questions, the system answers them beautifully, and everyone...",
 "score": 2,
 "extra": {
-"comments": 2,
+"comments": 3,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -1024,6 +1066,27 @@
 "lang": "en"
 }
 },
+"devto-4791636": {
+"id": "devto-4791636",
+"source": "community",
+"kind": "community",
+"title": "MCP for tour guides: building a remote MCP server with ~100 tools and OAuth",
+"url": "https://dev.to/fpintern/mcp-for-tour-guides-building-a-remote-mcp-server-with-100-tools-and-oauth-5gob",
+"date": "2026-10-03",
+"summary": "I work on Your Next Tours, an app tour guides use to broadcast live audio to their group from their...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"mcp",
+"ai",
+"oauth",
+"typescript"
+],
+"lang": "en"
+}
+},
 "devto-4791648": {
 "id": "devto-4791648",
 "source": "community",
@@ -1041,6 +1104,27 @@
 "rag",
 "graph",
 "python"
+],
+"lang": "en"
+}
+},
+"devto-4791909": {
+"id": "devto-4791909",
+"source": "community",
+"kind": "community",
+"title": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
+"url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
+"date": "2026-10-03",
+"summary": "AI has made me dramatically faster at building software. You can see it on my GitHub: a sudden surge...",
+"score": 38,
+"extra": {
+"comments": 6,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"productivity",
+"programming",
+"beginners"
 ],
 "lang": "en"
 }
@@ -1095,7 +1179,7 @@
 "url": "https://dev.to/lovestaco/i-made-spider-man-swing-without-animating-a-single-frame-blender-rigging-and-mcp-14f7",
 "date": "2026-10-03",
 "summary": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
-"score": 15,
+"score": 17,
 "extra": {
 "comments": 0,
 "publisher": "DEV Community",
@@ -1104,6 +1188,69 @@
 "mcp",
 "ai",
 "beginners"
+],
+"lang": "en"
+}
+},
+"devto-4793077": {
+"id": "devto-4793077",
+"source": "community",
+"kind": "community",
+"title": "Copilot Studio over thousands of documents: answer only when a source supports it",
+"url": "https://dev.to/zakaria_khchiche_490919ed/copilot-studio-over-thousands-of-documents-answer-only-when-a-source-supports-it-2p45",
+"date": "2026-10-03",
+"summary": "A Copilot Studio agent connected to a large document library almost always answers. The problem is...",
+"score": 0,
+"extra": {
+"comments": 3,
+"publisher": "DEV Community",
+"topics": [
+"copilotstudio",
+"mcp",
+"rag",
+"azure"
+],
+"lang": "en"
+}
+},
+"devto-4793655": {
+"id": "devto-4793655",
+"source": "community",
+"kind": "community",
+"title": "When do AI agents actually matter? Benchmarking RAG vs GraphRAG vs Agentic GraphRAG on TigerGraph",
+"url": "https://dev.to/utkarsh_varshney_0c1e8ad0/when-do-ai-agents-actually-matter-benchmarking-rag-vs-graphrag-vs-agentic-graphrag-on-tigergraph-1oke",
+"date": "2026-10-03",
+"summary": "Everyone's building agents right now. But a better question than \"can an agent do this?\" is \"when...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"llm",
+"rag",
+"database"
+],
+"lang": "en"
+}
+},
+"devto-4793766": {
+"id": "devto-4793766",
+"source": "community",
+"kind": "community",
+"title": "MCP stdio vs Remote Transports: Run It Locally or Host It?",
+"url": "https://dev.to/jeff_pdc/mcp-stdio-vs-remote-transports-run-it-locally-or-host-it-n4k",
+"date": "2026-10-03",
+"summary": "One of the most useful, and most confusing, properties of the Model Context Protocol is that the...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"mcp",
+"ai",
+"architecture",
+"api"
 ],
 "lang": "en"
 }

@@ -132,7 +132,7 @@
 "url": "https://dev.to/javz/what-science-fiction-tells-us-about-our-changing-relationship-with-ai-5c8m",
 "date": "2026-09-30",
 "summary": "I have noticed in recent years that the way AI is portrayed in science fiction has shifted. I wanted...",
-"score": 40,
+"score": 42,
 "extra": {
 "comments": 14,
 "publisher": "DEV Community",
@@ -153,7 +153,7 @@
 "url": "https://dev.to/mikachu/i-tried-to-prompt-a-3d-dev-library-into-existence-then-i-had-to-build-my-own-level-editor-37gf",
 "date": "2026-09-27",
 "summary": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange. I started...",
-"score": 32,
+"score": 34,
 "extra": {
 "comments": 8,
 "publisher": "DEV Community",
@@ -901,6 +901,27 @@
 "lang": "en"
 }
 },
+"devto-4766321": {
+"id": "devto-4766321",
+"source": "community",
+"kind": "community",
+"title": "One prompt to GPT-6 Astra can cost $10. Here's exactly when the 1M context is worth it — and when it's a trap.",
+"url": "https://dev.to/rudratosh/one-prompt-to-gpt-6-astra-can-cost-10-heres-exactly-when-the-1m-context-is-worth-it-and-when-1in5",
+"date": "2026-09-28",
+"summary": "GPT-6 Astra ships a 1.1M-token context window at $10 per million input tokens. Fill it and a single call costs $10 before you read a word of output. Here's the napkin math on when a giant context ear…",
+"score": 5,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"llm",
+"cost",
+"productivity"
+],
+"lang": "en"
+}
+},
 "devto-4766329": {
 "id": "devto-4766329",
 "source": "community",
@@ -953,7 +974,7 @@
 "summary": "Connect the GitHub MCP server and 93 tool schemas load into context — ~55,000 tokens, every turn, before your agent does anything. Add Slack and Sentry and you've burned 143k of a 200k window on defi…",
 "score": 7,
 "extra": {
-"comments": 17,
+"comments": 18,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -1097,7 +1118,7 @@
 "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
 "date": "2026-09-30",
 "summary": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange What...",
-"score": 25,
+"score": 30,
 "extra": {
 "comments": 2,
 "publisher": "DEV Community",
@@ -1139,9 +1160,9 @@
 "url": "https://dev.to/james_anderson_h/whos-accountable-when-the-ai-was-just-following-instructions-1efl",
 "date": "2026-09-29",
 "summary": "Earlier this year, a company's AI agent quietly leaked internal data for three weeks before anyone...",
-"score": 37,
+"score": 36,
 "extra": {
-"comments": 41,
+"comments": 42,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -1435,7 +1456,7 @@
 "summary": "I recently put out a video arguing that frontend development is changing. I don't think the work is...",
 "score": 53,
 "extra": {
-"comments": 20,
+"comments": 21,
 "publisher": "DEV Community",
 "topics": [
 "webdev",
@@ -1707,7 +1728,7 @@
 "summary": "If you wire an LLM agent to a local directory of documents and give it terminal tools (grep, find,...",
 "score": 11,
 "extra": {
-"comments": 28,
+"comments": 29,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -1726,15 +1747,57 @@
 "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
 "date": "2026-09-30",
 "summary": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
-"score": 20,
+"score": 21,
 "extra": {
-"comments": 2,
+"comments": 3,
 "publisher": "DEV Community",
 "topics": [
 "arduino",
 "iot",
 "cloudinary",
 "ai"
+],
+"lang": "en"
+}
+},
+"devto-4778980": {
+"id": "devto-4778980",
+"source": "community",
+"kind": "community",
+"title": "MCP AI Agent Readiness: Will Agents Pick Your Tools? (2026)",
+"url": "https://dev.to/rupa_tiwari_dd308948d710f/mcp-ai-agent-readiness-will-agents-pick-your-tools-2026-26np",
+"date": "2026-09-30",
+"summary": "📖 TL;DR An agent picks your tools from their names, descriptions and schemas. Nothing else. If...",
+"score": 6,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"mcp",
+"ai",
+"agents",
+"testing"
+],
+"lang": "en"
+}
+},
+"devto-4779093": {
+"id": "devto-4779093",
+"source": "community",
+"kind": "community",
+"title": "🧩 Runtime Snapshots #21 - The Question Got Small",
+"url": "https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-21-the-question-got-small-457a",
+"date": "2026-09-30",
+"summary": "Qwen3-0.6B (400 MB) on a 2017 Note 8: 10/10 with SiFR, 0/3 without it TL;DR. A 400 MB model on a...",
+"score": 1,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"mcp",
+"webdev",
+"sifr"
 ],
 "lang": "en"
 }
@@ -1768,7 +1831,7 @@
 "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
 "date": "2026-09-30",
 "summary": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange What I...",
-"score": 28,
+"score": 29,
 "extra": {
 "comments": 2,
 "publisher": "DEV Community",
