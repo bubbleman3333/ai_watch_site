@@ -1,0 +1,3311 @@
+{
+"repo-00200200__cinch": {
+"id": "repo-00200200__cinch",
+"source": "github",
+"kind": "repo",
+"title": "00200200/cinch",
+"url": "https://github.com/00200200/cinch",
+"date": "2026-09-18",
+"summary": "Universal skills and agents for every AI harness. Author once, wire anywhere: Claude Code, Cursor, Codex, Copilot, Gemini CLI, Windsurf, Cline, Aider.",
+"score": 36,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skills",
+"agents",
+"ai",
+"aider",
+"claude-code",
+"codex",
+"copilot",
+"cursor",
+"gemini",
+"grok"
+],
+"license": "MIT"
+}
+},
+"repo-1173591564__Dynamics-memory": {
+"id": "repo-1173591564__Dynamics-memory",
+"source": "github",
+"kind": "repo",
+"title": "1173591564/Dynamics-memory",
+"url": "https://github.com/1173591564/Dynamics-memory",
+"date": "2026-09-15",
+"summary": "LLM agent 的有界自纠错长期记忆层：把连续、含矛盾的项目交互日志蒸馏成有界、可自更新的记忆库。Bounded, self-correcting long-term memory for LLM agents — candidate pool + value dynamics + tension adjudication + causal-replay evals.",
+"score": 101,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-memory",
+"agents",
+"llm",
+"llm-agents",
+"long-term-memory",
+"memory",
+"memory-management",
+"python",
+"rag",
+"retrieval-augmented-generation"
+],
+"license": ""
+}
+},
+"repo-849879772__recruitops-agent": {
+"id": "repo-849879772__recruitops-agent",
+"source": "github",
+"kind": "repo",
+"title": "849879772/recruitops-agent",
+"url": "https://github.com/849879772/recruitops-agent",
+"date": "2026-09-16",
+"summary": "Local-first recruitment intelligence and application operations agent",
+"score": 121,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agent",
+"campus-recruitment",
+"fastapi",
+"mcp",
+"pgvector",
+"playwright",
+"rag",
+"recruitment"
+],
+"license": "MIT"
+}
+},
+"repo-AbdelStark__awesome-typesafe-jev": {
+"id": "repo-AbdelStark__awesome-typesafe-jev",
+"source": "github",
+"kind": "repo",
+"title": "AbdelStark/awesome-typesafe-jev",
+"url": "https://github.com/AbdelStark/awesome-typesafe-jev",
+"date": "2026-09-17",
+"summary": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
+"score": 555,
+"extra": {
+"lang": "HTML",
+"topics": [
+"agent-skills",
+"ai-agents",
+"awesome",
+"awesome-jev",
+"awesome-list",
+"awesome-lists",
+"curated-list",
+"developer-tools",
+"jev",
+"llm"
+],
+"license": "MIT"
+}
+},
+"repo-AbdoslamB__InkDoc": {
+"id": "repo-AbdoslamB__InkDoc",
+"source": "github",
+"kind": "repo",
+"title": "AbdoslamB/InkDoc",
+"url": "https://github.com/AbdoslamB/InkDoc",
+"date": "2026-09-27",
+"summary": "Turn any document into clean, AI-ready Markdown — locally on your machine. Desktop app for Windows, macOS & Linux powered by MarkItDown, Docling, GLM-OCR and Markit.",
+"score": 44,
+"extra": {
+"lang": "Python",
+"topics": [
+"cross-platform",
+"desktop-app",
+"docling",
+"document-conversion",
+"docx-to-markdown",
+"html-to-markdown",
+"html-to-markdown-converter",
+"linux",
+"llm",
+"macos"
+],
+"license": "MIT"
+}
+},
+"repo-Alex314618-create__JevRev": {
+"id": "repo-Alex314618-create__JevRev",
+"source": "github",
+"kind": "repo",
+"title": "Alex314618-create/JevRev",
+"url": "https://github.com/Alex314618-create/JevRev",
+"date": "2026-09-21",
+"summary": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside.",
+"score": 703,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"jev",
+"llm",
+"workflow"
+],
+"license": "MIT"
+}
+},
+"repo-Amal-David__awesome-jev": {
+"id": "repo-Amal-David__awesome-jev",
+"source": "github",
+"kind": "repo",
+"title": "Amal-David/awesome-jev",
+"url": "https://github.com/Amal-David/awesome-jev",
+"date": "2026-09-18",
+"summary": "Jev demos, projects, SDKs and skills, with source links and a curated X gallery.",
+"score": 229,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skills",
+"awesome-ai",
+"awesome-list",
+"browser-use",
+"claude-code",
+"codex",
+"coding-agent",
+"computer-use",
+"developer-tools",
+"jev"
+],
+"license": "CC0-1.0"
+}
+},
+"repo-AndrewNgo-ini__memoose": {
+"id": "repo-AndrewNgo-ini__memoose",
+"source": "github",
+"kind": "repo",
+"title": "AndrewNgo-ini/memoose",
+"url": "https://github.com/AndrewNgo-ini/memoose",
+"date": "2026-09-06",
+"summary": "A dual-path memory system for proactive agents. Facts and procedures in a local knowledge graph, exposed as a CLI, MCP tools and skills. No API key.",
+"score": 58,
+"extra": {
+"lang": "Python",
+"topics": [
+"agents",
+"claude-code",
+"codex",
+"knowledge-graph",
+"mcp",
+"memory",
+"procedural-memory",
+"sqlite"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-AnotiaWang__awesome-decision-models": {
+"id": "repo-AnotiaWang__awesome-decision-models",
+"source": "github",
+"kind": "repo",
+"title": "AnotiaWang/awesome-decision-models",
+"url": "https://github.com/AnotiaWang/awesome-decision-models",
+"date": "2026-09-17",
+"summary": "A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers.",
+"score": 606,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agents",
+"awesome",
+"awesome-list",
+"decision-models",
+"jev",
+"llm",
+"system-one",
+"typed-decisions",
+"typesafe"
+],
+"license": "CC0-1.0"
+}
+},
+"repo-Atomburstofficial__geiger": {
+"id": "repo-Atomburstofficial__geiger",
+"source": "github",
+"kind": "repo",
+"title": "Atomburstofficial/geiger",
+"url": "https://github.com/Atomburstofficial/geiger",
+"date": "2026-09-06",
+"summary": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
+"score": 158,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-agents",
+"ai-governance",
+"ai-safety",
+"ai-security",
+"claude-code",
+"governance",
+"mcp",
+"mcp-server",
+"npx",
+"scanner"
+],
+"license": "MIT"
+}
+},
+"repo-Clearailhc__clearai-dsh": {
+"id": "repo-Clearailhc__clearai-dsh",
+"source": "github",
+"kind": "repo",
+"title": "Clearailhc/clearai-dsh",
+"url": "https://github.com/Clearailhc/clearai-dsh",
+"date": "2026-09-12",
+"summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+"score": 1216,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-preset",
+"ai-agents",
+"deepseek-harness",
+"dsh",
+"dsh-plugin",
+"dsh-plugins",
+"epistemic-loop",
+"scientific-discovery"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-DenRakEiw__scumble": {
+"id": "repo-DenRakEiw__scumble",
+"source": "github",
+"kind": "repo",
+"title": "DenRakEiw/scumble",
+"url": "https://github.com/DenRakEiw/scumble",
+"date": "2026-09-07",
+"summary": "Free, open-source desktop editor for AI inpainting: select, prompt, get a colour-matched layer. FLUX 3 Image, FLUX.2, GPT Image, Nano Banana, Seedream and Qwen through your API key or your own ComfyU…",
+"score": 45,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-art",
+"ai-inpainting",
+"comfyui",
+"desktop-app",
+"electron",
+"flux",
+"flux3",
+"generative-ai",
+"image-editor",
+"image-generation"
+],
+"license": "GPL-3.0"
+}
+},
+"repo-Devin-AXIS__jev-dsh-decision": {
+"id": "repo-Devin-AXIS__jev-dsh-decision",
+"source": "github",
+"kind": "repo",
+"title": "Devin-AXIS/jev-dsh-decision",
+"url": "https://github.com/Devin-AXIS/jev-dsh-decision",
+"date": "2026-09-20",
+"summary": "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
+"score": 253,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-harness",
+"ai-agents",
+"apollo-plugin",
+"codex",
+"codex-harness-plugin",
+"codex-plugin",
+"decision-engine",
+"deepseek-harness",
+"deepseek-harness-plugin",
+"deepseek-plugin"
+],
+"license": ""
+}
+},
+"repo-Dreamer-Toby__STEPQuant": {
+"id": "repo-Dreamer-Toby__STEPQuant",
+"source": "github",
+"kind": "repo",
+"title": "Dreamer-Toby/STEPQuant",
+"url": "https://github.com/Dreamer-Toby/STEPQuant",
+"date": "2026-09-29",
+"summary": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+"score": 57,
+"extra": {
+"lang": "Python",
+"topics": [
+"large-language-models",
+"llm",
+"post-training-quantization",
+"quantization"
+],
+"license": ""
+}
+},
+"repo-Edwardxlai__easyread": {
+"id": "repo-Edwardxlai__easyread",
+"source": "github",
+"kind": "repo",
+"title": "Edwardxlai/easyread",
+"url": "https://github.com/Edwardxlai/easyread",
+"date": "2026-09-30",
+"summary": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+"score": 665,
+"extra": {
+"lang": "Python",
+"topics": [
+"academic",
+"arxiv",
+"chinese",
+"claude-code",
+"codex",
+"electron",
+"llm",
+"paper-reading",
+"pdf-translator",
+"reference-manager"
+],
+"license": "MIT"
+}
+},
+"repo-FankChen__tracecrate": {
+"id": "repo-FankChen__tracecrate",
+"source": "github",
+"kind": "repo",
+"title": "FankChen/tracecrate",
+"url": "https://github.com/FankChen/tracecrate",
+"date": "2026-09-10",
+"summary": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.",
+"score": 307,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai",
+"ai-agents",
+"claude-code",
+"codex",
+"developer-tools",
+"local-first",
+"observability",
+"opentelemetry",
+"privacy",
+"react"
+],
+"license": "MIT"
+}
+},
+"repo-GetBrew__growth-engineer": {
+"id": "repo-GetBrew__growth-engineer",
+"source": "github",
+"kind": "repo",
+"title": "GetBrew/growth-engineer",
+"url": "https://github.com/GetBrew/growth-engineer",
+"date": "2026-09-16",
+"summary": "Open-source catalog of go-to-market tools and workflows, written as markdown files any agent can run. Includes a read-only MCP server.",
+"score": 135,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agents",
+"go-to-market",
+"growth-engineering",
+"gtm",
+"llms-txt",
+"markdown",
+"marketing-automation",
+"mcp",
+"mcp-server",
+"model-context-protocol"
+],
+"license": "MIT"
+}
+},
+"repo-GongZhiren__State-of-Thought": {
+"id": "repo-GongZhiren__State-of-Thought",
+"source": "github",
+"kind": "repo",
+"title": "GongZhiren/State-of-Thought",
+"url": "https://github.com/GongZhiren/State-of-Thought",
+"date": "2026-09-07",
+"summary": "[NeurIPS 2026] State of Thought Enables Endogenous Reasoning",
+"score": 134,
+"extra": {
+"lang": "Python",
+"topics": [
+"large-language-models",
+"reasoning",
+"test-time-compute"
+],
+"license": "MIT"
+}
+},
+"repo-Heyosseus__sloppy": {
+"id": "repo-Heyosseus__sloppy",
+"source": "github",
+"kind": "repo",
+"title": "Heyosseus/sloppy",
+"url": "https://github.com/Heyosseus/sloppy",
+"date": "2026-09-10",
+"summary": "Static analysis for the debt AI agents leave in PHP: 26 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, loca…",
+"score": 145,
+"extra": {
+"lang": "PHP",
+"topics": [
+"ai",
+"code-quality",
+"filament",
+"laravel",
+"linter",
+"mcp",
+"pest",
+"php",
+"pint",
+"rectorphp"
+],
+"license": "MIT"
+}
+},
+"repo-Inkloom-art__inkloom": {
+"id": "repo-Inkloom-art__inkloom",
+"source": "github",
+"kind": "repo",
+"title": "Inkloom-art/inkloom",
+"url": "https://github.com/Inkloom-art/inkloom",
+"date": "2026-09-20",
+"summary": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and c…",
+"score": 670,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"brand-identity",
+"cloudflare-workers",
+"design-systems",
+"generative-ai",
+"logo-design",
+"typography"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-KKKKhazix__AIHOT": {
+"id": "repo-KKKKhazix__AIHOT",
+"source": "github",
+"kind": "repo",
+"title": "KKKKhazix/AIHOT",
+"url": "https://github.com/KKKKhazix/AIHOT",
+"date": "2026-09-28",
+"summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+"score": 5365,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai",
+"content-curation",
+"llm",
+"mcp",
+"news-aggregator",
+"rss",
+"self-hosted",
+"typescript"
+],
+"license": "MIT"
+}
+},
+"repo-LockedinLabs-AI__agent-console": {
+"id": "repo-LockedinLabs-AI__agent-console",
+"source": "github",
+"kind": "repo",
+"title": "LockedinLabs-AI/agent-console",
+"url": "https://github.com/LockedinLabs-AI/agent-console",
+"date": "2026-09-20",
+"summary": "Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub. Pre…",
+"score": 795,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-agents",
+"anthropic",
+"claude-code",
+"codex",
+"developer-tools",
+"finops",
+"llm-observability",
+"local-first",
+"observability",
+"openai"
+],
+"license": "MIT"
+}
+},
+"repo-Louis-CFM__coucou": {
+"id": "repo-Louis-CFM__coucou",
+"source": "github",
+"kind": "repo",
+"title": "Louis-CFM/coucou",
+"url": "https://github.com/Louis-CFM/coucou",
+"date": "2026-09-27",
+"summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+"score": 3189,
+"extra": {
+"lang": "Swift",
+"topics": [
+"ai-agents",
+"anthropic",
+"antigravity",
+"claude",
+"claude-code",
+"codex",
+"cursor",
+"dynamic-island",
+"gemini-cli",
+"linux"
+],
+"license": "MIT"
+}
+},
+"repo-MiaoWuNYA__rikkahub-sillytavern-android": {
+"id": "repo-MiaoWuNYA__rikkahub-sillytavern-android",
+"source": "github",
+"kind": "repo",
+"title": "MiaoWuNYA/rikkahub-sillytavern-android",
+"url": "https://github.com/MiaoWuNYA/rikkahub-sillytavern-android",
+"date": "2026-09-20",
+"summary": "安卓AI聊天端:开箱即聊，无损导入酒馆卡，缓存强省用量，Jev 决策，专属酒馆模式，防空回，多维记忆，前端卡支持，高定制主题，QQbot，AI群聊，插件系统，强兼容中转站。手机移动端原生支持，求 Star 收藏⭐Android AI Chatbox: lossless SillyTavern card import, aggressive cache optimization, Jev deci…",
+"score": 69,
+"extra": {
+"lang": "Kotlin",
+"topics": [
+"ai-chat",
+"ai-client",
+"android",
+"character-card",
+"claude",
+"gemini",
+"jetpack-compose",
+"kotlin",
+"llm",
+"lorebook"
+],
+"license": "AGPL-3.0"
+}
+},
+"repo-MikeK184__Recollect": {
+"id": "repo-MikeK184__Recollect",
+"source": "github",
+"kind": "repo",
+"title": "MikeK184/Recollect",
+"url": "https://github.com/MikeK184/Recollect",
+"date": "2026-09-16",
+"summary": "Self-hosted AI memory and MCP coordination for coding agents. Persistent context across repositories and sessions, with knowledge graphs, hybrid search, and a desktop web UI. Built in Rust for Codex…",
+"score": 41,
+"extra": {
+"lang": "Rust",
+"topics": [
+"agent-memory",
+"ai-agents",
+"ai-memory",
+"claude-code",
+"codex",
+"coding-agents",
+"context-engineering",
+"graph-rag",
+"hybrid-search",
+"knowledge-graph"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-MiniMax-AI__OpenAgentCore": {
+"id": "repo-MiniMax-AI__OpenAgentCore",
+"source": "github",
+"kind": "repo",
+"title": "MiniMax-AI/OpenAgentCore",
+"url": "https://github.com/MiniMax-AI/OpenAgentCore",
+"date": "2026-09-21",
+"summary": "Open-source, self-hosted implementation of the OpenAI Agents API with multiple native harnesses.",
+"score": 158,
+"extra": {
+"lang": "Go",
+"topics": [
+"agent-runtime",
+"ai-agents",
+"claude-code",
+"codex",
+"coding-agent",
+"llm",
+"mcp",
+"openai",
+"openai-agents-api",
+"sandbox"
+],
+"license": "MIT"
+}
+},
+"repo-NiazMorshed2007__jev-review": {
+"id": "repo-NiazMorshed2007__jev-review",
+"source": "github",
+"kind": "repo",
+"title": "NiazMorshed2007/jev-review",
+"url": "https://github.com/NiazMorshed2007/jev-review",
+"date": "2026-09-17",
+"summary": "Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+"score": 232,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-plugin",
+"ai-agents",
+"claude-code",
+"code-review",
+"codex",
+"coding-agents",
+"cursor",
+"developer-tools",
+"jev",
+"local-first"
+],
+"license": "MIT"
+}
+},
+"repo-NiuTrans__AML-Notes": {
+"id": "repo-NiuTrans__AML-Notes",
+"source": "github",
+"kind": "repo",
+"title": "NiuTrans/AML-Notes",
+"url": "https://github.com/NiuTrans/AML-Notes",
+"date": "2026-09-17",
+"summary": "《高级机器学习》：面向生成式人工智能时代的机器学习教材，涵盖强化学习、大模型训练与对齐、生成建模和多模态学习等内容。",
+"score": 44,
+"extra": {
+"lang": "TeX",
+"topics": [
+"flowmatching",
+"large-language-models",
+"machine-learning",
+"multimodal-learning",
+"reforcement-learning"
+],
+"license": ""
+}
+},
+"repo-NiuTrans__RL-without-Tears": {
+"id": "repo-NiuTrans__RL-without-Tears",
+"source": "github",
+"kind": "repo",
+"title": "NiuTrans/RL-without-Tears",
+"url": "https://github.com/NiuTrans/RL-without-Tears",
+"date": "2026-09-11",
+"summary": "An Introduction to reinforcement learning in the era of large language models",
+"score": 41,
+"extra": {
+"lang": "HTML",
+"topics": [
+"deep-learning",
+"large-language-models",
+"machine-learning",
+"neural-language-processing",
+"reinforcement-learning"
+],
+"license": ""
+}
+},
+"repo-Oldcircle__geo-sleuth": {
+"id": "repo-Oldcircle__geo-sleuth",
+"source": "github",
+"kind": "repo",
+"title": "Oldcircle/geo-sleuth",
+"url": "https://github.com/Oldcircle/geo-sleuth",
+"date": "2026-09-18",
+"summary": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini C…",
+"score": 616,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skills",
+"ai-agents",
+"claude-code",
+"codex",
+"computer-vision",
+"cursor",
+"gemini-cli",
+"geoguessr",
+"geoint",
+"geolocation"
+],
+"license": "MIT"
+}
+},
+"repo-OmniJev__awesome-jev-gallery": {
+"id": "repo-OmniJev__awesome-jev-gallery",
+"source": "github",
+"kind": "repo",
+"title": "OmniJev/awesome-jev-gallery",
+"url": "https://github.com/OmniJev/awesome-jev-gallery",
+"date": "2026-09-17",
+"summary": "🔥🔥 Awesome Jev: open-source models, projects, benchmarks, and independent evaluations for Jev and System One models.",
+"score": 489,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"awesome",
+"awesome-jev",
+"awesome-list",
+"calibrated-probabilities",
+"calibration",
+"decision-models",
+"jev",
+"jev-ai",
+"llm",
+"llm-evaluation"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-Perruer__keelflow": {
+"id": "repo-Perruer__keelflow",
+"source": "github",
+"kind": "repo",
+"title": "Perruer/keelflow",
+"url": "https://github.com/Perruer/keelflow",
+"date": "2026-09-24",
+"summary": "Build AI agents and LLM workflows visually. Security-maintained continuation of Flowise: security fixes, Apache-2.0 only, drop-in for your existing flows and data.",
+"score": 37,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agentic-workflow",
+"ai-agents",
+"chatbot",
+"docker",
+"flowise",
+"langchain",
+"llm",
+"low-code",
+"ollama",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Rylaispirit__cinematic-video-prompt-skill": {
+"id": "repo-Rylaispirit__cinematic-video-prompt-skill",
+"source": "github",
+"kind": "repo",
+"title": "Rylaispirit/cinematic-video-prompt-skill",
+"url": "https://github.com/Rylaispirit/cinematic-video-prompt-skill",
+"date": "2026-09-20",
+"summary": "AI video prompt cheat sheet & Claude Skill: cinematic camera angles, camera movement, lighting, composition, color grading for Veo 3, Kling, Sora, Runway, Midjourney. 700+ terms with Vietnamese expla…",
+"score": 138,
+"extra": {
+"lang": "",
+"topics": [
+"ai-video",
+"camera-movement",
+"cinematography",
+"claude-skill",
+"generative-ai",
+"kling",
+"lighting",
+"midjourney",
+"prompt-engineering",
+"prompts"
+],
+"license": "MIT"
+}
+},
+"repo-SYuan03__benchboard": {
+"id": "repo-SYuan03__benchboard",
+"source": "github",
+"kind": "repo",
+"title": "SYuan03/benchboard",
+"url": "https://github.com/SYuan03/benchboard",
+"date": "2026-09-18",
+"summary": "Source-linked collection of published AI model benchmark scores.",
+"score": 55,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agents",
+"ai-benchmarks",
+"leaderboard",
+"llm",
+"multimodal"
+],
+"license": "MIT"
+}
+},
+"repo-Shellishack__infinite-pokemon": {
+"id": "repo-Shellishack__infinite-pokemon",
+"source": "github",
+"kind": "repo",
+"title": "Shellishack/infinite-pokemon",
+"url": "https://github.com/Shellishack/infinite-pokemon",
+"date": "2026-09-14",
+"summary": "A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.",
+"score": 223,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-skills",
+"browser-game",
+"creature-collector",
+"electron",
+"generative-ai",
+"generative-gameplay",
+"indie-game",
+"multiplayer-game",
+"nextjs",
+"phaser"
+],
+"license": "MIT"
+}
+},
+"repo-SwotAtmk__infinite-creation": {
+"id": "repo-SwotAtmk__infinite-creation",
+"source": "github",
+"kind": "repo",
+"title": "SwotAtmk/infinite-creation",
+"url": "https://github.com/SwotAtmk/infinite-creation",
+"date": "2026-09-09",
+"summary": "infinite-creation 是一个通过提交小说/剧本，本地ComfyUI-MiniMaxH3+Agent+Skill技能全自动无限生产视频，不限时长。",
+"score": 36,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent",
+"agent-skills",
+"agents",
+"deepseek",
+"minimax-h3"
+],
+"license": "MIT"
+}
+},
+"repo-TencentCloud__octop-harness": {
+"id": "repo-TencentCloud__octop-harness",
+"source": "github",
+"kind": "repo",
+"title": "TencentCloud/octop-harness",
+"url": "https://github.com/TencentCloud/octop-harness",
+"date": "2026-09-24",
+"summary": "A production-grade agent runtime engineered from the Harness Engineering philosophy.",
+"score": 32,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"agent-framework",
+"agents"
+],
+"license": "MIT"
+}
+},
+"repo-Tongyi-MAI__Qwen-Planner-Agent": {
+"id": "repo-Tongyi-MAI__Qwen-Planner-Agent",
+"source": "github",
+"kind": "repo",
+"title": "Tongyi-MAI/Qwen-Planner-Agent",
+"url": "https://github.com/Tongyi-MAI/Qwen-Planner-Agent",
+"date": "2026-09-18",
+"summary": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+"score": 103,
+"extra": {
+"lang": "HTML",
+"topics": [
+"agents",
+"llm"
+],
+"license": ""
+}
+},
+"repo-VectifyAI__jev-doc-search": {
+"id": "repo-VectifyAI__jev-doc-search",
+"source": "github",
+"kind": "repo",
+"title": "VectifyAI/jev-doc-search",
+"url": "https://github.com/VectifyAI/jev-doc-search",
+"date": "2026-09-30",
+"summary": "Long-document search with Jev and PageIndex",
+"score": 83,
+"extra": {
+"lang": "Python",
+"topics": [
+"rag",
+"search"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-XiaoPuOuO__openchatx-mcp": {
+"id": "repo-XiaoPuOuO__openchatx-mcp",
+"source": "github",
+"kind": "repo",
+"title": "XiaoPuOuO/openchatx-mcp",
+"url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+"date": "2026-09-23",
+"summary": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+"score": 250,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-runtime",
+"ai-agents",
+"chatgpt",
+"local-agent",
+"macos",
+"mcp",
+"model-context-protocol",
+"windows"
+],
+"license": "MIT"
+}
+},
+"repo-Yinsongxu__LLM2Jev": {
+"id": "repo-Yinsongxu__LLM2Jev",
+"source": "github",
+"kind": "repo",
+"title": "Yinsongxu/LLM2Jev",
+"url": "https://github.com/Yinsongxu/LLM2Jev",
+"date": "2026-09-19",
+"summary": "Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone—no token-by-token decoding required.",
+"score": 388,
+"extra": {
+"lang": "Python",
+"topics": [
+"jev",
+"llm",
+"mllm"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Yuzu482__YHWH": {
+"id": "repo-Yuzu482__YHWH",
+"source": "github",
+"kind": "repo",
+"title": "Yuzu482/YHWH",
+"url": "https://github.com/Yuzu482/YHWH",
+"date": "2026-09-18",
+"summary": "Kether-governed AI agent orchestration with Pi/MCP, isolated workers, LSP tools, and a portable Windows/WSL2 installer",
+"score": 51,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-orchestration",
+"agents",
+"ai-agents",
+"codex",
+"coding-agents",
+"developer-tools",
+"lsp",
+"model-context-protocol",
+"multi-agent",
+"subagents"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Yzmblog__DMAD": {
+"id": "repo-Yzmblog__DMAD",
+"source": "github",
+"kind": "repo",
+"title": "Yzmblog/DMAD",
+"url": "https://github.com/Yzmblog/DMAD",
+"date": "2026-09-29",
+"summary": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+"score": 56,
+"extra": {
+"lang": "Python",
+"topics": [
+"diffusion",
+"diffusion-model",
+"diffusion-models",
+"distillation",
+"generative-adversarial-network",
+"generative-ai",
+"generative-model",
+"video",
+"video-generation"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-agent-labs-dev__fastbrowse": {
+"id": "repo-agent-labs-dev__fastbrowse",
+"source": "github",
+"kind": "repo",
+"title": "agent-labs-dev/fastbrowse",
+"url": "https://github.com/agent-labs-dev/fastbrowse",
+"date": "2026-09-17",
+"summary": "A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page.",
+"score": 113,
+"extra": {
+"lang": "Python",
+"topics": [
+"agents",
+"browser-agent",
+"llm",
+"python",
+"web-automation"
+],
+"license": "MIT"
+}
+},
+"repo-agents-universe__agents-universe": {
+"id": "repo-agents-universe__agents-universe",
+"source": "github",
+"kind": "repo",
+"title": "agents-universe/agents-universe",
+"url": "https://github.com/agents-universe/agents-universe",
+"date": "2026-09-10",
+"summary": "不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中",
+"score": 429,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"agent-framework",
+"agent-orchestration",
+"agent-skill",
+"agentic-ai",
+"ai-agents",
+"ai-governance",
+"ai-tools",
+"deepseek-harness",
+"harness"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-agentsea__nautilo": {
+"id": "repo-agentsea__nautilo",
+"source": "github",
+"kind": "repo",
+"title": "agentsea/nautilo",
+"url": "https://github.com/agentsea/nautilo",
+"date": "2026-09-16",
+"summary": "AI goes multiplayer. A self-hosted workspace for people and machine people. Create, code, and work together across desktop, mobile, and web. Open source. MIT licensed.",
+"score": 170,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agents",
+"collaboration",
+"electron",
+"generative-ai",
+"model-context-protocol",
+"multi-agent",
+"react-native",
+"self-hosted"
+],
+"license": "MIT"
+}
+},
+"repo-aimeoa__hanshuang-codex": {
+"id": "repo-aimeoa__hanshuang-codex",
+"source": "github",
+"kind": "repo",
+"title": "aimeoa/hanshuang-codex",
+"url": "https://github.com/aimeoa/hanshuang-codex",
+"date": "2026-09-06",
+"summary": "针对GPT 6.0,workbuddyV4.1flash的破甲实验项目",
+"score": 923,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai",
+"codex",
+"codex-cli",
+"desktop-app",
+"jailbreak",
+"llm",
+"openai-codex",
+"prompt-injection",
+"pyside6",
+"python"
+],
+"license": "MIT"
+}
+},
+"repo-amitshekhariitbhu__ai-engineering-course": {
+"id": "repo-amitshekhariitbhu__ai-engineering-course",
+"source": "github",
+"kind": "repo",
+"title": "amitshekhariitbhu/ai-engineering-course",
+"url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+"date": "2026-09-23",
+"summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents,…",
+"score": 489,
+"extra": {
+"lang": "Markdown",
+"topics": [
+"ai-course",
+"ai-engineering",
+"ai-engineering-course",
+"ai-engineering-curriculum",
+"large-language-models"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-amitshekhariitbhu__ai-system-design": {
+"id": "repo-amitshekhariitbhu__ai-system-design",
+"source": "github",
+"kind": "repo",
+"title": "amitshekhariitbhu/ai-system-design",
+"url": "https://github.com/amitshekhariitbhu/ai-system-design",
+"date": "2026-09-25",
+"summary": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+"score": 626,
+"extra": {
+"lang": "Markdown",
+"topics": [
+"ai",
+"ai-agents",
+"ai-engineering",
+"ai-system",
+"ai-system-design",
+"ai-systems",
+"ai-systems-design",
+"llm",
+"system-design",
+"system-design-interview"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-angel291592__Intent-Router": {
+"id": "repo-angel291592__Intent-Router",
+"source": "github",
+"kind": "repo",
+"title": "angel291592/Intent-Router",
+"url": "https://github.com/angel291592/Intent-Router",
+"date": "2026-09-22",
+"summary": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+"score": 700,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skills",
+"agentic",
+"ai-agents",
+"clarification",
+"claude-code",
+"codex",
+"context-engineering",
+"decision-model",
+"intent",
+"llm-routing"
+],
+"license": "MIT"
+}
+},
+"repo-arjunkshah12345-hash__openpages": {
+"id": "repo-arjunkshah12345-hash__openpages",
+"source": "github",
+"kind": "repo",
+"title": "arjunkshah12345-hash/openpages",
+"url": "https://github.com/arjunkshah12345-hash/openpages",
+"date": "2026-09-30",
+"summary": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
+"score": 49,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agents",
+"ai",
+"mcp",
+"nextjs",
+"open-source",
+"supercompress",
+"typescript",
+"workspace"
+],
+"license": "MIT"
+}
+},
+"repo-arnsri33__embedflow": {
+"id": "repo-arnsri33__embedflow",
+"source": "github",
+"kind": "repo",
+"title": "arnsri33/embedflow",
+"url": "https://github.com/arnsri33/embedflow",
+"date": "2026-09-07",
+"summary": "Zero downtime embedding upgrades",
+"score": 54,
+"extra": {
+"lang": "Python",
+"topics": [
+"embedding",
+"embedding-models",
+"embedding-vectors",
+"embeddings-similarity",
+"faiss",
+"information-retrieval",
+"machine-learning",
+"milvus",
+"pgvector",
+"pinecone"
+],
+"license": "AGPL-3.0"
+}
+},
+"repo-atria-asi__Atria-Dawn-Preview": {
+"id": "repo-atria-asi__Atria-Dawn-Preview",
+"source": "github",
+"kind": "repo",
+"title": "atria-asi/Atria-Dawn-Preview",
+"url": "https://github.com/atria-asi/Atria-Dawn-Preview",
+"date": "2026-09-12",
+"summary": "",
+"score": 570,
+"extra": {
+"lang": "",
+"topics": [
+"llm",
+"llm-agent"
+],
+"license": "MIT"
+}
+},
+"repo-awlevin__typesafe-computer-use": {
+"id": "repo-awlevin__typesafe-computer-use",
+"source": "github",
+"kind": "repo",
+"title": "awlevin/typesafe-computer-use",
+"url": "https://github.com/awlevin/typesafe-computer-use",
+"date": "2026-09-16",
+"summary": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+"score": 1156,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agents",
+"automation",
+"computer-use",
+"macos",
+"ocr",
+"typesafe"
+],
+"license": "MIT"
+}
+},
+"repo-bgts-ai-org__bgts-context-engine": {
+"id": "repo-bgts-ai-org__bgts-context-engine",
+"source": "github",
+"kind": "repo",
+"title": "bgts-ai-org/bgts-context-engine",
+"url": "https://github.com/bgts-ai-org/bgts-context-engine",
+"date": "2026-09-08",
+"summary": "Deterministic code-graph context engine for AI coding agents - PostgreSQL + Apache AGE + pgvector, MCP & REST, no LLM in the loop.",
+"score": 61,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agents",
+"apache-age",
+"ast",
+"code-graph",
+"code-search",
+"codebase-indexing",
+"context-engineering",
+"deterministic",
+"deterministic-ai",
+"developer-tools"
+],
+"license": "MIT"
+}
+},
+"repo-bilibili__Index-Translate": {
+"id": "repo-bilibili__Index-Translate",
+"source": "github",
+"kind": "repo",
+"title": "bilibili/Index-Translate",
+"url": "https://github.com/bilibili/Index-Translate",
+"date": "2026-09-15",
+"summary": "A Multilingual Translation Model Family",
+"score": 461,
+"extra": {
+"lang": "Python",
+"topics": [
+"llm",
+"machine-translation"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-blendi-remade__dioramas": {
+"id": "repo-blendi-remade__dioramas",
+"source": "github",
+"kind": "repo",
+"title": "blendi-remade/dioramas",
+"url": "https://github.com/blendi-remade/dioramas",
+"date": "2026-09-30",
+"summary": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
+"score": 209,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"3d",
+"creative-coding",
+"fal",
+"generative-ai",
+"landing-page",
+"meshy",
+"threejs",
+"webgl"
+],
+"license": "MIT"
+}
+},
+"repo-blixvip__MotionClone": {
+"id": "repo-blixvip__MotionClone",
+"source": "github",
+"kind": "repo",
+"title": "blixvip/MotionClone",
+"url": "https://github.com/blixvip/MotionClone",
+"date": "2026-09-10",
+"summary": "AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatGPT, compare the match, and export an MP4. Local Windows app and online studio.",
+"score": 349,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agents",
+"ai-video",
+"animation",
+"chatgpt",
+"codex",
+"demo-videos",
+"hyperframes",
+"launch-videos",
+"local-first",
+"motion-graphics"
+],
+"license": ""
+}
+},
+"repo-bodepudimuneendra-netizen__laya-jev-GraphRAG": {
+"id": "repo-bodepudimuneendra-netizen__laya-jev-GraphRAG",
+"source": "github",
+"kind": "repo",
+"title": "bodepudimuneendra-netizen/laya-jev-GraphRAG",
+"url": "https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG",
+"date": "2026-09-23",
+"summary": "A database-agnostic Agentic GraphRAG framework using swappable System One models (local Laya / cloud Jev). A plug-and-play intelligence layer featuring a complete 4-phase pipeline, continuous evaluat…",
+"score": 49,
+"extra": {
+"lang": "Python",
+"topics": [
+"astar-algorithm",
+"eval-harness",
+"fine-tuning",
+"graphdatabase",
+"graprag",
+"jev",
+"laya",
+"neo4j",
+"rag",
+"typesafe-ai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-chenkanglin198904__Personal_External_Brain": {
+"id": "repo-chenkanglin198904__Personal_External_Brain",
+"source": "github",
+"kind": "repo",
+"title": "chenkanglin198904/Personal_External_Brain",
+"url": "https://github.com/chenkanglin198904/Personal_External_Brain",
+"date": "2026-09-23",
+"summary": "Not another ChatGPT wrapper. This is a local-first tool that turns your notes, web pages, PDFs and audio/video into a personal knowledge graph — running entirely on your own machine.",
+"score": 201,
+"extra": {
+"lang": "Python",
+"topics": [
+"graph-database",
+"knowledge-graph",
+"knowledge-graphs",
+"knowledge-management",
+"local-first",
+"note-taking",
+"personal-knowledge-management",
+"privacy-first",
+"python",
+"rag"
+],
+"license": "MIT"
+}
+},
+"repo-cobanov__awesome-jev": {
+"id": "repo-cobanov__awesome-jev",
+"source": "github",
+"kind": "repo",
+"title": "cobanov/awesome-jev",
+"url": "https://github.com/cobanov/awesome-jev",
+"date": "2026-09-18",
+"summary": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
+"score": 496,
+"extra": {
+"lang": "",
+"topics": [
+"ai-agents",
+"awesome",
+"awesome-list",
+"confidence-aware-ai",
+"decision-intelligence",
+"jev",
+"llm-guardrails",
+"model-routing",
+"open-source",
+"structured-output"
+],
+"license": "CC0-1.0"
+}
+},
+"repo-coleygroup__shepherd2": {
+"id": "repo-coleygroup__shepherd2",
+"source": "github",
+"kind": "repo",
+"title": "coleygroup/shepherd2",
+"url": "https://github.com/coleygroup/shepherd2",
+"date": "2026-09-10",
+"summary": "ShEPhERD-2 code: Interaction Profiles as a Universal Language for Generative Molecular Design",
+"score": 58,
+"extra": {
+"lang": "Python",
+"topics": [
+"drug-design",
+"drug-discovery",
+"generative-ai"
+],
+"license": "MIT"
+}
+},
+"repo-diggerhq__openmuse": {
+"id": "repo-diggerhq__openmuse",
+"source": "github",
+"kind": "repo",
+"title": "diggerhq/openmuse",
+"url": "https://github.com/diggerhq/openmuse",
+"date": "2026-09-10",
+"summary": "A personal assistant you deploy, built on OpenComputer Serverless Agents",
+"score": 45,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agents",
+"example",
+"experimental",
+"opencomputer",
+"preview"
+],
+"license": ""
+}
+},
+"repo-dom-actions__doma": {
+"id": "repo-dom-actions__doma",
+"source": "github",
+"kind": "repo",
+"title": "dom-actions/doma",
+"url": "https://github.com/dom-actions/doma",
+"date": "2026-09-09",
+"summary": "The open-source of DomA, an AI automation agent for the browser.",
+"score": 137,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agents",
+"ai-agents",
+"browser-agent",
+"browser-use",
+"doma",
+"extension-chrome",
+"extension-edge",
+"jev",
+"open-source",
+"webautomation"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-edenfunf__reelmimic": {
+"id": "repo-edenfunf__reelmimic",
+"source": "github",
+"kind": "repo",
+"title": "edenfunf/reelmimic",
+"url": "https://github.com/edenfunf/reelmimic",
+"date": "2026-09-28",
+"summary": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+"score": 1045,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"2d-animation",
+"ai-agents",
+"ai-video",
+"animation",
+"claude-code",
+"codex",
+"multi-agent",
+"style-transfer",
+"video-generation"
+],
+"license": "MIT"
+}
+},
+"repo-emma-sue__AegisOps": {
+"id": "repo-emma-sue__AegisOps",
+"source": "github",
+"kind": "repo",
+"title": "emma-sue/AegisOps",
+"url": "https://github.com/emma-sue/AegisOps",
+"date": "2026-09-10",
+"summary": "AegisOps企业信息系统智能运维平台：自动巡检、Agent 故障排查、证据工单与审批处置。LangGraph · Deep Agents · MCP；附可复现实测记录。",
+"score": 324,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agent",
+"aiops",
+"deepagents",
+"langgraph",
+"mcp",
+"observability",
+"pgvector",
+"spring-boot",
+"vue3"
+],
+"license": ""
+}
+},
+"repo-emo-xiaoyu__harness-mix": {
+"id": "repo-emo-xiaoyu__harness-mix",
+"source": "github",
+"kind": "repo",
+"title": "emo-xiaoyu/harness-mix",
+"url": "https://github.com/emo-xiaoyu/harness-mix",
+"date": "2026-09-07",
+"summary": "",
+"score": 278,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agents",
+"cluade-code",
+"codebuddy",
+"codex",
+"cursor",
+"deepseek-harness",
+"grok-build",
+"harness",
+"harness-ai",
+"hermes"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-ethanplusai__codex-on-crack": {
+"id": "repo-ethanplusai__codex-on-crack",
+"source": "github",
+"kind": "repo",
+"title": "ethanplusai/codex-on-crack",
+"url": "https://github.com/ethanplusai/codex-on-crack",
+"date": "2026-09-17",
+"summary": "Coordinate your models from Codex. Plan, delegate, use host tools, and review work across workspaces. Formerly Astra Flash Orchestrator.",
+"score": 730,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-orchestration",
+"ai-agents",
+"codex",
+"codex-skills",
+"deepseek",
+"developer-tools"
+],
+"license": "MIT"
+}
+},
+"repo-farlume__termish": {
+"id": "repo-farlume__termish",
+"source": "github",
+"kind": "repo",
+"title": "farlume/termish",
+"url": "https://github.com/farlume/termish",
+"date": "2026-09-06",
+"summary": "Open-source mobile SSH/Mosh terminal and native AI workspace for Android and iOS.",
+"score": 264,
+"extra": {
+"lang": "Kotlin",
+"topics": [
+"ai-agents",
+"android",
+"claude-code",
+"codex",
+"compose-multiplatform",
+"ios",
+"kotlin-multiplatform",
+"mosh",
+"remote-development",
+"sftp"
+],
+"license": "MIT"
+}
+},
+"repo-feder-cr__dots": {
+"id": "repo-feder-cr__dots",
+"source": "github",
+"kind": "repo",
+"title": "feder-cr/dots",
+"url": "https://github.com/feder-cr/dots",
+"date": "2026-09-29",
+"summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+"score": 2572,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agent",
+"ai-agents",
+"ai-browser",
+"anti-detect-browser",
+"browser-agent",
+"browser-automation",
+"chatgpt",
+"dotfiles",
+"dots",
+"firefox"
+],
+"license": "MIT"
+}
+},
+"repo-fengxiaohu__save-my-astra": {
+"id": "repo-fengxiaohu__save-my-astra",
+"source": "github",
+"kind": "repo",
+"title": "fengxiaohu/save-my-astra",
+"url": "https://github.com/fengxiaohu/save-my-astra",
+"date": "2026-09-07",
+"summary": "Save your GPT-6 Astra tokens. Let Luna do the dirty work.",
+"score": 34,
+"extra": {
+"lang": "Python",
+"topics": [
+"agents",
+"codex",
+"gpt-6-astra",
+"openai"
+],
+"license": "MIT"
+}
+},
+"repo-fidetolabs__qanat": {
+"id": "repo-fidetolabs__qanat",
+"source": "github",
+"kind": "repo",
+"title": "fidetolabs/qanat",
+"url": "https://github.com/fidetolabs/qanat",
+"date": "2026-09-05",
+"summary": "An MCP server for quant factor processing and backtesting. Connect it to your agent and ask.",
+"score": 284,
+"extra": {
+"lang": "Python",
+"topics": [
+"alpha-research",
+"backtesting",
+"duckdb",
+"mcp",
+"mcp-server",
+"model-context-protocol",
+"quant",
+"quantitative-finance",
+"trading-toolkit"
+],
+"license": "MIT"
+}
+},
+"repo-gcjordi__aigraphstudio": {
+"id": "repo-gcjordi__aigraphstudio",
+"source": "github",
+"kind": "repo",
+"title": "gcjordi/aigraphstudio",
+"url": "https://github.com/gcjordi/aigraphstudio",
+"date": "2026-09-07",
+"summary": "Dissenyador visual de workflows i graphs d’IA agentiva · Diseñador visual de workflows y graphs de IA agéntica · Visual designer for agentic AI workflows and graphs",
+"score": 37,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agentic-ai",
+"ai-agents",
+"ai-architecture",
+"ai-engineering",
+"ai-workflows",
+"context-engineering",
+"graph-editor",
+"human-in-the-loop",
+"llm",
+"multi-agent-systems"
+],
+"license": "MIT"
+}
+},
+"repo-georgeding__Relate": {
+"id": "repo-georgeding__Relate",
+"source": "github",
+"kind": "repo",
+"title": "georgeding/Relate",
+"url": "https://github.com/georgeding/Relate",
+"date": "2026-09-23",
+"summary": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+"score": 119,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-assistant",
+"llm",
+"mcp",
+"memory",
+"ollama",
+"openai-compatible",
+"personal-knowledge",
+"privacy",
+"self-hosted",
+"telegram"
+],
+"license": "AGPL-3.0"
+}
+},
+"repo-heaven999b__hello-agent-system": {
+"id": "repo-heaven999b__hello-agent-system",
+"source": "github",
+"kind": "repo",
+"title": "heaven999b/hello-agent-system",
+"url": "https://github.com/heaven999b/hello-agent-system",
+"date": "2026-09-27",
+"summary": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons (EN/中文) with tested exercises: tools, architectures, reliability,…",
+"score": 50,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"ai-agents",
+"bilingual",
+"chinese",
+"course",
+"distributed-systems",
+"enterprise",
+"evals",
+"function-calling",
+"llm"
+],
+"license": "MIT"
+}
+},
+"repo-hirotomasato__yowes": {
+"id": "repo-hirotomasato__yowes",
+"source": "github",
+"kind": "repo",
+"title": "hirotomasato/yowes",
+"url": "https://github.com/hirotomasato/yowes",
+"date": "2026-09-19",
+"summary": "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.",
+"score": 208,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"document-generator",
+"mcp",
+"model-context-protocol",
+"pillow",
+"python"
+],
+"license": "MIT"
+}
+},
+"repo-inikolax__remiqora": {
+"id": "repo-inikolax__remiqora",
+"source": "github",
+"kind": "repo",
+"title": "inikolax/remiqora",
+"url": "https://github.com/inikolax/remiqora",
+"date": "2026-09-17",
+"summary": "Local AI music studio unifying ACE-Step 1.5 and YuE2-3B in one Vue interface — text-to-music generation, stem separation, MIDI transcription, and LoRA fine-tuning, with a built-in multitrack DAW.",
+"score": 142,
+"extra": {
+"lang": "Vue",
+"topics": [
+"ace-step",
+"ai-music",
+"apple-silicon",
+"daw",
+"demucs",
+"fastapi",
+"generative-ai",
+"local-ai",
+"lora",
+"macos"
+],
+"license": "MIT"
+}
+},
+"repo-ismailperim__briefd": {
+"id": "repo-ismailperim__briefd",
+"source": "github",
+"kind": "repo",
+"title": "ismailperim/briefd",
+"url": "https://github.com/ismailperim/briefd",
+"date": "2026-09-20",
+"summary": "Your agents, briefed. Not flooded. Self-hosted context compiler: git-backed team knowledge served to coding agents as token-budgeted bundles over MCP.",
+"score": 31,
+"extra": {
+"lang": "Go",
+"topics": [
+"claude-code",
+"developer-tools",
+"golang",
+"knowledge-base",
+"mcp",
+"rag",
+"self-hosted",
+"sqlite"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-itsmostafa__system-one-connector": {
+"id": "repo-itsmostafa__system-one-connector",
+"source": "github",
+"kind": "repo",
+"title": "itsmostafa/system-one-connector",
+"url": "https://github.com/itsmostafa/system-one-connector",
+"date": "2026-09-17",
+"summary": "System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Jev, D1, CLM and Laya",
+"score": 340,
+"extra": {
+"lang": "Go",
+"topics": [
+"mcp",
+"mcp-tools"
+],
+"license": "MIT"
+}
+},
+"repo-jackispm__nausicaa-harness": {
+"id": "repo-jackispm__nausicaa-harness",
+"source": "github",
+"kind": "repo",
+"title": "jackispm/nausicaa-harness",
+"url": "https://github.com/jackispm/nausicaa-harness",
+"date": "2026-09-05",
+"summary": "Nausicaa treats an Agent run as a dynamic topology of Lanes rather than one fixed linear loop. The model can decide when to observe, fan out, delegate, or collaborate across Runs; the Host keeps iden…",
+"score": 33,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent",
+"agent-framework",
+"agent-harness",
+"agentic",
+"agents",
+"harness",
+"harness-ai",
+"harness-engineering",
+"harness-framework"
+],
+"license": "MIT"
+}
+},
+"repo-janishar__qwen-image-2.1-studio": {
+"id": "repo-janishar__qwen-image-2.1-studio",
+"source": "github",
+"kind": "repo",
+"title": "janishar/qwen-image-2.1-studio",
+"url": "https://github.com/janishar/qwen-image-2.1-studio",
+"date": "2026-09-23",
+"summary": "Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with a CLI and a helmstudio web UI.",
+"score": 55,
+"extra": {
+"lang": "Python",
+"topics": [
+"apple-silicon",
+"diffusion",
+"generative-ai",
+"helmstudio",
+"image-editing",
+"local-ai",
+"macos",
+"mps",
+"prompt-enhancement",
+"pytorch"
+],
+"license": "MIT"
+}
+},
+"repo-jev-chat__jev-chat-jarvis": {
+"id": "repo-jev-chat__jev-chat-jarvis",
+"source": "github",
+"kind": "repo",
+"title": "jev-chat/jev-chat-jarvis",
+"url": "https://github.com/jev-chat/jev-chat-jarvis",
+"date": "2026-09-21",
+"summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+"score": 7293,
+"extra": {
+"lang": "Kotlin",
+"topics": [
+"accessibility-service",
+"ai-assistant",
+"android",
+"chat-assistant",
+"chat-copilot",
+"llm",
+"ocr",
+"qq"
+],
+"license": "MIT"
+}
+},
+"repo-jev-chat__jev-chat-jarvis-mac": {
+"id": "repo-jev-chat__jev-chat-jarvis-mac",
+"source": "github",
+"kind": "repo",
+"title": "jev-chat/jev-chat-jarvis-mac",
+"url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+"date": "2026-09-21",
+"summary": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+"score": 453,
+"extra": {
+"lang": "Python",
+"topics": [
+"llm",
+"local-first",
+"macos",
+"ocr",
+"privacy",
+"pyobjc",
+"python"
+],
+"license": "MIT"
+}
+},
+"repo-jev-chat__jev-chat-windows": {
+"id": "repo-jev-chat__jev-chat-windows",
+"source": "github",
+"kind": "repo",
+"title": "jev-chat/jev-chat-windows",
+"url": "https://github.com/jev-chat/jev-chat-windows",
+"date": "2026-09-21",
+"summary": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+"score": 729,
+"extra": {
+"lang": "Python",
+"topics": [
+"chat-assistant",
+"jev",
+"llm",
+"local-first",
+"ocr",
+"privacy",
+"pyqt",
+"python",
+"wechat",
+"windows"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-jianruntech__geo-score": {
+"id": "repo-jianruntech__geo-score",
+"source": "github",
+"kind": "repo",
+"title": "jianruntech/geo-score",
+"url": "https://github.com/jianruntech/geo-score",
+"date": "2026-09-08",
+"summary": "Can AI engines cite your site, and do they? Free 0–100 readiness score on an open GEO rubric, plus citation tracking via the OpenAI, Perplexity, Gemini and Claude APIs with your own keys. Zero depend…",
+"score": 619,
+"extra": {
+"lang": "Python",
+"topics": [
+"aeo",
+"ai-search",
+"ai-visibility",
+"answer-engine-optimization",
+"chatgpt",
+"claude-code",
+"claude-skill",
+"cli",
+"generative-engine-optimization",
+"geo"
+],
+"license": "MIT"
+}
+},
+"repo-js713-lab__sonic-match-mcp": {
+"id": "repo-js713-lab__sonic-match-mcp",
+"source": "github",
+"kind": "repo",
+"title": "js713-lab/sonic-match-mcp",
+"url": "https://github.com/js713-lab/sonic-match-mcp",
+"date": "2026-09-10",
+"summary": "MCP server that watches video footage and returns license-safe BGM matches, hook windows, and ffmpeg ducking specs for agents.",
+"score": 153,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agents",
+"bgm",
+"ffmpeg",
+"mcp",
+"model-context-protocol",
+"music-matching",
+"python",
+"video"
+],
+"license": "MIT"
+}
+},
+"repo-judegomila__OnCo": {
+"id": "repo-judegomila__OnCo",
+"source": "github",
+"kind": "repo",
+"title": "judegomila/OnCo",
+"url": "https://github.com/judegomila/OnCo",
+"date": "2026-09-05",
+"summary": "OnCo: total information dominance on cancer. A public, cited knowledge graph of oncology with a website, JSON API, MCP server and CLI: one page per cancer, treatment, target, trial, institution, pers…",
+"score": 194,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"cancer",
+"cli",
+"clinical-trials",
+"knowledge-graph",
+"mcp",
+"nextjs",
+"oncology",
+"open-data",
+"precision-medicine",
+"public-health"
+],
+"license": "MIT"
+}
+},
+"repo-justxor__claude-code-pro-course": {
+"id": "repo-justxor__claude-code-pro-course",
+"source": "github",
+"kind": "repo",
+"title": "justxor/claude-code-pro-course",
+"url": "https://github.com/justxor/claude-code-pro-course",
+"date": "2026-09-30",
+"summary": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы по…",
+"score": 200,
+"extra": {
+"lang": "Shell",
+"topics": [
+"ai-agents",
+"ai-coding",
+"anthropic",
+"best-practices",
+"claude",
+"claude-code",
+"claude-code-hooks",
+"claude-code-skills",
+"claude-code-subagents",
+"mcp"
+],
+"license": "MIT"
+}
+},
+"repo-kraayenjon__awesome-jev": {
+"id": "repo-kraayenjon__awesome-jev",
+"source": "github",
+"kind": "repo",
+"title": "kraayenjon/awesome-jev",
+"url": "https://github.com/kraayenjon/awesome-jev",
+"date": "2026-09-18",
+"summary": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
+"score": 169,
+"extra": {
+"lang": "",
+"topics": [
+"agents",
+"ai",
+"ai-agents",
+"api",
+"artificial-intelligence",
+"automation",
+"awesome",
+"awesome-list",
+"classification",
+"curated-list"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-kydlikebtc__awesome-jev": {
+"id": "repo-kydlikebtc__awesome-jev",
+"source": "github",
+"kind": "repo",
+"title": "kydlikebtc/awesome-jev",
+"url": "https://github.com/kydlikebtc/awesome-jev",
+"date": "2026-09-22",
+"summary": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance a…",
+"score": 592,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-tools",
+"ai-agents",
+"awesome",
+"awesome-list",
+"calibration",
+"catalog",
+"classification",
+"context-compaction",
+"decision-model",
+"intent-routing"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-langchain-ai__paid-media-agent": {
+"id": "repo-langchain-ai__paid-media-agent",
+"source": "github",
+"kind": "repo",
+"title": "langchain-ai/paid-media-agent",
+"url": "https://github.com/langchain-ai/paid-media-agent",
+"date": "2026-09-11",
+"summary": "Open-source paid media agent for Google Ads, Meta Ads, Reddit, LinkedIn, X, and OpenAI Ads: analysis, reports, and reviewed changes, built on Deep Agents.",
+"score": 94,
+"extra": {
+"lang": "Python",
+"topics": [
+"ads",
+"advertising",
+"agent",
+"agents",
+"ai-agent",
+"deepagents",
+"google-ads",
+"gtm",
+"langgraph",
+"linkedin-ads"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-lemomo-ai__lemo-opuscar": {
+"id": "repo-lemomo-ai__lemo-opuscar",
+"source": "github",
+"kind": "repo",
+"title": "lemomo-ai/lemo-opuscar",
+"url": "https://github.com/lemomo-ai/lemo-opuscar",
+"date": "2026-09-26",
+"summary": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. | Opus5.5 x 43 种影片风…",
+"score": 884,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-skills",
+"ai-agents",
+"ai-short-film",
+"ai-video",
+"animation",
+"canvas",
+"claude",
+"claude-code",
+"claude-code-plugin",
+"claude-code-skill"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-libingzheren__Jev-Mem": {
+"id": "repo-libingzheren__Jev-Mem",
+"source": "github",
+"kind": "repo",
+"title": "libingzheren/Jev-Mem",
+"url": "https://github.com/libingzheren/Jev-Mem",
+"date": "2026-09-20",
+"summary": "Jev-Mem: System-One Controlled Agentic Memory",
+"score": 146,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"agent-memory",
+"agentic-ai",
+"agentic-memory",
+"agents",
+"jev",
+"jev-ai",
+"llm"
+],
+"license": "MIT"
+}
+},
+"repo-limelit-co__open": {
+"id": "repo-limelit-co__open",
+"source": "github",
+"kind": "repo",
+"title": "limelit-co/open",
+"url": "https://github.com/limelit-co/open",
+"date": "2026-09-11",
+"summary": "Self-hosted AI visibility tracking (AEO / GEO / LLMO). Track how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite your brand. One Go binary, SQLite, MCP-first, bring your…",
+"score": 161,
+"extra": {
+"lang": "Go",
+"topics": [
+"aeo",
+"ai-search-optimization",
+"ai-seo",
+"ai-visibility",
+"ai-visibility-tracker",
+"answer-engine-optimization",
+"brand-monitoring",
+"chatgpt",
+"generative-engine-optimization",
+"geo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-liupig__xiaokeai": {
+"id": "repo-liupig__xiaokeai",
+"source": "github",
+"kind": "repo",
+"title": "liupig/xiaokeai",
+"url": "https://github.com/liupig/xiaokeai",
+"date": "2026-09-05",
+"summary": "开源免费的本地 3D 陪玩 / 虚拟陪玩：桌面 3D 角色语音聊天、口型表情动作运镜，还能对面抽塔罗。virtual companion",
+"score": 105,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-companion",
+"chatbot",
+"desktop-pet",
+"electron",
+"fastapi",
+"local-first",
+"mmd",
+"speech",
+"tarot",
+"threejs"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-liyupi__ai-model-world": {
+"id": "repo-liyupi__ai-model-world",
+"source": "github",
+"kind": "repo",
+"title": "liyupi/ai-model-world",
+"url": "https://github.com/liyupi/ai-model-world",
+"date": "2026-09-17",
+"summary": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不…",
+"score": 212,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai",
+"ai-models",
+"benchmark",
+"chinese",
+"data-visualization",
+"deepseek",
+"large-language-models",
+"leaderboard",
+"llm",
+"llm-benchmarks"
+],
+"license": "MIT"
+}
+},
+"repo-logicrw__awesome-jev-projects": {
+"id": "repo-logicrw__awesome-jev-projects",
+"source": "github",
+"kind": "repo",
+"title": "logicrw/awesome-jev-projects",
+"url": "https://github.com/logicrw/awesome-jev-projects",
+"date": "2026-09-18",
+"summary": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
+"score": 649,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-agents",
+"awesome",
+"awesome-list",
+"decision-model",
+"developer-tools",
+"jev",
+"jev-model",
+"system-one",
+"typesafe-ai"
+],
+"license": "MIT"
+}
+},
+"repo-mikehasa__golive-skill": {
+"id": "repo-mikehasa__golive-skill",
+"source": "github",
+"kind": "repo",
+"title": "mikehasa/golive-skill",
+"url": "https://github.com/mikehasa/golive-skill",
+"date": "2026-09-23",
+"summary": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No…",
+"score": 1192,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-skill",
+"agent-skills",
+"ai-agents",
+"claude-code",
+"cloudflare",
+"codex",
+"database",
+"deployment",
+"developer-tools",
+"devops"
+],
+"license": "MIT"
+}
+},
+"repo-mmdju__digikala-mcp": {
+"id": "repo-mmdju__digikala-mcp",
+"source": "github",
+"kind": "repo",
+"title": "mmdju/digikala-mcp",
+"url": "https://github.com/mmdju/digikala-mcp",
+"date": "2026-09-15",
+"summary": "MCP server for Digikala: search, compare and price-check products on Iran's largest marketplace. Read-only, no API key. 16 tools, hosted on Cloudflare Workers.",
+"score": 131,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"cloudflare-workers",
+"digikala",
+"iran",
+"mcp",
+"model-context-protocol",
+"persian"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-modelscope__ms-cookbook": {
+"id": "repo-modelscope__ms-cookbook",
+"source": "github",
+"kind": "repo",
+"title": "modelscope/ms-cookbook",
+"url": "https://github.com/modelscope/ms-cookbook",
+"date": "2026-09-11",
+"summary": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
+"score": 411,
+"extra": {
+"lang": "HTML",
+"topics": [
+"ai-agents",
+"cookbook",
+"diffusion-models",
+"fine-tuning",
+"generative-ai",
+"llm",
+"mcp",
+"model-evaluation",
+"modelscope",
+"rag"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-modem-dev__ossrules": {
+"id": "repo-modem-dev__ossrules",
+"source": "github",
+"kind": "repo",
+"title": "modem-dev/ossrules",
+"url": "https://github.com/modem-dev/ossrules",
+"date": "2026-09-14",
+"summary": "Discover agent rules and skill files from leading open source projects",
+"score": 56,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skills",
+"agents",
+"claude-code",
+"claude-skills",
+"codex",
+"codex-skills",
+"rules"
+],
+"license": "MIT"
+}
+},
+"repo-nanaism__yomiyasu": {
+"id": "repo-nanaism__yomiyasu",
+"source": "github",
+"kind": "repo",
+"title": "nanaism/yomiyasu",
+"url": "https://github.com/nanaism/yomiyasu",
+"date": "2026-09-30",
+"summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+"score": 1295,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skills",
+"ai-writing",
+"antigravity",
+"claude-code",
+"codex",
+"cursor",
+"gemini",
+"japanese",
+"linter",
+"llm"
+],
+"license": "MIT"
+}
+},
+"repo-nidhi-singh02__agent-router": {
+"id": "repo-nidhi-singh02__agent-router",
+"source": "github",
+"kind": "repo",
+"title": "nidhi-singh02/agent-router",
+"url": "https://github.com/nidhi-singh02/agent-router",
+"date": "2026-09-17",
+"summary": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
+"score": 100,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agents",
+"ai",
+"claude-code",
+"cli",
+"codex",
+"coding",
+"developer-tools",
+"herdr",
+"herdr-plugin",
+"jev"
+],
+"license": "MIT"
+}
+},
+"repo-nirbhay41120003__EchoMind": {
+"id": "repo-nirbhay41120003__EchoMind",
+"source": "github",
+"kind": "repo",
+"title": "nirbhay41120003/EchoMind",
+"url": "https://github.com/nirbhay41120003/EchoMind",
+"date": "2026-09-16",
+"summary": "Local-first voice memory assistant — capture speech, transcribe live, and ask a private RAG chatbot grounded in what you've actually said. No cloud required.",
+"score": 84,
+"extra": {
+"lang": "Python",
+"topics": [
+"accessibility",
+"hearing-assistance",
+"llama-cpp",
+"llama-cpp-python",
+"local-llm",
+"on-device-ai",
+"open-source",
+"privacy",
+"rag",
+"rag-chatbot"
+],
+"license": "MIT"
+}
+},
+"repo-nokia-applied-research__AnyJev": {
+"id": "repo-nokia-applied-research__AnyJev",
+"source": "github",
+"kind": "repo",
+"title": "nokia-applied-research/AnyJev",
+"url": "https://github.com/nokia-applied-research/AnyJev",
+"date": "2026-09-21",
+"summary": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+"score": 1021,
+"extra": {
+"lang": "Python",
+"topics": [
+"calibration",
+"decision-model",
+"jev",
+"jev-model",
+"llm",
+"system-one",
+"transformers",
+"vllm"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-noskillish__bankmcp": {
+"id": "repo-noskillish__bankmcp",
+"source": "github",
+"kind": "repo",
+"title": "noskillish/bankmcp",
+"url": "https://github.com/noskillish/bankmcp",
+"date": "2026-09-07",
+"summary": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
+"score": 271,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"chatgpt",
+"claude",
+"enable-banking",
+"mcp",
+"mcp-server",
+"ollama",
+"open-banking",
+"personal-finance",
+"psd2",
+"self-hosted"
+],
+"license": "MIT"
+}
+},
+"repo-nyrahealth__nyra-forced-aligner": {
+"id": "repo-nyrahealth__nyra-forced-aligner",
+"source": "github",
+"kind": "repo",
+"title": "nyrahealth/nyra-forced-aligner",
+"url": "https://github.com/nyrahealth/nyra-forced-aligner",
+"date": "2026-09-21",
+"summary": "Word and phoneme level speech timing for spontanoues speech. Fast, accurate and robust.",
+"score": 39,
+"extra": {
+"lang": "Python",
+"topics": [
+"alignment",
+"audio",
+"crisperwhisper",
+"forced",
+"forced-aligner",
+"forced-alignment",
+"phoneme",
+"phoneme-recognitio",
+"speech",
+"speech-recognition"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-okf-memory__okf-agent-memory": {
+"id": "repo-okf-memory__okf-agent-memory",
+"source": "github",
+"kind": "repo",
+"title": "okf-memory/okf-agent-memory",
+"url": "https://github.com/okf-memory/okf-agent-memory",
+"date": "2026-09-05",
+"summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ze…",
+"score": 746,
+"extra": {
+"lang": "Go",
+"topics": [
+"agent-memory",
+"ai-agents",
+"bm25",
+"coding-agents",
+"developer-tools",
+"git-native",
+"go",
+"golang",
+"knowledge-base",
+"knowledge-graph"
+],
+"license": "MIT"
+}
+},
+"repo-openlayer-ai__jevals": {
+"id": "repo-openlayer-ai__jevals",
+"source": "github",
+"kind": "repo",
+"title": "openlayer-ai/jevals",
+"url": "https://github.com/openlayer-ai/jevals",
+"date": "2026-09-20",
+"summary": "Agent evals and guardrails as Jev decisions: one request per trace, a fraction of a cent, fast enough for the agent loop. Runs locally with Kev or Laya.",
+"score": 102,
+"extra": {
+"lang": "Python",
+"topics": [
+"agents",
+"evals",
+"guardrails",
+"jev",
+"llm",
+"llm-evaluation",
+"ragas",
+"typesafe"
+],
+"license": "MIT"
+}
+},
+"repo-ozynautetu-create__FlowForge-Optima": {
+"id": "repo-ozynautetu-create__FlowForge-Optima",
+"source": "github",
+"kind": "repo",
+"title": "ozynautetu-create/FlowForge-Optima",
+"url": "https://github.com/ozynautetu-create/FlowForge-Optima",
+"date": "2026-09-21",
+"summary": "AdalFlow Alternative 2026: Auto-Optimize LLM Apps Without Code",
+"score": 56,
+"extra": {
+"lang": "HTML",
+"topics": [
+"agent",
+"ai",
+"auto-prompting",
+"bm25",
+"chatbot",
+"faiss",
+"framework",
+"generative-ai",
+"information-retrieval",
+"llm"
+],
+"license": ""
+}
+},
+"repo-penso__herdr-gpui": {
+"id": "repo-penso__herdr-gpui",
+"source": "github",
+"kind": "repo",
+"title": "penso/herdr-gpui",
+"url": "https://github.com/penso/herdr-gpui",
+"date": "2026-09-20",
+"summary": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+"score": 489,
+"extra": {
+"lang": "Rust",
+"topics": [
+"ai-agents",
+"desktop-app",
+"developer-tools",
+"git-worktrees",
+"gpui",
+"herdr",
+"macos",
+"rust",
+"terminal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-punkpeye__awesome-remote-mcp-servers": {
+"id": "repo-punkpeye__awesome-remote-mcp-servers",
+"source": "github",
+"kind": "repo",
+"title": "punkpeye/awesome-remote-mcp-servers",
+"url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+"date": "2026-09-08",
+"summary": "A collection of remote MCP servers.",
+"score": 704,
+"extra": {
+"lang": "",
+"topics": [
+"mcp"
+],
+"license": "MIT"
+}
+},
+"repo-qiz029__dscode": {
+"id": "repo-qiz029__dscode",
+"source": "github",
+"kind": "repo",
+"title": "qiz029/dscode",
+"url": "https://github.com/qiz029/dscode",
+"date": "2026-09-11",
+"summary": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
+"score": 1015,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agentic",
+"ai-agent",
+"cli",
+"code-review",
+"coding-agent",
+"deepseek",
+"deepseek-harness",
+"developer-tools",
+"jev",
+"llm"
+],
+"license": "MIT"
+}
+},
+"repo-rehan-remade__universal-modder": {
+"id": "repo-rehan-remade__universal-modder",
+"source": "github",
+"kind": "repo",
+"title": "rehan-remade/universal-modder",
+"url": "https://github.com/rehan-remade/universal-modder",
+"date": "2026-09-30",
+"summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+"score": 2534,
+"extra": {
+"lang": "Python",
+"topics": [
+"age-of-empires",
+"claude-code",
+"claude-code-plugin",
+"fal",
+"game-assets",
+"game-modding",
+"mcp",
+"modding",
+"reverse-engineering",
+"tmodloader"
+],
+"license": "MIT"
+}
+},
+"repo-rhfeiyang__HC-DLM": {
+"id": "repo-rhfeiyang__HC-DLM",
+"source": "github",
+"kind": "repo",
+"title": "rhfeiyang/HC-DLM",
+"url": "https://github.com/rhfeiyang/HC-DLM",
+"date": "2026-09-29",
+"summary": "Official implementation of \"Hierarchical Continuous Diffusion Language Models\"",
+"score": 53,
+"extra": {
+"lang": "",
+"topics": [
+"diffusion",
+"diffusion-language-models",
+"diffusion-models"
+],
+"license": ""
+}
+},
+"repo-ruc-datalab__EvoOntology": {
+"id": "repo-ruc-datalab__EvoOntology",
+"source": "github",
+"kind": "repo",
+"title": "ruc-datalab/EvoOntology",
+"url": "https://github.com/ruc-datalab/EvoOntology",
+"date": "2026-09-15",
+"summary": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
+"score": 583,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"agentic-ai",
+"claude-code",
+"codex",
+"data-analysis",
+"data-science",
+"harness",
+"llm",
+"llm-agents",
+"ontology"
+],
+"license": "MIT"
+}
+},
+"repo-saihhold-zhao__polox_ai": {
+"id": "repo-saihhold-zhao__polox_ai",
+"source": "github",
+"kind": "repo",
+"title": "saihhold-zhao/polox_ai",
+"url": "https://github.com/saihhold-zhao/polox_ai",
+"date": "2026-09-09",
+"summary": "An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversations and an infinite canvas, unifying creation, generation, an…",
+"score": 85,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agents",
+"creative-tools",
+"deepseek",
+"deepseek-harness-plugins",
+"generative-ai",
+"image-editing",
+"image-generation",
+"image-to-image-translation",
+"image-to-video",
+"infinite-canvas"
+],
+"license": "MIT"
+}
+},
+"repo-samdotmak__jev-recall": {
+"id": "repo-samdotmak__jev-recall",
+"source": "github",
+"kind": "repo",
+"title": "samdotmak/jev-recall",
+"url": "https://github.com/samdotmak/jev-recall",
+"date": "2026-09-19",
+"summary": "Retrieve by relevance, not resemblance: filter an AI assistant's memories with TypeSafe's Jev",
+"score": 37,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agents",
+"embeddings",
+"llm",
+"memory",
+"nextjs",
+"rag",
+"retrieval",
+"typesafe"
+],
+"license": "MIT"
+}
+},
+"repo-shinthink__blitzstrike": {
+"id": "repo-shinthink__blitzstrike",
+"source": "github",
+"kind": "repo",
+"title": "shinthink/blitzstrike",
+"url": "https://github.com/shinthink/blitzstrike",
+"date": "2026-09-12",
+"summary": "Blitz Strike — a universal MCP security-audit toolbelt. Reconnaissance at speed. Analysis in depth. Validation before report.",
+"score": 496,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"active-directory",
+"blue-team",
+"bug-bounty",
+"cve",
+"defensive-security",
+"exploit",
+"llm",
+"mcp-server",
+"nuclei",
+"offensive-security"
+],
+"license": "MIT"
+}
+},
+"repo-sno-ai__sno-station": {
+"id": "repo-sno-ai__sno-station",
+"source": "github",
+"kind": "repo",
+"title": "sno-ai/sno-station",
+"url": "https://github.com/sno-ai/sno-station",
+"date": "2026-09-19",
+"summary": "Sno Station — your Claude Code and Codex working as one squad on your own machine. Shared encrypted memory, agent-to-agent messaging (Reach), squad skills for handoff and cross-vendor review, and a n…",
+"score": 388,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-communication",
+"agent-memory",
+"agentic-ai",
+"ai-agents",
+"claude-code",
+"codex",
+"coding-agents",
+"developer-tools",
+"local-first",
+"long-term-memory"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-software-mansion__runntime": {
+"id": "repo-software-mansion__runntime",
+"source": "github",
+"kind": "repo",
+"title": "software-mansion/runntime",
+"url": "https://github.com/software-mansion/runntime",
+"date": "2026-09-14",
+"summary": "High-performance neural networks engine for web, built on top of TypeGPU",
+"score": 60,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai",
+"computer-vision",
+"edge",
+"llm",
+"ml",
+"nlp",
+"on-device",
+"speech",
+"speech-to-text",
+"webml"
+],
+"license": "MIT"
+}
+},
+"repo-tudoumashu__ai-memory-skillpack": {
+"id": "repo-tudoumashu__ai-memory-skillpack",
+"source": "github",
+"kind": "repo",
+"title": "tudoumashu/ai-memory-skillpack",
+"url": "https://github.com/tudoumashu/ai-memory-skillpack",
+"date": "2026-09-08",
+"summary": "Bounded project-memory skills for Codex CLI and Claude Code.",
+"score": 355,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-memory",
+"claude-code",
+"codex",
+"llm",
+"skills"
+],
+"license": "MIT"
+}
+},
+"repo-undefined-ui__second-brain-os": {
+"id": "repo-undefined-ui__second-brain-os",
+"source": "github",
+"kind": "repo",
+"title": "undefined-ui/second-brain-os",
+"url": "https://github.com/undefined-ui/second-brain-os",
+"date": "2026-09-07",
+"summary": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
+"score": 886,
+"extra": {
+"lang": "HTML",
+"topics": [
+"agent-skills",
+"ai-agents",
+"claude",
+"claude-code",
+"claude-skills",
+"knowledge-graph",
+"knowledge-management",
+"llm",
+"mcp",
+"obsidian"
+],
+"license": "MIT"
+}
+},
+"repo-v-modal__awesome-jev-tools": {
+"id": "repo-v-modal__awesome-jev-tools",
+"source": "github",
+"kind": "repo",
+"title": "v-modal/awesome-jev-tools",
+"url": "https://github.com/v-modal/awesome-jev-tools",
+"date": "2026-09-19",
+"summary": "A curated list of tools built for Jev — TypeSafe AI's System One model for typed decisions.",
+"score": 741,
+"extra": {
+"lang": "",
+"topics": [
+"awesome",
+"awesome-list",
+"awesome-lists",
+"awesome-readme",
+"awesome-resources",
+"calibrated-probabilities",
+"jev",
+"jev-ai",
+"jev-alternative",
+"jev-api"
+],
+"license": ""
+}
+},
+"repo-vigorlee__eidra-agent": {
+"id": "repo-vigorlee__eidra-agent",
+"source": "github",
+"kind": "repo",
+"title": "vigorlee/eidra-agent",
+"url": "https://github.com/vigorlee/eidra-agent",
+"date": "2026-09-09",
+"summary": "Persona agents with explicit memory, retrieval, adversarial smoke tests and a practical post-training roadmap.",
+"score": 95,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"adversarial-evaluation",
+"agent",
+"llm",
+"preference-learning",
+"rag",
+"role-playing"
+],
+"license": "MIT"
+}
+},
+"repo-vincentsch__explainroo": {
+"id": "repo-vincentsch__explainroo",
+"source": "github",
+"kind": "repo",
+"title": "vincentsch/explainroo",
+"url": "https://github.com/vincentsch/explainroo",
+"date": "2026-09-25",
+"summary": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
+"score": 360,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-agents",
+"animation",
+"canvas",
+"claude-code",
+"codex",
+"explainer-video",
+"ffmpeg",
+"javascript",
+"kokoro",
+"product-demo"
+],
+"license": "MIT"
+}
+},
+"repo-walidboulanouar__awesome-jev-use-cases": {
+"id": "repo-walidboulanouar__awesome-jev-use-cases",
+"source": "github",
+"kind": "repo",
+"title": "walidboulanouar/awesome-jev-use-cases",
+"url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
+"date": "2026-09-19",
+"summary": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0",
+"score": 380,
+"extra": {
+"lang": "",
+"topics": [
+"ai-guardrails",
+"ai-router",
+"awesome",
+"awesome-list",
+"classification",
+"claude-code",
+"decision-model",
+"examples",
+"jev",
+"jev-model"
+],
+"license": "CC0-1.0"
+}
+},
+"repo-wh000wh000__awesome-jev-live": {
+"id": "repo-wh000wh000__awesome-jev-live",
+"source": "github",
+"kind": "repo",
+"title": "wh000wh000/awesome-jev-live",
+"url": "https://github.com/wh000wh000/awesome-jev-live",
+"date": "2026-09-18",
+"summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+"score": 131,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agents",
+"artificial-intelligence",
+"awesome",
+"awesome-jev",
+"awesome-list",
+"calibration",
+"curated-list",
+"decision-making",
+"developer-tools",
+"jev"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-xiao-yang25__robot-harness": {
+"id": "repo-xiao-yang25__robot-harness",
+"source": "github",
+"kind": "repo",
+"title": "xiao-yang25/robot-harness",
+"url": "https://github.com/xiao-yang25/robot-harness",
+"date": "2026-09-14",
+"summary": "A harness for embodied intelligence — connecting agents, robot skills and the physical world through execution, feedback and recovery.",
+"score": 73,
+"extra": {
+"lang": "C++",
+"topics": [
+"agents",
+"cpp",
+"embodied-ai",
+"harness",
+"physical-ai",
+"robot-runtime",
+"robotics",
+"ros2"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-xinxuxin__keystone-bench": {
+"id": "repo-xinxuxin__keystone-bench",
+"source": "github",
+"kind": "repo",
+"title": "xinxuxin/keystone-bench",
+"url": "https://github.com/xinxuxin/keystone-bench",
+"date": "2026-09-07",
+"summary": "A clinical decision-evidence benchmark: pull the one fact an answer rests on, and see whether the assistant's action moves with the evidence. Built on HealthBench.",
+"score": 506,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-safety",
+"benchmark",
+"clinical-decision-support",
+"dataset",
+"evaluation",
+"health",
+"healthbench",
+"large-language-models",
+"llm-evaluation",
+"medical-ai"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-yetone__magpie": {
+"id": "repo-yetone__magpie",
+"source": "github",
+"kind": "repo",
+"title": "yetone/magpie",
+"url": "https://github.com/yetone/magpie",
+"date": "2026-09-23",
+"summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+"score": 4445,
+"extra": {
+"lang": "Go",
+"topics": [
+"claude-code",
+"codex",
+"deepseek",
+"gemini-cli",
+"llm",
+"macos"
+],
+"license": "MIT"
+}
+},
+"repo-yibie__awesome-jev": {
+"id": "repo-yibie__awesome-jev",
+"source": "github",
+"kind": "repo",
+"title": "yibie/awesome-jev",
+"url": "https://github.com/yibie/awesome-jev",
+"date": "2026-09-17",
+"summary": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+"score": 2108,
+"extra": {
+"lang": "Python",
+"topics": [
+"awesome",
+"awesome-list",
+"jev",
+"llm"
+],
+"license": ""
+}
+},
+"repo-youngyangyang04__llm-master": {
+"id": "repo-youngyangyang04__llm-master",
+"source": "github",
+"kind": "repo",
+"title": "youngyangyang04/llm-master",
+"url": "https://github.com/youngyangyang04/llm-master",
+"date": "2026-09-12",
+"summary": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+"score": 1073,
+"extra": {
+"lang": "",
+"topics": [
+"agent",
+"large-language-models",
+"llm",
+"llm-learning",
+"llm-tutorial",
+"rag"
+],
+"license": "MIT"
+}
+},
+"repo-z3oya__rttsh": {
+"id": "repo-z3oya__rttsh",
+"source": "github",
+"kind": "repo",
+"title": "z3oya/rttsh",
+"url": "https://github.com/z3oya/rttsh",
+"date": "2026-09-22",
+"summary": "A host-side, scriptable command-line terminal for Segger-RTT; Also the AI-ready command line for embedded validation.",
+"score": 58,
+"extra": {
+"lang": "C#",
+"topics": [
+"agent-skill",
+"agent-skills",
+"agents",
+"automation",
+"debug",
+"debugger",
+"debugging",
+"embedded",
+"embedded-systems",
+"jlink"
+],
+"license": ""
+}
+},
+"repo-zeronezer__bidcraft": {
+"id": "repo-zeronezer__bidcraft",
+"source": "github",
+"kind": "repo",
+"title": "zeronezer/bidcraft",
+"url": "https://github.com/zeronezer/bidcraft",
+"date": "2026-09-17",
+"summary": "标书匠 BidCraft · 对话式标书编制系统：AI 智能编制技术标，支持招标文件解析、标段选择、标书编写、知识库提炼与学习对话式改稿。LLM-Wiki 路线，基于LangGraph实现。Open-source AI agent for construction tender & bid documents.",
+"score": 66,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agent",
+"ai-document-generator",
+"ai-writing",
+"bid",
+"bidding",
+"chinese",
+"chinese-llm",
+"construction",
+"construction-management",
+"document-generation"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-zouyuxuan122__dsh-our-free-model": {
+"id": "repo-zouyuxuan122__dsh-our-free-model",
+"source": "github",
+"kind": "repo",
+"title": "zouyuxuan122/dsh-our-free-model",
+"url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+"date": "2026-09-24",
+"summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, M…",
+"score": 761,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-agents",
+"deepseek",
+"deepseek-harness",
+"developer-tools",
+"dsh",
+"dsh-plugin",
+"free-model",
+"llm",
+"model-provider",
+"openai-compatible"
+],
+"license": "MIT"
+}
+}
+}

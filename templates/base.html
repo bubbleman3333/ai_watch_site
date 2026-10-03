@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.name }} | {{ site.tagline }}{% endblock %}</title>
+<meta name="description" content="{% block description %}{{ site.description }}{% endblock %}">
+<link rel="canonical" href="{{ canonical }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ url('feed.xml') }}">
+<link rel="stylesheet" href="{{ url('static/style.css') }}">
+<link rel="icon" href="{{ url('static/favicon.svg') }}" type="image/svg+xml">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:type" content="{% block ogtype %}website{% endblock %}">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:description" content="{{ self.description() }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:image" content="{{ url('static/og.svg') }}">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary_large_image">
+{% block head %}{% endblock %}
+<script>/* 旧 URL（github.io）に来た人を新しい名前へ移す（site_stats/proxy） */if(/\.github\.io$/.test(location.hostname))location.replace("{{ url() }}".replace(/\/$/,"")+location.pathname.replace(/^\/[^\/]+/,"")+location.search+location.hash)</script>
+<script defer src="https://rakunowa-stats.rakunowa.workers.dev/s.js" data-site="{{ site.stats_id }}"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="brand" href="{{ url() }}"><span class="logo" aria-hidden="true"></span>{{ site.name }}</a>
+    <nav class="nav">
+      <a href="{{ url('topic/') }}">技術テーマ</a>
+      <a href="{{ url('industry/') }}">業種別の使い方</a>
+      <a href="{{ url('notes/') }}">解説</a>
+      <a href="{{ url('models/') }}">話題のモデル</a>
+      <a href="{{ url('week/') }}">週ごと</a>
+      <a href="{{ url('start/') }}" class="nav-start">はじめかた</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap main">
+{% block content %}{% endblock %}
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-cols">
+      <div>
+        <p class="brand small">{{ site.name }}</p>
+        <p>{{ site.description }}</p>
+        <p class="muted">最終更新 {{ updated }}（毎朝自動で更新）</p>
+      </div>
+      <div>
+        <p class="foot-h">技術テーマ</p>
+        <ul class="foot-list">{% for t in topics %}<li><a href="{{ url(t.path) }}">{{ t.name }}</a></li>{% endfor %}</ul>
+      </div>
+      <div>
+        <p class="foot-h">業種</p>
+        <ul class="foot-list">{% for i in industries %}<li><a href="{{ url(i.path) }}">{{ i.name }}</a></li>{% endfor %}</ul>
+        <p class="foot-h">このサイト</p>
+        <ul class="foot-list">
+          <li><a href="{{ url('about/') }}">データの集め方</a></li>
+          <li><a href="{{ url('privacy/') }}">プライバシーポリシー</a></li>
+          <li><a href="{{ url('latest/') }}">新着の一覧</a></li>
+          <li><a href="{{ url('feed.xml') }}">RSS</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="muted fine">出典: arXiv・Hugging Face・GitHub・Hacker News の公開 API と、各社が公開している RSS。記事の本文は転載せず、題名とリンクだけを載せています。
+      各社とは関係のない非公式サイトです。© {{ now.year }} {{ site.name }}</p>
+  </div>
+</footer>
+</body>
+</html>

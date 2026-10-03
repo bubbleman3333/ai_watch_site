@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% from "_macros.html" import item %}
+{% block title %}AI の新着（直近 30 日） | {{ site.name }}{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 新着</nav>
+<header class="page-head"><h1>新着（直近 30 日）</h1><p class="lead">集めたものを新しい順にすべて並べています（{{ rows|length }} 件）。</p></header>
+<div class="filter" role="group" aria-label="種類で絞り込む">
+  <button class="on" data-k="">すべて</button>
+  {% for k, lab in KIND_LABEL.items() if k != 'model' %}<button data-k="{{ k }}">{{ lab }}</button>{% endfor %}
+  <select id="tsel" aria-label="テーマで絞り込む"><option value="">テーマ: すべて</option>{% for t in topics %}<option value="{{ t.slug }}">{{ t.name }}</option>{% endfor %}</select>
+</div>
+<ul class="news big" id="list">
+{% for it in rows %}
+  <li data-k="{{ it.kind }}" data-t="{{ it.topics|join(' ') }}"><time>{{ it.date|jday }}</time><span class="pub">{{ it.kind_label }}・{{ it.publisher }}</span>
+    {% if it.note %}<a href="{{ url(it.path) }}">{{ it.headline }}</a>{% else %}<a href="{{ it.url }}" rel="noopener" target="_blank">{{ it.title }}</a>{% endif %}
+    {% if it.score_label %}<span class="desc">{{ it.score_label }}</span>{% endif %}</li>
+{% endfor %}
+</ul>
+<script>
+(function(){var k="",t="",bs=document.querySelectorAll(".filter button"),sel=document.getElementById("tsel"),li=document.querySelectorAll("#list li");
+function f(){li.forEach(function(e){e.hidden=!((!k||e.dataset.k===k)&&(!t||(" "+e.dataset.t+" ").indexOf(" "+t+" ")>=0))})}
+bs.forEach(function(b){b.onclick=function(){bs.forEach(function(x){x.classList.remove("on")});b.classList.add("on");k=b.dataset.k;f()}});
+sel.onchange=function(){t=sel.value;f()}})();
+</script>
+{% endblock %}

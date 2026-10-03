@@ -1,0 +1,59 @@
+{% macro tags(slugs) -%}
+{% for s in slugs %}{% set t = T[s] %}<a class="tag" style="--c:{{ t.color }}" href="{{ url(t.path) }}">{{ t.name }}</a>{% endfor %}
+{%- endmacro %}
+
+{% macro trend_badge(st) -%}
+{% set lab, cls = st.trend %}<span class="trend {{ cls }}">{{ lab }}{% if st.momentum_pct %} {{ '%+d' % st.momentum_pct }}%{% endif %}</span>
+{%- endmacro %}
+
+{# 1 件のアイテム。解説があれば見出しと要点を出し、解説ページへ #}
+{% macro item(it, show_tags=True) -%}
+<article class="item kind-{{ it.kind }}{% if it.note %} has-note{% endif %}">
+  <div class="item-meta">
+    <span class="kind">{{ it.kind_label }}</span>
+    <span>{{ it.publisher }}</span>
+    <time datetime="{{ it.date }}">{{ it.date|jday }}</time>
+    {% if it.score_label %}<span class="score">{{ it.score_label }}</span>{% endif %}
+  </div>
+  {% if it.note %}
+  <h3 class="item-title"><a href="{{ url(it.path) }}">{{ it.headline }}</a></h3>
+  {% if it.note.point %}<p class="item-point">{{ it.note.point }}</p>{% endif %}
+  <p class="item-orig"><a href="{{ it.url }}" rel="noopener" target="_blank">{{ it.title }}</a></p>
+  {% else %}
+  <h3 class="item-title"><a href="{{ it.url }}" rel="noopener" target="_blank">{{ it.title }}</a></h3>
+  {% if it.summary %}<p class="item-sum" lang="en">{{ it.summary }}</p>{% endif %}
+  {% endif %}
+  {% if show_tags and it.topics %}<div class="tags">{{ tags(it.topics) }}</div>{% endif %}
+</article>
+{%- endmacro %}
+
+{% macro topic_card(st) -%}
+{% set t = st.topic %}
+<a class="tcard" href="{{ url(t.path) }}" style="--c:{{ t.color }}">
+  <div class="tcard-head"><span class="tcard-name">{{ t.name }}</span>{{ trend_badge(st) }}</div>
+  {{ sparkline(st.share, 220, 46, t.color, label=t.name ~ ' の論文の割合の推移') }}
+  <p class="tcard-short">{{ t.short }}</p>
+  <p class="tcard-num">先週の論文 <b>{{ st.last_arxiv|num }}</b> 本 ・ 直近 2 週の話題 <b>{{ st.recent_mentions }}</b> 件</p>
+</a>
+{%- endmacro %}
+
+{% macro model_table(models, show_rank_change=True) -%}
+<div class="table-wrap">
+<table class="models">
+  <thead><tr><th>#</th><th>モデル</th><th>できること</th><th class="num">いいね</th><th class="num">DL</th><th>ライセンス</th></tr></thead>
+  <tbody>
+  {% for m in models %}
+  <tr>
+    <td class="rank">{{ m.rank }}{% if show_rank_change %}{% if m.prev_rank is none %}<span class="new">NEW</span>{% elif m.prev_rank > m.rank %}<span class="up">↑</span>{% elif m.prev_rank < m.rank %}<span class="down">↓</span>{% endif %}{% endif %}</td>
+    <td><a href="{{ m.url }}" rel="noopener" target="_blank" class="mono">{{ m.name }}</a><span class="owner">{{ m.owner }}</span>
+      {% if m.note %}<a class="mnote" href="{{ url(m.path) }}">{{ m.note.headline }}</a>{% endif %}</td>
+    <td>{{ m.task_ja }}</td>
+    <td class="num">{{ m.likes|short }}</td>
+    <td class="num">{{ m.downloads|short }}</td>
+    <td class="lic">{{ m.license or '—' }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{%- endmacro %}

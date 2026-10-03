@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}週ごとの AI の動き | {{ site.name }}{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 週ごと</nav>
+<header class="page-head"><h1>週ごとの AI の動き</h1><p class="lead">1 週間ごとに、主な発表・論文・話題をまとめています。</p></header>
+<ul class="weeklist">
+{% for k, n, r in weeks %}
+  <li><a href="{{ url('week/' ~ k ~ '/') }}">{{ r[0].year }}年 {{ r[0].month }}月{{ r[0].day }}日〜{{ r[1].month }}月{{ r[1].day }}日</a><span class="meta">{{ n }} 件</span></li>
+{% endfor %}
+</ul>
+{% endblock %}

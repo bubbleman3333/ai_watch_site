@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% from "_macros.html" import topic_card %}
+{% block title %}AI の技術テーマ一覧（勢いの順） | {{ site.name }}{% endblock %}
+{% block description %}AI エージェント・RAG・推論モデル・音声 AI など {{ topics|length }} の技術テーマを、研究の勢いの順に並べています。それぞれの仕組み・使われ方・ビジネスでの応用を解説。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 技術テーマ</nav>
+<header class="page-head">
+  <h1>技術テーマ</h1>
+  <p class="lead">いま AI で動いている {{ topics|length }} のテーマを、<b>研究の勢いが強い順</b>に並べています。
+    勢いは、arXiv に投稿された AI の論文のうちそのテーマが占める割合を、直近 4 週とその前の 8 週で比べたものです。</p>
+</header>
+<div class="tgrid">
+{% for st in stats %}{{ topic_card(st) }}{% endfor %}
+</div>
+{% endblock %}

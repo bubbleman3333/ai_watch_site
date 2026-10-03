@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% from "_macros.html" import model_table %}
+{% block title %}いま話題の AI モデル ランキング | {{ site.name }}{% endblock %}
+{% block description %}Hugging Face でいま伸びている AI モデル上位 {{ models|length }} 件。できること・ライセンス・前日からの順位の変化を毎日更新しています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 話題のモデル</nav>
+<header class="page-head">
+  <h1>いま話題のモデル</h1>
+  <p class="lead">Hugging Face の「トレンド」上位（{{ day }} 時点）。↑↓ は前回の取り込みからの順位の変化、NEW は初登場です。
+    名前を押すと Hugging Face のページが開きます。</p>
+</header>
+<div class="explain">
+  <p><b>ライセンスの見方:</b> <code>apache-2.0</code> <code>mit</code> は商用利用しやすいもの。<code>other</code> や独自ライセンスは、利用者数や用途に条件があることが多いので原文を確認してください。</p>
+</div>
+{{ model_table(models) }}
+{% endblock %}

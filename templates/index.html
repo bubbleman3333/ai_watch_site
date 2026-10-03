@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+{% from "_macros.html" import item, topic_card, model_table, tags, trend_badge %}
+{% block head %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":{{ site.name|tojson }},"url":{{ url()|tojson }},"description":{{ site.description|tojson }},"inLanguage":"ja"}</script>
+{% endblock %}
+{% block content %}
+<section class="hero">
+  <div>
+    <p class="eyebrow">毎朝自動更新 ・ {{ now.year }}年{{ now.month }}月{{ now.day }}日</p>
+    <h1>AI の最新動向を、<br>ビジネスの言葉で。</h1>
+    <p class="lead">論文・各社の発表・話題のモデルとオープンソースを毎日集めて、<b>いま伸びている技術</b>と、
+      それが<b>実際にどう使われ、どの仕事に効くのか</b>をまとめています。</p>
+    <div class="hero-links">
+      <a class="btn" href="#rising">いま伸びている技術</a>
+      <a class="btn ghost" href="{{ url('industry/') }}">自分の業種で探す</a>
+    </div>
+  </div>
+  <div class="hero-board" aria-label="上昇中のテーマ">
+    <p class="board-h">勢いのあるテーマ</p>
+    <ol class="board">
+    {% for st in rising[:5] %}
+      <li><a href="{{ url(st.topic.path) }}" style="--c:{{ st.topic.color }}"><span class="dot"></span>{{ st.topic.name }}</a>{{ trend_badge(st) }}</li>
+    {% endfor %}
+    </ol>
+    <p class="board-note">arXiv の AI 論文に占める割合の、直近 4 週とその前 8 週の比較</p>
+  </div>
+</section>
+
+<section class="sec" id="hot">
+  <div class="sec-head"><h2>今週の注目</h2><a class="more" href="{{ url('latest/') }}">新着をすべて見る →</a></div>
+  <p class="sec-lead">発表・論文・話題・オープンソースから、反応の大きかったものを集めました。<span class="pill">解説つき</span>はビジネスでの使いどころまで書いています。</p>
+  <div class="items grid2">
+  {% for it in hot %}{{ item(it) }}{% endfor %}
+  </div>
+</section>
+
+<section class="sec" id="rising">
+  <div class="sec-head"><h2>技術テーマの勢い</h2><a class="more" href="{{ url('topic/') }}">テーマの一覧 →</a></div>
+  <p class="sec-lead">折れ線は、AI 関連の新しい論文（arXiv）のうちそのテーマが占める割合の 半年の推移。研究が増えたテーマは、半年〜1 年後に製品になって降りてきます。</p>
+  <div class="tgrid">
+  {% for st in rising %}{{ topic_card(st) }}{% endfor %}
+  </div>
+</section>
+
+<section class="sec" id="industries">
+  <div class="sec-head"><h2>業種から探す</h2><a class="more" href="{{ url('industry/') }}">業種別の使い方 →</a></div>
+  <div class="igrid">
+  {% for i in industries %}
+    <a class="icard" href="{{ url(i.path) }}"><span class="icard-name">{{ i.name }}</span><span class="icard-short">{{ i.short }}</span></a>
+  {% endfor %}
+  </div>
+</section>
+
+<div class="cols">
+  <section class="sec">
+    <div class="sec-head"><h2>各社の発表</h2></div>
+    <ul class="news">
+    {% for it in news %}
+      <li><time>{{ it.date|jday }}</time><span class="pub">{{ it.publisher }}</span>
+        {% if it.note %}<a href="{{ url(it.path) }}">{{ it.headline }}</a>{% else %}<a href="{{ it.url }}" rel="noopener" target="_blank">{{ it.title }}</a>{% endif %}</li>
+    {% endfor %}
+    </ul>
+  </section>
+  <section class="sec">
+    <div class="sec-head"><h2>研究者が注目した論文</h2></div>
+    <p class="sec-lead small">Hugging Face の「Daily Papers」で票を集めた論文（直近 1 週間）。</p>
+    <ul class="news">
+    {% for it in papers %}
+      <li><span class="score">▲{{ it.score }}</span>
+        {% if it.note %}<a href="{{ url(it.path) }}">{{ it.headline }}</a>{% else %}<a href="{{ it.url }}" rel="noopener" target="_blank" lang="en">{{ it.title }}</a>{% endif %}</li>
+    {% endfor %}
+    </ul>
+  </section>
+</div>
+
+<section class="sec" id="models">
+  <div class="sec-head"><h2>いま話題のモデル</h2><a class="more" href="{{ url('models/') }}">上位 60 件 →</a></div>
+  <p class="sec-lead">Hugging Face でダウンロード・いいねが急に伸びているモデル。ライセンスが apache-2.0 や mit なら、商用でも自社サーバーで動かしやすいものが多いです（利用前に必ず原文を確認）。</p>
+  {{ model_table(models) }}
+</section>
+
+<div class="cols">
+  <section class="sec">
+    <div class="sec-head"><h2>急成長のオープンソース</h2></div>
+    <p class="sec-lead small">この 30 日に作られ、GitHub でスターを集めている AI 関連のリポジトリ。</p>
+    <ul class="news">
+    {% for it in repos %}
+      <li><span class="score">★{{ it.score|short }}</span><a href="{{ it.url }}" rel="noopener" target="_blank" class="mono">{{ it.title }}</a>
+        {% if it.summary %}<span class="desc" lang="en">{{ it.summary }}</span>{% endif %}</li>
+    {% endfor %}
+    </ul>
+  </section>
+  <section class="sec">
+    <div class="sec-head"><h2>エンジニアの間の話題</h2></div>
+    <p class="sec-lead small">Hacker News で点数を集めた AI の記事（直近 1 週間）。</p>
+    <ul class="news">
+    {% for it in talk %}
+      <li><span class="score">{{ it.score }}pt</span><a href="{{ it.url }}" rel="noopener" target="_blank" lang="en">{{ it.title }}</a>
+        <a class="desc" href="{{ it.alt_url }}" rel="noopener" target="_blank">{{ it.extra.comments }} コメント</a></li>
+    {% endfor %}
+    </ul>
+  </section>
+</div>
+
+<section class="sec callout">
+  <h2>AI を仕事に入れる、最初の一歩</h2>
+  <p>「何から始めればいいか分からない」という方向けに、小さく試して効果を測るまでの手順をまとめました。</p>
+  <a class="btn" href="{{ url('start/') }}">はじめかたを読む</a>
+</section>
+{% endblock %}

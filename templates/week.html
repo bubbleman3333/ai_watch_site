@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% from "_macros.html" import item %}
+{% block title %}{{ start.month }}月{{ start.day }}日〜{{ end.month }}月{{ end.day }}日の AI の動き | {{ site.name }}{% endblock %}
+{% block description %}{{ start.year }}年{{ start.month }}月{{ start.day }}日からの 1 週間の AI の主な発表・注目の論文・話題をまとめています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › <a href="{{ url('week/') }}">週ごと</a> › {{ key }}</nav>
+<header class="page-head">
+  <p class="eyebrow">{{ key }}</p>
+  <h1>{{ start.month }}月{{ start.day }}日〜{{ end.month }}月{{ end.day }}日の AI の動き</h1>
+  <p class="lead">この週に集めた {{ rows|length }} 件から。よく出たテーマ:
+    {% for s, n in tc[:5] %}<a class="tag" style="--c:{{ T[s].color }}" href="{{ url(T[s].path) }}">{{ T[s].name }} {{ n }}</a>{% endfor %}</p>
+</header>
+{% if noted %}
+<section class="sec">
+  <div class="sec-head"><h2>解説つき</h2></div>
+  <div class="items grid2">{% for it in noted %}{{ item(it) }}{% endfor %}</div>
+</section>
+{% endif %}
+{% for kind, label in [('news', '各社の発表'), ('paper', '注目の論文'), ('discussion', 'エンジニアの間の話題'), ('repo', '新しいオープンソース')] %}
+{% if top[kind] %}
+<section class="sec">
+  <div class="sec-head"><h2>{{ label }}</h2></div>
+  <ul class="news">
+  {% for it in top[kind] %}
+    <li><time>{{ it.date|jday }}</time><span class="pub">{{ it.publisher if kind == 'news' else it.score_label }}</span>
+      {% if it.note %}<a href="{{ url(it.path) }}">{{ it.headline }}</a>{% else %}<a href="{{ it.url }}" rel="noopener" target="_blank">{{ it.title }}</a>{% endif %}</li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+{% endfor %}
+{% endblock %}

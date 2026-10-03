@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% from "_macros.html" import item %}
+{% block title %}AI ニュースの解説一覧 | {{ site.name }}{% endblock %}
+{% block description %}AI の発表・論文・話題のモデルを、何が起きたのか・なぜ大事か・ビジネスでどう使えるかの 3 点で解説しています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 解説</nav>
+<header class="page-head">
+  <h1>解説</h1>
+  <p class="lead">注目の発表・論文・モデルを、<b>何が起きたのか / なぜ大事か / ビジネスでどう使えるか</b>の 3 点でまとめています。</p>
+</header>
+<div class="items grid2">{% for it in rows %}{{ item(it) }}{% endfor %}</div>
+{% if models %}
+<section class="sec">
+  <div class="sec-head"><h2>話題のモデルの解説</h2></div>
+  <ul class="news">{% for m in models %}<li><span class="pub">{{ m.task_ja }}</span><a href="{{ url(m.path) }}">{{ m.headline }}</a><span class="desc mono">{{ m.id }}</span></li>{% endfor %}</ul>
+</section>
+{% endif %}
+{% endblock %}

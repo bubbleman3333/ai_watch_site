@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% from "_macros.html" import tags %}
+{% set n = (it.note if it else model.note) %}
+{% set headline = it.headline if it else model.headline %}
+{% block title %}{{ headline }} | {{ site.name }}{% endblock %}
+{% block description %}{{ n.point or (n.body[:110] ~ '…') }}{% endblock %}
+{% block ogtype %}article{% endblock %}
+{% block head %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":{{ headline|tojson }},"datePublished":{{ (it.date if it else now.isoformat())|tojson }},"inLanguage":"ja","publisher":{"@type":"Organization","name":{{ site.name|tojson }}},"mainEntityOfPage":{{ canonical|tojson }}}</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › <a href="{{ url('notes/') }}">解説</a> › {{ headline }}</nav>
+<article class="note">
+  <header class="page-head">
+    {% if it %}
+    <p class="eyebrow">{{ it.kind_label }} ・ {{ it.publisher }} ・ {{ it.date|jday }}{% if it.score_label %} ・ {{ it.score_label }}{% endif %}</p>
+    {% else %}
+    <p class="eyebrow">話題のモデル ・ {{ model.task_ja }} ・ ライセンス {{ model.license or '不明' }}</p>
+    {% endif %}
+    <h1>{{ headline }}</h1>
+    {% if n.point %}<p class="lead">{{ n.point }}</p>{% endif %}
+    <div class="tags">{{ tags(it.topics if it else model.topics) }}</div>
+  </header>
+  <div class="prose">{{ n.body|md }}</div>
+  <aside class="source">
+    <p class="k">元の情報</p>
+    {% if it %}
+    <p><a href="{{ it.url }}" rel="noopener" target="_blank">{{ it.title }}</a></p>
+    {% if it.alt_url %}<p class="small"><a href="{{ it.alt_url }}" rel="noopener" target="_blank">{{ it.alt_url }}</a></p>{% endif %}
+    {% else %}
+    <p><a href="{{ model.url }}" rel="noopener" target="_blank" class="mono">{{ model.id }}</a></p>
+    {% endif %}
+    <p class="small muted">この解説は {{ site.name }} が元の情報をもとに書いたものです。数字や条件は、必ず元の情報で確かめてください。</p>
+  </aside>
+</article>
+{% if rel %}
+<section class="sec">
+  <div class="sec-head"><h2>同じテーマの解説</h2></div>
+  <ul class="news">{% for x in rel %}<li><time>{{ x.date|jday }}</time><a href="{{ url(x.path) }}">{{ x.headline }}</a></li>{% endfor %}</ul>
+</section>
+{% endif %}
+{% endblock %}

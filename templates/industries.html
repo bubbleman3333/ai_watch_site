@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}業種別の AI 活用｜製造・小売・物流・医療・士業ほか | {{ site.name }}{% endblock %}
+{% block description %}{{ industries|length }} の業種について、AI の効果が出やすい使いどころ、始め方、注意点、関係する最新技術をまとめています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 業種別の使い方</nav>
+<header class="page-head">
+  <h1>業種別の使い方</h1>
+  <p class="lead">技術の名前からではなく、<b>自分の仕事から</b> AI の使いどころを探すためのページです。
+    どの業種も「効果が出やすい順」に並べ、始め方と注意点まで書いています。</p>
+</header>
+<div class="igrid big">
+{% for i in industries %}
+  <a class="icard" href="{{ url(i.path) }}">
+    <span class="icard-name">{{ i.name }}</span>
+    <span class="icard-short">{{ i.short }}</span>
+    <span class="icard-tags">{% for s in i.topics[:3] %}<span class="tag" style="--c:{{ T[s].color }}">{{ T[s].name }}</span>{% endfor %}</span>
+  </a>
+{% endfor %}
+</div>
+{% endblock %}

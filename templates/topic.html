@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% from "_macros.html" import item, model_table, trend_badge %}
+{% block title %}{{ t.name }}とは・最新動向とビジネスでの使い方 | {{ site.name }}{% endblock %}
+{% block description %}{{ t.name }}（{{ t.short }}）の最新動向。論文の増え方、注目の発表とモデル、実際の使われ方と業種別の応用例をまとめています。{% endblock %}
+{% block ogtype %}article{% endblock %}
+{% block head %}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":{{ site.name|tojson }},"item":{{ url()|tojson }}},{"@type":"ListItem","position":2,"name":"技術テーマ","item":{{ url('topic/')|tojson }}},{"@type":"ListItem","position":3,"name":{{ t.name|tojson }},"item":{{ url(t.path)|tojson }}}]}</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › <a href="{{ url('topic/') }}">技術テーマ</a> › {{ t.name }}</nav>
+<header class="page-head" style="--c:{{ t.color }}">
+  <p class="eyebrow">技術テーマ</p>
+  <h1>{{ t.name }}</h1>
+  <p class="lead">{{ t.short }}</p>
+  <div class="head-stats">
+    <div><span class="k">勢い</span>{{ trend_badge(st) }}</div>
+    <div><span class="k">先週の論文</span><b>{{ st.last_arxiv|num }}</b> 本</div>
+    <div><span class="k">AI 論文に占める割合</span><b>{{ '%.1f' % (st.share[-1] if st.share else 0) }}</b> %</div>
+    <div><span class="k">直近 2 週の話題</span><b>{{ st.recent_mentions }}</b> 件</div>
+  </div>
+</header>
+
+<div class="topic-layout">
+  <div class="topic-main">
+    {% if guide.body %}
+    <section class="guide prose">{{ guide.body|md }}</section>
+    {% endif %}
+
+    <section class="sec">
+      <div class="sec-head"><h2>最近の注目</h2></div>
+      <div class="items">
+      {% for it in hot %}{{ item(it, show_tags=False) }}{% else %}<p class="muted">まだありません。</p>{% endfor %}
+      </div>
+    </section>
+
+    {% if models %}
+    <section class="sec">
+      <div class="sec-head"><h2>このテーマで話題のモデル</h2></div>
+      {{ model_table(models, show_rank_change=False) }}
+    </section>
+    {% endif %}
+
+    <section class="sec">
+      <div class="sec-head"><h2>新着</h2></div>
+      <ul class="news">
+      {% for it in items %}
+        <li><time>{{ it.date|jday }}</time><span class="pub">{{ it.kind_label }}</span>
+          {% if it.note %}<a href="{{ url(it.path) }}">{{ it.headline }}</a>{% else %}<a href="{{ it.url }}" rel="noopener" target="_blank">{{ it.title }}</a>{% endif %}
+          {% if it.score_label %}<span class="desc">{{ it.score_label }}</span>{% endif %}</li>
+      {% endfor %}
+      </ul>
+    </section>
+  </div>
+
+  <aside class="topic-side">
+    <section class="box">
+      <h2>研究の勢い</h2>
+      <p class="small muted">AI 関連の新しい論文のうち、このテーマの割合（%・週ごと）</p>
+      {{ sparkline(st.share, 300, 90, t.color, label='割合の推移') }}
+      <p class="small muted">論文の数（本・週ごと）</p>
+      {{ bars(st.arxiv[-16:], st.weeks[-16:]|map('replace', '2026-', '')|map('replace', '2025-', '')|list, t.color, 320, 120, '本') }}
+      <p class="small muted">このサイトで集めた発表・話題の件数（週ごと）</p>
+      {{ bars(st.mentions, st.mention_weeks|map('replace', '2026-', '')|map('replace', '2025-', '')|list, t.color, 320, 110) }}
+    </section>
+    {% if industries_rel %}
+    <section class="box">
+      <h2>よく使われる業種</h2>
+      <ul class="compact">
+      {% for i in industries_rel %}<li><a href="{{ url(i.path) }}">{{ i.name }}</a><span class="meta">{{ i.short }}</span></li>{% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+    <section class="box">
+      <h2>ほかのテーマ</h2>
+      <div class="chips">{% for x in topics if x.slug != t.slug %}<a href="{{ url(x.path) }}" style="--c:{{ x.color }}">{{ x.name }}</a>{% endfor %}</div>
+    </section>
+  </aside>
+</div>
+{% endblock %}
