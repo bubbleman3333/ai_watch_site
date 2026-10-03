@@ -502,5 +502,5 @@ def sync(root: Path, *, backfill: bool = False, only: set[str] | None = None) ->
         metrics.fetch_attention(http, root, days=365 if backfill else 10)
     if want("arxiv"):
         print("arXiv の週ごとの論文数")
-        fetch_arxiv_weekly(http, root, weeks=26 if backfill else 3)
+        fetch_arxiv_weekly(http, root, weeks=26)   # 確定した週は数え直さないので、毎日でも数十回で済む
     prune(root)

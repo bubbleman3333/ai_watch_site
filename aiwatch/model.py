@@ -393,14 +393,15 @@ def topic_stats(c: Corpus, weeks: int = 26) -> list[TopicStat]:
     out = []
     for t in TOPICS:
         row = c.arxiv.get(t.slug, {})
-        counts = [row.get(k, 0) for k in keys]
-        share = [100 * n / all_w[k] if all_w.get(k) else 0.0 for n, k in zip(counts, keys)]
+        ks = [k for k in keys if k in row and all_w.get(k)]   # 取得に失敗した週は飛ばす（0 と数えない）
+        counts = [row[k] for k in ks]
+        share = [100 * row[k] / all_w[k] for k in ks]
         recent, before = share[-4:], share[-12:-4]
         if recent and before and sum(before) > 0:
             mom = (sum(recent) / len(recent)) / (sum(before) / len(before))
         else:
             mom = 1.0
-        st = TopicStat(slug=t.slug, weeks=keys, arxiv=counts, share=share,
+        st = TopicStat(slug=t.slug, weeks=ks, arxiv=counts, share=share,
                        mentions=[by_topic_week[t.slug][w] for w in mention_weeks], mention_weeks=mention_weeks,
                        momentum=mom)
         st.items = [it for it in c.items if t.slug in it.topics]
