@@ -66,7 +66,9 @@ def test_corpus_heat_stats_and_notes(tmp_path):
     save_items(data, "news", [_item(9, source="news", kind="news", title="Introducing RAG search") | {"extra": {"feed": "openai", "publisher": "OpenAI"}}])
     (data / "arxiv_weekly.json").write_text(json.dumps({
         "_all": {f"2026-{m:02d}-{d:02d}": 1000 for m, d in [(7, 6), (7, 13), (7, 20), (7, 27), (8, 3), (8, 10), (8, 17), (8, 24), (8, 31), (9, 7), (9, 14), (9, 21)]},
-        "agents": {"2026-09-21": 300, "2026-07-06": 100},
+        # 直近 4 週は 30%、その前は 10%。2026-08-24 の週は取得に失敗した想定（0 と数えないこと）
+        "agents": {f"2026-{m:02d}-{d:02d}": (300 if (m, d) >= (8, 31) else 100)
+                   for m, d in [(7, 6), (7, 13), (7, 20), (7, 27), (8, 3), (8, 10), (8, 17), (8, 31), (9, 7), (9, 14), (9, 21)]},
     }), encoding="utf-8")
     (data / "models").mkdir()
     (data / "models" / "2026-10-01.json").write_text(json.dumps([
@@ -83,7 +85,8 @@ def test_corpus_heat_stats_and_notes(tmp_path):
     assert [m.id for m in c.models] == ["a/ok"]            # 検閲外しのモデルは載せない
     assert c.models[0].topics[0] == "speech"
     st = {s.slug: s for s in topic_stats(c)}
-    assert st["agents"].momentum > 1
+    assert round(st["agents"].momentum, 2) == 3.0
+    assert len(st["agents"].weeks) == 11
     picks = pick_for_notes(c, notes)
     assert "hn-5" not in [getattr(p, "id", None) for p in picks]
 
