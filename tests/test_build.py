@@ -15,7 +15,8 @@ def test_build_whole_site(tmp_path):
     n = Builder(out, "https://example.com", root=ROOT, today=date.today()).build()
     assert n > 20
     for p in ("index.html", "topic/rag/index.html", "industry/retail/index.html", "models/index.html",
-              "start/index.html", "sitemap.xml", "feed.xml", "404.html"):
+              "start/index.html", "pricing/index.html", "attention/index.html", "adoption/index.html",
+              "releases/index.html", "japan/index.html", "sources/index.html", "sitemap.xml", "feed.xml", "404.html"):
         assert (out / p).exists(), p
     html = (out / "index.html").read_text(encoding="utf-8")
     assert "https://example.com/topic/agents/" in html

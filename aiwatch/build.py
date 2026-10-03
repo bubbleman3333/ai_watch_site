@@ -15,6 +15,9 @@ from markupsafe import Markup
 
 from .model import (KIND_LABEL, Corpus, Item, load_all, parse_note, topic_stats, week_range,
                     weekly)
+from .dash import load_dash
+from .feeds import FEEDS, SCRAPED
+from .metrics import ORGS, REPOS
 from .topics import INDUSTRIES, INDUSTRY_BY_SLUG, TOPIC_BY_SLUG, TOPICS
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -70,6 +73,21 @@ def bars(values: list[int], labels: list[str], color: str, w: int = 640, h: int 
     return Markup(f'<svg class="bars" viewBox="0 0 {w} {h}" role="img" aria-label="週ごとの件数">{"".join(parts)}</svg>')
 
 
+def short(n) -> str:
+    n = n or 0
+    if n >= 100_000_000:
+        return f"{n / 100_000_000:.1f}億"
+    if n >= 10_000:
+        return f"{n / 10_000:.1f}万"
+    return f"{n:,}"
+
+
+def chg_class(v) -> str:
+    if v is None:
+        return "flat"
+    return "up2" if v >= 30 else "up" if v >= 5 else "down" if v <= -5 else "flat"
+
+
 # ---------- Markdown ----------
 
 _LINK = re.compile(r"\]\((topic|industry|page|note):([\w\-_.]+)\)")
@@ -86,11 +104,15 @@ class Builder:
         self.env = Environment(loader=FileSystemLoader(root / "templates"), autoescape=select_autoescape(["html", "xml"]),
                                trim_blocks=True, lstrip_blocks=True)
         self.env.globals.update(url=self.url, site=self.site, topics=TOPICS, industries=INDUSTRIES, T=TOPIC_BY_SLUG,
-                                I=INDUSTRY_BY_SLUG, sparkline=sparkline, bars=bars, KIND_LABEL=KIND_LABEL)
+                                I=INDUSTRY_BY_SLUG, sparkline=sparkline, bars=bars, KIND_LABEL=KIND_LABEL,
+                                chg_class=chg_class)
         self.env.filters["md"] = self.render_md
         self.env.filters["jday"] = lambda s: f"{int(s[5:7])}月{int(s[8:10])}日" if s else ""
         self.env.filters["num"] = lambda n: f"{n:,}"
-        self.env.filters["short"] = lambda n: f"{n / 10000:.1f}万" if n >= 10000 else f"{n:,}"
+        self.env.filters["short"] = short
+        self.env.filters["pct"] = lambda v: "—" if v is None else f"{v:+.0f}%"
+        self.env.filters["usd"] = lambda v: "無料" if v == 0 else (f"${v:,.2f}" if v >= 0.1 else f"${v:.3f}")
+        self.env.filters["ctx"] = lambda n: "—" if not n else (f"{n / 1_000_000:.1f}M" if n >= 1_000_000 else f"{n // 1000}K")
 
     def url(self, path: str = "") -> str:
         return self.site_url + path.lstrip("/")
@@ -138,8 +160,19 @@ class Builder:
             shutil.copy(f, self.out / "static" / f.name)
 
         updated = datetime.now(JST).strftime("%Y-%m-%d %H:%M")
-        self.common = dict(now=self.today, updated=updated,
+        dash = load_dash(self.root / "data", self.today)
+        n_sources = len(FEEDS) + len(SCRAPED) + 9   # RSS・ページ + API（arXiv・HF 論文/モデル/アプリ/新モデル・GitHub×2・HN・Lobsters/DEV・OpenRouter・PyPI/npm・Wikipedia）
+        self.common = dict(now=self.today, updated=updated, n_sources=n_sources,
                            counts=Counter(it.kind for it in c.items), n_models=len(c.models))
+        week_items = c.recent(7)
+        kpi = dict(items=len(c.items), week=len(week_items), sources=n_sources,
+                   prices=len(dash.pricing.rows) if dash.pricing else 0, releases=len(c.recent(30, ("release",))),
+                   notes=len(noted) + len(noted_models), ja=sum(1 for it in week_items if it.is_ja))
+        media = c.hot(days=7, n=12, kinds=("media",), per_source=3)
+        blogs = c.hot(days=14, n=10, kinds=("blog",), per_source=2)
+        tech = c.hot(days=7, n=10, kinds=("community",), per_source=3)
+        releases = sorted(c.recent(30, ("release",)), key=lambda it: (it.date, it.score), reverse=True)
+        japan = [it for it in c.recent(30) if it.is_ja]
 
         hot = c.hot(days=7, n=14, per_source=3)
         papers = c.hot(days=7, n=10, kinds=("paper",))
@@ -147,7 +180,29 @@ class Builder:
         repos = c.hot(days=30, n=10, kinds=("repo",))
         news = [it for it in c.recent(10, ("news",))][:16]
         self.write("", "index.html", stats=stats, rising=rising, hot=hot, papers=papers, talk=talk, repos=repos,
-                   news=news, models=c.models[:12], latest_week=weeks[0][0] if weeks else "")
+                   news=news, models=c.models[:12], latest_week=weeks[0][0] if weeks else "", kpi=kpi, dash=dash,
+                   media=media, blogs=blogs, tech=tech, releases=releases[:12],
+                   japan=sorted(japan, key=lambda it: (it.date, it.heat), reverse=True)[:14])
+
+        # 数字の定点観測
+        self.write("pricing/", "pricing.html", p=dash.pricing)
+        self.write("attention/", "attention.html", dash=dash)
+        self.write("adoption/", "adoption.html", dash=dash)
+        self.write("releases/", "releases.html", rows=sorted(c.recent(180, ("release",)), key=lambda it: (it.date, it.score), reverse=True),
+                   orgs=ORGS)
+        self.write("japan/", "japan.html",
+                   groups=[(k, lab, sorted([it for it in japan if it.kind == k], key=lambda it: (it.date, it.heat), reverse=True)[:30])
+                           for k, lab in (("policy", "政府・行政"), ("media", "報道"), ("news", "企業の発表"),
+                                          ("release", "日本の組織の新しいモデル"), ("community", "エンジニアの技術記事"))],
+                   noted=[it for it in noted if it.is_ja][:20])
+        src_counts = Counter((it.extra.get("feed") or it.source) for it in c.items)
+        src_last: dict[str, str] = {}
+        for it in c.items:
+            k = it.extra.get("feed") or it.source
+            src_last[k] = max(src_last.get(k, ""), it.date)
+        self.write("sources/", "sources.html", feeds=FEEDS, scraped=SCRAPED, src_counts=src_counts, src_last=src_last,
+                   orgs=ORGS, repos_list=REPOS, dash=dash, arxiv_weeks=len(c.arxiv.get("_all", {})),
+                   n_model_days=len(c.model_days))
 
         # テーマ
         self.write("topic/", "topics.html", stats=rising)
@@ -183,7 +238,7 @@ class Builder:
         for m in noted_models:
             self.write(m.path, "note.html", it=None, model=m, rel=[], lastmod=self.today.isoformat())
 
-        self.write("models/", "models.html", models=c.models, day=c.model_days[-1][0] if c.model_days else "")
+        self.write("models/", "models.html", models=c.models, day=c.model_days[-1][0] if c.model_days else "", hub=dash.hub)
         self.write("latest/", "latest.html", rows=c.recent(30))
         self.write("notes/", "notes.html", rows=sorted(noted, key=lambda it: it.date, reverse=True), models=noted_models)
         for slug in ("start", "about", "privacy"):

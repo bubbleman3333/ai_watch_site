@@ -1,0 +1,8 @@
+{# 系列（関心・ダウンロード）のカード #}
+{% macro series_card(s, color='var(--accent)', unit='回') -%}
+<a class="scard" href="{{ s.url }}" rel="noopener" target="_blank">
+  <div class="scard-head"><span class="scard-name">{{ s.label }}</span><span class="trend {{ chg_class(s.change30) }}">{{ s.change30|pct }}</span></div>
+  {{ sparkline(s.weekly[-52:], 220, 44, color, label=s.label ~ ' の推移') }}
+  <p class="scard-num">直近 7 日 <b>{{ s.last7|short }}</b> {{ unit }}{% if s.change90 is not none %} ・ 3 か月前比 <b>{{ s.change90|pct }}</b>{% endif %}</p>
+</a>
+{%- endmacro %}

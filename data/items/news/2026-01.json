@@ -1,4 +1,19 @@
 {
+"news-bair-d16aba586a2f": {
+"id": "news-bair-d16aba586a2f",
+"source": "news",
+"kind": "blog",
+"title": "Information-Driven Design of Imaging Systems",
+"url": "http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
+"date": "2026-01-10",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Berkeley AI Research",
+"feed": "bair",
+"lang": "en"
+}
+},
 "news-deepmind-11b268cc7554": {
 "id": "news-deepmind-11b268cc7554",
 "source": "news",
@@ -41,6 +56,141 @@
 "extra": {
 "publisher": "Google DeepMind",
 "feed": "deepmind",
+"lang": "en"
+}
+},
+"news-google-research-17893d1f68eb": {
+"id": "news-google-research-17893d1f68eb",
+"source": "news",
+"kind": "news",
+"title": "Small models, big results: Achieving superior intent extraction through decomposition",
+"url": "https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/",
+"date": "2026-01-22",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-17d3121ab24b": {
+"id": "news-google-research-17d3121ab24b",
+"source": "news",
+"kind": "news",
+"title": "NeuralGCM harnesses AI to better simulate long-range global precipitation",
+"url": "https://research.google/blog/neuralgcm-harnesses-ai-to-better-simulate-long-range-global-precipitation/",
+"date": "2026-01-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-3ffbe3fac290": {
+"id": "news-google-research-3ffbe3fac290",
+"source": "news",
+"kind": "news",
+"title": "Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR",
+"url": "https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/",
+"date": "2026-01-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-69dc99bedddc": {
+"id": "news-google-research-69dc99bedddc",
+"source": "news",
+"kind": "news",
+"title": "ATLAS: Practical scaling laws for multilingual models",
+"url": "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/",
+"date": "2026-01-27",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-9566a2d6d649": {
+"id": "news-google-research-9566a2d6d649",
+"source": "news",
+"kind": "news",
+"title": "Towards a science of scaling agent systems: When and why agent systems work",
+"url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+"date": "2026-01-28",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-b7c4c01b9043": {
+"id": "news-google-research-b7c4c01b9043",
+"source": "news",
+"kind": "news",
+"title": "Introducing GIST: The next stage in smart sampling",
+"url": "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/",
+"date": "2026-01-23",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-c43560de5d0d": {
+"id": "news-google-research-c43560de5d0d",
+"source": "news",
+"kind": "news",
+"title": "Dynamic surface codes open new avenues for quantum error correction",
+"url": "https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/",
+"date": "2026-01-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-ecd12946b4c0": {
+"id": "news-google-research-ecd12946b4c0",
+"source": "news",
+"kind": "news",
+"title": "Unlocking health insights: Estimating advanced walking metrics with smartwatches",
+"url": "https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches/",
+"date": "2026-01-15",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-f7128d17039d": {
+"id": "news-google-research-f7128d17039d",
+"source": "news",
+"kind": "news",
+"title": "Hard-braking events as indicators of road segment crash risk",
+"url": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+"date": "2026-01-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
 "lang": "en"
 }
 },
@@ -791,6 +941,81 @@
 "extra": {
 "publisher": "OpenAI",
 "feed": "openai",
+"lang": "en"
+}
+},
+"news-together-02c20a227c22": {
+"id": "news-together-02c20a227c22",
+"source": "news",
+"kind": "news",
+"title": "Optimizing inference speed and costs: Lessons learned from large-scale deployments",
+"url": "https://www.together.ai/blog/optimizing-inference-speed-and-costs",
+"date": "2026-01-22",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-49f72c458e8b": {
+"id": "news-together-49f72c458e8b",
+"source": "news",
+"kind": "news",
+"title": "DSGym: A holistic framework for evaluating and training data science agents",
+"url": "https://www.together.ai/blog/dsgym",
+"date": "2026-01-26",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-97a945094ca2": {
+"id": "news-together-97a945094ca2",
+"source": "news",
+"kind": "news",
+"title": "How to choose the right open model for production",
+"url": "https://www.together.ai/blog/how-to-choose-the-right-open-model-for-production",
+"date": "2026-01-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-c0125c364704": {
+"id": "news-together-c0125c364704",
+"source": "news",
+"kind": "news",
+"title": "Inside multi-node training: How to scale model training across GPU clusters",
+"url": "https://www.together.ai/blog/multi-node-gpu-training",
+"date": "2026-01-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-e8eb57135eb8": {
+"id": "news-together-e8eb57135eb8",
+"source": "news",
+"kind": "news",
+"title": "Learn how Cursor partnered with Together AI to deliver real-time, low-latency inference at scale",
+"url": "https://www.together.ai/blog/learn-how-cursor-partnered-with-together-ai-to-deliver-real-time-low-latency-inference-at-scale",
+"date": "2026-01-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
 "lang": "en"
 }
 }

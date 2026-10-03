@@ -2,6 +2,7 @@ import json
 from datetime import date
 
 from aiwatch.model import load_all, parse_note, pick_for_notes, topic_stats, week_key
+from aiwatch.feeds import Feed
 from aiwatch.sources import first_sentences, parse_feed, save_items
 from aiwatch.topics import TOPICS, classify
 
@@ -34,11 +35,17 @@ def test_first_sentences_cuts_at_sentence():
 def test_parse_feed_rss_and_atom():
     rss = b"""<rss><channel><item><title>Introducing X</title><link>https://ex.com/a</link>
       <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate></item></channel></rss>"""
-    rows = parse_feed(rss, "openai", "OpenAI")
+    rows = parse_feed(rss, Feed("openai", "OpenAI", "", "news"))
     assert rows[0]["date"] == "2026-09-29" and rows[0]["url"] == "https://ex.com/a"
     atom = b"""<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>Y</title>
       <link rel="alternate" href="https://ex.com/b"/><updated>2026-09-30T01:00:00Z</updated></entry></feed>"""
-    assert parse_feed(atom, "x", "X")[0]["url"] == "https://ex.com/b"
+    assert parse_feed(atom, Feed("x", "X", "", "media"))[0]["url"] == "https://ex.com/b"
+    rdf = """<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"><item><title>生成AIの新機能</title><link>https://ex.com/c</link>
+      <dc:date>2026-10-01T09:00:00+09:00</dc:date></item><item><title>決算発表</title><link>https://ex.com/d</link>
+      <dc:date>2026-10-01T09:00:00+09:00</dc:date></item></rdf:RDF>""".encode("utf-8")
+    rows = parse_feed(rdf, Feed("x", "X", "", "media", "ja", filter=True))
+    assert [r["url"] for r in rows] == ["https://ex.com/c"]   # AI と関係ない記事は落とす
 
 
 def _item(i, source="hn", kind="discussion", day="2026-09-30", score=10, title="LLM agents"):
@@ -83,3 +90,10 @@ def test_corpus_heat_stats_and_notes(tmp_path):
 
 def test_week_key():
     assert week_key(date(2026, 10, 4)) == "2026-W40"
+
+
+def test_scrape_anthropic():
+    from aiwatch.sources import scrape_anthropic
+    html = '<a href="/news/x-y"><time class="d">Oct 2, 2026</time><span>Announcements</span><h3>Long title of the news</h3></a>'
+    rows = scrape_anthropic(html, "anthropic", "Anthropic", "news")
+    assert rows[0]["date"] == "2026-10-02" and rows[0]["title"] == "Long title of the news"

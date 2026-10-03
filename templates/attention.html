@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% from "_series.html" import series_card %}
+{% block title %}AI への世間の関心（Wikipedia の閲覧数で見る） | {{ site.name }}{% endblock %}
+{% block description %}ChatGPT・Claude・Gemini・DeepSeek・AI エージェント・RAG・MCP などが、どれくらい調べられているかを Wikipedia の閲覧数で毎日追跡しています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 世間の関心</nav>
+<header class="page-head">
+  <p class="eyebrow">数字で見る</p>
+  <h1>AI への世間の関心</h1>
+  <p class="lead">Wikipedia の記事がどれだけ読まれているかは、「いま人々が何を調べているか」のよい目安です。
+    製品名・会社名・技術用語の閲覧数を毎日集めています。右上の % は<b>直近 30 日とその前の 30 日の比較</b>、折れ線は 1 年分の週ごとの閲覧数です。</p>
+</header>
+{% set rising = dash.rising_attention(8) %}
+{% if rising %}
+<section class="sec">
+  <div class="sec-head"><h2>関心が伸びているもの</h2></div>
+  <div class="sgrid">{% for s in rising %}{{ series_card(s, '#db2777') }}{% endfor %}</div>
+</section>
+{% endif %}
+{% for lang, label in [('en', '英語版 Wikipedia（世界の関心）'), ('ja', '日本語版 Wikipedia（日本の関心）')] %}
+{% set rows = dash.attention|selectattr('group', 'equalto', lang)|list %}
+{% if rows %}
+<section class="sec">
+  <div class="sec-head"><h2>{{ label }}</h2></div>
+  <div class="sgrid">{% for s in rows|sort(attribute='last30', reverse=True) %}{{ series_card(s) }}{% endfor %}</div>
+</section>
+{% endif %}
+{% endfor %}
+{% if not dash.attention %}<p class="muted">まだデータがありません。</p>{% endif %}
+<p class="small muted">出典: Wikimedia の閲覧数 API（人間による閲覧のみ・全端末）。記事名の変更や転送で、数字が急に変わることがあります。</p>
+{% endblock %}

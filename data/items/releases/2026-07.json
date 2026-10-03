@@ -1,0 +1,830 @@
+{
+"release-ByteDance-Seed__PAR": {
+"id": "release-ByteDance-Seed__PAR",
+"source": "releases",
+"kind": "release",
+"title": "ByteDance-Seed/PAR",
+"url": "https://huggingface.co/ByteDance-Seed/PAR",
+"date": "2026-07-03",
+"summary": "",
+"score": 7,
+"extra": {
+"org": "ByteDance-Seed",
+"publisher": "ByteDance Seed",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-CohereLabs__North-Mini-Code-1.0-eagle": {
+"id": "release-CohereLabs__North-Mini-Code-1.0-eagle",
+"source": "releases",
+"kind": "release",
+"title": "CohereLabs/North-Mini-Code-1.0-eagle",
+"url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0-eagle",
+"date": "2026-07-24",
+"summary": "",
+"score": 8,
+"extra": {
+"org": "CohereLabs",
+"publisher": "Cohere",
+"jp": false,
+"task": "",
+"downloads": 309,
+"lang": "en"
+}
+},
+"release-Lightricks__LTX-2.3-22b-IC-LoRA-Clean-Plate": {
+"id": "release-Lightricks__LTX-2.3-22b-IC-LoRA-Clean-Plate",
+"source": "releases",
+"kind": "release",
+"title": "Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate",
+"url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate",
+"date": "2026-07-19",
+"summary": "",
+"score": 109,
+"extra": {
+"org": "Lightricks",
+"publisher": "Lightricks",
+"jp": false,
+"task": "video-to-video",
+"downloads": 570,
+"lang": "en"
+}
+},
+"release-Lightricks__LTX-2.3-22b-IC-LoRA-Relight": {
+"id": "release-Lightricks__LTX-2.3-22b-IC-LoRA-Relight",
+"source": "releases",
+"kind": "release",
+"title": "Lightricks/LTX-2.3-22b-IC-LoRA-Relight",
+"url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Relight",
+"date": "2026-07-27",
+"summary": "",
+"score": 35,
+"extra": {
+"org": "Lightricks",
+"publisher": "Lightricks",
+"jp": false,
+"task": "video-to-video",
+"downloads": 458,
+"lang": "en"
+}
+},
+"release-Lightricks__LTX-2.3-22b-LoRA-Cinemagraph": {
+"id": "release-Lightricks__LTX-2.3-22b-LoRA-Cinemagraph",
+"source": "releases",
+"kind": "release",
+"title": "Lightricks/LTX-2.3-22b-LoRA-Cinemagraph",
+"url": "https://huggingface.co/Lightricks/LTX-2.3-22b-LoRA-Cinemagraph",
+"date": "2026-07-05",
+"summary": "",
+"score": 51,
+"extra": {
+"org": "Lightricks",
+"publisher": "Lightricks",
+"jp": false,
+"task": "image-to-video",
+"downloads": 576,
+"lang": "en"
+}
+},
+"release-Lightricks__LTX-2.3-22b-LoRA-Foley-V2A": {
+"id": "release-Lightricks__LTX-2.3-22b-LoRA-Foley-V2A",
+"source": "releases",
+"kind": "release",
+"title": "Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
+"url": "https://huggingface.co/Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
+"date": "2026-07-15",
+"summary": "",
+"score": 33,
+"extra": {
+"org": "Lightricks",
+"publisher": "Lightricks",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 403,
+"lang": "en"
+}
+},
+"release-Lightricks__LTX-2.5": {
+"id": "release-Lightricks__LTX-2.5",
+"source": "releases",
+"kind": "release",
+"title": "Lightricks/LTX-2.5",
+"url": "https://huggingface.co/Lightricks/LTX-2.5",
+"date": "2026-07-23",
+"summary": "",
+"score": 6099,
+"extra": {
+"org": "Lightricks",
+"publisher": "Lightricks",
+"jp": false,
+"task": "image-to-video",
+"downloads": 1629984,
+"lang": "en"
+}
+},
+"release-Lightricks__LTX-2.5-Diffusers": {
+"id": "release-Lightricks__LTX-2.5-Diffusers",
+"source": "releases",
+"kind": "release",
+"title": "Lightricks/LTX-2.5-Diffusers",
+"url": "https://huggingface.co/Lightricks/LTX-2.5-Diffusers",
+"date": "2026-07-26",
+"summary": "",
+"score": 82,
+"extra": {
+"org": "Lightricks",
+"publisher": "Lightricks",
+"jp": false,
+"task": "text-to-video",
+"downloads": 59186,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B": {
+"id": "release-LiquidAI__LFM2.5-2.6B",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+"date": "2026-07-28",
+"summary": "",
+"score": 794,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 108072,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-Encoder-230M-GGUF": {
+"id": "release-LiquidAI__LFM2.5-Encoder-230M-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-Encoder-230M-GGUF",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-Encoder-230M-GGUF",
+"date": "2026-07-28",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "fill-mask",
+"downloads": 132,
+"lang": "en"
+}
+},
+"release-MiniMaxAI__MiniMax-H3": {
+"id": "release-MiniMaxAI__MiniMax-H3",
+"source": "releases",
+"kind": "release",
+"title": "MiniMaxAI/MiniMax-H3",
+"url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+"date": "2026-07-28",
+"summary": "",
+"score": 5857,
+"extra": {
+"org": "MiniMaxAI",
+"publisher": "MiniMax",
+"jp": false,
+"task": "image-text-to-video",
+"downloads": 3564596,
+"lang": "en"
+}
+},
+"release-Rakuten__RakutenAI-7B-chat-onnx": {
+"id": "release-Rakuten__RakutenAI-7B-chat-onnx",
+"source": "releases",
+"kind": "release",
+"title": "Rakuten/RakutenAI-7B-chat-onnx",
+"url": "https://huggingface.co/Rakuten/RakutenAI-7B-chat-onnx",
+"date": "2026-07-27",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "Rakuten",
+"publisher": "楽天",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-SakanaAI__fwpkm-l12-fa-pkm2_6_10": {
+"id": "release-SakanaAI__fwpkm-l12-fa-pkm2_6_10",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/fwpkm-l12-fa-pkm2_6_10",
+"url": "https://huggingface.co/SakanaAI/fwpkm-l12-fa-pkm2_6_10",
+"date": "2026-07-27",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 20,
+"lang": "ja"
+}
+},
+"release-SakanaAI__fwpkm-l12-fa-pkm6-fwpkm2_10-pswa0.9": {
+"id": "release-SakanaAI__fwpkm-l12-fa-pkm6-fwpkm2_10-pswa0.9",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/fwpkm-l12-fa-pkm6-fwpkm2_10-pswa0.9",
+"url": "https://huggingface.co/SakanaAI/fwpkm-l12-fa-pkm6-fwpkm2_10-pswa0.9",
+"date": "2026-07-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 38,
+"lang": "ja"
+}
+},
+"release-SakanaAI__fwpkm-l12-gdn-pkm2_6_10": {
+"id": "release-SakanaAI__fwpkm-l12-gdn-pkm2_6_10",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/fwpkm-l12-gdn-pkm2_6_10",
+"url": "https://huggingface.co/SakanaAI/fwpkm-l12-gdn-pkm2_6_10",
+"date": "2026-07-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 21,
+"lang": "ja"
+}
+},
+"release-SakanaAI__fwpkm-l12-gdn-pkm6-fwpkm2_10": {
+"id": "release-SakanaAI__fwpkm-l12-gdn-pkm6-fwpkm2_10",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/fwpkm-l12-gdn-pkm6-fwpkm2_10",
+"url": "https://huggingface.co/SakanaAI/fwpkm-l12-gdn-pkm6-fwpkm2_10",
+"date": "2026-07-27",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 27,
+"lang": "ja"
+}
+},
+"release-SakanaAI__fwpkm-l12-gdn_fa-pkm2_6_10": {
+"id": "release-SakanaAI__fwpkm-l12-gdn_fa-pkm2_6_10",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/fwpkm-l12-gdn_fa-pkm2_6_10",
+"url": "https://huggingface.co/SakanaAI/fwpkm-l12-gdn_fa-pkm2_6_10",
+"date": "2026-07-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 23,
+"lang": "ja"
+}
+},
+"release-SakanaAI__fwpkm-l12-gdn_fa-pkm6-fwpkm2_10-pswa0.9": {
+"id": "release-SakanaAI__fwpkm-l12-gdn_fa-pkm6-fwpkm2_10-pswa0.9",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/fwpkm-l12-gdn_fa-pkm6-fwpkm2_10-pswa0.9",
+"url": "https://huggingface.co/SakanaAI/fwpkm-l12-gdn_fa-pkm6-fwpkm2_10-pswa0.9",
+"date": "2026-07-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 25,
+"lang": "ja"
+}
+},
+"release-SakanaAI__fwpkm-l12-gdn_swa-pkm2_6_10": {
+"id": "release-SakanaAI__fwpkm-l12-gdn_swa-pkm2_6_10",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/fwpkm-l12-gdn_swa-pkm2_6_10",
+"url": "https://huggingface.co/SakanaAI/fwpkm-l12-gdn_swa-pkm2_6_10",
+"date": "2026-07-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 20,
+"lang": "ja"
+}
+},
+"release-SakanaAI__fwpkm-l12-gdn_swa-pkm6-fwpkm2_10": {
+"id": "release-SakanaAI__fwpkm-l12-gdn_swa-pkm6-fwpkm2_10",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/fwpkm-l12-gdn_swa-pkm6-fwpkm2_10",
+"url": "https://huggingface.co/SakanaAI/fwpkm-l12-gdn_swa-pkm6-fwpkm2_10",
+"date": "2026-07-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 28,
+"lang": "ja"
+}
+},
+"release-deepseek-ai__DeepSeek-V4-Flash-0731": {
+"id": "release-deepseek-ai__DeepSeek-V4-Flash-0731",
+"source": "releases",
+"kind": "release",
+"title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+"url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+"date": "2026-07-31",
+"summary": "",
+"score": 4012,
+"extra": {
+"org": "deepseek-ai",
+"publisher": "DeepSeek",
+"jp": false,
+"task": "text-generation",
+"downloads": 4481923,
+"lang": "en"
+}
+},
+"release-google__tabfm-1.1.0-pytorch": {
+"id": "release-google__tabfm-1.1.0-pytorch",
+"source": "releases",
+"kind": "release",
+"title": "google/tabfm-1.1.0-pytorch",
+"url": "https://huggingface.co/google/tabfm-1.1.0-pytorch",
+"date": "2026-07-31",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "tabular-classification",
+"downloads": 74,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-swash-2b": {
+"id": "release-ibm-granite__granite-swash-2b",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-swash-2b",
+"url": "https://huggingface.co/ibm-granite/granite-swash-2b",
+"date": "2026-07-01",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 23252,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-swash-3b-a600m": {
+"id": "release-ibm-granite__granite-swash-3b-a600m",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-swash-3b-a600m",
+"url": "https://huggingface.co/ibm-granite/granite-swash-3b-a600m",
+"date": "2026-07-01",
+"summary": "",
+"score": 16,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 21778,
+"lang": "en"
+}
+},
+"release-llm-jp__kaburi-tts": {
+"id": "release-llm-jp__kaburi-tts",
+"source": "releases",
+"kind": "release",
+"title": "llm-jp/kaburi-tts",
+"url": "https://huggingface.co/llm-jp/kaburi-tts",
+"date": "2026-07-21",
+"summary": "",
+"score": 16,
+"extra": {
+"org": "llm-jp",
+"publisher": "LLM-jp（国立情報学研究所）",
+"jp": true,
+"task": "text-to-speech",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-microsoft__Fara1.5-27B": {
+"id": "release-microsoft__Fara1.5-27B",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/Fara1.5-27B",
+"url": "https://huggingface.co/microsoft/Fara1.5-27B",
+"date": "2026-07-17",
+"summary": "",
+"score": 292,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 1966,
+"lang": "en"
+}
+},
+"release-microsoft__Fara1.5-4B": {
+"id": "release-microsoft__Fara1.5-4B",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/Fara1.5-4B",
+"url": "https://huggingface.co/microsoft/Fara1.5-4B",
+"date": "2026-07-17",
+"summary": "",
+"score": 47,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 1650,
+"lang": "en"
+}
+},
+"release-microsoft__HARC-Llama-3.1-8B-Instruct": {
+"id": "release-microsoft__HARC-Llama-3.1-8B-Instruct",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/HARC-Llama-3.1-8B-Instruct",
+"url": "https://huggingface.co/microsoft/HARC-Llama-3.1-8B-Instruct",
+"date": "2026-07-02",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "text-generation",
+"downloads": 543,
+"lang": "en"
+}
+},
+"release-microsoft__HARC-Qwen2.5-7B-Instruct": {
+"id": "release-microsoft__HARC-Qwen2.5-7B-Instruct",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/HARC-Qwen2.5-7B-Instruct",
+"url": "https://huggingface.co/microsoft/HARC-Qwen2.5-7B-Instruct",
+"date": "2026-07-02",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "text-generation",
+"downloads": 569,
+"lang": "en"
+}
+},
+"release-microsoft__Mage-VL": {
+"id": "release-microsoft__Mage-VL",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/Mage-VL",
+"url": "https://huggingface.co/microsoft/Mage-VL",
+"date": "2026-07-25",
+"summary": "",
+"score": 416,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 10895,
+"lang": "en"
+}
+},
+"release-microsoft__Mage-ViT": {
+"id": "release-microsoft__Mage-ViT",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/Mage-ViT",
+"url": "https://huggingface.co/microsoft/Mage-ViT",
+"date": "2026-07-26",
+"summary": "",
+"score": 37,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "image-feature-extraction",
+"downloads": 255,
+"lang": "en"
+}
+},
+"release-microsoft__VibeVoice-ASR-BitNet": {
+"id": "release-microsoft__VibeVoice-ASR-BitNet",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/VibeVoice-ASR-BitNet",
+"url": "https://huggingface.co/microsoft/VibeVoice-ASR-BitNet",
+"date": "2026-07-24",
+"summary": "",
+"score": 203,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "automatic-speech-recognition",
+"downloads": 63631,
+"lang": "en"
+}
+},
+"release-microsoft__bitnet-embedding-0.6b": {
+"id": "release-microsoft__bitnet-embedding-0.6b",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/bitnet-embedding-0.6b",
+"url": "https://huggingface.co/microsoft/bitnet-embedding-0.6b",
+"date": "2026-07-15",
+"summary": "",
+"score": 27,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 1451,
+"lang": "en"
+}
+},
+"release-microsoft__bitnet-embedding-270m": {
+"id": "release-microsoft__bitnet-embedding-270m",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/bitnet-embedding-270m",
+"url": "https://huggingface.co/microsoft/bitnet-embedding-270m",
+"date": "2026-07-15",
+"summary": "",
+"score": 19,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 1016,
+"lang": "en"
+}
+},
+"release-mistralai__Leanstral-1.5-119B-A6B": {
+"id": "release-mistralai__Leanstral-1.5-119B-A6B",
+"source": "releases",
+"kind": "release",
+"title": "mistralai/Leanstral-1.5-119B-A6B",
+"url": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+"date": "2026-07-01",
+"summary": "",
+"score": 219,
+"extra": {
+"org": "mistralai",
+"publisher": "Mistral AI",
+"jp": false,
+"task": "",
+"downloads": 306,
+"lang": "en"
+}
+},
+"release-mistralai__Shieldstral-1.0-3B": {
+"id": "release-mistralai__Shieldstral-1.0-3B",
+"source": "releases",
+"kind": "release",
+"title": "mistralai/Shieldstral-1.0-3B",
+"url": "https://huggingface.co/mistralai/Shieldstral-1.0-3B",
+"date": "2026-07-16",
+"summary": "",
+"score": 284,
+"extra": {
+"org": "mistralai",
+"publisher": "Mistral AI",
+"jp": false,
+"task": "",
+"downloads": 38028,
+"lang": "en"
+}
+},
+"release-stockmark__Stockmark-Nemotron-3-Nano-Omni-JapanDocReader": {
+"id": "release-stockmark__Stockmark-Nemotron-3-Nano-Omni-JapanDocReader",
+"source": "releases",
+"kind": "release",
+"title": "stockmark/Stockmark-Nemotron-3-Nano-Omni-JapanDocReader",
+"url": "https://huggingface.co/stockmark/Stockmark-Nemotron-3-Nano-Omni-JapanDocReader",
+"date": "2026-07-15",
+"summary": "",
+"score": 8,
+"extra": {
+"org": "stockmark",
+"publisher": "ストックマーク",
+"jp": true,
+"task": "image-text-to-text",
+"downloads": 632,
+"lang": "ja"
+}
+},
+"release-stockmark__Stockmark-Nemotron-3-Nano-Omni-JapanDocReader-FP8": {
+"id": "release-stockmark__Stockmark-Nemotron-3-Nano-Omni-JapanDocReader-FP8",
+"source": "releases",
+"kind": "release",
+"title": "stockmark/Stockmark-Nemotron-3-Nano-Omni-JapanDocReader-FP8",
+"url": "https://huggingface.co/stockmark/Stockmark-Nemotron-3-Nano-Omni-JapanDocReader-FP8",
+"date": "2026-07-29",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "stockmark",
+"publisher": "ストックマーク",
+"jp": true,
+"task": "image-text-to-text",
+"downloads": 78,
+"lang": "ja"
+}
+},
+"release-tencent__HiLS-Attention-7B": {
+"id": "release-tencent__HiLS-Attention-7B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/HiLS-Attention-7B",
+"url": "https://huggingface.co/tencent/HiLS-Attention-7B",
+"date": "2026-07-09",
+"summary": "",
+"score": 24,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-generation",
+"downloads": 566,
+"lang": "en"
+}
+},
+"release-tencent__Hy-Embodied-RxBrain-1.0": {
+"id": "release-tencent__Hy-Embodied-RxBrain-1.0",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Hy-Embodied-RxBrain-1.0",
+"url": "https://huggingface.co/tencent/Hy-Embodied-RxBrain-1.0",
+"date": "2026-07-14",
+"summary": "",
+"score": 57,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "any-to-any",
+"downloads": 403,
+"lang": "en"
+}
+},
+"release-tencent__Hy-Embodied-VLM-1.0": {
+"id": "release-tencent__Hy-Embodied-VLM-1.0",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Hy-Embodied-VLM-1.0",
+"url": "https://huggingface.co/tencent/Hy-Embodied-VLM-1.0",
+"date": "2026-07-14",
+"summary": "",
+"score": 26,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 727,
+"lang": "en"
+}
+},
+"release-tencent__Hy-MT2-30B-A3B-GGUF": {
+"id": "release-tencent__Hy-MT2-30B-A3B-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Hy-MT2-30B-A3B-GGUF",
+"url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B-GGUF",
+"date": "2026-07-23",
+"summary": "",
+"score": 22,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "translation",
+"downloads": 24972,
+"lang": "en"
+}
+},
+"release-tencent__Hy3": {
+"id": "release-tencent__Hy3",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Hy3",
+"url": "https://huggingface.co/tencent/Hy3",
+"date": "2026-07-02",
+"summary": "",
+"score": 973,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-generation",
+"downloads": 304888,
+"lang": "en"
+}
+},
+"release-tencent__Hy3-FP8": {
+"id": "release-tencent__Hy3-FP8",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Hy3-FP8",
+"url": "https://huggingface.co/tencent/Hy3-FP8",
+"date": "2026-07-04",
+"summary": "",
+"score": 70,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-generation",
+"downloads": 56208,
+"lang": "en"
+}
+},
+"release-tencent__R3-embedding-0.6b": {
+"id": "release-tencent__R3-embedding-0.6b",
+"source": "releases",
+"kind": "release",
+"title": "tencent/R3-embedding-0.6b",
+"url": "https://huggingface.co/tencent/R3-embedding-0.6b",
+"date": "2026-07-08",
+"summary": "",
+"score": 27,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "sentence-similarity",
+"downloads": 754,
+"lang": "en"
+}
+},
+"release-tencent__R3-rerank-0.6b": {
+"id": "release-tencent__R3-rerank-0.6b",
+"source": "releases",
+"kind": "release",
+"title": "tencent/R3-rerank-0.6b",
+"url": "https://huggingface.co/tencent/R3-rerank-0.6b",
+"date": "2026-07-08",
+"summary": "",
+"score": 32,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-ranking",
+"downloads": 1123,
+"lang": "en"
+}
+}
+}

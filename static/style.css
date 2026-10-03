@@ -42,7 +42,7 @@ a:hover { text-decoration: underline; }
 .site-header { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--panel) 88%, transparent);
   backdrop-filter: saturate(1.4) blur(10px); border-bottom: 1px solid var(--line); }
 .bar { display: flex; align-items: center; gap: 24px; height: 60px; }
-.brand { display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 1.15rem; color: var(--ink); letter-spacing: .02em; }
+.brand { display: flex; align-items: center; gap: 10px; white-space: nowrap; flex-shrink: 0; font-weight: 800; font-size: 1.15rem; color: var(--ink); letter-spacing: .02em; }
 .brand:hover { text-decoration: none; }
 .brand.small { font-size: 1rem; margin: 0 0 6px; }
 .logo { width: 26px; height: 26px; border-radius: 8px; background: conic-gradient(from 210deg, var(--accent), var(--accent2), #ff7aa8, var(--accent)); }
@@ -223,9 +223,41 @@ table.models { width: 100%; border-collapse: collapse; font-size: .9rem; }
 .foot-list a { color: var(--ink2); }
 .fine { font-size: .76rem; margin-top: 20px; }
 
+/* 数字の帯 */
+.kpis { display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; margin: -12px 0 36px; }
+.kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; }
+.kpi .k { display: block; font-size: .74rem; color: var(--muted); }
+.kpi b { font-size: 1.5rem; font-variant-numeric: tabular-nums; }
+.kpi .u { font-size: .8rem; color: var(--muted); margin-left: 3px; }
+.cols3 { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
+.numgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 16px; }
+.numbox { background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px; min-width: 0; }
+.numbox h3 { margin: 0; font-size: 1rem; }
+.numbox h3 a { color: var(--ink); }
+.numbox .table-wrap { border: 0; }
+/* 系列のカード */
+.sgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+.sgrid.tight { grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 8px; }
+.scard { display: block; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px 10px; color: var(--ink); min-width: 0; }
+.scard:hover { text-decoration: none; border-color: var(--accent); }
+.numbox .scard { background: var(--bg); }
+.scard-head { display: flex; justify-content: space-between; gap: 8px; align-items: center; }
+.scard-name { font-weight: 700; font-size: .92rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.scard .spark { display: block; width: 100%; height: 44px; margin: 6px 0 2px; }
+.scard-num { margin: 0; font-size: .74rem; color: var(--muted); }
+.scard-num b { color: var(--ink); }
+.jp { display: inline-block; font-size: .66rem; font-weight: 700; color: #fff; background: #d6336c; border-radius: 4px; padding: 0 5px; margin-right: 4px; vertical-align: 1px; }
+.filter input[type=search] { font: inherit; font-size: .85rem; border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 999px; padding: 4px 14px; min-width: 260px; }
+.chk { font-size: .85rem; color: var(--ink2); display: flex; align-items: center; gap: 4px; }
+.models tr[hidden] { display: none; }
+
+@media (max-width: 1000px) {
+  .kpis { grid-template-columns: repeat(3, 1fr); }
+  .cols3 { grid-template-columns: 1fr; }
+}
 @media (max-width: 900px) {
   .hero, .cols, .topic-layout, .foot-cols { grid-template-columns: 1fr; }
-  .items.grid2 { grid-template-columns: 1fr; }
+  .items.grid2, .numgrid { grid-template-columns: 1fr; }
   .topic-side { position: static; }
   .bar { gap: 12px; }
 }
@@ -235,5 +267,8 @@ table.models { width: 100%; border-collapse: collapse; font-size: .9rem; }
   .bar { height: auto; flex-direction: column; align-items: flex-start; padding: 10px 16px 6px; gap: 4px; }
   .nav { width: 100%; margin: 0 -4px; }
   .guide { padding: 18px; }
+  .kpis { grid-template-columns: repeat(2, 1fr); }
+  .sgrid.tight { grid-template-columns: 1fr; }
+  .filter input[type=search] { min-width: 0; width: 100%; }
   .models th:nth-child(5), .models td:nth-child(5) { display: none; }
 }

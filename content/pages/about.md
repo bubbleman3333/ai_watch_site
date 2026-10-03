@@ -11,16 +11,24 @@ AIウォッチは、論文・各社の発表・話題のモデルとオープン
 
 ## どこから集めているか
 
-| 取り込み元 | 何が分かるか | 載せているもの |
+毎朝、50 か所以上から自動で集めています。一覧と件数は[情報源の一覧](page:sources)にあります。
+
+| 種類 | 取り込み元 | 何が分かるか |
 | --- | --- | --- |
-| [arXiv](https://arxiv.org/)（公開 API） | 研究の量。テーマごとの週あたりの論文数 | 件数だけ |
-| [Hugging Face Daily Papers](https://huggingface.co/papers) | 研究者が「これは読むべき」と票を入れた論文 | 題名・要旨の冒頭・票の数 |
-| [Hugging Face](https://huggingface.co/models)（トレンド） | いま実際にダウンロードされ、試されているモデル | モデル名・タスク・ライセンス・いいね数 |
-| [GitHub](https://github.com/)（検索 API） | 作られたばかりで急にスターを集めているオープンソース | リポジトリ名・説明・スター数 |
-| [Hacker News](https://news.ycombinator.com/)（Algolia API） | エンジニアの間で話題になった記事 | 題名・点数・コメント数 |
-| 各社の公式ブログ（RSS） | OpenAI・Google・Microsoft・NVIDIA・AWS・Hugging Face・Mistral AI・ITmedia AI+ の発表 | 題名とリンクだけ |
+| 公式発表 | OpenAI・Anthropic・Google・DeepMind・Microsoft・NVIDIA・Apple・AWS・Hugging Face・Mistral・Sakana AI ほか | 新製品・新モデル・提携 |
+| 研究・専門家 | Berkeley AI Research・MIT News・Import AI・Simon Willison・Latent Space | 技術の中身と評価 |
+| 報道 | TechCrunch・The Verge・Ars Technica・MIT Technology Review・WIRED・ITmedia AI+・日経クロステック・Publickey・Impress Watch | 業界の動き |
+| 政府 | デジタル庁・経済産業省 | 日本の政策・ガイドライン |
+| 技術記事 | Zenn・Qiita・DEV・Lobsters・Hacker News | エンジニアが実際に試していること |
+| 論文 | arXiv・Hugging Face Daily Papers | 研究の量と、研究者が注目した論文 |
+| モデル | Hugging Face（トレンド・主要 37 組織の新モデル・アプリ・データセット） | 新しく公開されたモデルと、いま試されているもの |
+| オープンソース | GitHub | 伸びている新しいリポジトリと、主要 35 件のスター数・リリース |
+| 価格 | OpenRouter | 400 以上のモデルの API 価格と、値動き |
+| 普及 | PyPI・npm | AI ライブラリのダウンロード数（開発現場で使われている量） |
+| 関心 | Wikipedia | 製品名・技術用語の閲覧数（世間の関心） |
 
 記事や論文の本文は転載していません。題名とリンクを載せ、詳しくは元のページで読んでいただく形にしています。
+RSS の無い一部のサイト（Anthropic）は、ニュース一覧のページから題名・日付・リンクだけを読み取っています。
 
 ## 「勢い」の計算
 

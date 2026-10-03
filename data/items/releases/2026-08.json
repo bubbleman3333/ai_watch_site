@@ -1,0 +1,1910 @@
+{
+"release-CohereLabs__North-Micro-Vision-Instruct": {
+"id": "release-CohereLabs__North-Micro-Vision-Instruct",
+"source": "releases",
+"kind": "release",
+"title": "CohereLabs/North-Micro-Vision-Instruct",
+"url": "https://huggingface.co/CohereLabs/North-Micro-Vision-Instruct",
+"date": "2026-08-10",
+"summary": "",
+"score": 150,
+"extra": {
+"org": "CohereLabs",
+"publisher": "Cohere",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 180742,
+"lang": "en"
+}
+},
+"release-CohereLabs__North-Small-Translate-1.0": {
+"id": "release-CohereLabs__North-Small-Translate-1.0",
+"source": "releases",
+"kind": "release",
+"title": "CohereLabs/North-Small-Translate-1.0",
+"url": "https://huggingface.co/CohereLabs/North-Small-Translate-1.0",
+"date": "2026-08-14",
+"summary": "",
+"score": 57,
+"extra": {
+"org": "CohereLabs",
+"publisher": "Cohere",
+"jp": false,
+"task": "translation",
+"downloads": 162,
+"lang": "en"
+}
+},
+"release-CohereLabs__North-Small-Translate-1.0-fp8": {
+"id": "release-CohereLabs__North-Small-Translate-1.0-fp8",
+"source": "releases",
+"kind": "release",
+"title": "CohereLabs/North-Small-Translate-1.0-fp8",
+"url": "https://huggingface.co/CohereLabs/North-Small-Translate-1.0-fp8",
+"date": "2026-08-14",
+"summary": "",
+"score": 6,
+"extra": {
+"org": "CohereLabs",
+"publisher": "Cohere",
+"jp": false,
+"task": "translation",
+"downloads": 26,
+"lang": "en"
+}
+},
+"release-CohereLabs__North-Small-Translate-1.0-w4a16": {
+"id": "release-CohereLabs__North-Small-Translate-1.0-w4a16",
+"source": "releases",
+"kind": "release",
+"title": "CohereLabs/North-Small-Translate-1.0-w4a16",
+"url": "https://huggingface.co/CohereLabs/North-Small-Translate-1.0-w4a16",
+"date": "2026-08-14",
+"summary": "",
+"score": 9,
+"extra": {
+"org": "CohereLabs",
+"publisher": "Cohere",
+"jp": false,
+"task": "translation",
+"downloads": 38,
+"lang": "en"
+}
+},
+"release-Lightricks__LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler": {
+"id": "release-Lightricks__LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler",
+"source": "releases",
+"kind": "release",
+"title": "Lightricks/LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler",
+"url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Pixel-Spatial-Upscaler",
+"date": "2026-08-11",
+"summary": "",
+"score": 110,
+"extra": {
+"org": "Lightricks",
+"publisher": "Lightricks",
+"jp": false,
+"task": "video-to-video",
+"downloads": 6801,
+"lang": "en"
+}
+},
+"release-Lightricks__LTX-2.5-Pre-Trained": {
+"id": "release-Lightricks__LTX-2.5-Pre-Trained",
+"source": "releases",
+"kind": "release",
+"title": "Lightricks/LTX-2.5-Pre-Trained",
+"url": "https://huggingface.co/Lightricks/LTX-2.5-Pre-Trained",
+"date": "2026-08-10",
+"summary": "",
+"score": 36,
+"extra": {
+"org": "Lightricks",
+"publisher": "Lightricks",
+"jp": false,
+"task": "image-to-video",
+"downloads": 333,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-1.2B-Instruct-DSpark": {
+"id": "release-LiquidAI__LFM2.5-1.2B-Instruct-DSpark",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-1.2B-Instruct-DSpark",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct-DSpark",
+"date": "2026-08-10",
+"summary": "",
+"score": 33,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 945,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-1.2B-Instruct-DSpark-GGUF": {
+"id": "release-LiquidAI__LFM2.5-1.2B-Instruct-DSpark-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-1.2B-Instruct-DSpark-GGUF",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Instruct-DSpark-GGUF",
+"date": "2026-08-19",
+"summary": "",
+"score": 29,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 1484,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-Base": {
+"id": "release-LiquidAI__LFM2.5-2.6B-Base",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-Base",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-Base",
+"date": "2026-08-01",
+"summary": "",
+"score": 50,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 13754,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-DSpark": {
+"id": "release-LiquidAI__LFM2.5-2.6B-DSpark",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-DSpark",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-DSpark",
+"date": "2026-08-10",
+"summary": "",
+"score": 36,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 12252,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-DSpark-GGUF": {
+"id": "release-LiquidAI__LFM2.5-2.6B-DSpark-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-DSpark-GGUF",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-DSpark-GGUF",
+"date": "2026-08-19",
+"summary": "",
+"score": 53,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 142997,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-GGUF": {
+"id": "release-LiquidAI__LFM2.5-2.6B-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-GGUF",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
+"date": "2026-08-01",
+"summary": "",
+"score": 360,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 1056574,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX",
+"date": "2026-08-03",
+"summary": "",
+"score": 27,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX-4bit": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX-4bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX-4bit",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX-4bit",
+"date": "2026-08-06",
+"summary": "",
+"score": 4,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 2133,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX-5bit": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX-5bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX-5bit",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX-5bit",
+"date": "2026-08-06",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 263,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX-6bit": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX-6bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX-6bit",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX-6bit",
+"date": "2026-08-06",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 343,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX-8bit": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX-8bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX-8bit",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX-8bit",
+"date": "2026-08-06",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 1138,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX-bf16": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX-bf16",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX-bf16",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX-bf16",
+"date": "2026-08-06",
+"summary": "",
+"score": 6,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 593,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX-mxfp4": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX-mxfp4",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX-mxfp4",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX-mxfp4",
+"date": "2026-08-06",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 351,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX-mxfp8": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX-mxfp8",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX-mxfp8",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX-mxfp8",
+"date": "2026-08-06",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 288,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-MLX-nvfp4": {
+"id": "release-LiquidAI__LFM2.5-2.6B-MLX-nvfp4",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-MLX-nvfp4",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-MLX-nvfp4",
+"date": "2026-08-06",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 341,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-2.6B-ONNX": {
+"id": "release-LiquidAI__LFM2.5-2.6B-ONNX",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-2.6B-ONNX",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-ONNX",
+"date": "2026-08-01",
+"summary": "",
+"score": 22,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 1908,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-8B-A1B-DSpark": {
+"id": "release-LiquidAI__LFM2.5-8B-A1B-DSpark",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-8B-A1B-DSpark",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-DSpark",
+"date": "2026-08-10",
+"summary": "",
+"score": 39,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 2014,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-8B-A1B-DSpark-GGUF": {
+"id": "release-LiquidAI__LFM2.5-8B-A1B-DSpark-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-8B-A1B-DSpark-GGUF",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-DSpark-GGUF",
+"date": "2026-08-19",
+"summary": "",
+"score": 27,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "text-generation",
+"downloads": 90365,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-VL-3B": {
+"id": "release-LiquidAI__LFM2.5-VL-3B",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-VL-3B",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B",
+"date": "2026-08-11",
+"summary": "",
+"score": 214,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 26745,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-VL-3B-GGUF": {
+"id": "release-LiquidAI__LFM2.5-VL-3B-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-VL-3B-GGUF",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B-GGUF",
+"date": "2026-08-11",
+"summary": "",
+"score": 68,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 24259,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-VL-3B-MLX-4bit": {
+"id": "release-LiquidAI__LFM2.5-VL-3B-MLX-4bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-VL-3B-MLX-4bit",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B-MLX-4bit",
+"date": "2026-08-10",
+"summary": "",
+"score": 16,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 3507,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-VL-3B-MLX-5bit": {
+"id": "release-LiquidAI__LFM2.5-VL-3B-MLX-5bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-VL-3B-MLX-5bit",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B-MLX-5bit",
+"date": "2026-08-10",
+"summary": "",
+"score": 13,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 218,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-VL-3B-MLX-6bit": {
+"id": "release-LiquidAI__LFM2.5-VL-3B-MLX-6bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-VL-3B-MLX-6bit",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B-MLX-6bit",
+"date": "2026-08-10",
+"summary": "",
+"score": 13,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 240,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-VL-3B-MLX-8bit": {
+"id": "release-LiquidAI__LFM2.5-VL-3B-MLX-8bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-VL-3B-MLX-8bit",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B-MLX-8bit",
+"date": "2026-08-10",
+"summary": "",
+"score": 17,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 724,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-VL-3B-MLX-bf16": {
+"id": "release-LiquidAI__LFM2.5-VL-3B-MLX-bf16",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-VL-3B-MLX-bf16",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B-MLX-bf16",
+"date": "2026-08-10",
+"summary": "",
+"score": 15,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 327,
+"lang": "en"
+}
+},
+"release-LiquidAI__LFM2.5-VL-3B-ONNX": {
+"id": "release-LiquidAI__LFM2.5-VL-3B-ONNX",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/LFM2.5-VL-3B-ONNX",
+"url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B-ONNX",
+"date": "2026-08-06",
+"summary": "",
+"score": 18,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 869,
+"lang": "en"
+}
+},
+"release-MiniMaxAI__MiniMax-Music3": {
+"id": "release-MiniMaxAI__MiniMax-Music3",
+"source": "releases",
+"kind": "release",
+"title": "MiniMaxAI/MiniMax-Music3",
+"url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+"date": "2026-08-07",
+"summary": "",
+"score": 1421,
+"extra": {
+"org": "MiniMaxAI",
+"publisher": "MiniMax",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 7908,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen-Drive-1.0-4B": {
+"id": "release-Qwen__Qwen-Drive-1.0-4B",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen-Drive-1.0-4B",
+"url": "https://huggingface.co/Qwen/Qwen-Drive-1.0-4B",
+"date": "2026-08-27",
+"summary": "",
+"score": 238,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 7354,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen3.8-2.4T-A95B": {
+"id": "release-Qwen__Qwen3.8-2.4T-A95B",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen3.8-2.4T-A95B",
+"url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+"date": "2026-08-08",
+"summary": "",
+"score": 1280,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "text-generation",
+"downloads": 35650,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen3.8-2.4T-A95B-FP8": {
+"id": "release-Qwen__Qwen3.8-2.4T-A95B-FP8",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
+"url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+"date": "2026-08-08",
+"summary": "",
+"score": 246,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "text-generation",
+"downloads": 8212,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen3.8-27B": {
+"id": "release-Qwen__Qwen3.8-27B",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen3.8-27B",
+"url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+"date": "2026-08-05",
+"summary": "",
+"score": 16868,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 6895117,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen3.8-27B-FP8": {
+"id": "release-Qwen__Qwen3.8-27B-FP8",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen3.8-27B-FP8",
+"url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+"date": "2026-08-13",
+"summary": "",
+"score": 882,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 4977406,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen3.8-Flash-Next": {
+"id": "release-Qwen__Qwen3.8-Flash-Next",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen3.8-Flash-Next",
+"url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+"date": "2026-08-24",
+"summary": "",
+"score": 5854,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 1404413,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen3.8-Flash-Next-FP8": {
+"id": "release-Qwen__Qwen3.8-Flash-Next-FP8",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen3.8-Flash-Next-FP8",
+"url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8",
+"date": "2026-08-24",
+"summary": "",
+"score": 246,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 410581,
+"lang": "en"
+}
+},
+"release-allenai__SamudrACE-E3SMv3": {
+"id": "release-allenai__SamudrACE-E3SMv3",
+"source": "releases",
+"kind": "release",
+"title": "allenai/SamudrACE-E3SMv3",
+"url": "https://huggingface.co/allenai/SamudrACE-E3SMv3",
+"date": "2026-08-04",
+"summary": "",
+"score": 4,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "",
+"downloads": 44,
+"lang": "en"
+}
+},
+"release-deepseek-ai__DeepSeek-V4-Flash-Vision-Exp": {
+"id": "release-deepseek-ai__DeepSeek-V4-Flash-Vision-Exp",
+"source": "releases",
+"kind": "release",
+"title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+"url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+"date": "2026-08-31",
+"summary": "",
+"score": 930,
+"extra": {
+"org": "deepseek-ai",
+"publisher": "DeepSeek",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 915320,
+"lang": "en"
+}
+},
+"release-deepseek-ai__DeepSeek-V4-Pro-0813": {
+"id": "release-deepseek-ai__DeepSeek-V4-Pro-0813",
+"source": "releases",
+"kind": "release",
+"title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+"url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+"date": "2026-08-13",
+"summary": "",
+"score": 854,
+"extra": {
+"org": "deepseek-ai",
+"publisher": "DeepSeek",
+"jp": false,
+"task": "text-generation",
+"downloads": 95489,
+"lang": "en"
+}
+},
+"release-google__timesfm-3.0-pytorch": {
+"id": "release-google__timesfm-3.0-pytorch",
+"source": "releases",
+"kind": "release",
+"title": "google/timesfm-3.0-pytorch",
+"url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+"date": "2026-08-24",
+"summary": "",
+"score": 915,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "time-series-forecasting",
+"downloads": 1430592,
+"lang": "en"
+}
+},
+"release-google__tipsv1-b14": {
+"id": "release-google__tipsv1-b14",
+"source": "releases",
+"kind": "release",
+"title": "google/tipsv1-b14",
+"url": "https://huggingface.co/google/tipsv1-b14",
+"date": "2026-08-19",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "zero-shot-image-classification",
+"downloads": 202,
+"lang": "en"
+}
+},
+"release-google__tipsv1-g14": {
+"id": "release-google__tipsv1-g14",
+"source": "releases",
+"kind": "release",
+"title": "google/tipsv1-g14",
+"url": "https://huggingface.co/google/tipsv1-g14",
+"date": "2026-08-19",
+"summary": "",
+"score": 10,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "zero-shot-image-classification",
+"downloads": 326,
+"lang": "en"
+}
+},
+"release-google__tipsv1-g14-lowres": {
+"id": "release-google__tipsv1-g14-lowres",
+"source": "releases",
+"kind": "release",
+"title": "google/tipsv1-g14-lowres",
+"url": "https://huggingface.co/google/tipsv1-g14-lowres",
+"date": "2026-08-19",
+"summary": "",
+"score": 7,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "zero-shot-image-classification",
+"downloads": 311,
+"lang": "en"
+}
+},
+"release-google__tipsv1-l14": {
+"id": "release-google__tipsv1-l14",
+"source": "releases",
+"kind": "release",
+"title": "google/tipsv1-l14",
+"url": "https://huggingface.co/google/tipsv1-l14",
+"date": "2026-08-19",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "zero-shot-image-classification",
+"downloads": 453,
+"lang": "en"
+}
+},
+"release-google__tipsv1-s14": {
+"id": "release-google__tipsv1-s14",
+"source": "releases",
+"kind": "release",
+"title": "google/tipsv1-s14",
+"url": "https://huggingface.co/google/tipsv1-s14",
+"date": "2026-08-19",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "zero-shot-image-classification",
+"downloads": 252,
+"lang": "en"
+}
+},
+"release-google__tipsv1-so400m14": {
+"id": "release-google__tipsv1-so400m14",
+"source": "releases",
+"kind": "release",
+"title": "google/tipsv1-so400m14",
+"url": "https://huggingface.co/google/tipsv1-so400m14",
+"date": "2026-08-19",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "zero-shot-image-classification",
+"downloads": 335,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-30b": {
+"id": "release-ibm-granite__granite-4.2-30b",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-30b",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-30b",
+"date": "2026-08-07",
+"summary": "",
+"score": 127,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 35751,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-30b-GGUF": {
+"id": "release-ibm-granite__granite-4.2-30b-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-30b-GGUF",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-30b-GGUF",
+"date": "2026-08-12",
+"summary": "",
+"score": 16,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "",
+"downloads": 319170,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-30b-fp8": {
+"id": "release-ibm-granite__granite-4.2-30b-fp8",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-30b-fp8",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-30b-fp8",
+"date": "2026-08-13",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 1997,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-30b-mxfp4": {
+"id": "release-ibm-granite__granite-4.2-30b-mxfp4",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-30b-mxfp4",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-30b-mxfp4",
+"date": "2026-08-13",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 911,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-30b-nvfp4": {
+"id": "release-ibm-granite__granite-4.2-30b-nvfp4",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-30b-nvfp4",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-30b-nvfp4",
+"date": "2026-08-13",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 2329,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-3b": {
+"id": "release-ibm-granite__granite-4.2-3b",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-3b",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-3b",
+"date": "2026-08-07",
+"summary": "",
+"score": 107,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 50610,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-3b-GGUF": {
+"id": "release-ibm-granite__granite-4.2-3b-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-3b-GGUF",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-3b-GGUF",
+"date": "2026-08-12",
+"summary": "",
+"score": 33,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "",
+"downloads": 313357,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-3b-fp8": {
+"id": "release-ibm-granite__granite-4.2-3b-fp8",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-3b-fp8",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-3b-fp8",
+"date": "2026-08-13",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 1261,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-3b-mxfp4": {
+"id": "release-ibm-granite__granite-4.2-3b-mxfp4",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-3b-mxfp4",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-3b-mxfp4",
+"date": "2026-08-13",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 933,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-3b-nvfp4": {
+"id": "release-ibm-granite__granite-4.2-3b-nvfp4",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-3b-nvfp4",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-3b-nvfp4",
+"date": "2026-08-13",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 1342,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-8b": {
+"id": "release-ibm-granite__granite-4.2-8b",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-8b",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-8b",
+"date": "2026-08-07",
+"summary": "",
+"score": 93,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 128378,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-8b-GGUF": {
+"id": "release-ibm-granite__granite-4.2-8b-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-8b-GGUF",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-8b-GGUF",
+"date": "2026-08-12",
+"summary": "",
+"score": 28,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "",
+"downloads": 318512,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-8b-fp8": {
+"id": "release-ibm-granite__granite-4.2-8b-fp8",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-8b-fp8",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-8b-fp8",
+"date": "2026-08-13",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 2322,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-8b-mxfp4": {
+"id": "release-ibm-granite__granite-4.2-8b-mxfp4",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-8b-mxfp4",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-8b-mxfp4",
+"date": "2026-08-13",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 1093,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-4.2-8b-nvfp4": {
+"id": "release-ibm-granite__granite-4.2-8b-nvfp4",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-4.2-8b-nvfp4",
+"url": "https://huggingface.co/ibm-granite/granite-4.2-8b-nvfp4",
+"date": "2026-08-13",
+"summary": "",
+"score": 6,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "text-generation",
+"downloads": 1661,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-speech-5.0-470m-turboctc": {
+"id": "release-ibm-granite__granite-speech-5.0-470m-turboctc",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-speech-5.0-470m-turboctc",
+"url": "https://huggingface.co/ibm-granite/granite-speech-5.0-470m-turboctc",
+"date": "2026-08-04",
+"summary": "",
+"score": 73,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "automatic-speech-recognition",
+"downloads": 55607,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-speech-5.0-470m-turboctc-nc": {
+"id": "release-ibm-granite__granite-speech-5.0-470m-turboctc-nc",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-speech-5.0-470m-turboctc-nc",
+"url": "https://huggingface.co/ibm-granite/granite-speech-5.0-470m-turboctc-nc",
+"date": "2026-08-17",
+"summary": "",
+"score": 34,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "automatic-speech-recognition",
+"downloads": 1349,
+"lang": "en"
+}
+},
+"release-ibm-granite__granite-timeseries-patchtst-fm-r2": {
+"id": "release-ibm-granite__granite-timeseries-patchtst-fm-r2",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/granite-timeseries-patchtst-fm-r2",
+"url": "https://huggingface.co/ibm-granite/granite-timeseries-patchtst-fm-r2",
+"date": "2026-08-07",
+"summary": "",
+"score": 16,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "time-series-forecasting",
+"downloads": 275506,
+"lang": "en"
+}
+},
+"release-llm-jp__llm-jp-4-33b-base": {
+"id": "release-llm-jp__llm-jp-4-33b-base",
+"source": "releases",
+"kind": "release",
+"title": "llm-jp/llm-jp-4-33b-base",
+"url": "https://huggingface.co/llm-jp/llm-jp-4-33b-base",
+"date": "2026-08-14",
+"summary": "",
+"score": 8,
+"extra": {
+"org": "llm-jp",
+"publisher": "LLM-jp（国立情報学研究所）",
+"jp": true,
+"task": "text-generation",
+"downloads": 1511,
+"lang": "ja"
+}
+},
+"release-llm-jp__llm-jp-4-33b-thinking": {
+"id": "release-llm-jp__llm-jp-4-33b-thinking",
+"source": "releases",
+"kind": "release",
+"title": "llm-jp/llm-jp-4-33b-thinking",
+"url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking",
+"date": "2026-08-14",
+"summary": "",
+"score": 45,
+"extra": {
+"org": "llm-jp",
+"publisher": "LLM-jp（国立情報学研究所）",
+"jp": true,
+"task": "text-generation",
+"downloads": 4457,
+"lang": "ja"
+}
+},
+"release-llm-jp__llm-jp-4-33b-thinking-gguf": {
+"id": "release-llm-jp__llm-jp-4-33b-thinking-gguf",
+"source": "releases",
+"kind": "release",
+"title": "llm-jp/llm-jp-4-33b-thinking-gguf",
+"url": "https://huggingface.co/llm-jp/llm-jp-4-33b-thinking-gguf",
+"date": "2026-08-18",
+"summary": "",
+"score": 11,
+"extra": {
+"org": "llm-jp",
+"publisher": "LLM-jp（国立情報学研究所）",
+"jp": true,
+"task": "text-generation",
+"downloads": 319819,
+"lang": "ja"
+}
+},
+"release-llm-jp__llm-jp-4-vl-9b": {
+"id": "release-llm-jp__llm-jp-4-vl-9b",
+"source": "releases",
+"kind": "release",
+"title": "llm-jp/llm-jp-4-vl-9b",
+"url": "https://huggingface.co/llm-jp/llm-jp-4-vl-9b",
+"date": "2026-08-15",
+"summary": "",
+"score": 19,
+"extra": {
+"org": "llm-jp",
+"publisher": "LLM-jp（国立情報学研究所）",
+"jp": true,
+"task": "image-text-to-text",
+"downloads": 1331,
+"lang": "ja"
+}
+},
+"release-microsoft__SQuadGen": {
+"id": "release-microsoft__SQuadGen",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/SQuadGen",
+"url": "https://huggingface.co/microsoft/SQuadGen",
+"date": "2026-08-27",
+"summary": "",
+"score": 4,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-microsoft__rho-fr3-duo": {
+"id": "release-microsoft__rho-fr3-duo",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/rho-fr3-duo",
+"url": "https://huggingface.co/microsoft/rho-fr3-duo",
+"date": "2026-08-26",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-microsoft__rho-libero": {
+"id": "release-microsoft__rho-libero",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/rho-libero",
+"url": "https://huggingface.co/microsoft/rho-libero",
+"date": "2026-08-28",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-microsoft__rho-ur-ai-trainer": {
+"id": "release-microsoft__rho-ur-ai-trainer",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/rho-ur-ai-trainer",
+"url": "https://huggingface.co/microsoft/rho-ur-ai-trainer",
+"date": "2026-08-26",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-microsoft__rho-yam-box": {
+"id": "release-microsoft__rho-yam-box",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/rho-yam-box",
+"url": "https://huggingface.co/microsoft/rho-yam-box",
+"date": "2026-08-26",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__DeepSeek-V4-Flash-0731-NVFP4": {
+"id": "release-nvidia__DeepSeek-V4-Flash-0731-NVFP4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/DeepSeek-V4-Flash-0731-NVFP4",
+"url": "https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4",
+"date": "2026-08-19",
+"summary": "",
+"score": 49,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 43624,
+"lang": "en"
+}
+},
+"release-nvidia__DeepSeek-V4-Pro-0813-NVFP4": {
+"id": "release-nvidia__DeepSeek-V4-Pro-0813-NVFP4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/DeepSeek-V4-Pro-0813-NVFP4",
+"url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-NVFP4",
+"date": "2026-08-27",
+"summary": "",
+"score": 15,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 2981,
+"lang": "en"
+}
+},
+"release-nvidia__Kimi-K3-NVFP4": {
+"id": "release-nvidia__Kimi-K3-NVFP4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Kimi-K3-NVFP4",
+"url": "https://huggingface.co/nvidia/Kimi-K3-NVFP4",
+"date": "2026-08-13",
+"summary": "",
+"score": 32,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 20070,
+"lang": "en"
+}
+},
+"release-nvidia__Muse-Glimmer-30B-NVFP4": {
+"id": "release-nvidia__Muse-Glimmer-30B-NVFP4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Muse-Glimmer-30B-NVFP4",
+"url": "https://huggingface.co/nvidia/Muse-Glimmer-30B-NVFP4",
+"date": "2026-08-27",
+"summary": "",
+"score": 18,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 28234,
+"lang": "en"
+}
+},
+"release-nvidia__NVIDIA-Nemotron-Labs-Teacher-Chat": {
+"id": "release-nvidia__NVIDIA-Nemotron-Labs-Teacher-Chat",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/NVIDIA-Nemotron-Labs-Teacher-Chat",
+"url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-Chat",
+"date": "2026-08-14",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 478,
+"lang": "en"
+}
+},
+"release-nvidia__NVIDIA-Nemotron-Labs-Teacher-Competition-Coding": {
+"id": "release-nvidia__NVIDIA-Nemotron-Labs-Teacher-Competition-Coding",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/NVIDIA-Nemotron-Labs-Teacher-Competition-Coding",
+"url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-Competition-Coding",
+"date": "2026-08-14",
+"summary": "",
+"score": 6,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 591,
+"lang": "en"
+}
+},
+"release-nvidia__NVIDIA-Nemotron-Labs-Teacher-General-Reasoning": {
+"id": "release-nvidia__NVIDIA-Nemotron-Labs-Teacher-General-Reasoning",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/NVIDIA-Nemotron-Labs-Teacher-General-Reasoning",
+"url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-General-Reasoning",
+"date": "2026-08-14",
+"summary": "",
+"score": 14,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 615,
+"lang": "en"
+}
+},
+"release-nvidia__NVIDIA-Nemotron-Labs-Teacher-Instruction-Following": {
+"id": "release-nvidia__NVIDIA-Nemotron-Labs-Teacher-Instruction-Following",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/NVIDIA-Nemotron-Labs-Teacher-Instruction-Following",
+"url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-Instruction-Following",
+"date": "2026-08-14",
+"summary": "",
+"score": 4,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 845,
+"lang": "en"
+}
+},
+"release-nvidia__NVIDIA-Nemotron-Labs-Teacher-STEM": {
+"id": "release-nvidia__NVIDIA-Nemotron-Labs-Teacher-STEM",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/NVIDIA-Nemotron-Labs-Teacher-STEM",
+"url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Teacher-STEM",
+"date": "2026-08-14",
+"summary": "",
+"score": 7,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 498,
+"lang": "en"
+}
+},
+"release-nvidia__Qwen3.8-2.4T-A95B-NVFP4": {
+"id": "release-nvidia__Qwen3.8-2.4T-A95B-NVFP4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Qwen3.8-2.4T-A95B-NVFP4",
+"url": "https://huggingface.co/nvidia/Qwen3.8-2.4T-A95B-NVFP4",
+"date": "2026-08-25",
+"summary": "",
+"score": 17,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 2430,
+"lang": "en"
+}
+},
+"release-nvidia__cari4d_commercial": {
+"id": "release-nvidia__cari4d_commercial",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/cari4d_commercial",
+"url": "https://huggingface.co/nvidia/cari4d_commercial",
+"date": "2026-08-14",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-tencent__AuK": {
+"id": "release-tencent__AuK",
+"source": "releases",
+"kind": "release",
+"title": "tencent/AuK",
+"url": "https://huggingface.co/tencent/AuK",
+"date": "2026-08-18",
+"summary": "",
+"score": 374,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-to-speech",
+"downloads": 4875,
+"lang": "en"
+}
+},
+"release-tencent__AuK-Flash": {
+"id": "release-tencent__AuK-Flash",
+"source": "releases",
+"kind": "release",
+"title": "tencent/AuK-Flash",
+"url": "https://huggingface.co/tencent/AuK-Flash",
+"date": "2026-08-21",
+"summary": "",
+"score": 104,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-to-speech",
+"downloads": 3278,
+"lang": "en"
+}
+},
+"release-tencent__ContextPilot-14B": {
+"id": "release-tencent__ContextPilot-14B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/ContextPilot-14B",
+"url": "https://huggingface.co/tencent/ContextPilot-14B",
+"date": "2026-08-27",
+"summary": "",
+"score": 23,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-generation",
+"downloads": 973,
+"lang": "en"
+}
+},
+"release-tencent__ContextPilot-8B": {
+"id": "release-tencent__ContextPilot-8B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/ContextPilot-8B",
+"url": "https://huggingface.co/tencent/ContextPilot-8B",
+"date": "2026-08-27",
+"summary": "",
+"score": 11,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-generation",
+"downloads": 785,
+"lang": "en"
+}
+},
+"release-tencent__ContextPilot-E4B": {
+"id": "release-tencent__ContextPilot-E4B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/ContextPilot-E4B",
+"url": "https://huggingface.co/tencent/ContextPilot-E4B",
+"date": "2026-08-27",
+"summary": "",
+"score": 9,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-generation",
+"downloads": 947,
+"lang": "en"
+}
+},
+"release-tencent__EVIE-Preview-4.5B": {
+"id": "release-tencent__EVIE-Preview-4.5B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/EVIE-Preview-4.5B",
+"url": "https://huggingface.co/tencent/EVIE-Preview-4.5B",
+"date": "2026-08-17",
+"summary": "",
+"score": 99,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "visual-document-retrieval",
+"downloads": 1106,
+"lang": "en"
+}
+},
+"release-tencent__Hy4-preview": {
+"id": "release-tencent__Hy4-preview",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Hy4-preview",
+"url": "https://huggingface.co/tencent/Hy4-preview",
+"date": "2026-08-27",
+"summary": "",
+"score": 501,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-generation",
+"downloads": 25882,
+"lang": "en"
+}
+},
+"release-tencent__Hy4-preview-FP8": {
+"id": "release-tencent__Hy4-preview-FP8",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Hy4-preview-FP8",
+"url": "https://huggingface.co/tencent/Hy4-preview-FP8",
+"date": "2026-08-27",
+"summary": "",
+"score": 25,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "text-generation",
+"downloads": 4337,
+"lang": "en"
+}
+},
+"release-tencent__UI-Mate-27B": {
+"id": "release-tencent__UI-Mate-27B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/UI-Mate-27B",
+"url": "https://huggingface.co/tencent/UI-Mate-27B",
+"date": "2026-08-14",
+"summary": "",
+"score": 93,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 813,
+"lang": "en"
+}
+},
+"release-tencent__UI-Mate-9B": {
+"id": "release-tencent__UI-Mate-9B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/UI-Mate-9B",
+"url": "https://huggingface.co/tencent/UI-Mate-9B",
+"date": "2026-08-14",
+"summary": "",
+"score": 25,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 711,
+"lang": "en"
+}
+},
+"release-tencent__UI-Mate-democua-27B": {
+"id": "release-tencent__UI-Mate-democua-27B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/UI-Mate-democua-27B",
+"url": "https://huggingface.co/tencent/UI-Mate-democua-27B",
+"date": "2026-08-14",
+"summary": "",
+"score": 17,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 451,
+"lang": "en"
+}
+},
+"release-tencent__WeMM-Embedding-2B": {
+"id": "release-tencent__WeMM-Embedding-2B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/WeMM-Embedding-2B",
+"url": "https://huggingface.co/tencent/WeMM-Embedding-2B",
+"date": "2026-08-25",
+"summary": "",
+"score": 114,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "feature-extraction",
+"downloads": 19478,
+"lang": "en"
+}
+},
+"release-tencent__WeMM-Embedding-4B": {
+"id": "release-tencent__WeMM-Embedding-4B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/WeMM-Embedding-4B",
+"url": "https://huggingface.co/tencent/WeMM-Embedding-4B",
+"date": "2026-08-25",
+"summary": "",
+"score": 37,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "feature-extraction",
+"downloads": 6938,
+"lang": "en"
+}
+},
+"release-tencent__WeMM-Embedding-9B": {
+"id": "release-tencent__WeMM-Embedding-9B",
+"source": "releases",
+"kind": "release",
+"title": "tencent/WeMM-Embedding-9B",
+"url": "https://huggingface.co/tencent/WeMM-Embedding-9B",
+"date": "2026-08-25",
+"summary": "",
+"score": 137,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "feature-extraction",
+"downloads": 6131,
+"lang": "en"
+}
+},
+"release-zai-org__GLM-5.3": {
+"id": "release-zai-org__GLM-5.3",
+"source": "releases",
+"kind": "release",
+"title": "zai-org/GLM-5.3",
+"url": "https://huggingface.co/zai-org/GLM-5.3",
+"date": "2026-08-25",
+"summary": "",
+"score": 2068,
+"extra": {
+"org": "zai-org",
+"publisher": "Z.ai（GLM）",
+"jp": false,
+"task": "text-generation",
+"downloads": 1402948,
+"lang": "en"
+}
+},
+"release-zai-org__GLM-5.3-BF16": {
+"id": "release-zai-org__GLM-5.3-BF16",
+"source": "releases",
+"kind": "release",
+"title": "zai-org/GLM-5.3-BF16",
+"url": "https://huggingface.co/zai-org/GLM-5.3-BF16",
+"date": "2026-08-25",
+"summary": "",
+"score": 47,
+"extra": {
+"org": "zai-org",
+"publisher": "Z.ai（GLM）",
+"jp": false,
+"task": "text-generation",
+"downloads": 32801,
+"lang": "en"
+}
+},
+"release-zai-org__GLM-5.3-Flash": {
+"id": "release-zai-org__GLM-5.3-Flash",
+"source": "releases",
+"kind": "release",
+"title": "zai-org/GLM-5.3-Flash",
+"url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+"date": "2026-08-25",
+"summary": "",
+"score": 2677,
+"extra": {
+"org": "zai-org",
+"publisher": "Z.ai（GLM）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 5428853,
+"lang": "en"
+}
+},
+"release-zai-org__GLM-5.3-Flash-BF16": {
+"id": "release-zai-org__GLM-5.3-Flash-BF16",
+"source": "releases",
+"kind": "release",
+"title": "zai-org/GLM-5.3-Flash-BF16",
+"url": "https://huggingface.co/zai-org/GLM-5.3-Flash-BF16",
+"date": "2026-08-25",
+"summary": "",
+"score": 68,
+"extra": {
+"org": "zai-org",
+"publisher": "Z.ai（GLM）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 62475,
+"lang": "en"
+}
+}
+}

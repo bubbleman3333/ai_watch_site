@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% from "_series.html" import series_card %}
+{% block title %}開発現場での AI の普及（ライブラリのダウンロード数・主要 OSS のスター数） | {{ site.name }}{% endblock %}
+{% block description %}OpenAI・Anthropic・LangChain・MCP・vLLM などの AI ライブラリのダウンロード数と、Ollama・Dify・n8n などの主要なオープンソースのスター数を毎日追跡しています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 開発の普及</nav>
+<header class="page-head">
+  <p class="eyebrow">数字で見る</p>
+  <h1>開発現場での AI の普及</h1>
+  <p class="lead">ニュースで話題になることと、実際に使われていることは別です。ここでは、プログラムが AI を呼び出すときに使う
+    <b>ライブラリのダウンロード数</b>と、主要な<b>オープンソースのスター数</b>で、「現場で本当に使われ始めたもの」を見ます。</p>
+</header>
+
+{% set rising = dash.rising_downloads(8) %}
+{% if rising %}
+<section class="sec">
+  <div class="sec-head"><h2>利用が伸びているライブラリ</h2></div>
+  <p class="sec-lead small">直近 30 日のダウンロード数を、その前の 30 日と比べたもの。</p>
+  <div class="sgrid">{% for s in rising %}{{ series_card(s, '#059669') }}{% endfor %}</div>
+</section>
+{% endif %}
+
+{% for grp in ['Python（PyPI）', 'JavaScript（npm）'] %}
+{% set rows = dash.downloads|selectattr('group', 'equalto', grp)|list %}
+{% if rows %}
+<section class="sec">
+  <div class="sec-head"><h2>{{ grp }} のダウンロード数</h2></div>
+  <div class="sgrid">{% for s in rows|sort(attribute='last7', reverse=True) %}{{ series_card(s, '#2563eb') }}{% endfor %}</div>
+</section>
+{% endif %}
+{% endfor %}
+
+{% if dash.repos %}
+<section class="sec">
+  <div class="sec-head"><h2>主要な AI オープンソース</h2>{% if dash.repos_since %}<span class="small muted">スターの増加は {{ dash.repos_since }} 比</span>{% endif %}</div>
+  <div class="table-wrap"><table class="models">
+    <thead><tr><th>リポジトリ</th><th class="num">スター</th><th class="num">増加</th><th>最新リリース</th><th>最終更新</th></tr></thead>
+    <tbody>{% for r in dash.repos %}
+      <tr><td><a href="{{ r.url }}" rel="noopener" target="_blank" class="mono">{{ r.repo }}</a><span class="owner">{{ r.desc }}</span></td>
+        <td class="num">{{ r.stars|short }}</td>
+        <td class="num">{% if r.gain is not none %}+{{ r.gain|short }}{% else %}—{% endif %}</td>
+        <td class="lic">{% if r.release %}{{ r.release }}<br><span class="muted">{{ r.release_date }}</span>{% else %}—{% endif %}</td>
+        <td class="lic">{{ r.pushed }}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+</section>
+{% endif %}
+<p class="small muted">出典: pypistats.org（ミラーを除く）、npm の公開ダウンロード数 API、GitHub API。ダウンロード数には自動のビルド（CI）も含まれるので、人数ではなく「使われている量」の目安です。</p>
+{% endblock %}

@@ -1,4 +1,49 @@
 {
+"news-amazon-science-06eb4dd6dba1": {
+"id": "news-amazon-science-06eb4dd6dba1",
+"source": "news",
+"kind": "news",
+"title": "Amazon Research Awards recipients announced",
+"url": "https://www.amazon.science/research-awards/latest-news/fall-2025-amazon-research-awards-recipients-announced",
+"date": "2026-05-27",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
+"news-amazon-science-330bd3becbe7": {
+"id": "news-amazon-science-330bd3becbe7",
+"source": "news",
+"kind": "news",
+"title": "How flat is replacing fat in AWS data center networks",
+"url": "https://www.amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
+"date": "2026-05-28",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
+"news-bair-b63023bfb9fc": {
+"id": "news-bair-b63023bfb9fc",
+"source": "news",
+"kind": "blog",
+"title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
+"url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+"date": "2026-05-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Berkeley AI Research",
+"feed": "bair",
+"lang": "en"
+}
+},
 "news-deepmind-049666cfa3c7": {
 "id": "news-deepmind-049666cfa3c7",
 "source": "news",
@@ -254,6 +299,66 @@
 "lang": "en"
 }
 },
+"news-google-research-2d40258ac298": {
+"id": "news-google-research-2d40258ac298",
+"source": "news",
+"kind": "news",
+"title": "A New Era of Discovery: Google Research at I/O 2026",
+"url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
+"date": "2026-05-28",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-42da85fd8dd0": {
+"id": "news-google-research-42da85fd8dd0",
+"source": "news",
+"kind": "news",
+"title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+"url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+"date": "2026-05-19",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-a9e47f97c08e": {
+"id": "news-google-research-a9e47f97c08e",
+"source": "news",
+"kind": "news",
+"title": "Private analytics via zero-trust aggregation",
+"url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
+"date": "2026-05-27",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-a9ea3569dfaa": {
+"id": "news-google-research-a9ea3569dfaa",
+"source": "news",
+"kind": "news",
+"title": "Catalyzing scientific impact through global partnerships and open resources",
+"url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
+"date": "2026-05-01",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
 "news-huggingface-08c10eedccbd": {
 "id": "news-huggingface-08c10eedccbd",
 "source": "news",
@@ -431,6 +536,66 @@
 "extra": {
 "publisher": "Hugging Face",
 "feed": "huggingface",
+"lang": "en"
+}
+},
+"news-import-ai-8361579934bf": {
+"id": "news-import-ai-8361579934bf",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 458: Reckoning with the future; and a singularity story",
+"url": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+"date": "2026-05-26",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
+"lang": "en"
+}
+},
+"news-import-ai-92ca64c32d1d": {
+"id": "news-import-ai-92ca64c32d1d",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
+"url": "https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon",
+"date": "2026-05-18",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
+"lang": "en"
+}
+},
+"news-import-ai-a20c1f3af021": {
+"id": "news-import-ai-a20c1f3af021",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 455: AI systems are about to start building themselves.",
+"url": "https://importai.substack.com/p/import-ai-455-automating-ai-research",
+"date": "2026-05-04",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
+"lang": "en"
+}
+},
+"news-import-ai-b9079db71b13": {
+"id": "news-import-ai-b9079db71b13",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
+"url": "https://importai.substack.com/p/import-ai-456-rsi-and-economic-growth",
+"date": "2026-05-11",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
 "lang": "en"
 }
 },
@@ -1391,6 +1556,111 @@
 "extra": {
 "publisher": "OpenAI",
 "feed": "openai",
+"lang": "en"
+}
+},
+"news-together-3d9f0ad9986c": {
+"id": "news-together-3d9f0ad9986c",
+"source": "news",
+"kind": "news",
+"title": "Serving DeepSeek-V4: why million-token context is an inference systems problem",
+"url": "https://www.together.ai/blog/serving-deepseek-v4-why-million-token-context-is-an-inference-systems-problem",
+"date": "2026-05-11",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-474b364bea47": {
+"id": "news-together-474b364bea47",
+"source": "news",
+"kind": "news",
+"title": "Together AI and Pearl Research Labs Team Up to Reduce the Cost of AI Inference",
+"url": "https://www.together.ai/blog/together-ai-partners-with-pearl-research-labs",
+"date": "2026-05-15",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-85bee741f51d": {
+"id": "news-together-85bee741f51d",
+"source": "news",
+"kind": "news",
+"title": "Deploy and inference any model from HuggingFace",
+"url": "https://www.together.ai/blog/deploy-and-inference-any-model-from-huggingface",
+"date": "2026-05-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-b8ee78581201": {
+"id": "news-together-b8ee78581201",
+"source": "news",
+"kind": "news",
+"title": "Foundational research powering efficient inference at scale",
+"url": "https://www.together.ai/blog/foundational-research-powering-efficient-inference-at-scale",
+"date": "2026-05-04",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-ba4768a59b6e": {
+"id": "news-together-ba4768a59b6e",
+"source": "news",
+"kind": "news",
+"title": "How Together AI built the world’s fastest speech-to-text stack",
+"url": "https://www.together.ai/blog/how-together-ai-built-the-worlds-fastest-speech-to-text-stack",
+"date": "2026-05-29",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-baf9ed3c2de8": {
+"id": "news-together-baf9ed3c2de8",
+"source": "news",
+"kind": "news",
+"title": "Violin: An open-source video translation skill that breaks language barriers",
+"url": "https://www.together.ai/blog/violin-open-source-translation-skill",
+"date": "2026-05-14",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-dc5d238e5268": {
+"id": "news-together-dc5d238e5268",
+"source": "news",
+"kind": "news",
+"title": "Benchmarking inference at scale: coding agents",
+"url": "https://www.together.ai/blog/coding-agent-benchmarks",
+"date": "2026-05-19",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
 "lang": "en"
 }
 }

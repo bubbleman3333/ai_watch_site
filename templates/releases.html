@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}主要な AI 企業・研究機関の新しいモデル（日本の組織を含む） | {{ site.name }}{% endblock %}
+{% block description %}OpenAI・Google・Meta・Microsoft・NVIDIA・Qwen・DeepSeek と、LLM-jp・SB Intuitions・PFN・サイバーエージェント・ELYZA・Sakana AI など {{ orgs|length }} 組織が Hugging Face に公開した新しいモデルを毎日集めています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 新モデル</nav>
+<header class="page-head">
+  <p class="eyebrow">新しく公開されたモデル</p>
+  <h1>主要な組織の新しいモデル</h1>
+  <p class="lead">世界と日本の主要な {{ orgs|length }} の企業・研究機関が、Hugging Face に新しく公開したモデルを集めています（直近 180 日・{{ rows|length }} 件）。
+    <span class="jp">日本</span> は日本の組織です。重みが公開されたモデルは、自社のサーバーで動かせる可能性があります（ライセンスは各ページで確認してください）。</p>
+</header>
+<div class="filter" role="group" aria-label="絞り込み">
+  <button class="on" data-k="">すべて</button><button data-k="jp">日本の組織だけ</button>
+  <select id="osel" aria-label="組織"><option value="">組織: すべて</option>{% for o, lab, jp in orgs %}<option value="{{ o }}">{{ lab }}</option>{% endfor %}</select>
+</div>
+<ul class="news big" id="list">
+{% for it in rows %}
+  <li data-jp="{{ 1 if it.extra.jp else 0 }}" data-o="{{ it.extra.org }}"><time>{{ it.date|jday }}</time>
+    <span class="pub">{% if it.extra.jp %}<span class="jp">日本</span>{% endif %}{{ it.publisher }}</span>
+    <a href="{{ it.url }}" rel="noopener" target="_blank" class="mono">{{ it.title.split('/')[-1] }}</a>
+    <span class="desc">{% if it.extra.task %}{{ it.extra.task }} ・ {% endif %}♥{{ it.score }} ・ DL {{ it.extra.downloads|short }}</span></li>
+{% else %}
+  <li class="muted">まだデータがありません。</li>
+{% endfor %}
+</ul>
+<script>
+(function(){var k="",o="",bs=document.querySelectorAll(".filter button"),sel=document.getElementById("osel"),li=document.querySelectorAll("#list li");
+function f(){li.forEach(function(e){e.hidden=!((!k||e.dataset.jp==="1")&&(!o||e.dataset.o===o))})}
+bs.forEach(function(b){b.onclick=function(){bs.forEach(function(x){x.classList.remove("on")});b.classList.add("on");k=b.dataset.k;f()}});
+sel.onchange=function(){o=sel.value;f()}})();
+</script>
+{% endblock %}

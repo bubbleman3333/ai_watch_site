@@ -13,4 +13,17 @@
   <p><b>ライセンスの見方:</b> <code>apache-2.0</code> <code>mit</code> は商用利用しやすいもの。<code>other</code> や独自ライセンスは、利用者数や用途に条件があることが多いので原文を確認してください。</p>
 </div>
 {{ model_table(models) }}
+{% if hub.spaces %}
+<section class="sec" style="margin-top:40px">
+  <div class="sec-head"><h2>いま使われている AI アプリ（Hugging Face Spaces）</h2></div>
+  <p class="sec-lead small">ブラウザでそのまま試せるデモ・アプリのトレンド上位。新しいモデルの使い心地を確かめるのに便利です。</p>
+  <ul class="news">{% for x in hub.spaces %}<li><span class="score">♥{{ x.likes|short }}</span><a href="https://huggingface.co/spaces/{{ x.id }}" rel="noopener" target="_blank">{{ x.title or x.id }}</a><span class="desc">{{ x.id }}{% if x.desc %} ・ {{ x.desc }}{% endif %}</span></li>{% endfor %}</ul>
+</section>
+{% endif %}
+{% if hub.datasets %}
+<section class="sec">
+  <div class="sec-head"><h2>話題のデータセット</h2></div>
+  <ul class="news">{% for x in hub.datasets %}<li><span class="score">♥{{ x.likes|short }}</span><a href="https://huggingface.co/datasets/{{ x.id }}" rel="noopener" target="_blank" class="mono">{{ x.id }}</a><span class="desc">DL {{ x.downloads|short }}{% for t in x.tags %} ・ {{ t.split(':')[1] }}{% endfor %}</span></li>{% endfor %}</ul>
+</section>
+{% endif %}
 {% endblock %}

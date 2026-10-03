@@ -1,4 +1,19 @@
 {
+"news-bair-20744ca6d164": {
+"id": "news-bair-20744ca6d164",
+"source": "news",
+"kind": "blog",
+"title": "What exactly does word2vec learn?",
+"url": "http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/",
+"date": "2025-09-01",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Berkeley AI Research",
+"feed": "bair",
+"lang": "en"
+}
+},
 "news-huggingface-1b2700d0e54d": {
 "id": "news-huggingface-1b2700d0e54d",
 "source": "news",
@@ -926,6 +941,36 @@
 "extra": {
 "publisher": "OpenAI",
 "feed": "openai",
+"lang": "en"
+}
+},
+"news-together-ec44bd02f242": {
+"id": "news-together-ec44bd02f242",
+"source": "news",
+"kind": "news",
+"title": "Improved Batch Inference API: Enhanced UI, Expanded Model Support, and 3000× Rate Limit Increase",
+"url": "https://www.together.ai/blog/batch-inference-api-updates-2025",
+"date": "2025-09-15",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-f95d947142c3": {
+"id": "news-together-f95d947142c3",
+"source": "news",
+"kind": "news",
+"title": "Together AI welcomes Mahadev Konar as SVP for Infrastructure Engineering",
+"url": "https://www.together.ai/blog/mahadev-konar-svp-infrastructure-engineering",
+"date": "2025-09-10",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
 "lang": "en"
 }
 }

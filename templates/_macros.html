@@ -57,3 +57,14 @@
 </table>
 </div>
 {%- endmacro %}
+
+{# 短い一覧（日付・出典・題名）。解説があれば解説へ #}
+{% macro newslist(rows) -%}
+<ul class="news">
+{% for it in rows %}
+  <li><time>{{ it.date|jday }}</time><span class="pub">{{ it.publisher }}</span>
+    {% if it.note %}<a href="{{ url(it.path) }}">{{ it.headline }}</a>{% else %}<a href="{{ it.url }}" rel="noopener" target="_blank"{% if not it.is_ja %} lang="en"{% endif %}>{{ it.title }}</a>{% endif %}
+    {% if it.score_label %}<span class="desc">{{ it.score_label }}</span>{% endif %}</li>
+{% else %}<li class="muted">まだありません。</li>{% endfor %}
+</ul>
+{%- endmacro %}

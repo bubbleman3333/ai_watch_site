@@ -1,0 +1,884 @@
+{
+"release-ByteDance-Seed__Cola-DLM": {
+"id": "release-ByteDance-Seed__Cola-DLM",
+"source": "releases",
+"kind": "release",
+"title": "ByteDance-Seed/Cola-DLM",
+"url": "https://huggingface.co/ByteDance-Seed/Cola-DLM",
+"date": "2026-05-15",
+"summary": "",
+"score": 46,
+"extra": {
+"org": "ByteDance-Seed",
+"publisher": "ByteDance Seed",
+"jp": false,
+"task": "text-generation",
+"downloads": 110,
+"lang": "en"
+}
+},
+"release-ByteDance-Seed__SimArt": {
+"id": "release-ByteDance-Seed__SimArt",
+"source": "releases",
+"kind": "release",
+"title": "ByteDance-Seed/SimArt",
+"url": "https://huggingface.co/ByteDance-Seed/SimArt",
+"date": "2026-05-19",
+"summary": "",
+"score": 4,
+"extra": {
+"org": "ByteDance-Seed",
+"publisher": "ByteDance Seed",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-CohereLabs__command-a-plus-05-2026-bf16": {
+"id": "release-CohereLabs__command-a-plus-05-2026-bf16",
+"source": "releases",
+"kind": "release",
+"title": "CohereLabs/command-a-plus-05-2026-bf16",
+"url": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16",
+"date": "2026-05-11",
+"summary": "",
+"score": 145,
+"extra": {
+"org": "CohereLabs",
+"publisher": "Cohere",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 36997,
+"lang": "en"
+}
+},
+"release-CohereLabs__command-a-plus-05-2026-fp8": {
+"id": "release-CohereLabs__command-a-plus-05-2026-fp8",
+"source": "releases",
+"kind": "release",
+"title": "CohereLabs/command-a-plus-05-2026-fp8",
+"url": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-fp8",
+"date": "2026-05-18",
+"summary": "",
+"score": 40,
+"extra": {
+"org": "CohereLabs",
+"publisher": "Cohere",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 1314,
+"lang": "en"
+}
+},
+"release-CohereLabs__command-a-plus-05-2026-w4a4": {
+"id": "release-CohereLabs__command-a-plus-05-2026-w4a4",
+"source": "releases",
+"kind": "release",
+"title": "CohereLabs/command-a-plus-05-2026-w4a4",
+"url": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4",
+"date": "2026-05-18",
+"summary": "",
+"score": 247,
+"extra": {
+"org": "CohereLabs",
+"publisher": "Cohere",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 3389,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen-Image-Bench": {
+"id": "release-Qwen__Qwen-Image-Bench",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen-Image-Bench",
+"url": "https://huggingface.co/Qwen/Qwen-Image-Bench",
+"date": "2026-05-21",
+"summary": "",
+"score": 102,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 35495,
+"lang": "en"
+}
+},
+"release-allenai__ACE2S-SHiELD-plus": {
+"id": "release-allenai__ACE2S-SHiELD-plus",
+"source": "releases",
+"kind": "release",
+"title": "allenai/ACE2S-SHiELD-plus",
+"url": "https://huggingface.co/allenai/ACE2S-SHiELD-plus",
+"date": "2026-05-21",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "",
+"downloads": 25,
+"lang": "en"
+}
+},
+"release-allenai__EMO": {
+"id": "release-allenai__EMO",
+"source": "releases",
+"kind": "release",
+"title": "allenai/EMO",
+"url": "https://huggingface.co/allenai/EMO",
+"date": "2026-05-08",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "text-generation",
+"downloads": 332,
+"lang": "en"
+}
+},
+"release-allenai__MolmoAct2-FAST-Tokenizer": {
+"id": "release-allenai__MolmoAct2-FAST-Tokenizer",
+"source": "releases",
+"kind": "release",
+"title": "allenai/MolmoAct2-FAST-Tokenizer",
+"url": "https://huggingface.co/allenai/MolmoAct2-FAST-Tokenizer",
+"date": "2026-05-05",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "robotics",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-allenai__MolmoAct2-LIBERO-LeRobot": {
+"id": "release-allenai__MolmoAct2-LIBERO-LeRobot",
+"source": "releases",
+"kind": "release",
+"title": "allenai/MolmoAct2-LIBERO-LeRobot",
+"url": "https://huggingface.co/allenai/MolmoAct2-LIBERO-LeRobot",
+"date": "2026-05-14",
+"summary": "",
+"score": 4,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "robotics",
+"downloads": 3804,
+"lang": "en"
+}
+},
+"release-allenai__OlmoEarth-v1_1-Base": {
+"id": "release-allenai__OlmoEarth-v1_1-Base",
+"source": "releases",
+"kind": "release",
+"title": "allenai/OlmoEarth-v1_1-Base",
+"url": "https://huggingface.co/allenai/OlmoEarth-v1_1-Base",
+"date": "2026-05-14",
+"summary": "",
+"score": 11,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "",
+"downloads": 295,
+"lang": "en"
+}
+},
+"release-allenai__OlmoEarth-v1_1-Nano": {
+"id": "release-allenai__OlmoEarth-v1_1-Nano",
+"source": "releases",
+"kind": "release",
+"title": "allenai/OlmoEarth-v1_1-Nano",
+"url": "https://huggingface.co/allenai/OlmoEarth-v1_1-Nano",
+"date": "2026-05-14",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "",
+"downloads": 1690,
+"lang": "en"
+}
+},
+"release-allenai__OlmoEarth-v1_1-Tiny": {
+"id": "release-allenai__OlmoEarth-v1_1-Tiny",
+"source": "releases",
+"kind": "release",
+"title": "allenai/OlmoEarth-v1_1-Tiny",
+"url": "https://huggingface.co/allenai/OlmoEarth-v1_1-Tiny",
+"date": "2026-05-14",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "",
+"downloads": 811,
+"lang": "en"
+}
+},
+"release-allenai__StdMoE_1b14b_1T_EmoAnnealed": {
+"id": "release-allenai__StdMoE_1b14b_1T_EmoAnnealed",
+"source": "releases",
+"kind": "release",
+"title": "allenai/StdMoE_1b14b_1T_EmoAnnealed",
+"url": "https://huggingface.co/allenai/StdMoE_1b14b_1T_EmoAnnealed",
+"date": "2026-05-05",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "text-generation",
+"downloads": 332,
+"lang": "en"
+}
+},
+"release-baidu__ERNIE-Image-Aes": {
+"id": "release-baidu__ERNIE-Image-Aes",
+"source": "releases",
+"kind": "release",
+"title": "baidu/ERNIE-Image-Aes",
+"url": "https://huggingface.co/baidu/ERNIE-Image-Aes",
+"date": "2026-05-18",
+"summary": "",
+"score": 18,
+"extra": {
+"org": "baidu",
+"publisher": "Baidu",
+"jp": false,
+"task": "",
+"downloads": 320,
+"lang": "en"
+}
+},
+"release-baidu__NAVA": {
+"id": "release-baidu__NAVA",
+"source": "releases",
+"kind": "release",
+"title": "baidu/NAVA",
+"url": "https://huggingface.co/baidu/NAVA",
+"date": "2026-05-29",
+"summary": "",
+"score": 126,
+"extra": {
+"org": "baidu",
+"publisher": "Baidu",
+"jp": false,
+"task": "text-to-video",
+"downloads": 145,
+"lang": "en"
+}
+},
+"release-cyberagent__CAT-Thinking-8B": {
+"id": "release-cyberagent__CAT-Thinking-8B",
+"source": "releases",
+"kind": "release",
+"title": "cyberagent/CAT-Thinking-8B",
+"url": "https://huggingface.co/cyberagent/CAT-Thinking-8B",
+"date": "2026-05-28",
+"summary": "",
+"score": 8,
+"extra": {
+"org": "cyberagent",
+"publisher": "サイバーエージェント",
+"jp": true,
+"task": "text-generation",
+"downloads": 194,
+"lang": "ja"
+}
+},
+"release-google__gemma-4-12B": {
+"id": "release-google__gemma-4-12B",
+"source": "releases",
+"kind": "release",
+"title": "google/gemma-4-12B",
+"url": "https://huggingface.co/google/gemma-4-12B",
+"date": "2026-05-23",
+"summary": "",
+"score": 760,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "any-to-any",
+"downloads": 109548,
+"lang": "en"
+}
+},
+"release-google__gemma-4-12B-it-assistant": {
+"id": "release-google__gemma-4-12B-it-assistant",
+"source": "releases",
+"kind": "release",
+"title": "google/gemma-4-12B-it-assistant",
+"url": "https://huggingface.co/google/gemma-4-12B-it-assistant",
+"date": "2026-05-23",
+"summary": "",
+"score": 130,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "any-to-any",
+"downloads": 25561,
+"lang": "en"
+}
+},
+"release-google__gemma-4-26B-A4B-it-qat-q4_0-unquantized-assistant": {
+"id": "release-google__gemma-4-26B-A4B-it-qat-q4_0-unquantized-assistant",
+"source": "releases",
+"kind": "release",
+"title": "google/gemma-4-26B-A4B-it-qat-q4_0-unquantized-assistant",
+"url": "https://huggingface.co/google/gemma-4-26B-A4B-it-qat-q4_0-unquantized-assistant",
+"date": "2026-05-29",
+"summary": "",
+"score": 18,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 1451,
+"lang": "en"
+}
+},
+"release-google__gemma-4-31B-it-qat-q4_0-unquantized-assistant": {
+"id": "release-google__gemma-4-31B-it-qat-q4_0-unquantized-assistant",
+"source": "releases",
+"kind": "release",
+"title": "google/gemma-4-31B-it-qat-q4_0-unquantized-assistant",
+"url": "https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized-assistant",
+"date": "2026-05-29",
+"summary": "",
+"score": 26,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 33262,
+"lang": "en"
+}
+},
+"release-google__gemma-4-E2B-it-qat-q4_0-unquantized-assistant": {
+"id": "release-google__gemma-4-E2B-it-qat-q4_0-unquantized-assistant",
+"source": "releases",
+"kind": "release",
+"title": "google/gemma-4-E2B-it-qat-q4_0-unquantized-assistant",
+"url": "https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-unquantized-assistant",
+"date": "2026-05-29",
+"summary": "",
+"score": 21,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "any-to-any",
+"downloads": 572,
+"lang": "en"
+}
+},
+"release-google__gemma-4-E4B-it-qat-q4_0-unquantized-assistant": {
+"id": "release-google__gemma-4-E4B-it-qat-q4_0-unquantized-assistant",
+"source": "releases",
+"kind": "release",
+"title": "google/gemma-4-E4B-it-qat-q4_0-unquantized-assistant",
+"url": "https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-unquantized-assistant",
+"date": "2026-05-29",
+"summary": "",
+"score": 15,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "any-to-any",
+"downloads": 1257,
+"lang": "en"
+}
+},
+"release-google__magenta-realtime-2": {
+"id": "release-google__magenta-realtime-2",
+"source": "releases",
+"kind": "release",
+"title": "google/magenta-realtime-2",
+"url": "https://huggingface.co/google/magenta-realtime-2",
+"date": "2026-05-28",
+"summary": "",
+"score": 253,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 12653,
+"lang": "en"
+}
+},
+"release-llm-jp__llm-jp-4-32b-a3b-thinking-gguf": {
+"id": "release-llm-jp__llm-jp-4-32b-a3b-thinking-gguf",
+"source": "releases",
+"kind": "release",
+"title": "llm-jp/llm-jp-4-32b-a3b-thinking-gguf",
+"url": "https://huggingface.co/llm-jp/llm-jp-4-32b-a3b-thinking-gguf",
+"date": "2026-05-19",
+"summary": "",
+"score": 9,
+"extra": {
+"org": "llm-jp",
+"publisher": "LLM-jp（国立情報学研究所）",
+"jp": true,
+"task": "text-generation",
+"downloads": 973,
+"lang": "ja"
+}
+},
+"release-llm-jp__llm-jp-4-8b-thinking-gguf": {
+"id": "release-llm-jp__llm-jp-4-8b-thinking-gguf",
+"source": "releases",
+"kind": "release",
+"title": "llm-jp/llm-jp-4-8b-thinking-gguf",
+"url": "https://huggingface.co/llm-jp/llm-jp-4-8b-thinking-gguf",
+"date": "2026-05-19",
+"summary": "",
+"score": 16,
+"extra": {
+"org": "llm-jp",
+"publisher": "LLM-jp（国立情報学研究所）",
+"jp": true,
+"task": "text-generation",
+"downloads": 1351,
+"lang": "ja"
+}
+},
+"release-microsoft__Fara1.5-9B": {
+"id": "release-microsoft__Fara1.5-9B",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/Fara1.5-9B",
+"url": "https://huggingface.co/microsoft/Fara1.5-9B",
+"date": "2026-05-12",
+"summary": "",
+"score": 47,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 4579,
+"lang": "en"
+}
+},
+"release-microsoft__GridSFM_Open": {
+"id": "release-microsoft__GridSFM_Open",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/GridSFM_Open",
+"url": "https://huggingface.co/microsoft/GridSFM_Open",
+"date": "2026-05-12",
+"summary": "",
+"score": 29,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "graph-ml",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-microsoft__MagenticBrain": {
+"id": "release-microsoft__MagenticBrain",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/MagenticBrain",
+"url": "https://huggingface.co/microsoft/MagenticBrain",
+"date": "2026-05-12",
+"summary": "",
+"score": 32,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "text-generation",
+"downloads": 730,
+"lang": "en"
+}
+},
+"release-microsoft__Phi-Ground-Any": {
+"id": "release-microsoft__Phi-Ground-Any",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/Phi-Ground-Any",
+"url": "https://huggingface.co/microsoft/Phi-Ground-Any",
+"date": "2026-05-07",
+"summary": "",
+"score": 18,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 292,
+"lang": "en"
+}
+},
+"release-microsoft__vermeer-L": {
+"id": "release-microsoft__vermeer-L",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/vermeer-L",
+"url": "https://huggingface.co/microsoft/vermeer-L",
+"date": "2026-05-26",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-microsoft__vermeer-L-AP": {
+"id": "release-microsoft__vermeer-L-AP",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/vermeer-L-AP",
+"url": "https://huggingface.co/microsoft/vermeer-L-AP",
+"date": "2026-05-26",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-microsoft__vermeer-XL": {
+"id": "release-microsoft__vermeer-XL",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/vermeer-XL",
+"url": "https://huggingface.co/microsoft/vermeer-XL",
+"date": "2026-05-26",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-microsoft__vermeer-XL-CA": {
+"id": "release-microsoft__vermeer-XL-CA",
+"source": "releases",
+"kind": "release",
+"title": "microsoft/vermeer-XL-CA",
+"url": "https://huggingface.co/microsoft/vermeer-XL-CA",
+"date": "2026-05-26",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "microsoft",
+"publisher": "Microsoft",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-sbintuitions__hikari-medium": {
+"id": "release-sbintuitions__hikari-medium",
+"source": "releases",
+"kind": "release",
+"title": "sbintuitions/hikari-medium",
+"url": "https://huggingface.co/sbintuitions/hikari-medium",
+"date": "2026-05-08",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "sbintuitions",
+"publisher": "SB Intuitions",
+"jp": true,
+"task": "automatic-speech-recognition",
+"downloads": 56,
+"lang": "ja"
+}
+},
+"release-sbintuitions__kana-whisper": {
+"id": "release-sbintuitions__kana-whisper",
+"source": "releases",
+"kind": "release",
+"title": "sbintuitions/kana-whisper",
+"url": "https://huggingface.co/sbintuitions/kana-whisper",
+"date": "2026-05-28",
+"summary": "",
+"score": 16,
+"extra": {
+"org": "sbintuitions",
+"publisher": "SB Intuitions",
+"jp": true,
+"task": "",
+"downloads": 49146,
+"lang": "ja"
+}
+},
+"release-stabilityai__SAME-L": {
+"id": "release-stabilityai__SAME-L",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/SAME-L",
+"url": "https://huggingface.co/stabilityai/SAME-L",
+"date": "2026-05-17",
+"summary": "",
+"score": 26,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "",
+"downloads": 18222,
+"lang": "en"
+}
+},
+"release-stabilityai__SAME-S": {
+"id": "release-stabilityai__SAME-S",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/SAME-S",
+"url": "https://huggingface.co/stabilityai/SAME-S",
+"date": "2026-05-17",
+"summary": "",
+"score": 15,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "",
+"downloads": 2460,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-audio-3-medium": {
+"id": "release-stabilityai__stable-audio-3-medium",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-audio-3-medium",
+"url": "https://huggingface.co/stabilityai/stable-audio-3-medium",
+"date": "2026-05-17",
+"summary": "",
+"score": 371,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 64909,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-audio-3-medium-base": {
+"id": "release-stabilityai__stable-audio-3-medium-base",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-audio-3-medium-base",
+"url": "https://huggingface.co/stabilityai/stable-audio-3-medium-base",
+"date": "2026-05-17",
+"summary": "",
+"score": 26,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 8335,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-audio-3-optimized": {
+"id": "release-stabilityai__stable-audio-3-optimized",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-audio-3-optimized",
+"url": "https://huggingface.co/stabilityai/stable-audio-3-optimized",
+"date": "2026-05-18",
+"summary": "",
+"score": 51,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 22555,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-audio-3-small-music": {
+"id": "release-stabilityai__stable-audio-3-small-music",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-audio-3-small-music",
+"url": "https://huggingface.co/stabilityai/stable-audio-3-small-music",
+"date": "2026-05-17",
+"summary": "",
+"score": 167,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 16982,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-audio-3-small-music-base": {
+"id": "release-stabilityai__stable-audio-3-small-music-base",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-audio-3-small-music-base",
+"url": "https://huggingface.co/stabilityai/stable-audio-3-small-music-base",
+"date": "2026-05-16",
+"summary": "",
+"score": 24,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 2691,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-audio-3-small-sfx": {
+"id": "release-stabilityai__stable-audio-3-small-sfx",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-audio-3-small-sfx",
+"url": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
+"date": "2026-05-17",
+"summary": "",
+"score": 176,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 32186,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-audio-3-small-sfx-base": {
+"id": "release-stabilityai__stable-audio-3-small-sfx-base",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-audio-3-small-sfx-base",
+"url": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx-base",
+"date": "2026-05-17",
+"summary": "",
+"score": 11,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-audio",
+"downloads": 1368,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-diffusion-3-medium-amdnpu": {
+"id": "release-stabilityai__stable-diffusion-3-medium-amdnpu",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-diffusion-3-medium-amdnpu",
+"url": "https://huggingface.co/stabilityai/stable-diffusion-3-medium-amdnpu",
+"date": "2026-05-01",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-image",
+"downloads": 34,
+"lang": "en"
+}
+},
+"release-stabilityai__stable-diffusion-3.5-medium-amdnpu": {
+"id": "release-stabilityai__stable-diffusion-3.5-medium-amdnpu",
+"source": "releases",
+"kind": "release",
+"title": "stabilityai/stable-diffusion-3.5-medium-amdnpu",
+"url": "https://huggingface.co/stabilityai/stable-diffusion-3.5-medium-amdnpu",
+"date": "2026-05-01",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "stabilityai",
+"publisher": "Stability AI",
+"jp": false,
+"task": "text-to-image",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-tokyotech-llm__GPT-OSS-Swallow-120B-RL-v0.1-MXFP4": {
+"id": "release-tokyotech-llm__GPT-OSS-Swallow-120B-RL-v0.1-MXFP4",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/GPT-OSS-Swallow-120B-RL-v0.1-MXFP4",
+"url": "https://huggingface.co/tokyotech-llm/GPT-OSS-Swallow-120B-RL-v0.1-MXFP4",
+"date": "2026-05-11",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "text-generation",
+"downloads": 665,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__GPT-OSS-Swallow-20B-RL-v0.1-MXFP4": {
+"id": "release-tokyotech-llm__GPT-OSS-Swallow-20B-RL-v0.1-MXFP4",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/GPT-OSS-Swallow-20B-RL-v0.1-MXFP4",
+"url": "https://huggingface.co/tokyotech-llm/GPT-OSS-Swallow-20B-RL-v0.1-MXFP4",
+"date": "2026-05-11",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "text-generation",
+"downloads": 525,
+"lang": "ja"
+}
+}
+}

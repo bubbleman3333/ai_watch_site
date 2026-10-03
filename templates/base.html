@@ -27,10 +27,15 @@
     <a class="brand" href="{{ url() }}"><span class="logo" aria-hidden="true"></span>{{ site.name }}</a>
     <nav class="nav">
       <a href="{{ url('topic/') }}">技術テーマ</a>
-      <a href="{{ url('industry/') }}">業種別の使い方</a>
+      <a href="{{ url('industry/') }}">業種別</a>
       <a href="{{ url('notes/') }}">解説</a>
+      <a href="{{ url('japan/') }}">日本の動き</a>
+      <a href="{{ url('releases/') }}">新モデル</a>
+      <a href="{{ url('pricing/') }}">API 価格</a>
+      <a href="{{ url('attention/') }}">世間の関心</a>
+      <a href="{{ url('adoption/') }}">開発の普及</a>
       <a href="{{ url('models/') }}">話題のモデル</a>
-      <a href="{{ url('week/') }}">週ごと</a>
+      <a href="{{ url('latest/') }}">新着</a>
       <a href="{{ url('start/') }}" class="nav-start">はじめかた</a>
     </nav>
   </div>
@@ -55,6 +60,8 @@
         <ul class="foot-list">{% for i in industries %}<li><a href="{{ url(i.path) }}">{{ i.name }}</a></li>{% endfor %}</ul>
         <p class="foot-h">このサイト</p>
         <ul class="foot-list">
+          <li><a href="{{ url('sources/') }}">情報源 {{ n_sources }} か所</a></li>
+          <li><a href="{{ url('week/') }}">週ごとのまとめ</a></li>
           <li><a href="{{ url('about/') }}">データの集め方</a></li>
           <li><a href="{{ url('privacy/') }}">プライバシーポリシー</a></li>
           <li><a href="{{ url('latest/') }}">新着の一覧</a></li>
@@ -62,7 +69,7 @@
         </ul>
       </div>
     </div>
-    <p class="muted fine">出典: arXiv・Hugging Face・GitHub・Hacker News の公開 API と、各社が公開している RSS。記事の本文は転載せず、題名とリンクだけを載せています。
+    <p class="muted fine">出典: arXiv・Hugging Face・GitHub・Hacker News・Lobsters・DEV・OpenRouter・PyPI・npm・Wikipedia の公開 API と、各社・報道機関・官公庁が公開している RSS ほか <a href="{{ url('sources/') }}">{{ n_sources }} か所</a>。記事の本文は転載せず、題名とリンクだけを載せています。
       各社とは関係のない非公式サイトです。© {{ now.year }} {{ site.name }}</p>
   </div>
 </footer>

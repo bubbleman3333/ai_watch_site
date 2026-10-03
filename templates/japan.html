@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% from "_macros.html" import item %}
+{% block title %}日本の AI の動き（政策・報道・企業・国産モデル・技術記事） | {{ site.name }}{% endblock %}
+{% block description %}デジタル庁・経済産業省の発表、ITmedia・日経クロステック・Publickey の報道、国産 LLM の新しいモデル、Zenn・Qiita の技術記事など、日本の AI の動きを毎日まとめています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 日本の動き</nav>
+<header class="page-head">
+  <p class="eyebrow">日本語の情報源から</p>
+  <h1>日本の AI の動き</h1>
+  <p class="lead">政府の発表、報道、企業の発表、日本の組織が公開したモデル、エンジニアの技術記事を、直近 30 日分まとめています。</p>
+</header>
+{% if noted %}
+<section class="sec">
+  <div class="sec-head"><h2>解説つき</h2></div>
+  <div class="items grid2">{% for it in noted %}{{ item(it) }}{% endfor %}</div>
+</section>
+{% endif %}
+<div class="cols">
+{% for k, lab, rows in groups %}
+  <section class="sec">
+    <div class="sec-head"><h2>{{ lab }}</h2><span class="small muted">{{ rows|length }} 件</span></div>
+    <ul class="news">
+    {% for it in rows %}
+      <li><time>{{ it.date|jday }}</time><span class="pub">{{ it.publisher }}</span>
+        {% if it.note %}<a href="{{ url(it.path) }}">{{ it.headline }}</a>{% else %}<a href="{{ it.url }}" rel="noopener" target="_blank">{{ it.title }}</a>{% endif %}</li>
+    {% else %}<li class="muted">この 30 日はありません。</li>{% endfor %}
+    </ul>
+  </section>
+{% endfor %}
+</div>
+{% endblock %}

@@ -1,4 +1,94 @@
 {
+"news-amazon-science-09c9229b5a1d": {
+"id": "news-amazon-science-09c9229b5a1d",
+"source": "news",
+"kind": "news",
+"title": "EC2&#8217;s formally verified &#8220;isolation engine&#8221; provides mathematical assurance of virtual-machine isolation",
+"url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
+"date": "2026-06-10",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
+"news-amazon-science-3f9f46fb4f3e": {
+"id": "news-amazon-science-3f9f46fb4f3e",
+"source": "news",
+"kind": "news",
+"title": "Bridging intent and execution in agentic systems",
+"url": "https://www.amazon.science/blog/bridging-intent-and-execution-in-agentic-systems",
+"date": "2026-06-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
+"news-amazon-science-494361041816": {
+"id": "news-amazon-science-494361041816",
+"source": "news",
+"kind": "news",
+"title": "Ground truth is a process, not a dataset",
+"url": "https://www.amazon.science/blog/ground-truth-is-a-process-not-a-dataset",
+"date": "2026-06-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
+"news-amazon-science-520c66082c05": {
+"id": "news-amazon-science-520c66082c05",
+"source": "news",
+"kind": "news",
+"title": "Real-world grounding in agentic AI",
+"url": "https://www.amazon.science/blog/real-world-grounding-in-agentic-ai",
+"date": "2026-06-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
+"news-amazon-science-92ae616137a0": {
+"id": "news-amazon-science-92ae616137a0",
+"source": "news",
+"kind": "news",
+"title": "Graviton5&#8217;s improved design increases speed and energy efficiency &#8212; beyond Moore&#8217;s law",
+"url": "https://www.amazon.science/blog/graviton5s-improved-design-increases-speed-and-energy-efficiency-beyond-moores-law",
+"date": "2026-06-10",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
+"news-amazon-science-e691f079a279": {
+"id": "news-amazon-science-e691f079a279",
+"source": "news",
+"kind": "news",
+"title": "The fuel of the future is already here: Why TRISO matters",
+"url": "https://www.amazon.science/blog/the-fuel-of-the-future-is-already-here-why-triso-matters",
+"date": "2026-06-24",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
 "news-deepmind-0ce8c6adc247": {
 "id": "news-deepmind-0ce8c6adc247",
 "source": "news",
@@ -146,6 +236,186 @@
 "extra": {
 "publisher": "Google DeepMind",
 "feed": "deepmind",
+"lang": "en"
+}
+},
+"news-google-research-0db7513b7b07": {
+"id": "news-google-research-0db7513b7b07",
+"source": "news",
+"kind": "news",
+"title": "New framework for auditing machine unlearning",
+"url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
+"date": "2026-06-10",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-2cd2c89817a3": {
+"id": "news-google-research-2cd2c89817a3",
+"source": "news",
+"kind": "news",
+"title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
+"url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
+"date": "2026-06-26",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-3d0ddc045cc1": {
+"id": "news-google-research-3d0ddc045cc1",
+"source": "news",
+"kind": "news",
+"title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
+"url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
+"date": "2026-06-24",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-4230e545acad": {
+"id": "news-google-research-4230e545acad",
+"source": "news",
+"kind": "news",
+"title": "Optimizing cloud economics with linear elastic caching",
+"url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
+"date": "2026-06-25",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-52d1ff0483ec": {
+"id": "news-google-research-52d1ff0483ec",
+"source": "news",
+"kind": "news",
+"title": "From pixels to planning: Earth AI for nature restoration",
+"url": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
+"date": "2026-06-16",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-71b92e4777f3": {
+"id": "news-google-research-71b92e4777f3",
+"source": "news",
+"kind": "news",
+"title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
+"url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
+"date": "2026-06-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-743435fe86b3": {
+"id": "news-google-research-743435fe86b3",
+"source": "news",
+"kind": "news",
+"title": "A low-carbon computing platform from your retired phones",
+"url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+"date": "2026-06-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-7725e52402e0": {
+"id": "news-google-research-7725e52402e0",
+"source": "news",
+"kind": "news",
+"title": "Expanding our Heat Resilience data to 50+ global cities",
+"url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
+"date": "2026-06-30",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-9922ce4ab8b5": {
+"id": "news-google-research-9922ce4ab8b5",
+"source": "news",
+"kind": "news",
+"title": "Research into how AI can help users understand skin conditions",
+"url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
+"date": "2026-06-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-b680e7387344": {
+"id": "news-google-research-b680e7387344",
+"source": "news",
+"kind": "news",
+"title": "Towards passive heart health monitoring via smartphone camera",
+"url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
+"date": "2026-06-04",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-bc21abe28d59": {
+"id": "news-google-research-bc21abe28d59",
+"source": "news",
+"kind": "news",
+"title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
+"url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
+"date": "2026-06-05",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-c1ef366401f4": {
+"id": "news-google-research-c1ef366401f4",
+"source": "news",
+"kind": "news",
+"title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+"url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+"date": "2026-06-30",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
 "lang": "en"
 }
 },
@@ -569,6 +839,96 @@
 "lang": "en"
 }
 },
+"news-import-ai-048eb6ac4904": {
+"id": "news-import-ai-048eb6ac4904",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+"url": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
+"date": "2026-06-15",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
+"lang": "en"
+}
+},
+"news-import-ai-4697ae55d3b6": {
+"id": "news-import-ai-4697ae55d3b6",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+"url": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+"date": "2026-06-29",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
+"lang": "en"
+}
+},
+"news-import-ai-67830b7730e4": {
+"id": "news-import-ai-67830b7730e4",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+"url": "https://importai.substack.com/p/import-ai-460-reward-hacking-society",
+"date": "2026-06-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
+"lang": "en"
+}
+},
+"news-import-ai-9df0e8b363a0": {
+"id": "news-import-ai-9df0e8b363a0",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+"url": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+"date": "2026-06-22",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
+"lang": "en"
+}
+},
+"news-import-ai-a3da2b637802": {
+"id": "news-import-ai-a3da2b637802",
+"source": "news",
+"kind": "blog",
+"title": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
+"url": "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult",
+"date": "2026-06-01",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Import AI（Jack Clark）",
+"feed": "import-ai",
+"lang": "en"
+}
+},
+"news-meti-239635cf8baf": {
+"id": "news-meti-239635cf8baf",
+"source": "news",
+"kind": "policy",
+"title": "AI分野を中心とした新たな五庁協力について合意しました",
+"url": "https://www.meti.go.jp/press/2026/06/20260615002/20260615002.html",
+"date": "2026-06-14",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "経済産業省",
+"feed": "meti",
+"lang": "ja"
+}
+},
 "news-microsoft-24bc17d290cd": {
 "id": "news-microsoft-24bc17d290cd",
 "source": "news",
@@ -626,6 +986,21 @@
 "extra": {
 "publisher": "Mistral AI",
 "feed": "mistral",
+"lang": "en"
+}
+},
+"news-mit-news-e80c01ffb032": {
+"id": "news-mit-news-e80c01ffb032",
+"source": "news",
+"kind": "blog",
+"title": "Q&A: What is agentic AI today, and what do we want it to be?",
+"url": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+"date": "2026-06-30",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "MIT News",
+"feed": "mit-news",
 "lang": "en"
 }
 },
@@ -1451,6 +1826,81 @@
 "extra": {
 "publisher": "OpenAI",
 "feed": "openai",
+"lang": "en"
+}
+},
+"news-together-28229cc87eea": {
+"id": "news-together-28229cc87eea",
+"source": "news",
+"kind": "news",
+"title": "ParallelKernelBench: Frontier LLMs can't write fast multi-GPU kernels (yet)",
+"url": "https://www.together.ai/blog/parallelkernelbench",
+"date": "2026-06-23",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-3bc0f5b9d356": {
+"id": "news-together-3bc0f5b9d356",
+"source": "news",
+"kind": "news",
+"title": "Serving MiniMax-M3 for efficient inference: Unlocking 1M-Token Context and Multimodality Without Regrets",
+"url": "https://www.together.ai/blog/serving-minimax-m3-for-efficient-inference-unlocking-1m-token-context-and-multimodality-without-regrets",
+"date": "2026-06-02",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-6ecb64a64373": {
+"id": "news-together-6ecb64a64373",
+"source": "news",
+"kind": "news",
+"title": "Building trust in enterprise AI: Together AI earns ISO 27001:2022 certification",
+"url": "https://www.together.ai/blog/iso-27001-2022-certification",
+"date": "2026-06-10",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-87f7f0c9d5c6": {
+"id": "news-together-87f7f0c9d5c6",
+"source": "news",
+"kind": "news",
+"title": "Kimi K2.7 Code vs Claude Fable 5: Landing pages that cost 94% less",
+"url": "https://www.together.ai/blog/kimi-k2-7-code-vs-claude-fable-5",
+"date": "2026-06-17",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
+"lang": "en"
+}
+},
+"news-together-e08174d3ad98": {
+"id": "news-together-e08174d3ad98",
+"source": "news",
+"kind": "news",
+"title": "Together AI at ICML 2026: frontier research across the full stack",
+"url": "https://www.together.ai/blog/icml-2026",
+"date": "2026-06-30",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
 "lang": "en"
 }
 }

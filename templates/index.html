@@ -1,5 +1,6 @@
 {% extends "base.html" %}
-{% from "_macros.html" import item, topic_card, model_table, tags, trend_badge %}
+{% from "_macros.html" import item, topic_card, model_table, tags, trend_badge, newslist %}
+{% from "_series.html" import series_card %}
 {% block head %}
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":{{ site.name|tojson }},"url":{{ url()|tojson }},"description":{{ site.description|tojson }},"inLanguage":"ja"}</script>
 {% endblock %}
@@ -26,12 +27,67 @@
   </div>
 </section>
 
+<section class="kpis" aria-label="数字で見る">
+  <div class="kpi"><span class="k">集めている情報源</span><b>{{ kpi.sources }}</b><span class="u">か所</span></div>
+  <div class="kpi"><span class="k">この 1 週間に集めた</span><b>{{ kpi.week|num }}</b><span class="u">件</span></div>
+  <div class="kpi"><span class="k">うち日本語</span><b>{{ kpi.ja|num }}</b><span class="u">件</span></div>
+  <div class="kpi"><span class="k">この 30 日の新モデル</span><b>{{ kpi.releases|num }}</b><span class="u">件</span></div>
+  <div class="kpi"><span class="k">価格を追っているモデル</span><b>{{ kpi.prices|num }}</b><span class="u">個</span></div>
+  <div class="kpi"><span class="k">解説</span><b>{{ kpi.notes|num }}</b><span class="u">本</span></div>
+</section>
+
 <section class="sec" id="hot">
   <div class="sec-head"><h2>今週の注目</h2><a class="more" href="{{ url('latest/') }}">新着をすべて見る →</a></div>
   <p class="sec-lead">発表・論文・話題・オープンソースから、反応の大きかったものを集めました。<span class="pill">解説つき</span>はビジネスでの使いどころまで書いています。</p>
   <div class="items grid2">
   {% for it in hot %}{{ item(it) }}{% endfor %}
   </div>
+</section>
+
+<div class="cols3">
+  <section class="sec">
+    <div class="sec-head"><h2>報道</h2></div>
+    {{ newslist(media) }}
+  </section>
+  <section class="sec">
+    <div class="sec-head"><h2>日本の動き</h2><a class="more" href="{{ url('japan/') }}">もっと →</a></div>
+    {{ newslist(japan) }}
+  </section>
+  <section class="sec">
+    <div class="sec-head"><h2>新しいモデル</h2><a class="more" href="{{ url('releases/') }}">もっと →</a></div>
+    <ul class="news">
+    {% for it in releases %}
+      <li><time>{{ it.date|jday }}</time><span class="pub">{% if it.extra.jp %}<span class="jp">日本</span>{% endif %}{{ it.publisher }}</span>
+        <a href="{{ it.url }}" rel="noopener" target="_blank" class="mono">{{ it.title.split('/')[-1] }}</a></li>
+    {% endfor %}
+    </ul>
+  </section>
+</div>
+
+<section class="sec" id="numbers">
+  <div class="sec-head"><h2>数字で見る AI</h2></div>
+  <div class="numgrid">
+    <div class="numbox">
+      <h3><a href="{{ url('attention/') }}">世間の関心が伸びているもの →</a></h3>
+      <p class="small muted">Wikipedia の閲覧数（直近 30 日の前月比）</p>
+      <div class="sgrid tight">{% for s in dash.rising_attention(4) %}{{ series_card(s, '#db2777') }}{% else %}<p class="muted">集計中</p>{% endfor %}</div>
+    </div>
+    <div class="numbox">
+      <h3><a href="{{ url('adoption/') }}">開発現場で伸びているライブラリ →</a></h3>
+      <p class="small muted">PyPI / npm のダウンロード数（直近 30 日の前月比）</p>
+      <div class="sgrid tight">{% for s in dash.rising_downloads(4) %}{{ series_card(s, '#059669') }}{% else %}<p class="muted">集計中</p>{% endfor %}</div>
+    </div>
+  </div>
+  {% if dash.pricing %}
+  <div class="numbox wide">
+    <h3><a href="{{ url('pricing/') }}">API 価格：この 30 日に登場したモデル →</a></h3>
+    <div class="table-wrap"><table class="models">
+      <thead><tr><th>登場</th><th>モデル</th><th class="num">入力</th><th class="num">出力</th><th class="num">文脈長</th></tr></thead>
+      <tbody>{% for x in dash.pricing.new[:8] %}<tr><td class="lic">{{ x.created|jday }}</td><td><a href="{{ x.url }}" rel="noopener" target="_blank">{{ x.name }}</a></td><td class="num">{{ x.inp|usd }}</td><td class="num">{{ x.out|usd }}</td><td class="num">{{ x.context|ctx }}</td></tr>{% endfor %}</tbody>
+    </table></div>
+    <p class="small muted">100 万トークンあたりの米ドル。</p>
+  </div>
+  {% endif %}
 </section>
 
 <section class="sec" id="rising">
@@ -97,6 +153,26 @@
     {% for it in talk %}
       <li><span class="score">{{ it.score }}pt</span><a href="{{ it.url }}" rel="noopener" target="_blank" lang="en">{{ it.title }}</a>
         <a class="desc" href="{{ it.alt_url }}" rel="noopener" target="_blank">{{ it.extra.comments }} コメント</a></li>
+    {% endfor %}
+    </ul>
+  </section>
+</div>
+
+<div class="cols3">
+  <section class="sec">
+    <div class="sec-head"><h2>研究者・専門家のブログ</h2></div>
+    {{ newslist(blogs) }}
+  </section>
+  <section class="sec">
+    <div class="sec-head"><h2>エンジニアの技術記事</h2></div>
+    {{ newslist(tech) }}
+  </section>
+  <section class="sec">
+    <div class="sec-head"><h2>主要 OSS のスターの伸び</h2><a class="more" href="{{ url('adoption/') }}">もっと →</a></div>
+    <ul class="news">
+    {% for r in dash.repos[:10] %}
+      <li><span class="score">★{{ r.stars|short }}</span><a href="{{ r.url }}" rel="noopener" target="_blank" class="mono">{{ r.repo }}</a>
+        {% if r.gain is not none %}<span class="desc">+{{ r.gain|short }}（{{ r.gain_days }} 日）</span>{% elif r.release %}<span class="desc">最新 {{ r.release }}（{{ r.release_date }}）</span>{% endif %}</li>
     {% endfor %}
     </ul>
   </section>

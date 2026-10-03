@@ -1,0 +1,632 @@
+{
+"release-HuggingFaceTB__nanowhale-100m": {
+"id": "release-HuggingFaceTB__nanowhale-100m",
+"source": "releases",
+"kind": "release",
+"title": "HuggingFaceTB/nanowhale-100m",
+"url": "https://huggingface.co/HuggingFaceTB/nanowhale-100m",
+"date": "2026-04-24",
+"summary": "",
+"score": 68,
+"extra": {
+"org": "HuggingFaceTB",
+"publisher": "Hugging Face",
+"jp": false,
+"task": "text-generation",
+"downloads": 674,
+"lang": "en"
+}
+},
+"release-HuggingFaceTB__nanowhale-100m-base": {
+"id": "release-HuggingFaceTB__nanowhale-100m-base",
+"source": "releases",
+"kind": "release",
+"title": "HuggingFaceTB/nanowhale-100m-base",
+"url": "https://huggingface.co/HuggingFaceTB/nanowhale-100m-base",
+"date": "2026-04-24",
+"summary": "",
+"score": 24,
+"extra": {
+"org": "HuggingFaceTB",
+"publisher": "Hugging Face",
+"jp": false,
+"task": "text-generation",
+"downloads": 933,
+"lang": "en"
+}
+},
+"release-MiniMaxAI__MiniMax-M2.7": {
+"id": "release-MiniMaxAI__MiniMax-M2.7",
+"source": "releases",
+"kind": "release",
+"title": "MiniMaxAI/MiniMax-M2.7",
+"url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+"date": "2026-04-09",
+"summary": "",
+"score": 1249,
+"extra": {
+"org": "MiniMaxAI",
+"publisher": "MiniMax",
+"jp": false,
+"task": "text-generation",
+"downloads": 1073367,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen3.6-27B-FP8": {
+"id": "release-Qwen__Qwen3.6-27B-FP8",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen3.6-27B-FP8",
+"url": "https://huggingface.co/Qwen/Qwen3.6-27B-FP8",
+"date": "2026-04-21",
+"summary": "",
+"score": 359,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 3605650,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3-1.7B-Base-W32K-L0_100": {
+"id": "release-Qwen__SAE-Res-Qwen3-1.7B-Base-W32K-L0_100",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3-1.7B-Base-W32K-L0_100",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3-1.7B-Base-W32K-L0_100",
+"date": "2026-04-27",
+"summary": "",
+"score": 4,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 806,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3-1.7B-Base-W32K-L0_50": {
+"id": "release-Qwen__SAE-Res-Qwen3-1.7B-Base-W32K-L0_50",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3-1.7B-Base-W32K-L0_50",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3-1.7B-Base-W32K-L0_50",
+"date": "2026-04-27",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 906,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3-30B-A3B-Base-W128K-L0_100": {
+"id": "release-Qwen__SAE-Res-Qwen3-30B-A3B-Base-W128K-L0_100",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3-30B-A3B-Base-W128K-L0_100",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3-30B-A3B-Base-W128K-L0_100",
+"date": "2026-04-27",
+"summary": "",
+"score": 4,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 247,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3-30B-A3B-Base-W32K-L0_50": {
+"id": "release-Qwen__SAE-Res-Qwen3-30B-A3B-Base-W32K-L0_50",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3-30B-A3B-Base-W32K-L0_50",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3-30B-A3B-Base-W32K-L0_50",
+"date": "2026-04-27",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 220,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3-8B-Base-W64K-L0_100": {
+"id": "release-Qwen__SAE-Res-Qwen3-8B-Base-W64K-L0_100",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_100",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_100",
+"date": "2026-04-27",
+"summary": "",
+"score": 7,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 840,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3-8B-Base-W64K-L0_50": {
+"id": "release-Qwen__SAE-Res-Qwen3-8B-Base-W64K-L0_50",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_50",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3-8B-Base-W64K-L0_50",
+"date": "2026-04-27",
+"summary": "",
+"score": 6,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 389,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3.5-27B-W80K-L0_100": {
+"id": "release-Qwen__SAE-Res-Qwen3.5-27B-W80K-L0_100",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3.5-27B-W80K-L0_100",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3.5-27B-W80K-L0_100",
+"date": "2026-04-27",
+"summary": "",
+"score": 13,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 294,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3.5-27B-W80K-L0_50": {
+"id": "release-Qwen__SAE-Res-Qwen3.5-27B-W80K-L0_50",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3.5-27B-W80K-L0_50",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3.5-27B-W80K-L0_50",
+"date": "2026-04-27",
+"summary": "",
+"score": 39,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 518,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3.5-2B-Base-W32K-L0_100": {
+"id": "release-Qwen__SAE-Res-Qwen3.5-2B-Base-W32K-L0_100",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100",
+"date": "2026-04-27",
+"summary": "",
+"score": 7,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 348,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3.5-2B-Base-W32K-L0_50": {
+"id": "release-Qwen__SAE-Res-Qwen3.5-2B-Base-W32K-L0_50",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_50",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_50",
+"date": "2026-04-27",
+"summary": "",
+"score": 15,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 457,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3.5-35B-A3B-Base-W128K-L0_100": {
+"id": "release-Qwen__SAE-Res-Qwen3.5-35B-A3B-Base-W128K-L0_100",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3.5-35B-A3B-Base-W128K-L0_100",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3.5-35B-A3B-Base-W128K-L0_100",
+"date": "2026-04-27",
+"summary": "",
+"score": 10,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 276,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3.5-35B-A3B-Base-W32K-L0_50": {
+"id": "release-Qwen__SAE-Res-Qwen3.5-35B-A3B-Base-W32K-L0_50",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3.5-35B-A3B-Base-W32K-L0_50",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3.5-35B-A3B-Base-W32K-L0_50",
+"date": "2026-04-27",
+"summary": "",
+"score": 10,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 279,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3.5-9B-Base-W64K-L0_100": {
+"id": "release-Qwen__SAE-Res-Qwen3.5-9B-Base-W64K-L0_100",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100",
+"date": "2026-04-27",
+"summary": "",
+"score": 7,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 297,
+"lang": "en"
+}
+},
+"release-Qwen__SAE-Res-Qwen3.5-9B-Base-W64K-L0_50": {
+"id": "release-Qwen__SAE-Res-Qwen3.5-9B-Base-W64K-L0_50",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_50",
+"url": "https://huggingface.co/Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_50",
+"date": "2026-04-27",
+"summary": "",
+"score": 10,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "",
+"downloads": 404,
+"lang": "en"
+}
+},
+"release-SakanaAI__DreamCubed2M": {
+"id": "release-SakanaAI__DreamCubed2M",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/DreamCubed2M",
+"url": "https://huggingface.co/SakanaAI/DreamCubed2M",
+"date": "2026-04-17",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-SakanaAI__DreamCubed2MHuman": {
+"id": "release-SakanaAI__DreamCubed2MHuman",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/DreamCubed2MHuman",
+"url": "https://huggingface.co/SakanaAI/DreamCubed2MHuman",
+"date": "2026-04-24",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-SakanaAI__DreamCubedCP2": {
+"id": "release-SakanaAI__DreamCubedCP2",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/DreamCubedCP2",
+"url": "https://huggingface.co/SakanaAI/DreamCubedCP2",
+"date": "2026-04-14",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 79,
+"lang": "ja"
+}
+},
+"release-SakanaAI__DreamCubedDP2": {
+"id": "release-SakanaAI__DreamCubedDP2",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/DreamCubedDP2",
+"url": "https://huggingface.co/SakanaAI/DreamCubedDP2",
+"date": "2026-04-14",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 82,
+"lang": "ja"
+}
+},
+"release-SakanaAI__DreamCubedDP4": {
+"id": "release-SakanaAI__DreamCubedDP4",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/DreamCubedDP4",
+"url": "https://huggingface.co/SakanaAI/DreamCubedDP4",
+"date": "2026-04-14",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 109,
+"lang": "ja"
+}
+},
+"release-SakanaAI__gpt-oss-120b-sft-aimo3-fishmath": {
+"id": "release-SakanaAI__gpt-oss-120b-sft-aimo3-fishmath",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/gpt-oss-120b-sft-aimo3-fishmath",
+"url": "https://huggingface.co/SakanaAI/gpt-oss-120b-sft-aimo3-fishmath",
+"date": "2026-04-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "text-generation",
+"downloads": 28,
+"lang": "ja"
+}
+},
+"release-SakanaAI__kame": {
+"id": "release-SakanaAI__kame",
+"source": "releases",
+"kind": "release",
+"title": "SakanaAI/kame",
+"url": "https://huggingface.co/SakanaAI/kame",
+"date": "2026-04-09",
+"summary": "",
+"score": 42,
+"extra": {
+"org": "SakanaAI",
+"publisher": "Sakana AI",
+"jp": true,
+"task": "",
+"downloads": 415,
+"lang": "ja"
+}
+},
+"release-apple__CADD-Base-7B": {
+"id": "release-apple__CADD-Base-7B",
+"source": "releases",
+"kind": "release",
+"title": "apple/CADD-Base-7B",
+"url": "https://huggingface.co/apple/CADD-Base-7B",
+"date": "2026-04-23",
+"summary": "",
+"score": 15,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "text-generation",
+"downloads": 268,
+"lang": "en"
+}
+},
+"release-baidu__ERNIE-Image": {
+"id": "release-baidu__ERNIE-Image",
+"source": "releases",
+"kind": "release",
+"title": "baidu/ERNIE-Image",
+"url": "https://huggingface.co/baidu/ERNIE-Image",
+"date": "2026-04-07",
+"summary": "",
+"score": 676,
+"extra": {
+"org": "baidu",
+"publisher": "Baidu",
+"jp": false,
+"task": "text-to-image",
+"downloads": 1228,
+"lang": "en"
+}
+},
+"release-deepseek-ai__DeepSeek-V4-Flash": {
+"id": "release-deepseek-ai__DeepSeek-V4-Flash",
+"source": "releases",
+"kind": "release",
+"title": "deepseek-ai/DeepSeek-V4-Flash",
+"url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+"date": "2026-04-22",
+"summary": "",
+"score": 2267,
+"extra": {
+"org": "deepseek-ai",
+"publisher": "DeepSeek",
+"jp": false,
+"task": "text-generation",
+"downloads": 1066141,
+"lang": "en"
+}
+},
+"release-deepseek-ai__DeepSeek-V4-Flash-Base": {
+"id": "release-deepseek-ai__DeepSeek-V4-Flash-Base",
+"source": "releases",
+"kind": "release",
+"title": "deepseek-ai/DeepSeek-V4-Flash-Base",
+"url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Base",
+"date": "2026-04-22",
+"summary": "",
+"score": 328,
+"extra": {
+"org": "deepseek-ai",
+"publisher": "DeepSeek",
+"jp": false,
+"task": "",
+"downloads": 181539,
+"lang": "en"
+}
+},
+"release-deepseek-ai__DeepSeek-V4-Pro": {
+"id": "release-deepseek-ai__DeepSeek-V4-Pro",
+"source": "releases",
+"kind": "release",
+"title": "deepseek-ai/DeepSeek-V4-Pro",
+"url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+"date": "2026-04-22",
+"summary": "",
+"score": 5617,
+"extra": {
+"org": "deepseek-ai",
+"publisher": "DeepSeek",
+"jp": false,
+"task": "text-generation",
+"downloads": 409548,
+"lang": "en"
+}
+},
+"release-deepseek-ai__DeepSeek-V4-Pro-Base": {
+"id": "release-deepseek-ai__DeepSeek-V4-Pro-Base",
+"source": "releases",
+"kind": "release",
+"title": "deepseek-ai/DeepSeek-V4-Pro-Base",
+"url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base",
+"date": "2026-04-22",
+"summary": "",
+"score": 343,
+"extra": {
+"org": "deepseek-ai",
+"publisher": "DeepSeek",
+"jp": false,
+"task": "",
+"downloads": 29710,
+"lang": "en"
+}
+},
+"release-mistralai__Mistral-Medium-3.5-128B-EAGLE": {
+"id": "release-mistralai__Mistral-Medium-3.5-128B-EAGLE",
+"source": "releases",
+"kind": "release",
+"title": "mistralai/Mistral-Medium-3.5-128B-EAGLE",
+"url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B-EAGLE",
+"date": "2026-04-27",
+"summary": "",
+"score": 62,
+"extra": {
+"org": "mistralai",
+"publisher": "Mistral AI",
+"jp": false,
+"task": "",
+"downloads": 188,
+"lang": "en"
+}
+},
+"release-moonshotai__Kimi-K2.6": {
+"id": "release-moonshotai__Kimi-K2.6",
+"source": "releases",
+"kind": "release",
+"title": "moonshotai/Kimi-K2.6",
+"url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+"date": "2026-04-14",
+"summary": "",
+"score": 1612,
+"extra": {
+"org": "moonshotai",
+"publisher": "Moonshot AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 472766,
+"lang": "en"
+}
+},
+"release-openai__privacy-filter": {
+"id": "release-openai__privacy-filter",
+"source": "releases",
+"kind": "release",
+"title": "openai/privacy-filter",
+"url": "https://huggingface.co/openai/privacy-filter",
+"date": "2026-04-17",
+"summary": "",
+"score": 1781,
+"extra": {
+"org": "openai",
+"publisher": "OpenAI",
+"jp": false,
+"task": "token-classification",
+"downloads": 350758,
+"lang": "en"
+}
+},
+"release-sbintuitions__sarashina2.2-tts": {
+"id": "release-sbintuitions__sarashina2.2-tts",
+"source": "releases",
+"kind": "release",
+"title": "sbintuitions/sarashina2.2-tts",
+"url": "https://huggingface.co/sbintuitions/sarashina2.2-tts",
+"date": "2026-04-16",
+"summary": "",
+"score": 73,
+"extra": {
+"org": "sbintuitions",
+"publisher": "SB Intuitions",
+"jp": true,
+"task": "text-to-speech",
+"downloads": 1563,
+"lang": "ja"
+}
+}
+}

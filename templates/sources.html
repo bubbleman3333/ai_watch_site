@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}情報源の一覧（{{ n_sources }} か所） | {{ site.name }}{% endblock %}
+{% block description %}AIウォッチが毎日情報を集めている {{ n_sources }} か所の一覧です。各社の公式発表、研究機関、報道、官公庁、論文、モデル、オープンソース、コミュニティ、価格、関心、普及の数字。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › 情報源</nav>
+<header class="page-head">
+  <h1>情報源の一覧</h1>
+  <p class="lead">毎朝、次の {{ n_sources }} か所から自動で集めています。記事の本文は保存せず、題名・リンク・日付・数字だけを使います。
+    件数は手元に残っている（最長 400 日分の）件数です。</p>
+</header>
+
+{% for kind, label in [('news', '各社の公式発表'), ('blog', '研究機関・専門家'), ('media', '報道'), ('policy', '政府・行政'), ('community', 'エンジニアの技術記事')] %}
+<section class="sec">
+  <div class="sec-head"><h2>{{ label }}</h2></div>
+  <div class="table-wrap"><table class="models">
+    <thead><tr><th>情報源</th><th>言語</th><th>取り方</th><th class="num">件数</th><th>最新</th></tr></thead>
+    <tbody>
+    {% for f in feeds if f.kind == kind %}
+      <tr><td><a href="{{ f.url }}" rel="noopener" target="_blank">{{ f.label }}</a>{% if f.filter %}<span class="owner">AI の記事だけ</span>{% endif %}</td>
+        <td class="lic">{{ '日本語' if f.lang == 'ja' else '英語' }}</td><td class="lic">RSS</td>
+        <td class="num">{{ src_counts.get(f.key, 0)|num }}</td><td class="lic">{{ src_last.get(f.key, '—') }}</td></tr>
+    {% endfor %}
+    {% for key, lab, u, k, w in scraped if k == kind %}
+      <tr><td><a href="{{ u }}" rel="noopener" target="_blank">{{ lab }}</a></td><td class="lic">英語</td><td class="lic">ページを読む</td>
+        <td class="num">{{ src_counts.get(key, 0)|num }}</td><td class="lic">{{ src_last.get(key, '—') }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table></div>
+</section>
+{% endfor %}
+
+<section class="sec">
+  <div class="sec-head"><h2>API から集めているもの</h2></div>
+  <div class="table-wrap"><table class="models">
+    <thead><tr><th>情報源</th><th>何が分かるか</th><th class="num">件数</th></tr></thead>
+    <tbody>
+      <tr><td><a href="https://arxiv.org/" rel="noopener" target="_blank">arXiv</a></td><td>技術テーマごとの週あたりの論文数（研究の勢い）</td><td class="num">{{ arxiv_weeks }} 週</td></tr>
+      <tr><td><a href="https://huggingface.co/papers" rel="noopener" target="_blank">Hugging Face Daily Papers</a></td><td>研究者が票を入れた注目論文</td><td class="num">{{ src_counts.get('hf_papers', 0)|num }}</td></tr>
+      <tr><td><a href="https://huggingface.co/models" rel="noopener" target="_blank">Hugging Face（トレンド）</a></td><td>いま試されているモデル・アプリ・データセット</td><td class="num">{{ n_model_days }} 日分</td></tr>
+      <tr><td><a href="https://huggingface.co/" rel="noopener" target="_blank">Hugging Face（{{ orgs|length }} 組織）</a></td><td>主要な企業・研究機関（日本を含む）の新しいモデル</td><td class="num">{{ src_counts.get('releases', 0)|num }}</td></tr>
+      <tr><td><a href="https://github.com/" rel="noopener" target="_blank">GitHub（検索）</a></td><td>作られたばかりで伸びている AI のリポジトリ</td><td class="num">{{ src_counts.get('github', 0)|num }}</td></tr>
+      <tr><td><a href="https://github.com/" rel="noopener" target="_blank">GitHub（定点観測）</a></td><td>主要な AI オープンソース {{ repos_list|length }} 件のスター数とリリース</td><td class="num">{{ dash.repos|length }}</td></tr>
+      <tr><td><a href="https://news.ycombinator.com/" rel="noopener" target="_blank">Hacker News</a></td><td>エンジニアの間で話題になった記事</td><td class="num">{{ src_counts.get('hn', 0)|num }}</td></tr>
+      <tr><td><a href="https://lobste.rs/t/ai" rel="noopener" target="_blank">Lobsters</a> ・ <a href="https://dev.to/t/ai" rel="noopener" target="_blank">DEV</a></td><td>英語圏のエンジニアの話題と技術記事</td><td class="num">{{ src_counts.get('community', 0)|num }}</td></tr>
+      <tr><td><a href="https://openrouter.ai/models" rel="noopener" target="_blank">OpenRouter</a></td><td>AI モデルの API 価格と文脈長</td><td class="num">{{ dash.pricing.rows|length if dash.pricing else 0 }}</td></tr>
+      <tr><td><a href="https://pypistats.org/" rel="noopener" target="_blank">PyPI</a> ・ <a href="https://www.npmjs.com/" rel="noopener" target="_blank">npm</a></td><td>AI ライブラリのダウンロード数（開発現場での普及）</td><td class="num">{{ dash.downloads|length }}</td></tr>
+      <tr><td><a href="https://wikimedia.org/api/rest_v1/" rel="noopener" target="_blank">Wikipedia</a></td><td>製品名・技術用語の閲覧数（世間の関心）</td><td class="num">{{ dash.attention|length }}</td></tr>
+    </tbody>
+  </table></div>
+</section>
+{% endblock %}

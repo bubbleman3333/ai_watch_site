@@ -1,4 +1,19 @@
 {
+"news-bair-e2aca7c0bded": {
+"id": "news-bair-e2aca7c0bded",
+"source": "news",
+"kind": "blog",
+"title": "RL without TD learning",
+"url": "http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/",
+"date": "2025-11-01",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Berkeley AI Research",
+"feed": "bair",
+"lang": "en"
+}
+},
 "news-deepmind-090b4ef04ed9": {
 "id": "news-deepmind-090b4ef04ed9",
 "source": "news",
@@ -221,6 +236,156 @@
 "extra": {
 "publisher": "Google DeepMind",
 "feed": "deepmind",
+"lang": "en"
+}
+},
+"news-google-research-04a238767795": {
+"id": "news-google-research-04a238767795",
+"source": "news",
+"kind": "news",
+"title": "Exploring a space-based, scalable AI infrastructure system design",
+"url": "https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/",
+"date": "2025-11-04",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-0f91b0353ec6": {
+"id": "news-google-research-0f91b0353ec6",
+"source": "news",
+"kind": "news",
+"title": "DS-STAR: A state-of-the-art versatile data science agent",
+"url": "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/",
+"date": "2025-11-06",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-1bf4c91d3a3c": {
+"id": "news-google-research-1bf4c91d3a3c",
+"source": "news",
+"kind": "news",
+"title": "Separating natural forests from other tree cover with AI for deforestation-free supply chains",
+"url": "https://research.google/blog/separating-natural-forests-from-other-tree-cover-with-ai-for-deforestation-free-supply-chains/",
+"date": "2025-11-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-2b48e360574b": {
+"id": "news-google-research-2b48e360574b",
+"source": "news",
+"kind": "news",
+"title": "Reducing EV range anxiety: How a simple AI model predicts port availability",
+"url": "https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/",
+"date": "2025-11-21",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-5becdbb53db8": {
+"id": "news-google-research-5becdbb53db8",
+"source": "news",
+"kind": "news",
+"title": "Generative UI: A rich, custom, visual interactive user experience for any prompt",
+"url": "https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt/",
+"date": "2025-11-18",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-8a175bed5227": {
+"id": "news-google-research-8a175bed5227",
+"source": "news",
+"kind": "news",
+"title": "A new quantum toolkit for optimization",
+"url": "https://research.google/blog/a-new-quantum-toolkit-for-optimization/",
+"date": "2025-11-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-959b25f9956a": {
+"id": "news-google-research-959b25f9956a",
+"source": "news",
+"kind": "news",
+"title": "Real-time speech-to-speech translation",
+"url": "https://research.google/blog/real-time-speech-to-speech-translation/",
+"date": "2025-11-19",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-9ec445d409cf": {
+"id": "news-google-research-9ec445d409cf",
+"source": "news",
+"kind": "news",
+"title": "Differentially private machine learning at scale with JAX-Privacy",
+"url": "https://research.google/blog/differentially-private-machine-learning-at-scale-with-jax-privacy/",
+"date": "2025-11-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-bbdcd9100f0e": {
+"id": "news-google-research-bbdcd9100f0e",
+"source": "news",
+"kind": "news",
+"title": "Introducing Nested Learning: A new ML paradigm for continual learning",
+"url": "https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/",
+"date": "2025-11-07",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
+"lang": "en"
+}
+},
+"news-google-research-da7e7c6111c5": {
+"id": "news-google-research-da7e7c6111c5",
+"source": "news",
+"kind": "news",
+"title": "Forecasting the future of forests with AI: From counting losses to predicting risk",
+"url": "https://research.google/blog/forecasting-the-future-of-forests-with-ai-from-counting-losses-to-predicting-risk/",
+"date": "2025-11-05",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Google Research",
+"feed": "google-research",
 "lang": "en"
 }
 },
@@ -926,6 +1091,21 @@
 "extra": {
 "publisher": "OpenAI",
 "feed": "openai",
+"lang": "en"
+}
+},
+"news-together-c4700e6ecb31": {
+"id": "news-together-c4700e6ecb31",
+"source": "news",
+"kind": "news",
+"title": "How to evaluate and benchmark Large Language Models (LLMs)",
+"url": "https://www.together.ai/blog/evaluate-and-benchmark-llms",
+"date": "2025-11-04",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Together AI",
+"feed": "together",
 "lang": "en"
 }
 }

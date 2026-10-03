@@ -12,13 +12,14 @@ from dataclasses import dataclass, field
 from datetime import date, timedelta
 from pathlib import Path
 
+from .feeds import FEED_BY_KEY
 from .topics import TOPICS, TOPIC_BY_SLUG, classify
 
-KIND_LABEL = {"paper": "論文", "news": "発表", "discussion": "話題", "repo": "OSS", "model": "モデル"}
-SOURCE_LABEL = {"hf_papers": "Hugging Face 注目論文", "hn": "Hacker News", "github": "GitHub", "news": "各社の発表"}
-# 大手の公式発表は、点数が無くても注目度を高めに見る
-MAJOR = {"openai": 0.9, "deepmind": 0.85, "google": 0.75, "microsoft": 0.6, "nvidia": 0.6, "mistral": 0.6,
-         "huggingface": 0.45, "aws": 0.4, "itmedia": 0.55}
+KIND_LABEL = {"news": "発表", "media": "報道", "blog": "解説", "paper": "論文", "release": "新モデル",
+              "discussion": "話題", "community": "技術記事", "repo": "OSS", "policy": "政策", "model": "モデル"}
+SOURCE_LABEL = {"hf_papers": "Hugging Face 注目論文", "hn": "Hacker News", "github": "GitHub", "news": "各社の発表",
+                "community": "コミュニティ", "releases": "Hugging Face"}
+FEED_KINDS = ("news", "media", "blog", "policy")
 # 載せないモデル（検閲外し・顔の入れ替え・成人向け）。悪用のほうが目立つため
 HIDE_MODEL = re.compile(r"uncensor|nsfw|(face|character)[-_ ]?swap|abliterat|porn|hentai|lewd|nude|undress", re.I)
 LAUNCH = re.compile(r"\b(introduc|launch|releas|announc|now available|unveil|new model|open[- ]source)|発表|提供開始|公開|リリース", re.I)
@@ -97,6 +98,11 @@ class Item:
         it = cls(id=raw["id"], source=raw["source"], kind=raw["kind"], title=raw["title"], url=raw["url"],
                  date=raw["date"], summary=raw.get("summary", ""), score=int(raw.get("score") or 0),
                  alt_url=raw.get("alt_url", ""), extra=raw.get("extra") or {})
+        feed = FEED_BY_KEY.get(it.extra.get("feed", ""))
+        if feed:   # 取り込み元の分類は feeds.py を正とする（あとから分類を変えても古いデータに効く）
+            it.kind = feed.kind
+            it.extra["publisher"] = feed.label
+            it.extra["lang"] = feed.lang
         words = " ".join(it.extra.get("topics") or [])
         it.topics = classify(it.title, it.summary, words)
         return it
@@ -115,9 +121,11 @@ class Item:
 
     @property
     def publisher(self) -> str:
-        if self.kind == "news":
-            return self.extra.get("publisher", "")
-        return SOURCE_LABEL.get(self.source, self.source)
+        return self.extra.get("publisher") or SOURCE_LABEL.get(self.source, self.source)
+
+    @property
+    def is_ja(self) -> bool:
+        return self.extra.get("lang") == "ja" or bool(self.extra.get("jp"))
 
     @property
     def score_label(self) -> str:
@@ -127,6 +135,8 @@ class Item:
             return f"{self.score} pt・{self.extra.get('comments', 0)} コメント"
         if self.kind == "repo":
             return f"★{self.score:,}"
+        if self.kind in ("release", "community") and self.score:
+            return f"♥{self.score:,}"
         return ""
 
     @property
@@ -297,19 +307,20 @@ def _percentile_heat(items: list[Item]) -> None:
     """取り込み元ごとに、直近 90 日の点数の順位で 0〜1 にする。"""
     by_src: dict[str, list[int]] = defaultdict(list)
     for it in items:
-        if it.kind != "news":
+        if it.extra.get("feed") is None:
             by_src[it.source].append(it.score)
     for k in by_src:
         by_src[k].sort()
     for it in items:
-        if it.kind == "news":
-            base = MAJOR.get(it.extra.get("feed", ""), 0.4)
+        if it.kind in FEED_KINDS or (it.kind == "community" and it.source == "news"):
+            feed = FEED_BY_KEY.get(it.extra.get("feed", ""))
+            base = feed.weight if feed else 0.4
             it.heat = min(1.0, base + (0.15 if LAUNCH.search(it.title) else 0))
             continue
         arr = by_src[it.source]
         it.heat = bisect_left(arr, it.score) / max(1, len(arr) - 1) if arr else 0
-        if it.kind == "repo":
-            it.heat *= 0.9
+        if it.kind in ("repo", "community"):
+            it.heat *= 0.85
 
 
 def load_notes(notes_dir: Path) -> dict[str, dict]:

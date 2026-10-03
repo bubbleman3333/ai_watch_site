@@ -1,0 +1,92 @@
+{
+"release-elyza__ELYZA-Thinking-1.0-llm-jp-4-32b-a3b": {
+"id": "release-elyza__ELYZA-Thinking-1.0-llm-jp-4-32b-a3b",
+"source": "releases",
+"kind": "release",
+"title": "elyza/ELYZA-Thinking-1.0-llm-jp-4-32b-a3b",
+"url": "https://huggingface.co/elyza/ELYZA-Thinking-1.0-llm-jp-4-32b-a3b",
+"date": "2026-10-02",
+"summary": "",
+"score": 7,
+"extra": {
+"org": "elyza",
+"publisher": "ELYZA",
+"jp": true,
+"task": "text-generation",
+"downloads": 404,
+"lang": "ja"
+}
+},
+"release-elyza__ELYZA-Thinking-1.0-llm-jp-4-33b": {
+"id": "release-elyza__ELYZA-Thinking-1.0-llm-jp-4-33b",
+"source": "releases",
+"kind": "release",
+"title": "elyza/ELYZA-Thinking-1.0-llm-jp-4-33b",
+"url": "https://huggingface.co/elyza/ELYZA-Thinking-1.0-llm-jp-4-33b",
+"date": "2026-10-02",
+"summary": "",
+"score": 8,
+"extra": {
+"org": "elyza",
+"publisher": "ELYZA",
+"jp": true,
+"task": "text-generation",
+"downloads": 390,
+"lang": "ja"
+}
+},
+"release-ibm-granite__ensemble-forecasting-with-ibm-granite-time-series": {
+"id": "release-ibm-granite__ensemble-forecasting-with-ibm-granite-time-series",
+"source": "releases",
+"kind": "release",
+"title": "ibm-granite/ensemble-forecasting-with-ibm-granite-time-series",
+"url": "https://huggingface.co/ibm-granite/ensemble-forecasting-with-ibm-granite-time-series",
+"date": "2026-10-01",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "ibm-granite",
+"publisher": "IBM Granite",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__PixelDiT2-ImageNet": {
+"id": "release-nvidia__PixelDiT2-ImageNet",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/PixelDiT2-ImageNet",
+"url": "https://huggingface.co/nvidia/PixelDiT2-ImageNet",
+"date": "2026-10-01",
+"summary": "",
+"score": 8,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__PixelUMM": {
+"id": "release-nvidia__PixelUMM",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/PixelUMM",
+"url": "https://huggingface.co/nvidia/PixelUMM",
+"date": "2026-10-01",
+"summary": "",
+"score": 25,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "image-to-text",
+"downloads": 0,
+"lang": "en"
+}
+}
+}

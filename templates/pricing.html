@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block title %}AI モデルの API 価格表（{{ p.rows|length if p else 0 }} モデル・毎日更新） | {{ site.name }}{% endblock %}
+{% block description %}OpenAI・Anthropic・Google・Meta・Mistral・DeepSeek・Qwen など主要な AI モデルの API 価格（100 万トークンあたり）と文脈長を一覧にしました。新登場のモデルと値下げ・値上げも毎日追跡しています。{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">トップ</a> › API 価格</nav>
+<header class="page-head">
+  <p class="eyebrow">数字で見る</p>
+  <h1>AI モデルの API 価格表</h1>
+  <p class="lead">AI を自社のシステムに組み込むときの費用は、ほぼ「読ませた量（入力）」と「書かせた量（出力）」で決まります。
+    ここでは {{ p.rows|length if p else 0 }} のモデルの価格を、<b>100 万トークンあたりのドル</b>で比べられます（日本語なら 100 万トークン ≒ 50〜100 万文字）。</p>
+  {% if p %}
+  <div class="head-stats">
+    <div><span class="k">掲載モデル</span><b>{{ p.rows|length }}</b></div>
+    <div><span class="k">提供元</span><b>{{ p.vendors|length }}</b> 社</div>
+    <div><span class="k">この 30 日の新登場</span><b>{{ p.new|length }}</b></div>
+    <div><span class="k">価格が変わったモデル</span><b>{{ p.changed|length }}</b>{% if p.since %}<span class="small muted">（{{ p.since }} 比）</span>{% endif %}</div>
+  </div>
+  {% endif %}
+</header>
+{% if not p %}<p class="muted">まだデータがありません。</p>{% else %}
+
+<div class="explain">
+  <p><b>見方:</b> 「目安」は入力 3 : 出力 1 で混ぜた値段で、問い合わせ対応や文書の要約のような、読ませる量が多い使い方の目安です。
+    価格は API の仲介サービス OpenRouter に掲載されたもので、各社の公式価格と少し違うことがあります。契約前に必ず公式の料金表を確認してください。</p>
+</div>
+
+{% if p.new %}
+<section class="sec">
+  <div class="sec-head"><h2>この 30 日に登場したモデル</h2></div>
+  <div class="table-wrap"><table class="models">
+    <thead><tr><th>登場</th><th>モデル</th><th class="num">入力</th><th class="num">出力</th><th class="num">文脈長</th></tr></thead>
+    <tbody>{% for x in p.new[:30] %}
+      <tr><td class="lic">{{ x.created|jday }}</td><td><a href="{{ x.url }}" rel="noopener" target="_blank">{{ x.name }}</a><span class="owner mono">{{ x.id }}</span></td>
+        <td class="num">{{ x.inp|usd }}</td><td class="num">{{ x.out|usd }}</td><td class="num">{{ x.context|ctx }}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+</section>
+{% endif %}
+
+{% if p.changed %}
+<section class="sec">
+  <div class="sec-head"><h2>価格が変わったモデル</h2></div>
+  <div class="table-wrap"><table class="models">
+    <thead><tr><th>モデル</th><th class="num">入力</th><th class="num">出力</th><th class="num">変化</th></tr></thead>
+    <tbody>{% for x in p.changed|sort(attribute='change_pct') %}
+      <tr><td>{{ x.name }}<span class="owner mono">{{ x.id }}</span></td>
+        <td class="num">{{ x.prev_in|usd }} → {{ x.inp|usd }}</td><td class="num">{{ x.prev_out|usd }} → {{ x.out|usd }}</td>
+        <td class="num"><span class="trend {{ chg_class(x.change_pct) }}">{{ x.change_pct|pct }}</span></td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+</section>
+{% endif %}
+
+<section class="sec">
+  <div class="sec-head"><h2>全モデルの価格</h2><span class="small muted">{{ p.day }} 時点</span></div>
+  <div class="filter">
+    <input id="pq" type="search" placeholder="モデル名で絞り込む（例: claude, gpt, gemini, qwen）" aria-label="モデル名で絞り込む">
+    <select id="pv" aria-label="提供元"><option value="">提供元: すべて</option>{% for v, n in p.vendors %}<option value="{{ v }}">{{ v }}（{{ n }}）</option>{% endfor %}</select>
+    <label class="chk"><input type="checkbox" id="pf"> 無料のものを隠す</label>
+  </div>
+  <div class="table-wrap"><table class="models sortable" id="pt">
+    <thead><tr><th data-s="s">モデル</th><th data-s="n" class="num">入力 ▾</th><th data-s="n" class="num">出力</th><th data-s="n" class="num">目安</th><th data-s="n" class="num">文脈長</th><th data-s="s">登場</th></tr></thead>
+    <tbody>{% for x in p.rows|sort(attribute='blended', reverse=True) %}
+      <tr data-v="{{ x.vendor }}" data-q="{{ (x.id ~ ' ' ~ x.name)|lower }}" data-free="{{ 1 if x.free else 0 }}">
+        <td data-v="{{ x.name }}"><a href="{{ x.url }}" rel="noopener" target="_blank">{{ x.name }}</a></td>
+        <td class="num" data-v="{{ x.inp }}">{{ x.inp|usd }}</td><td class="num" data-v="{{ x.out }}">{{ x.out|usd }}</td>
+        <td class="num" data-v="{{ x.blended }}">{{ x.blended|usd }}</td><td class="num" data-v="{{ x.context }}">{{ x.context|ctx }}</td>
+        <td class="lic" data-v="{{ x.created }}">{{ x.created }}</td></tr>
+    {% endfor %}</tbody>
+  </table></div>
+</section>
+<script>
+(function(){var t=document.getElementById("pt"),q=document.getElementById("pq"),v=document.getElementById("pv"),f=document.getElementById("pf"),rows=[].slice.call(t.tBodies[0].rows);
+function filt(){var s=q.value.toLowerCase().trim();rows.forEach(function(r){r.hidden=!((!s||r.dataset.q.indexOf(s)>=0)&&(!v.value||r.dataset.v===v.value)&&(!f.checked||r.dataset.free==="0"))})}
+q.oninput=filt;v.onchange=filt;f.onchange=filt;
+[].forEach.call(t.tHead.rows[0].cells,function(th,i){th.style.cursor="pointer";var asc=false;th.onclick=function(){asc=!asc;var num=th.dataset.s==="n";rows.sort(function(a,b){var x=a.cells[i].dataset.v,y=b.cells[i].dataset.v;if(num){x=+x;y=+y}return (x>y?1:x<y?-1:0)*(asc?1:-1)});rows.forEach(function(r){t.tBodies[0].appendChild(r)})}})})();
+</script>
+{% endif %}
+{% endblock %}

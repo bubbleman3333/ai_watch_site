@@ -22,24 +22,12 @@ from pathlib import Path
 
 import requests
 
+from .feeds import AI_WORDS, FEEDS, SCRAPED, Feed
 from .topics import TOPICS
 
 UA = "ai-watch/1.0 (+https://ai-watch.rakunowa.workers.dev/about/)"
 ARXIV_CATS = "(cat:cs.AI OR cat:cs.CL OR cat:cs.LG OR cat:cs.CV OR cat:cs.RO)"
 KEEP_DAYS = 400
-
-# 各社の発表（題名とリンクだけ使う）
-FEEDS: tuple[tuple[str, str, str], ...] = (
-    ("openai", "OpenAI", "https://openai.com/news/rss.xml"),
-    ("deepmind", "Google DeepMind", "https://deepmind.google/blog/rss.xml"),
-    ("google", "Google AI", "https://blog.google/technology/ai/rss/"),
-    ("microsoft", "Microsoft", "https://news.microsoft.com/source/topics/ai/feed/"),
-    ("nvidia", "NVIDIA", "https://blogs.nvidia.com/feed/"),
-    ("aws", "AWS Machine Learning", "https://aws.amazon.com/blogs/machine-learning/feed/"),
-    ("huggingface", "Hugging Face", "https://huggingface.co/blog/feed.xml"),
-    ("mistral", "Mistral AI", "https://mistral.ai/rss.xml"),
-    ("itmedia", "ITmedia AI+", "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"),
-)
 
 HN_QUERIES = ("AI", "LLM", "GPT", "Claude", "Gemini", "OpenAI", "Anthropic", "agent", "model", "DeepSeek", "Qwen", "Llama")
 GITHUB_TOPICS = ("llm", "ai-agents", "agents", "mcp", "rag", "generative-ai", "large-language-models",
@@ -109,7 +97,7 @@ def prune(root: Path, keep_days: int = KEEP_DAYS) -> None:
     for path in (root / "items").glob("*/*.json"):
         if path.stem < cutoff:
             path.unlink()
-    for path in (root / "models").glob("*.json"):
+    for path in [p for d in ("models", "pricing", "repos", "hub") for p in (root / d).glob("*.json")]:
         if path.stem[:7] < cutoff:
             path.unlink()
 
@@ -277,14 +265,19 @@ def fetch_hn(http: Http, days: int = 7, min_points: int = 80) -> list[dict]:
 
 # ---------- 各社の発表・ニュース（RSS / Atom、題名とリンクだけ） ----------
 
-def _text(el, *names) -> str:
-    for n in names:
-        x = el.find(n)
-        if x is not None:
-            if x.text and x.text.strip():
-                return x.text.strip()
-            if x.get("href"):
-                return x.get("href")
+def _local(tag: str) -> str:
+    return tag.rsplit("}", 1)[-1]
+
+
+def _child(el, *names: str) -> str:
+    """名前空間を気にせず、子要素の文字（または href）を返す。"""
+    for want in names:
+        for c in el:
+            if _local(c.tag) == want:
+                if c.text and c.text.strip():
+                    return c.text.strip()
+                if c.get("href") and c.get("rel") in (None, "alternate"):
+                    return c.get("href")
     return ""
 
 
@@ -294,60 +287,128 @@ def _parse_date(s: str) -> str:
         return ""
     try:
         return parsedate_to_datetime(s).astimezone(timezone.utc).date().isoformat()
-    except (TypeError, ValueError):
+    except (TypeError, ValueError, IndexError):
         pass
     m = re.match(r"\d{4}-\d{2}-\d{2}", s)
     return m.group(0) if m else ""
 
 
-def parse_feed(xml: bytes, key: str, label: str) -> list[dict]:
+def parse_feed(xml: bytes, feed: Feed) -> list[dict]:
+    """RSS 2.0 / RSS 1.0（RDF）/ Atom のどれでも読む。"""
     root = ET.fromstring(xml)
-    atom = "{http://www.w3.org/2005/Atom}"
-    dc = "{http://purl.org/dc/elements/1.1/}"
-    rows = root.findall(".//item") or root.findall(f".//{atom}entry")
     out = []
-    for el in rows:
-        title = _text(el, "title", f"{atom}title")
-        link = _text(el, "link", f"{atom}link")
-        if el.tag == f"{atom}entry":
-            for ln in el.findall(f"{atom}link"):
-                if ln.get("rel") in (None, "alternate") and ln.get("href"):
-                    link = ln.get("href")
+    for el in root.iter():
+        if _local(el.tag) not in ("item", "entry"):
+            continue
+        title = re.sub(r"<[^>]+>", "", _child(el, "title"))
+        link = _child(el, "link") or _child(el, "guid")
+        if not link.startswith("http"):
+            for c in el:
+                if _local(c.tag) == "link" and c.get("href"):
+                    link = c.get("href")
                     break
-        day = _parse_date(_text(el, "pubDate", f"{dc}date", f"{atom}published", f"{atom}updated"))
-        if not title or not link or not day:
+        day = _parse_date(_child(el, "pubDate", "date", "published", "updated", "issued"))
+        if not title or not link.startswith("http") or not day:
+            continue
+        if feed.filter and not AI_WORDS.search(title):
             continue
         out.append({
-            "id": f"news-{key}-{hid(link)}",
+            "id": f"news-{feed.key}-{hid(link.strip())}",
             "source": "news",
-            "kind": "news",
-            "title": clip(re.sub(r"<[^>]+>", "", title), 200),
+            "kind": feed.kind,
+            "title": clip(title, 200),
             "url": link.strip(),
             "date": day,
             "summary": "",
             "score": 0,
-            "extra": {"publisher": label, "feed": key, "lang": "ja" if key == "itmedia" else "en"},
+            "extra": {"publisher": feed.label, "feed": feed.key, "lang": feed.lang},
         })
     return out
 
 
 def fetch_news(http: Http, days: int = 400) -> list[dict]:
     cutoff = (date.today() - timedelta(days=days)).isoformat()
+    today = date.today().isoformat()
     out = []
-    for key, label, url in FEEDS:
-        r = http.get(url)
+    for feed in FEEDS:
+        r = http.get(feed.url, headers={"User-Agent": "Mozilla/5.0 (compatible; " + UA + ")"})
+        if r is None or r.status_code != 200:
+            print(f"  ! {feed.label}: {r.status_code if r is not None else '通信失敗'}")
+            continue
+        try:
+            rows = parse_feed(r.content, feed)
+        except ET.ParseError as e:
+            print(f"  ! {feed.label}: RSS を読めない ({e})")
+            continue
+        rows = [x for x in rows if cutoff <= x["date"] <= today]
+        print(f"  {feed.label}: {len(rows)} 件")
+        out += rows
+    return out
+
+
+def scrape_anthropic(html: str, key: str, label: str, kind: str) -> list[dict]:
+    """anthropic.com/news の一覧から、題名・日付・リンクを拾う（RSS が無いため）。"""
+    out, seen = [], set()
+    for m in re.finditer(r'<a[^>]+href="(/news/[a-z0-9\-]+)"[^>]*>(.*?)</a>', html, re.S):
+        href, body = m.group(1), m.group(2)
+        t = re.search(r"<time[^>]*>([^<]+)</time>", body)
+        if not t or href in seen:
+            continue
+        try:
+            day = datetime.strptime(t.group(1).strip(), "%b %d, %Y").date().isoformat()
+        except ValueError:
+            continue
+        parts = [re.sub(r"<[^>]+>", "", x).strip() for x in re.split(r"<[^>]+>", body)]
+        parts = [x for x in parts if x and x != t.group(1).strip()]
+        if not parts:
+            continue
+        title = max(parts, key=len)
+        seen.add(href)
+        url = "https://www.anthropic.com" + href
+        out.append({"id": f"news-{key}-{hid(url)}", "source": "news", "kind": kind, "title": clip(title, 200),
+                    "url": url, "date": day, "summary": "", "score": 0,
+                    "extra": {"publisher": label, "feed": key, "lang": "en"}})
+    return out
+
+
+def fetch_scraped(http: Http) -> list[dict]:
+    out = []
+    for key, label, url, kind, _ in SCRAPED:
+        r = http.get(url, headers={"User-Agent": "Mozilla/5.0 (compatible; " + UA + ")"})
         if r is None or r.status_code != 200:
             print(f"  ! {label}: {r.status_code if r is not None else '通信失敗'}")
             continue
-        try:
-            rows = parse_feed(r.content, key, label)
-        except ET.ParseError as e:
-            print(f"  ! {label}: RSS を読めない ({e})")
-            continue
-        rows = [x for x in rows if x["date"] >= cutoff]
-        print(f"  {label}: {len(rows)} 件")
+        rows = scrape_anthropic(r.text, key, label, kind)
+        print(f"  {label}（ページから）: {len(rows)} 件")
         out += rows
     return out
+
+
+# ---------- エンジニアのコミュニティ（Lobsters・DEV） ----------
+
+def fetch_community(http: Http) -> list[dict]:
+    out = []
+    r = http.get("https://lobste.rs/t/ai.json")
+    if r is not None and r.status_code == 200:
+        for s in r.json():
+            out.append({"id": f"lob-{s['short_id']}", "source": "community", "kind": "discussion",
+                        "title": clip(s.get("title") or "", 200), "url": s.get("url") or s.get("comments_url"),
+                        "alt_url": s.get("comments_url", ""), "date": iso_day(s.get("created_at")), "summary": "",
+                        "score": int(s.get("score") or 0),
+                        "extra": {"comments": int(s.get("comment_count") or 0), "publisher": "Lobsters",
+                                  "topics": s.get("tags", [])}})
+    for tag in ("ai", "llm", "machinelearning", "rag", "mcp"):
+        r = http.get("https://dev.to/api/articles", params={"tag": tag, "top": 7, "per_page": 30})
+        if r is None or r.status_code != 200:
+            continue
+        for a in r.json():
+            out.append({"id": f"devto-{a['id']}", "source": "community", "kind": "community",
+                        "title": clip(a.get("title") or "", 200), "url": a.get("url"),
+                        "date": iso_day(a.get("published_at")), "summary": clip(a.get("description") or "", 200),
+                        "score": int(a.get("public_reactions_count") or 0),
+                        "extra": {"comments": int(a.get("comments_count") or 0), "publisher": "DEV Community",
+                                  "topics": a.get("tag_list", []), "lang": "en"}})
+    return [x for x in out if x["url"] and x["date"]]
 
 
 # ---------- arXiv（テーマごとの週あたり論文数 = 研究の勢い） ----------
@@ -389,6 +450,7 @@ def fetch_arxiv_weekly(http: Http, root: Path, weeks: int) -> None:
 # ---------- まとめて ----------
 
 def sync(root: Path, *, backfill: bool = False, only: set[str] | None = None) -> None:
+    from . import metrics   # metrics は sources を使うので、ここで読む
     http = Http()
     root.mkdir(parents=True, exist_ok=True)
 
@@ -413,9 +475,31 @@ def sync(root: Path, *, backfill: bool = False, only: set[str] | None = None) ->
         rows = fetch_hn(http, days=60 if backfill else 7)
         print(f"  {len(rows)} 件 / 新規 {save_items(root, 'hn', rows)} 件")
     if want("news"):
-        print("各社の発表・ニュース")
-        rows = fetch_news(http)
+        print("各社の発表・報道・ブログ・日本語の記事・政府（RSS）")
+        rows = fetch_news(http) + fetch_scraped(http)
         print(f"  {len(rows)} 件 / 新規 {save_items(root, 'news', rows)} 件")
+    if want("community"):
+        print("Lobsters・DEV")
+        rows = fetch_community(http)
+        print(f"  {len(rows)} 件 / 新規 {save_items(root, 'community', rows)} 件")
+    if want("releases"):
+        print("主要な組織の新しいモデル")
+        print(f"  新規 {metrics.fetch_releases(http, root, days=180 if backfill else 21)} 件")
+    if want("pricing"):
+        print("API の価格（OpenRouter）")
+        print(f"  {metrics.fetch_pricing(http, root)} モデル")
+    if want("hub"):
+        print("Hugging Face のアプリとデータセット")
+        metrics.fetch_hub(http, root)
+    if want("repos"):
+        print("主要なオープンソースのスター数")
+        print(f"  {metrics.fetch_repos(http, root)} 件")
+    if want("downloads"):
+        print("PyPI / npm のダウンロード数")
+        metrics.fetch_downloads(http, root)
+    if want("attention"):
+        print("Wikipedia の閲覧数")
+        metrics.fetch_attention(http, root, days=365 if backfill else 10)
     if want("arxiv"):
         print("arXiv の週ごとの論文数")
         fetch_arxiv_weekly(http, root, weeks=26 if backfill else 3)
