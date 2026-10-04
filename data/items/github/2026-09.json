@@ -56,7 +56,7 @@
 "url": "https://github.com/1173591564/Dynamics-memory",
 "date": "2026-09-15",
 "summary": "LLM agent 的有界自纠错长期记忆层：把连续、含矛盾的项目交互日志蒸馏成有界、可自更新的记忆库。Bounded, self-correcting long-term memory for LLM agents — candidate pool + value dynamics + tension adjudication + causal-replay evals.",
-"score": 102,
+"score": 114,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -82,7 +82,7 @@
 "url": "https://github.com/849879772/recruitops-agent",
 "date": "2026-09-16",
 "summary": "Local-first recruitment intelligence and application operations agent",
-"score": 121,
+"score": 127,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -106,7 +106,7 @@
 "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
 "date": "2026-09-17",
 "summary": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
-"score": 555,
+"score": 561,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -132,7 +132,7 @@
 "url": "https://github.com/AbdoslamB/InkDoc",
 "date": "2026-09-27",
 "summary": "Turn any document into clean, AI-ready Markdown — locally on your machine. Desktop app for Windows, macOS & Linux powered by MarkItDown, Docling, GLM-OCR and Markit.",
-"score": 44,
+"score": 48,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -177,7 +177,7 @@
 "url": "https://github.com/Amal-David/awesome-jev",
 "date": "2026-09-18",
 "summary": "Jev demos, projects, SDKs and skills, with source links and a curated X gallery.",
-"score": 229,
+"score": 230,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -227,7 +227,7 @@
 "url": "https://github.com/AnotiaWang/awesome-decision-models",
 "date": "2026-09-17",
 "summary": "A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers.",
-"score": 606,
+"score": 607,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -278,7 +278,7 @@
 "url": "https://github.com/Atomburstofficial/geiger",
 "date": "2026-09-06",
 "summary": "A Geiger counter for AI agents — one read-only command that inventories every agent, MCP server, plugin, and AI extension on a machine",
-"score": 158,
+"score": 157,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -304,7 +304,7 @@
 "url": "https://github.com/CharlesFeng0314/JEV_sees",
 "date": "2026-09-30",
 "summary": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras.",
-"score": 194,
+"score": 243,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -330,7 +330,7 @@
 "url": "https://github.com/Clearailhc/clearai-dsh",
 "date": "2026-09-12",
 "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
-"score": 1231,
+"score": 1257,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -354,11 +354,12 @@
 "url": "https://github.com/DenRakEiw/scumble",
 "date": "2026-09-07",
 "summary": "Free, open-source desktop editor for AI inpainting: select, prompt, get a colour-matched layer. FLUX 3 Image, FLUX.2, GPT Image, Nano Banana, Seedream and Qwen through your API key or your own ComfyU…",
-"score": 49,
+"score": 53,
 "extra": {
 "lang": "JavaScript",
 "topics": [
 "ai-art",
+"ai-image-editing",
 "ai-inpainting",
 "comfyui",
 "desktop-app",
@@ -366,8 +367,7 @@
 "flux",
 "flux3",
 "generative-ai",
-"image-editor",
-"image-generation"
+"image-editing"
 ],
 "license": "GPL-3.0"
 }
@@ -406,7 +406,7 @@
 "url": "https://github.com/Dreamer-Toby/STEPQuant",
 "date": "2026-09-29",
 "summary": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-"score": 57,
+"score": 66,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -426,7 +426,7 @@
 "url": "https://github.com/Edwardxlai/easyread",
 "date": "2026-09-30",
 "summary": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-"score": 666,
+"score": 774,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -527,7 +527,7 @@
 "url": "https://github.com/Frankweb33/flybrain-robot-bridge",
 "date": "2026-09-14",
 "summary": "Experimental Drosophila-inspired camera-to-robot bridge. Working mock neural backend, optical flow, IMU feedback and UDP motor control. MaleCNS integration planned.",
-"score": 222,
+"score": 223,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -551,7 +551,7 @@
 "url": "https://github.com/GetBrew/growth-engineer",
 "date": "2026-09-16",
 "summary": "Open-source catalog of go-to-market tools and workflows, written as markdown files any agent can run. Includes a read-only MCP server.",
-"score": 137,
+"score": 147,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -577,7 +577,7 @@
 "url": "https://github.com/GongZhiren/State-of-Thought",
 "date": "2026-09-07",
 "summary": "[NeurIPS 2026] State of Thought Enables Endogenous Reasoning",
-"score": 136,
+"score": 140,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -596,7 +596,7 @@
 "url": "https://github.com/Heyosseus/sloppy",
 "date": "2026-09-10",
 "summary": "Static analysis for the debt AI agents leave in PHP: 26 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, loca…",
-"score": 145,
+"score": 147,
 "extra": {
 "lang": "PHP",
 "topics": [
@@ -622,7 +622,7 @@
 "url": "https://github.com/Inkloom-art/inkloom",
 "date": "2026-09-20",
 "summary": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and c…",
-"score": 670,
+"score": 978,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -644,18 +644,20 @@
 "url": "https://github.com/KKKKhazix/AIHOT",
 "date": "2026-09-28",
 "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-"score": 5390,
+"score": 5768,
 "extra": {
 "lang": "TypeScript",
 "topics": [
 "ai",
+"chinese",
 "content-curation",
+"daily-digest",
+"docker-compose",
 "llm",
 "mcp",
 "news-aggregator",
-"rss",
-"self-hosted",
-"typescript"
+"postgresql",
+"rss"
 ],
 "license": "MIT"
 }
@@ -668,7 +670,7 @@
 "url": "https://github.com/LockedinLabs-AI/agent-console",
 "date": "2026-09-20",
 "summary": "Local-first observability for AI coding agents. Every Claude Code and Codex session's tokens, cache, models and cost, on this machine and every machine you connect through a self-hosted team hub. Pre…",
-"score": 797,
+"score": 801,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -694,7 +696,7 @@
 "url": "https://github.com/Loopera-ai/loopera",
 "date": "2026-09-08",
 "summary": "面向基本面因子研究的智能体-A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
-"score": 432,
+"score": 449,
 "extra": {
 "lang": "",
 "topics": [
@@ -713,7 +715,7 @@
 "url": "https://github.com/Louis-CFM/coucou",
 "date": "2026-09-27",
 "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-"score": 3221,
+"score": 3458,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -739,7 +741,7 @@
 "url": "https://github.com/MiaoWuNYA/rikkahub-sillytavern-android",
 "date": "2026-09-20",
 "summary": "安卓AI聊天端:开箱即聊，无损导入酒馆卡，缓存强省用量，Jev 决策，专属酒馆模式，防空回，多维记忆，前端卡支持，高定制主题，QQbot，AI群聊，插件系统，强兼容中转站。手机移动端原生支持，求 Star 收藏⭐Android AI Chatbox: lossless SillyTavern card import, aggressive cache optimization, Jev deci…",
-"score": 69,
+"score": 70,
 "extra": {
 "lang": "Kotlin",
 "topics": [
@@ -791,7 +793,7 @@
 "url": "https://github.com/MiniMax-AI/OpenAgentCore",
 "date": "2026-09-21",
 "summary": "Open-source, self-hosted implementation of the OpenAI Agents API with multiple native harnesses.",
-"score": 158,
+"score": 171,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -843,7 +845,7 @@
 "url": "https://github.com/NiuTrans/AML-Notes",
 "date": "2026-09-17",
 "summary": "《高级机器学习》：面向生成式人工智能时代的机器学习教材，涵盖强化学习、大模型训练与对齐、生成建模和多模态学习等内容。",
-"score": 44,
+"score": 45,
 "extra": {
 "lang": "TeX",
 "topics": [
@@ -864,7 +866,7 @@
 "url": "https://github.com/NiuTrans/RL-without-Tears",
 "date": "2026-09-11",
 "summary": "An Introduction to reinforcement learning in the era of large language models",
-"score": 41,
+"score": 43,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -905,7 +907,7 @@
 "url": "https://github.com/NuvexNetwork/nuvex-services",
 "date": "2026-09-30",
 "summary": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
-"score": 172,
+"score": 190,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -928,7 +930,7 @@
 "url": "https://github.com/Oldcircle/geo-sleuth",
 "date": "2026-09-18",
 "summary": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini C…",
-"score": 618,
+"score": 654,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -954,7 +956,7 @@
 "url": "https://github.com/OmniJev/awesome-jev-gallery",
 "date": "2026-09-17",
 "summary": "🔥🔥 Awesome Jev: open-source models, projects, benchmarks, and independent evaluations for Jev and System One models.",
-"score": 489,
+"score": 490,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -980,7 +982,7 @@
 "url": "https://github.com/PSRben/VisionHOPE",
 "date": "2026-09-27",
 "summary": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
-"score": 531,
+"score": 614,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1027,7 +1029,7 @@
 "url": "https://github.com/Rylaispirit/cinematic-video-prompt-skill",
 "date": "2026-09-20",
 "summary": "AI video prompt cheat sheet & Claude Skill: cinematic camera angles, camera movement, lighting, composition, color grading for Veo 3, Kling, Sora, Runway, Midjourney. 700+ terms with Vietnamese expla…",
-"score": 138,
+"score": 139,
 "extra": {
 "lang": "",
 "topics": [
@@ -1074,7 +1076,7 @@
 "url": "https://github.com/Shellishack/infinite-pokemon",
 "date": "2026-09-14",
 "summary": "A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adventure never ends.",
-"score": 223,
+"score": 232,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1126,7 +1128,7 @@
 "url": "https://github.com/SwotAtmk/infinite-creation",
 "date": "2026-09-09",
 "summary": "infinite-creation 是一个通过提交小说/剧本，本地ComfyUI-MiniMaxH3+Agent+Skill技能全自动无限生产视频，不限时长。",
-"score": 36,
+"score": 39,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1139,6 +1141,30 @@
 "license": "MIT"
 }
 },
+"repo-SyncSo-Inc__syncso": {
+"id": "repo-SyncSo-Inc__syncso",
+"source": "github",
+"kind": "repo",
+"title": "SyncSo-Inc/syncso",
+"url": "https://github.com/SyncSo-Inc/syncso",
+"date": "2026-09-23",
+"summary": "Let your agents understand what's happening locally, in real time — every experience across a city, with times, prices, booking links and images",
+"score": 199,
+"extra": {
+"lang": "",
+"topics": [
+"agent-skill",
+"ai-agents",
+"claude-skill",
+"events",
+"local-discovery",
+"mcp",
+"mcp-server",
+"new-york"
+],
+"license": "MIT"
+}
+},
 "repo-TencentCloud__octop-harness": {
 "id": "repo-TencentCloud__octop-harness",
 "source": "github",
@@ -1147,7 +1173,7 @@
 "url": "https://github.com/TencentCloud/octop-harness",
 "date": "2026-09-24",
 "summary": "A production-grade agent runtime engineered from the Harness Engineering philosophy.",
-"score": 32,
+"score": 33,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1206,7 +1232,7 @@
 "url": "https://github.com/TypeLLM/TypeLLM",
 "date": "2026-09-17",
 "summary": "TypeLLM: LLMs with type-safe generation",
-"score": 914,
+"score": 924,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1226,7 +1252,7 @@
 "url": "https://github.com/VectifyAI/jev-doc-search",
 "date": "2026-09-30",
 "summary": "Long-document search with Jev and PageIndex",
-"score": 84,
+"score": 95,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1244,7 +1270,7 @@
 "url": "https://github.com/VictorButoi/FleXray",
 "date": "2026-09-22",
 "summary": "FleXray: Universal Clinical X-ray Segmentation",
-"score": 83,
+"score": 85,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1257,6 +1283,32 @@
 "license": "MIT"
 }
 },
+"repo-Vincentwei1021__anything2explainer": {
+"id": "repo-Vincentwei1021__anything2explainer",
+"source": "github",
+"kind": "repo",
+"title": "Vincentwei1021/anything2explainer",
+"url": "https://github.com/Vincentwei1021/anything2explainer",
+"date": "2026-09-08",
+"summary": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar.…",
+"score": 2233,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-skills",
+"ai-agents",
+"ai-video",
+"claude-code",
+"claude-code-skill",
+"codex",
+"edge-tts",
+"educational-video",
+"explainer-video",
+"kokoro"
+],
+"license": "NOASSERTION"
+}
+},
 "repo-XiaoPuOuO__openchatx-mcp": {
 "id": "repo-XiaoPuOuO__openchatx-mcp",
 "source": "github",
@@ -1265,7 +1317,7 @@
 "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
 "date": "2026-09-23",
 "summary": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
-"score": 250,
+"score": 251,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1289,7 +1341,7 @@
 "url": "https://github.com/Xu123-Bob/Baize",
 "date": "2026-09-12",
 "summary": "An ancient Chinese divine beast, now reincarnated as an enterprise-grade data analysis and VibeCoding assistant.",
-"score": 184,
+"score": 185,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1309,7 +1361,7 @@
 "url": "https://github.com/Yinsongxu/LLM2Jev",
 "date": "2026-09-19",
 "summary": "Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone—no token-by-token decoding required.",
-"score": 388,
+"score": 394,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1328,7 +1380,7 @@
 "url": "https://github.com/Yuzu482/YHWH",
 "date": "2026-09-18",
 "summary": "Kether-governed AI agent orchestration with Pi/MCP, isolated workers, LSP tools, and a portable Windows/WSL2 installer",
-"score": 51,
+"score": 52,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1354,7 +1406,7 @@
 "url": "https://github.com/Yzmblog/DMAD",
 "date": "2026-09-29",
 "summary": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-"score": 57,
+"score": 79,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1400,7 +1452,7 @@
 "url": "https://github.com/agents-universe/agents-universe",
 "date": "2026-09-10",
 "summary": "不是问答机器人，而是能真正干活的数字分身。共享智能体，共享项目上下文，让项目所有成员一起协同工作。同时智能体会像人一样通过资料或者工作抽象和总结经验到项目上下文中",
-"score": 433,
+"score": 444,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1450,7 +1502,7 @@
 "url": "https://github.com/aimeoa/hanshuang-codex",
 "date": "2026-09-06",
 "summary": "针对GPT 6.0,workbuddyV4.1flash的破甲实验项目",
-"score": 930,
+"score": 964,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1476,7 +1528,7 @@
 "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
 "date": "2026-09-23",
 "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents,…",
-"score": 490,
+"score": 500,
 "extra": {
 "lang": "Markdown",
 "topics": [
@@ -1497,7 +1549,7 @@
 "url": "https://github.com/amitshekhariitbhu/ai-system-design",
 "date": "2026-09-25",
 "summary": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-"score": 626,
+"score": 630,
 "extra": {
 "lang": "Markdown",
 "topics": [
@@ -1515,6 +1567,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-amontlabs__lcu": {
+"id": "repo-amontlabs__lcu",
+"source": "github",
+"kind": "repo",
+"title": "amontlabs/lcu",
+"url": "https://github.com/amontlabs/lcu",
+"date": "2026-09-22",
+"summary": "Codex computer use, decoupled from the app, for usage inside any harness.",
+"score": 161,
+"extra": {
+"lang": "Python",
+"topics": [
+"accessibility",
+"agent-skills",
+"browser-automation",
+"claude-code",
+"codex-cli",
+"computer-use",
+"desktop-automation",
+"linux",
+"macos",
+"mcp"
+],
+"license": "MIT"
+}
+},
 "repo-angel291592__Intent-Router": {
 "id": "repo-angel291592__Intent-Router",
 "source": "github",
@@ -1523,7 +1601,7 @@
 "url": "https://github.com/angel291592/Intent-Router",
 "date": "2026-09-22",
 "summary": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
-"score": 717,
+"score": 801,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1549,7 +1627,7 @@
 "url": "https://github.com/arjunkshah12345-hash/openpages",
 "date": "2026-09-30",
 "summary": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
-"score": 49,
+"score": 50,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1625,7 +1703,7 @@
 "url": "https://github.com/atria-asi/Atria-Dawn-Preview",
 "date": "2026-09-12",
 "summary": "",
-"score": 570,
+"score": 573,
 "extra": {
 "lang": "",
 "topics": [
@@ -1643,7 +1721,7 @@
 "url": "https://github.com/awlevin/typesafe-computer-use",
 "date": "2026-09-16",
 "summary": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-"score": 1158,
+"score": 1166,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1691,7 +1769,7 @@
 "url": "https://github.com/bilibili/Index-Translate",
 "date": "2026-09-15",
 "summary": "A Multilingual Translation Model Family",
-"score": 478,
+"score": 599,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1709,7 +1787,7 @@
 "url": "https://github.com/blendi-remade/dioramas",
 "date": "2026-09-30",
 "summary": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-"score": 210,
+"score": 220,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1733,7 +1811,7 @@
 "url": "https://github.com/blixvip/MotionClone",
 "date": "2026-09-10",
 "summary": "AI motion graphics from a reference video. Rebuild it as an editable HyperFrames project with Codex and ChatGPT, compare the match, and export an MP4. Local Windows app and online studio.",
-"score": 349,
+"score": 354,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1811,7 +1889,7 @@
 "url": "https://github.com/chelinho139/wow-ai",
 "date": "2026-09-23",
 "summary": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft (WoW)",
-"score": 129,
+"score": 131,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1830,7 +1908,7 @@
 "url": "https://github.com/chenkangjie1123/VGGT-Diff",
 "date": "2026-09-27",
 "summary": "VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis",
-"score": 51,
+"score": 52,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1880,7 +1958,7 @@
 "url": "https://github.com/cobanov/awesome-jev",
 "date": "2026-09-18",
 "summary": "A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.",
-"score": 496,
+"score": 502,
 "extra": {
 "lang": "",
 "topics": [
@@ -1925,7 +2003,7 @@
 "url": "https://github.com/devagrawal09/jev-review",
 "date": "2026-09-16",
 "summary": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
-"score": 663,
+"score": 669,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2019,7 +2097,7 @@
 "url": "https://github.com/edenfunf/reelmimic",
 "date": "2026-09-28",
 "summary": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-"score": 1082,
+"score": 1266,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2044,7 +2122,7 @@
 "url": "https://github.com/emma-sue/AegisOps",
 "date": "2026-09-10",
 "summary": "AegisOps企业信息系统智能运维平台：自动巡检、Agent 故障排查、证据工单与审批处置。LangGraph · Deep Agents · MCP；附可复现实测记录。",
-"score": 324,
+"score": 325,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2095,7 +2173,7 @@
 "url": "https://github.com/ethanplusai/codex-on-crack",
 "date": "2026-09-17",
 "summary": "Coordinate your models from Codex. Plan, delegate, use host tools, and review work across workspaces. Formerly Astra Flash Orchestrator.",
-"score": 730,
+"score": 734,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2117,7 +2195,7 @@
 "url": "https://github.com/farlume/termish",
 "date": "2026-09-06",
 "summary": "Open-source mobile SSH/Mosh terminal and native AI workspace for Android and iOS.",
-"score": 267,
+"score": 284,
 "extra": {
 "lang": "Kotlin",
 "topics": [
@@ -2143,7 +2221,7 @@
 "url": "https://github.com/feder-cr/dots",
 "date": "2026-09-29",
 "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-"score": 2573,
+"score": 2599,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2189,7 +2267,7 @@
 "url": "https://github.com/fidetolabs/qanat",
 "date": "2026-09-05",
 "summary": "An MCP server for quant factor processing and backtesting. Connect it to your agent and ask.",
-"score": 285,
+"score": 289,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2266,7 +2344,7 @@
 "url": "https://github.com/haplollc/ThinkingOrbs",
 "date": "2026-09-19",
 "summary": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
-"score": 245,
+"score": 248,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -2290,7 +2368,7 @@
 "url": "https://github.com/heaven999b/hello-agent-system",
 "date": "2026-09-27",
 "summary": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons (EN/中文) with tested exercises: tools, architectures, reliability,…",
-"score": 52,
+"score": 61,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2316,7 +2394,7 @@
 "url": "https://github.com/hirotomasato/yowes",
 "date": "2026-09-19",
 "summary": "Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP.",
-"score": 208,
+"score": 209,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2364,7 +2442,7 @@
 "url": "https://github.com/isas1/skills",
 "date": "2026-09-19",
 "summary": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
-"score": 203,
+"score": 209,
 "extra": {
 "lang": "",
 "topics": [
@@ -2480,7 +2558,7 @@
 "url": "https://github.com/jev-chat/jev-chat-jarvis",
 "date": "2026-09-21",
 "summary": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-"score": 7297,
+"score": 7331,
 "extra": {
 "lang": "Kotlin",
 "topics": [
@@ -2504,7 +2582,7 @@
 "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
 "date": "2026-09-21",
 "summary": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
-"score": 453,
+"score": 457,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2527,7 +2605,7 @@
 "url": "https://github.com/jev-chat/jev-chat-windows",
 "date": "2026-09-21",
 "summary": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
-"score": 729,
+"score": 736,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2603,7 +2681,7 @@
 "url": "https://github.com/jtydhr88/screenwriting-skills",
 "date": "2026-09-06",
 "summary": "Professional agent skills for screenwriting, television writing and dramaturgy",
-"score": 1550,
+"score": 1561,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2621,7 +2699,7 @@
 "url": "https://github.com/judegomila/OnCo",
 "date": "2026-09-05",
 "summary": "OnCo: total information dominance on cancer. A public, cited knowledge graph of oncology with a website, JSON API, MCP server and CLI: one page per cancer, treatment, target, trial, institution, pers…",
-"score": 194,
+"score": 195,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2647,7 +2725,7 @@
 "url": "https://github.com/justxor/claude-code-pro-course",
 "date": "2026-09-30",
 "summary": "Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, MCP, плагины, CI. 8 лабораторных, библиотека промптов и готовый starter-kit. Здесь бесплатные курсы по…",
-"score": 201,
+"score": 220,
 "extra": {
 "lang": "Shell",
 "topics": [
@@ -2673,7 +2751,7 @@
 "url": "https://github.com/kraayenjon/awesome-jev",
 "date": "2026-09-18",
 "summary": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
-"score": 170,
+"score": 171,
 "extra": {
 "lang": "",
 "topics": [
@@ -2725,7 +2803,7 @@
 "url": "https://github.com/lakeday-org/perch",
 "date": "2026-09-16",
 "summary": "Semantic code linting with Decision Models",
-"score": 345,
+"score": 346,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2775,7 +2853,7 @@
 "url": "https://github.com/lemomo-ai/lemo-opuscar",
 "date": "2026-09-26",
 "summary": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. | Opus5.5 x 43 种影片风…",
-"score": 886,
+"score": 967,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2801,7 +2879,7 @@
 "url": "https://github.com/libingzheren/Jev-Mem",
 "date": "2026-09-20",
 "summary": "Jev-Mem: System-One Controlled Agentic Memory",
-"score": 147,
+"score": 151,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2825,7 +2903,7 @@
 "url": "https://github.com/limelit-co/open",
 "date": "2026-09-11",
 "summary": "Self-hosted AI visibility tracking (AEO / GEO / LLMO). Track how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite your brand. One Go binary, SQLite, MCP-first, bring your…",
-"score": 162,
+"score": 171,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -2877,7 +2955,7 @@
 "url": "https://github.com/liyupi/ai-model-world",
 "date": "2026-09-17",
 "summary": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不…",
-"score": 212,
+"score": 214,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2903,7 +2981,7 @@
 "url": "https://github.com/logicrw/awesome-jev-projects",
 "date": "2026-09-18",
 "summary": "Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync",
-"score": 649,
+"score": 651,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2920,6 +2998,27 @@
 "license": "MIT"
 }
 },
+"repo-malevrigns__agent-jev": {
+"id": "repo-malevrigns__agent-jev",
+"source": "github",
+"kind": "repo",
+"title": "malevrigns/agent-jev",
+"url": "https://github.com/malevrigns/agent-jev",
+"date": "2026-09-21",
+"summary": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~…",
+"score": 338,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai",
+"ai-agents",
+"ai-tools",
+"jev",
+"jev-model"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-matank001__clodfarm": {
 "id": "repo-matank001__clodfarm",
 "source": "github",
@@ -2928,7 +3027,7 @@
 "url": "https://github.com/matank001/clodfarm",
 "date": "2026-09-25",
 "summary": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it f…",
-"score": 134,
+"score": 136,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2954,7 +3053,7 @@
 "url": "https://github.com/mikehasa/golive-skill",
 "date": "2026-09-23",
 "summary": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No…",
-"score": 1198,
+"score": 1219,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2980,7 +3079,7 @@
 "url": "https://github.com/mmdju/digikala-mcp",
 "date": "2026-09-15",
 "summary": "MCP server for Digikala: search, compare and price-check products on Iran's largest marketplace. Read-only, no API key. 16 tools, hosted on Cloudflare Workers.",
-"score": 131,
+"score": 132,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3002,7 +3101,7 @@
 "url": "https://github.com/modelscope/ms-cookbook",
 "date": "2026-09-11",
 "summary": "魔搭紫皮书｜ModelScope Cookbook：面向开发者的开源模型应用实战指南，覆盖模型选型、推理、微调、评测、RAG、Agent 与 AIGC，从跑通第一个模型到构建实际应用。",
-"score": 411,
+"score": 412,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -3028,7 +3127,7 @@
 "url": "https://github.com/modem-dev/ossrules",
 "date": "2026-09-14",
 "summary": "Discover agent rules and skill files from leading open source projects",
-"score": 57,
+"score": 58,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3075,7 +3174,7 @@
 "url": "https://github.com/nanaism/yomiyasu",
 "date": "2026-09-30",
 "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-"score": 1306,
+"score": 1384,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3101,7 +3200,7 @@
 "url": "https://github.com/nidhi-singh02/agent-router",
 "date": "2026-09-17",
 "summary": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
-"score": 100,
+"score": 103,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3127,7 +3226,7 @@
 "url": "https://github.com/nirbhay41120003/EchoMind",
 "date": "2026-09-16",
 "summary": "Local-first voice memory assistant — capture speech, transcribe live, and ask a private RAG chatbot grounded in what you've actually said. No cloud required.",
-"score": 84,
+"score": 85,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3153,7 +3252,7 @@
 "url": "https://github.com/nokia-applied-research/AnyJev",
 "date": "2026-09-21",
 "summary": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
-"score": 1024,
+"score": 1035,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3177,7 +3276,7 @@
 "url": "https://github.com/noskillish/bankmcp",
 "date": "2026-09-07",
 "summary": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
-"score": 271,
+"score": 273,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3203,7 +3302,7 @@
 "url": "https://github.com/nyrahealth/nyra-forced-aligner",
 "date": "2026-09-21",
 "summary": "Word and phoneme level speech timing for spontanoues speech. Fast, accurate and robust.",
-"score": 39,
+"score": 40,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3229,7 +3328,7 @@
 "url": "https://github.com/okf-memory/okf-agent-memory",
 "date": "2026-09-05",
 "summary": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ze…",
-"score": 746,
+"score": 750,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -3302,7 +3401,7 @@
 "url": "https://github.com/ortusaitech/rightwayup",
 "date": "2026-09-24",
 "summary": "Full-circle image roll estimation with calibrated abstention. Open weights, Apache-2.0. By ORTUS AI, the team behind CHEQIT.",
-"score": 49,
+"score": 51,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3351,7 +3450,7 @@
 "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
 "date": "2026-09-19",
 "summary": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
-"score": 1617,
+"score": 1625,
 "extra": {
 "lang": "Markdown",
 "topics": [
@@ -3377,7 +3476,7 @@
 "url": "https://github.com/penso/herdr-gpui",
 "date": "2026-09-20",
 "summary": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
-"score": 494,
+"score": 664,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3402,7 +3501,7 @@
 "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
 "date": "2026-09-08",
 "summary": "A collection of remote MCP servers.",
-"score": 712,
+"score": 756,
 "extra": {
 "lang": "",
 "topics": [
@@ -3419,7 +3518,7 @@
 "url": "https://github.com/qiz029/dscode",
 "date": "2026-09-11",
 "summary": "A DeepSeek coding agent harness: persistent shell, Ultra subagents, auto approval, Chrome MCP and session telemetry",
-"score": 1015,
+"score": 1020,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3445,7 +3544,7 @@
 "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
 "date": "2026-09-17",
 "summary": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
-"score": 744,
+"score": 764,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -3471,7 +3570,7 @@
 "url": "https://github.com/rehan-remade/universal-modder",
 "date": "2026-09-30",
 "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-"score": 2615,
+"score": 3161,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3497,7 +3596,7 @@
 "url": "https://github.com/rhfeiyang/HC-DLM",
 "date": "2026-09-29",
 "summary": "Official implementation of \"Hierarchical Continuous Diffusion Language Models\"",
-"score": 53,
+"score": 54,
 "extra": {
 "lang": "",
 "topics": [
@@ -3516,7 +3615,7 @@
 "url": "https://github.com/ruc-datalab/EvoOntology",
 "date": "2026-09-15",
 "summary": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立&进化本体层",
-"score": 584,
+"score": 592,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3592,7 +3691,7 @@
 "url": "https://github.com/scarletkc/seiso",
 "date": "2026-09-27",
 "summary": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
-"score": 174,
+"score": 179,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3641,7 +3740,7 @@
 "url": "https://github.com/shinthink/blitzstrike",
 "date": "2026-09-12",
 "summary": "Blitz Strike — a universal MCP security-audit toolbelt. Reconnaissance at speed. Analysis in depth. Validation before report.",
-"score": 496,
+"score": 498,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3667,7 +3766,7 @@
 "url": "https://github.com/sno-ai/sno-station",
 "date": "2026-09-19",
 "summary": "Sno Station — your Claude Code and Codex working as one squad on your own machine. Shared encrypted memory, agent-to-agent messaging (Reach), squad skills for handoff and cross-vendor review, and a n…",
-"score": 399,
+"score": 428,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3719,7 +3818,7 @@
 "url": "https://github.com/strands-labs/strands-decider",
 "date": "2026-09-29",
 "summary": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-"score": 291,
+"score": 339,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3743,7 +3842,7 @@
 "url": "https://github.com/tshemsedinov/reslop",
 "date": "2026-09-06",
 "summary": "👁️ Review AI generated code and plan changes",
-"score": 156,
+"score": 159,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3790,7 +3889,7 @@
 "url": "https://github.com/undefined-ui/second-brain-os",
 "date": "2026-09-07",
 "summary": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
-"score": 887,
+"score": 890,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -3816,7 +3915,7 @@
 "url": "https://github.com/unstablebuild/rune",
 "date": "2026-09-10",
 "summary": "the development environment for pros",
-"score": 1228,
+"score": 1229,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -3842,20 +3941,20 @@
 "url": "https://github.com/v-modal/awesome-jev-tools",
 "date": "2026-09-19",
 "summary": "A curated list of tools built for Jev — TypeSafe AI's System One model for typed decisions.",
-"score": 741,
+"score": 746,
 "extra": {
 "lang": "",
 "topics": [
 "awesome",
+"awesome-ai",
+"awesome-jev",
 "awesome-list",
 "awesome-lists",
 "awesome-readme",
 "awesome-resources",
 "calibrated-probabilities",
 "jev",
-"jev-ai",
-"jev-alternative",
-"jev-api"
+"jev-ai"
 ],
 "license": ""
 }
@@ -3890,7 +3989,7 @@
 "url": "https://github.com/vincentsch/explainroo",
 "date": "2026-09-25",
 "summary": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
-"score": 361,
+"score": 384,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3916,7 +4015,7 @@
 "url": "https://github.com/walidboulanouar/awesome-jev-use-cases",
 "date": "2026-09-19",
 "summary": "Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0",
-"score": 380,
+"score": 389,
 "extra": {
 "lang": "",
 "topics": [
@@ -3942,7 +4041,7 @@
 "url": "https://github.com/wh000wh000/awesome-jev-live",
 "date": "2026-09-18",
 "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-"score": 132,
+"score": 197,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3968,7 +4067,7 @@
 "url": "https://github.com/wildminder/awesome-qwen-image",
 "date": "2026-09-24",
 "summary": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
-"score": 116,
+"score": 118,
 "extra": {
 "lang": "",
 "topics": [
@@ -3991,7 +4090,7 @@
 "url": "https://github.com/xiao-yang25/robot-harness",
 "date": "2026-09-14",
 "summary": "A harness for embodied intelligence — connecting agents, robot skills and the physical world through execution, feedback and recovery.",
-"score": 75,
+"score": 82,
 "extra": {
 "lang": "C++",
 "topics": [
@@ -4015,7 +4114,7 @@
 "url": "https://github.com/xinxuxin/keystone-bench",
 "date": "2026-09-07",
 "summary": "A clinical decision-evidence benchmark: pull the one fact an answer rests on, and see whether the assistant's action moves with the evidence. Built on HealthBench.",
-"score": 509,
+"score": 527,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4041,7 +4140,7 @@
 "url": "https://github.com/yetone/magpie",
 "date": "2026-09-23",
 "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-"score": 4456,
+"score": 4809,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -4063,7 +4162,7 @@
 "url": "https://github.com/yibie/awesome-jev",
 "date": "2026-09-17",
 "summary": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-"score": 2110,
+"score": 2131,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4083,7 +4182,7 @@
 "url": "https://github.com/yoheinakajima/glance-speedlab",
 "date": "2026-09-23",
 "summary": "A measurement-first lab for low-latency local camera inference with Glance.",
-"score": 51,
+"score": 52,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4104,7 +4203,7 @@
 "url": "https://github.com/youngyangyang04/llm-master",
 "date": "2026-09-12",
 "summary": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-"score": 1073,
+"score": 1077,
 "extra": {
 "lang": "",
 "topics": [
@@ -4152,7 +4251,7 @@
 "url": "https://github.com/z-liu-xiugou/research-workbench-assistant",
 "date": "2026-09-07",
 "summary": "Local-first research memory for Codex: checkpoints, progress ledgers, and Markdown/JSON paper notes. Early alpha.",
-"score": 176,
+"score": 182,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4176,7 +4275,7 @@
 "url": "https://github.com/z3oya/rttsh",
 "date": "2026-09-22",
 "summary": "A host-side, scriptable command-line terminal for Segger-RTT; Also the AI-ready command line for embedded validation.",
-"score": 58,
+"score": 59,
 "extra": {
 "lang": "C#",
 "topics": [
@@ -4228,7 +4327,7 @@
 "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
 "date": "2026-09-24",
 "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, M…",
-"score": 766,
+"score": 1163,
 "extra": {
 "lang": "JavaScript",
 "topics": [

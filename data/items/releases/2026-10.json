@@ -7,13 +7,13 @@
 "url": "https://huggingface.co/elyza/ELYZA-Thinking-1.0-llm-jp-4-32b-a3b",
 "date": "2026-10-02",
 "summary": "",
-"score": 7,
+"score": 8,
 "extra": {
 "org": "elyza",
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 404,
+"downloads": 438,
 "lang": "ja"
 }
 },
@@ -31,8 +31,26 @@
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 390,
+"downloads": 429,
 "lang": "ja"
+}
+},
+"release-google__DiarizationLM-Gemma-4-E4B-v1": {
+"id": "release-google__DiarizationLM-Gemma-4-E4B-v1",
+"source": "releases",
+"kind": "release",
+"title": "google/DiarizationLM-Gemma-4-E4B-v1",
+"url": "https://huggingface.co/google/DiarizationLM-Gemma-4-E4B-v1",
+"date": "2026-10-04",
+"summary": "",
+"score": 9,
+"extra": {
+"org": "google",
+"publisher": "Google",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 0,
+"lang": "en"
 }
 },
 "release-ibm-granite__ensemble-forecasting-with-ibm-granite-time-series": {
@@ -61,7 +79,7 @@
 "url": "https://huggingface.co/nvidia/PixelDiT2-ImageNet",
 "date": "2026-10-01",
 "summary": "",
-"score": 9,
+"score": 10,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
@@ -79,7 +97,7 @@
 "url": "https://huggingface.co/nvidia/PixelUMM",
 "date": "2026-10-01",
 "summary": "",
-"score": 27,
+"score": 37,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",

@@ -7,9 +7,9 @@
 "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
 "date": "2026-09-28",
 "summary": "It's all over the headlines. Every so often, someone reveals a model X% faster. A tech CEO makes...",
-"score": 91,
+"score": 92,
 "extra": {
-"comments": 40,
+"comments": 41,
 "publisher": "DEV Community",
 "topics": [
 "career",
@@ -49,7 +49,7 @@
 "url": "https://dev.to/ale3oula/confident-isnt-accurate-how-ai-hallucinations-actually-work-4djo",
 "date": "2026-09-29",
 "summary": "AI is moving relatively fast, despite being slow down. Yes, it feels like there's a new concept to...",
-"score": 31,
+"score": 32,
 "extra": {
 "comments": 9,
 "publisher": "DEV Community",
@@ -197,7 +197,7 @@
 "summary": "A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that returns the count and one that returns the rows. With the count, every model i…",
 "score": 15,
 "extra": {
-"comments": 6,
+"comments": 7,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -573,9 +573,9 @@
 "url": "https://dev.to/kenwalger/your-metric-is-not-your-state-2lfl",
 "date": "2026-09-29",
 "summary": "What a refractometer taught me about observability In July, I wrote about a farmer walking a...",
-"score": 21,
+"score": 23,
 "extra": {
-"comments": 14,
+"comments": 16,
 "publisher": "DEV Community",
 "topics": [
 "observability",
@@ -617,7 +617,7 @@
 "summary": "One question, three answers I have a small tool that finds people waiting for a reply from...",
 "score": 21,
 "extra": {
-"comments": 41,
+"comments": 43,
 "publisher": "DEV Community",
 "topics": [
 "testing",
@@ -659,7 +659,7 @@
 "summary": "This is a submission for the Kaggle Benchmarking Challenge What I Benchmarked I tested...",
 "score": 21,
 "extra": {
-"comments": 21,
+"comments": 22,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -701,7 +701,7 @@
 "summary": "How non-engineers build AI tools on an internal MCP platform and self-merge them to production — the self-merge gate, clean-context AI code review, and the one zone that still needs an engineer.",
 "score": 4,
 "extra": {
-"comments": 17,
+"comments": 18,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -817,6 +817,27 @@
 "lang": "en"
 }
 },
+"devto-4764912": {
+"id": "devto-4764912",
+"source": "community",
+"kind": "community",
+"title": "We wrote down 16 promises our MCP server makes, then two models spent ten days trying to break them",
+"url": "https://dev.to/sergey_petrukovich_c94a17/we-wrote-down-16-promises-our-mcp-server-makes-then-two-models-spent-ten-days-trying-to-break-them-42f9",
+"date": "2026-09-28",
+"summary": "skillmem is a local memory layer for coding agents. It is an MCP server over SQLite with nine mem_*...",
+"score": 1,
+"extra": {
+"comments": 4,
+"publisher": "DEV Community",
+"topics": [
+"mcp",
+"testing",
+"python",
+"ai"
+],
+"lang": "en"
+}
+},
 "devto-4764921": {
 "id": "devto-4764921",
 "source": "community",
@@ -848,7 +869,7 @@
 "summary": "I built a synthetic multi-agent loan crew on Amazon Bedrock and made Traccia hard-block a runaway agent, redact applicant PII across every sub-agent, and export EU AI Act audit evidence. Two of my th…",
 "score": 57,
 "extra": {
-"comments": 22,
+"comments": 23,
 "publisher": "DEV Community",
 "topics": [
 "aws",
@@ -972,9 +993,9 @@
 "url": "https://dev.to/rudratosh/your-github-mcp-server-costs-55000-tokens-before-your-agent-reads-a-single-word-4eah",
 "date": "2026-09-28",
 "summary": "Connect the GitHub MCP server and 93 tool schemas load into context — ~55,000 tokens, every turn, before your agent does anything. Add Slack and Sentry and you've burned 143k of a 200k window on defi…",
-"score": 7,
+"score": 9,
 "extra": {
-"comments": 18,
+"comments": 26,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -1016,7 +1037,7 @@
 "summary": "I've been an emergency doctor in Serbia for 12 years, Emergency medicine is intense, and burnout is...",
 "score": 20,
 "extra": {
-"comments": 9,
+"comments": 13,
 "publisher": "DEV Community",
 "topics": [
 "showdev",
@@ -1110,6 +1131,27 @@
 "lang": "en"
 }
 },
+"devto-4767502": {
+"id": "devto-4767502",
+"source": "community",
+"kind": "community",
+"title": "Your Vector Search Knows “Bank” Is Related to “Bank.” It Doesn’t Know Which Bank You Mean.",
+"url": "https://dev.to/getarbiter/your-vector-search-knows-bank-is-related-to-bank-it-doesnt-know-which-bank-you-mean-38fh",
+"date": "2026-09-29",
+"summary": "Vector search is very good at similarity. Similarity is not always the same thing as meaning. That...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"llm",
+"machinelearning",
+"rag"
+],
+"lang": "en"
+}
+},
 "devto-4767598": {
 "id": "devto-4767598",
 "source": "community",
@@ -1118,7 +1160,7 @@
 "url": "https://dev.to/annavi11arrea1/social-ferris-wheel-sanity-is-the-hub-2m7j",
 "date": "2026-09-30",
 "summary": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange What...",
-"score": 30,
+"score": 31,
 "extra": {
 "comments": 2,
 "publisher": "DEV Community",
@@ -1127,6 +1169,27 @@
 "sanitychallenge",
 "sanity",
 "ai"
+],
+"lang": "en"
+}
+},
+"devto-4768121": {
+"id": "devto-4768121",
+"source": "community",
+"kind": "community",
+"title": "Malicious MCP Servers: What Deadbugz Taught Us About Auditing Our AI Agent Setup",
+"url": "https://dev.to/hamzezn/malicious-mcp-servers-what-deadbugz-taught-us-about-auditing-our-ai-agent-setup-2i3",
+"date": "2026-09-29",
+"summary": "On the evening of August 10, 2026, a single GitHub account opened 23 pull requests against unrelated...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"security",
+"ai",
+"mcp",
+"devops"
 ],
 "lang": "en"
 }
@@ -1160,9 +1223,9 @@
 "url": "https://dev.to/james_anderson_h/whos-accountable-when-the-ai-was-just-following-instructions-1efl",
 "date": "2026-09-29",
 "summary": "Earlier this year, a company's AI agent quietly leaked internal data for three weeks before anyone...",
-"score": 36,
+"score": 38,
 "extra": {
-"comments": 42,
+"comments": 48,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -1253,6 +1316,27 @@
 "ai",
 "genkit",
 "llm"
+],
+"lang": "en"
+}
+},
+"devto-4772499": {
+"id": "devto-4772499",
+"source": "community",
+"kind": "community",
+"title": "Cosine Similarity Doesn't Know What Time It Is",
+"url": "https://dev.to/devansh564/cosine-similarity-doesnt-know-what-time-it-is-5fck",
+"date": "2026-09-29",
+"summary": "Vector search answers \"what is most similar to my query?\" Many real systems also need \"what is most...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"python",
+"rag",
+"architecture"
 ],
 "lang": "en"
 }
@@ -1433,9 +1517,9 @@
 "url": "https://dev.to/iggredible/claude-code-context-is-like-milk-keep-it-fresh-and-condensed-l7o",
 "date": "2026-09-30",
 "summary": "\"Like milk, Claude Code context is best fresh and condensed. Why performance drops as the context window fills, and how to manage it with /compact, /clear, /rewind, and subagents",
-"score": 2,
+"score": 3,
 "extra": {
-"comments": 2,
+"comments": 3,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -1456,7 +1540,7 @@
 "summary": "I recently put out a video arguing that frontend development is changing. I don't think the work is...",
 "score": 53,
 "extra": {
-"comments": 21,
+"comments": 22,
 "publisher": "DEV Community",
 "topics": [
 "webdev",
@@ -1540,7 +1624,7 @@
 "summary": "The scariest security failure isn't the guardrail that's down, or the one that's weak. It's the one that's running, passing every health check, and quietly configured to catch nothing — green by cons…",
 "score": 9,
 "extra": {
-"comments": 23,
+"comments": 26,
 "publisher": "DEV Community",
 "topics": [
 "security",
@@ -1580,7 +1664,7 @@
 "url": "https://dev.to/haoli/your-mcp-servers-are-eating-your-context-window-i-built-a-cli-to-audit-the-tax-2e80",
 "date": "2026-09-30",
 "summary": "Every MCP server you connect injects all of its tool schemas into every request. Claude Code loads...",
-"score": 2,
+"score": 3,
 "extra": {
 "comments": 3,
 "publisher": "DEV Community",
@@ -1588,6 +1672,27 @@
 "mcp",
 "python",
 "cli"
+],
+"lang": "en"
+}
+},
+"devto-4776315": {
+"id": "devto-4776315",
+"source": "community",
+"kind": "community",
+"title": "1 in 5 Packages Your AI Suggests Don't Exist. Attackers Know Which Ones.",
+"url": "https://dev.to/james_anderson_h/slopsquatting-your-ai-invented-a-package-and-an-attacker-was-waiting-1g67",
+"date": "2026-09-30",
+"summary": "You ask your AI assistant how to do something. It gives you clean, confident code, with an install...",
+"score": 49,
+"extra": {
+"comments": 34,
+"publisher": "DEV Community",
+"topics": [
+"security",
+"ai",
+"discuss",
+"webdev"
 ],
 "lang": "en"
 }
@@ -1852,7 +1957,7 @@
 "url": "https://dev.to/annavi11arrea1/burnout-i-wrote-a-song-bleeding-knuckles-43fp",
 "date": "2026-09-30",
 "summary": "I was seeing a lot of people writing about burnout on here recently. I feel for you. I was in a mood...",
-"score": 23,
+"score": 24,
 "extra": {
 "comments": 7,
 "publisher": "DEV Community",
@@ -1873,7 +1978,7 @@
 "alt_url": "https://lobste.rs/s/1xr8zc/text_meowdio_models",
 "date": "2026-09-29",
 "summary": "",
-"score": 3,
+"score": 4,
 "extra": {
 "comments": 2,
 "publisher": "Lobsters",
