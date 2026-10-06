@@ -31,6 +31,22 @@
 "comments": 2
 }
 },
+"paper-2608.26762": {
+"id": "paper-2608.26762",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers",
+"url": "https://huggingface.co/papers/2608.26762",
+"alt_url": "https://arxiv.org/abs/2608.26762",
+"date": "2026-10-05",
+"summary": "In passage reranking, response ranking and multi-document question answering, LLMs can score several candidate documents or responses together in one prompt, each still receiving its own score.",
+"score": 16,
+"extra": {
+"github": "https://github.com/thomsonreuters/presentation-dependence",
+"stars": 2,
+"comments": 1
+}
+},
 "paper-2609.18587": {
 "id": "paper-2609.18587",
 "source": "hf_papers",
@@ -79,6 +95,54 @@
 "comments": 2
 }
 },
+"paper-2609.26425": {
+"id": "paper-2609.26425",
+"source": "hf_papers",
+"kind": "paper",
+"title": "QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for Video World Models",
+"url": "https://huggingface.co/papers/2609.26425",
+"alt_url": "https://arxiv.org/abs/2609.26425",
+"date": "2026-10-05",
+"summary": "Video world models achieve long-range temporal consistency by storing KV cache during generation, but the growing cache makes KV cache memory a major deployment bottleneck, which motivates low-bit quantization study for efficiency.",
+"score": 10,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2609.26590": {
+"id": "paper-2609.26590",
+"source": "hf_papers",
+"kind": "paper",
+"title": "GTR: Gated Token Recurrence for Efficient Dense Prediction",
+"url": "https://huggingface.co/papers/2609.26590",
+"alt_url": "https://arxiv.org/abs/2609.26590",
+"date": "2026-10-05",
+"summary": "Self-attention-based vision backbones perform well on dense prediction, but the quadratic computational cost of global softmax attention limits their efficiency as image resolution increases.",
+"score": 12,
+"extra": {
+"github": "https://github.com/Intellindust-AI-Lab/GTR",
+"stars": 47,
+"comments": 1
+}
+},
+"paper-2609.28339": {
+"id": "paper-2609.28339",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control",
+"url": "https://huggingface.co/papers/2609.28339",
+"alt_url": "https://arxiv.org/abs/2609.28339",
+"date": "2026-10-05",
+"summary": "Pretrained generative Diffusion Transformers (DiTs) capture rich pixel-level visual and language-conditioned structure through large-scale image and video generation training.",
+"score": 22,
+"extra": {
+"github": "https://github.com/xmz111/NowWAM",
+"stars": 6,
+"comments": 1
+}
+},
 "paper-2609.29142": {
 "id": "paper-2609.29142",
 "source": "hf_papers",
@@ -93,6 +157,22 @@
 "github": "https://github.com/Luli3220/S2D-OPD",
 "stars": 2,
 "comments": 2
+}
+},
+"paper-2609.30467": {
+"id": "paper-2609.30467",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Where Does Retrieval-Based Open-Ended Evaluation Fail? Automatic Taxonomy Induction from Long-Form Medical Answer Factuality Verification",
+"url": "https://huggingface.co/papers/2609.30467",
+"alt_url": "https://arxiv.org/abs/2609.30467",
+"date": "2026-10-05",
+"summary": "Retrieval-based factuality evaluation, where LLM-generated claims are verified against evidence from authoritative medical corpora, has become the dominant paradigm for scalable hallucination detection in high-stakes clinical settings.",
+"score": 11,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2609.30840": {
@@ -125,6 +205,38 @@
 "github": "https://github.com/CognitiveAISystems/DMM",
 "stars": 4,
 "comments": 2
+}
+},
+"paper-2609.32046": {
+"id": "paper-2609.32046",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Receiver-Conditioned Latent Communication gives 94% CacheBack",
+"url": "https://huggingface.co/papers/2609.32046",
+"alt_url": "https://arxiv.org/abs/2609.32046",
+"date": "2026-10-05",
+"summary": "Multi-agent systems distribute large contexts across agents that communicate to solve a task. Text messages are compact but require decoding and may omit evidence the receiving agent needs. Recent latent communication instead transfers KV caches.",
+"score": 10,
+"extra": {
+"github": "https://github.com/agentcacheback/cacheback",
+"stars": 6,
+"comments": 1
+}
+},
+"paper-2609.32182": {
+"id": "paper-2609.32182",
+"source": "hf_papers",
+"kind": "paper",
+"title": "KeyRec: Bounded Visual Memory for Streaming and Long-Video Understanding",
+"url": "https://huggingface.co/papers/2609.32182",
+"alt_url": "https://arxiv.org/abs/2609.32182",
+"date": "2026-10-05",
+"summary": "Vision-language models are increasingly used to understand long videos and continuous streams. However, dense visual tokens accumulate with video duration, making long-context inference prohibitively expensive.",
+"score": 6,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2609.32259": {
@@ -223,6 +335,38 @@
 "comments": 1
 }
 },
+"paper-2609.32759": {
+"id": "paper-2609.32759",
+"source": "hf_papers",
+"kind": "paper",
+"title": "The Extender: A Log-Structured Transformer",
+"url": "https://huggingface.co/papers/2609.32759",
+"alt_url": "https://arxiv.org/abs/2609.32759",
+"date": "2026-10-05",
+"summary": "We introduce the Extender, a log-structured variant of the standard Transformer architecture. In a standard Transformer, each layer communicates with subsequent layers exclusively via the residual h, a superposition channel.",
+"score": 5,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2609.32777": {
+"id": "paper-2609.32777",
+"source": "hf_papers",
+"kind": "paper",
+"title": "DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS",
+"url": "https://huggingface.co/papers/2609.32777",
+"alt_url": "https://arxiv.org/abs/2609.32777",
+"date": "2026-10-05",
+"summary": "Zero-shot text-to-speech (TTS) can reproduce an unseen speaker from a short reference recording, but typically entangles speaker identity and accent within the same reference.",
+"score": 31,
+"extra": {
+"github": "https://github.com/AMAAI-Lab/define",
+"stars": 2,
+"comments": 1
+}
+},
 "paper-2609.32810": {
 "id": "paper-2609.32810",
 "source": "hf_papers",
@@ -287,6 +431,22 @@
 "comments": 2
 }
 },
+"paper-2609.33463": {
+"id": "paper-2609.33463",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Rethinking Token Reweighting for SFT: Suppress, Reverse, and Extrapolate Learned Features",
+"url": "https://huggingface.co/papers/2609.33463",
+"alt_url": "https://arxiv.org/abs/2609.33463",
+"date": "2026-10-05",
+"summary": "Supervised fine-tuning (SFT) learns most aggressively from tokens that the model deems least likely. This helps acquire new behaviors, but also amplifies noisy or conflicting supervision and can overwrite useful pretrained knowledge.",
+"score": 11,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
 "paper-2609.33711": {
 "id": "paper-2609.33711",
 "source": "hf_papers",
@@ -301,6 +461,22 @@
 "github": "https://github.com/YongYuanDeAo/DuoOPD",
 "stars": 3,
 "comments": 2
+}
+},
+"paper-2609.33804": {
+"id": "paper-2609.33804",
+"source": "hf_papers",
+"kind": "paper",
+"title": "MinkowskiPE: Minkowski Positional Encoding for Spatiotemporal Perception",
+"url": "https://huggingface.co/papers/2609.33804",
+"alt_url": "https://arxiv.org/abs/2609.33804",
+"date": "2026-10-05",
+"summary": "Modeling spatiotemporal coupling is a key challenge in building physical intelligence across scales, from microscopic to macroscopic.",
+"score": 12,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2609.34162": {
@@ -447,6 +623,22 @@
 "comments": 2
 }
 },
+"paper-2609.34715": {
+"id": "paper-2609.34715",
+"source": "hf_papers",
+"kind": "paper",
+"title": "PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs",
+"url": "https://huggingface.co/papers/2609.34715",
+"alt_url": "https://arxiv.org/abs/2609.34715",
+"date": "2026-10-05",
+"summary": "Physical trajectories contain more than snapshots of a system: they also reveal how its states evolve under governing conditions.",
+"score": 51,
+"extra": {
+"github": "https://github.com/Tanpig-X/PDE-JEPA",
+"stars": 7,
+"comments": 1
+}
+},
 "paper-2609.34736": {
 "id": "paper-2609.34736",
 "source": "hf_papers",
@@ -461,6 +653,38 @@
 "github": "https://github.com/Indigma-Innovations/SeLMRoute",
 "stars": 1,
 "comments": 2
+}
+},
+"paper-2609.34826": {
+"id": "paper-2609.34826",
+"source": "hf_papers",
+"kind": "paper",
+"title": "WM-VLM: Probing Internal World Models for Interleaved Visual-Textual Reasoning",
+"url": "https://huggingface.co/papers/2609.34826",
+"alt_url": "https://arxiv.org/abs/2609.34826",
+"date": "2026-10-05",
+"summary": "Humans often solve spatial problems by mentally simulating visual transformations. In contrast, conventional vision-language models (VLMs) reason primarily through language.",
+"score": 9,
+"extra": {
+"github": "https://github.com/yuh-zha/WM-VLM",
+"stars": 1,
+"comments": 1
+}
+},
+"paper-2609.34895": {
+"id": "paper-2609.34895",
+"source": "hf_papers",
+"kind": "paper",
+"title": "LVMT: Video Mask Transformer for Long-term Video Segmentation",
+"url": "https://huggingface.co/papers/2609.34895",
+"alt_url": "https://arxiv.org/abs/2609.34895",
+"date": "2026-10-05",
+"summary": "Existing online video segmentation methods struggle to track objects in long, complex videos with long-term occlusions.",
+"score": 16,
+"extra": {
+"github": "https://github.com/tue-mps/lvmt",
+"stars": 9,
+"comments": 1
 }
 },
 "paper-2609.34970": {
@@ -655,6 +879,22 @@
 "comments": 3
 }
 },
+"paper-2609.36529": {
+"id": "paper-2609.36529",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling",
+"url": "https://huggingface.co/papers/2609.36529",
+"alt_url": "https://arxiv.org/abs/2609.36529",
+"date": "2026-10-05",
+"summary": "Recurrent neural networks (RNNs) compress the historical context into a memory state of fixed size, thus allowing for constant-time inference.",
+"score": 25,
+"extra": {
+"github": "https://github.com/OliverSieberling/TriadicLinearAttention",
+"stars": 6,
+"comments": 1
+}
+},
 "paper-2609.36585": {
 "id": "paper-2609.36585",
 "source": "hf_papers",
@@ -687,6 +927,22 @@
 "comments": 2
 }
 },
+"paper-2609.36659": {
+"id": "paper-2609.36659",
+"source": "hf_papers",
+"kind": "paper",
+"title": "On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training",
+"url": "https://huggingface.co/papers/2609.36659",
+"alt_url": "https://arxiv.org/abs/2609.36659",
+"date": "2026-10-05",
+"summary": "The strong generalization performance of on-policy post-training paradigms has motivated studies of their parameter update behaviors.",
+"score": 75,
+"extra": {
+"github": "https://github.com/ssfgunner/OPSFT",
+"stars": 0,
+"comments": 1
+}
+},
 "paper-2609.36820": {
 "id": "paper-2609.36820",
 "source": "hf_papers",
@@ -701,6 +957,22 @@
 "github": "https://github.com/HKUST-KnowComp/CorrGRPO",
 "stars": 3,
 "comments": 2
+}
+},
+"paper-2609.36887": {
+"id": "paper-2609.36887",
+"source": "hf_papers",
+"kind": "paper",
+"title": "WEFT: Scaling Tool-Use Post-Training for General-Purpose Agents",
+"url": "https://huggingface.co/papers/2609.36887",
+"alt_url": "https://arxiv.org/abs/2609.36887",
+"date": "2026-10-05",
+"summary": "Recent efforts to scale tool-use post-training have largely centered on the synthesis of executable environments, which constitute only one component of a broader agentic interaction system comprising the environment, task, agent harness, and evaluator.",
+"score": 14,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2609.36931": {
@@ -927,6 +1199,22 @@
 "comments": 2
 }
 },
+"paper-2609.37925": {
+"id": "paper-2609.37925",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation",
+"url": "https://huggingface.co/papers/2609.37925",
+"alt_url": "https://arxiv.org/abs/2609.37925",
+"date": "2026-10-05",
+"summary": "Autoregressive (AR) video diffusion enables low-latency, streamable video generation, but prediction errors often accumulate over long rollouts. Training the generator on its own rollouts exposes it to these imperfect histories.",
+"score": 17,
+"extra": {
+"github": "https://github.com/cjeen/RMD",
+"stars": 1,
+"comments": 2
+}
+},
 "paper-2609.38024": {
 "id": "paper-2609.38024",
 "source": "hf_papers",
@@ -941,6 +1229,38 @@
 "github": "",
 "stars": 0,
 "comments": 2
+}
+},
+"paper-2609.38078": {
+"id": "paper-2609.38078",
+"source": "hf_papers",
+"kind": "paper",
+"title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+"url": "https://huggingface.co/papers/2609.38078",
+"alt_url": "https://arxiv.org/abs/2609.38078",
+"date": "2026-10-05",
+"summary": "Vision-language-action (VLA) models have advanced robotic manipulation, but their zero-shot generalization in new tasks and environments remains limited, and their reliance on specialized training keeps them from benefiting directly from rapidly advancing gen…",
+"score": 89,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2609.38096": {
+"id": "paper-2609.38096",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Tail-Influence Sampling for CVaR Policy Evaluation",
+"url": "https://huggingface.co/papers/2609.38096",
+"alt_url": "https://arxiv.org/abs/2609.38096",
+"date": "2026-10-05",
+"summary": "Policies with similar mean returns can differ sharply in rare failures, yet estimating lower-tail conditional value-at-risk (CVaR) accurately can require many costly rollouts.",
+"score": 13,
+"extra": {
+"github": "https://github.com/paulinebourigault/TIS",
+"stars": 1,
+"comments": 1
 }
 },
 "paper-2609.38104": {
@@ -973,6 +1293,22 @@
 "github": "",
 "stars": 0,
 "comments": 2
+}
+},
+"paper-2609.38123": {
+"id": "paper-2609.38123",
+"source": "hf_papers",
+"kind": "paper",
+"title": "HelixWorld: A Real-time Interactive Audio-Visual World Model",
+"url": "https://huggingface.co/papers/2609.38123",
+"alt_url": "https://arxiv.org/abs/2609.38123",
+"date": "2026-10-05",
+"summary": "World simulation is inherently multisensory, demanding synchronized visual and acoustic dynamics in real time.",
+"score": 31,
+"extra": {
+"github": "https://github.com/NoizAI/HelixWorld",
+"stars": 620,
+"comments": 1
 }
 },
 "paper-2609.38142": {
@@ -1037,6 +1373,22 @@
 "github": "https://github.com/VectorSpaceLab/AREX-2",
 "stars": 22,
 "comments": 3
+}
+},
+"paper-2609.38325": {
+"id": "paper-2609.38325",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Strike a Chord! Modal Kinetic Typography",
+"url": "https://huggingface.co/papers/2609.38325",
+"alt_url": "https://arxiv.org/abs/2609.38325",
+"date": "2026-10-05",
+"summary": "We introduce modal kinetic typography, which animates a vector glyph to express a semantic concept while keeping it legible. Our key idea is to build motion from the glyph's natural vibration modes.",
+"score": 6,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2609.38334": {
@@ -1359,6 +1711,22 @@
 "comments": 3
 }
 },
+"paper-2609.38839": {
+"id": "paper-2609.38839",
+"source": "hf_papers",
+"kind": "paper",
+"title": "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation",
+"url": "https://huggingface.co/papers/2609.38839",
+"alt_url": "https://arxiv.org/abs/2609.38839",
+"date": "2026-10-05",
+"summary": "Long-horizon video generation requires models to effectively leverage an increasingly long generation history.",
+"score": 91,
+"extra": {
+"github": "https://github.com/YinBo0927/FrameMorrow",
+"stars": 24,
+"comments": 3
+}
+},
 "paper-2609.38854": {
 "id": "paper-2609.38854",
 "source": "hf_papers",
@@ -1373,6 +1741,22 @@
 "github": "",
 "stars": 0,
 "comments": 0
+}
+},
+"paper-2609.38879": {
+"id": "paper-2609.38879",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Does Learning Protein Folding Generalize to Broader Reasoning?",
+"url": "https://huggingface.co/papers/2609.38879",
+"alt_url": "https://arxiv.org/abs/2609.38879",
+"date": "2026-10-05",
+"summary": "Large language models rely heavily on human text, which often conveys surface answers rather than the spatial and structural logic behind them.",
+"score": 98,
+"extra": {
+"github": "https://github.com/GENTEL-lab/Fold2Reason",
+"stars": 3,
+"comments": 3
 }
 },
 "paper-2609.38886": {
@@ -1453,6 +1837,38 @@
 "github": "https://github.com/WenyiWU0111/RSIGame",
 "stars": 101,
 "comments": 2
+}
+},
+"paper-2609.39050": {
+"id": "paper-2609.39050",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Covert Assistance: Helpful LLM Agents Evade Oversight in Multi-Agent Systems",
+"url": "https://huggingface.co/papers/2609.39050",
+"alt_url": "https://arxiv.org/abs/2609.39050",
+"date": "2026-10-05",
+"summary": "As multi-agent systems enter high-stakes domains, the possibility that agents may circumvent safety boundaries is a growing concern.",
+"score": 13,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2609.39071": {
+"id": "paper-2609.39071",
+"source": "hf_papers",
+"kind": "paper",
+"title": "LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models",
+"url": "https://huggingface.co/papers/2609.39071",
+"alt_url": "https://arxiv.org/abs/2609.39071",
+"date": "2026-10-05",
+"summary": "Legal language models require reward signals that capture not only answer correctness but also the multidimensional quality of legal responses.",
+"score": 47,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2609.39102": {
@@ -1583,6 +1999,22 @@
 "comments": 2
 }
 },
+"paper-2609.39394": {
+"id": "paper-2609.39394",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Can Computation from Earlier Problems Help LLMs Solve New Ones?",
+"url": "https://huggingface.co/papers/2609.39394",
+"alt_url": "https://arxiv.org/abs/2609.39394",
+"date": "2026-10-05",
+"summary": "Large language models often solve independent problems in the same conversation. Can computation from earlier problems help them solve new ones?",
+"score": 7,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
 "paper-2609.39564": {
 "id": "paper-2609.39564",
 "source": "hf_papers",
@@ -1679,6 +2111,22 @@
 "comments": 2
 }
 },
+"paper-2609.39820": {
+"id": "paper-2609.39820",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models",
+"url": "https://huggingface.co/papers/2609.39820",
+"alt_url": "https://arxiv.org/abs/2609.39820",
+"date": "2026-10-05",
+"summary": "Vision-language-action (VLA) models generalize broadly across robotic manipulation tasks, but complex environments require balancing task success with unintended contact.",
+"score": 14,
+"extra": {
+"github": "https://github.com/Mingyuee88/FailBank",
+"stars": 2,
+"comments": 1
+}
+},
 "paper-2609.39827": {
 "id": "paper-2609.39827",
 "source": "hf_papers",
@@ -1737,6 +2185,22 @@
 "date": "2026-10-01",
 "summary": "Hour-scale audio-visual question answering is constrained by a context dilemma: dense whole-recording encoding rapidly exhausts context limits, whereas uniform temporal compression severely dilutes fine-grained acoustic and visual evidence.",
 "score": 2,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2609.39963": {
+"id": "paper-2609.39963",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Diptych: Scoped, AI-Interpreted Comparison for Reference Listening in Music Production",
+"url": "https://huggingface.co/papers/2609.39963",
+"alt_url": "https://arxiv.org/abs/2609.39963",
+"date": "2026-10-05",
+"summary": "Reference listening is a common strategy in music production, but current comparison tools often obscure a key human judgment: deciding what should be compared.",
+"score": 20,
 "extra": {
 "github": "",
 "stars": 0,
@@ -1817,6 +2281,22 @@
 "date": "2026-10-01",
 "summary": "We present Game-Guided Skill Discovery (GGSD), a framework that uses self-play in games to discover motor skills that are directly playable by humans.",
 "score": 5,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2609.40153": {
+"id": "paper-2609.40153",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling",
+"url": "https://huggingface.co/papers/2609.40153",
+"alt_url": "https://arxiv.org/abs/2609.40153",
+"date": "2026-10-05",
+"summary": "Video generation models (VGMs) offer strong spatiotemporal priors for embodied observation--action modeling.",
+"score": 8,
 "extra": {
 "github": "",
 "stars": 0,
@@ -2127,6 +2607,22 @@
 "comments": 2
 }
 },
+"paper-2610.00531": {
+"id": "paper-2610.00531",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers",
+"url": "https://huggingface.co/papers/2610.00531",
+"alt_url": "https://arxiv.org/abs/2610.00531",
+"date": "2026-10-05",
+"summary": "AI-generated content, often called AI slop, is increasingly common everywhere, particularly in academia. Slop in AI-generated scientific papers, however, has more complex patterns that cannot be easily detected by existing token-based AI detectors.",
+"score": 47,
+"extra": {
+"github": "https://github.com/yerimoh/ScientificSlop",
+"stars": 10,
+"comments": 1
+}
+},
 "paper-2610.00544": {
 "id": "paper-2610.00544",
 "source": "hf_papers",
@@ -2189,6 +2685,22 @@
 "github": "https://github.com/Stability-AI/SemanTok",
 "stars": 0,
 "comments": 2
+}
+},
+"paper-2610.00722": {
+"id": "paper-2610.00722",
+"source": "hf_papers",
+"kind": "paper",
+"title": "JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts",
+"url": "https://huggingface.co/papers/2610.00722",
+"alt_url": "https://arxiv.org/abs/2610.00722",
+"date": "2026-10-05",
+"summary": "World models enable agents to plan by predicting future states of the environment, but their predictions can become unreliable when test-time dynamics differ from those seen during training.",
+"score": 2,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2610.00737": {
@@ -2268,6 +2780,22 @@
 "extra": {
 "github": "",
 "stars": 0,
+"comments": 2
+}
+},
+"paper-2610.00972": {
+"id": "paper-2610.00972",
+"source": "hf_papers",
+"kind": "paper",
+"title": "VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks",
+"url": "https://huggingface.co/papers/2610.00972",
+"alt_url": "https://arxiv.org/abs/2610.00972",
+"date": "2026-10-05",
+"summary": "As LLM agents undertake increasingly complex, long-horizon tasks, verifying their outputs becomes increasingly challenging.",
+"score": 44,
+"extra": {
+"github": "https://github.com/google-research/veriharness",
+"stars": 37,
 "comments": 2
 }
 },
@@ -2351,6 +2879,22 @@
 "comments": 2
 }
 },
+"paper-2610.01153": {
+"id": "paper-2610.01153",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts",
+"url": "https://huggingface.co/papers/2610.01153",
+"alt_url": "https://arxiv.org/abs/2610.01153",
+"date": "2026-10-05",
+"summary": "Looped Transformers introduce recurrent depth as a new scaling axis for LLMs: by repeatedly applying shared Transformer blocks, they increase effective depth without increasing parameter count.",
+"score": 15,
+"extra": {
+"github": "https://github.com/hed-ucas/LOOM",
+"stars": 5,
+"comments": 1
+}
+},
 "paper-2610.01215": {
 "id": "paper-2610.01215",
 "source": "hf_papers",
@@ -2365,6 +2909,22 @@
 "github": "https://github.com/ImYangC7/AutoGUIWorld",
 "stars": 6,
 "comments": 2
+}
+},
+"paper-2610.01257": {
+"id": "paper-2610.01257",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems",
+"url": "https://huggingface.co/papers/2610.01257",
+"alt_url": "https://arxiv.org/abs/2610.01257",
+"date": "2026-10-05",
+"summary": "Scientific progress emerges from a longitudinal ecosystem in which researchers, institutions, funding agencies, collaboration networks, and the scientific literature co-evolve.",
+"score": 37,
+"extra": {
+"github": "https://github.com/Ahren09/ScienceUtopia",
+"stars": 22,
+"comments": 1
 }
 },
 "paper-2610.01415": {
@@ -2463,6 +3023,22 @@
 "comments": 2
 }
 },
+"paper-2610.01780": {
+"id": "paper-2610.01780",
+"source": "hf_papers",
+"kind": "paper",
+"title": "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations",
+"url": "https://huggingface.co/papers/2610.01780",
+"alt_url": "https://arxiv.org/abs/2610.01780",
+"date": "2026-10-05",
+"summary": "A companion that talks with a person for months should come to understand them. It should remember what they said, infer who they are, and know when the past bears on the message in front of it.",
+"score": 249,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
 "paper-2610.01939": {
 "id": "paper-2610.01939",
 "source": "hf_papers",
@@ -2527,6 +3103,22 @@
 "comments": 2
 }
 },
+"paper-2610.02126": {
+"id": "paper-2610.02126",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Local Support Learning",
+"url": "https://huggingface.co/papers/2610.02126",
+"alt_url": "https://arxiv.org/abs/2610.02126",
+"date": "2026-10-05",
+"summary": "We explore catastrophic forgetting in the context of large pre-trained models.",
+"score": 23,
+"extra": {
+"github": "https://github.com/assafbk/local_support_learning",
+"stars": 13,
+"comments": 1
+}
+},
 "paper-2610.02142": {
 "id": "paper-2610.02142",
 "source": "hf_papers",
@@ -2589,6 +3181,22 @@
 "github": "https://github.com/cvlab-kaist/world-observer",
 "stars": 23,
 "comments": 4
+}
+},
+"paper-2610.02179": {
+"id": "paper-2610.02179",
+"source": "hf_papers",
+"kind": "paper",
+"title": "From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation",
+"url": "https://huggingface.co/papers/2610.02179",
+"alt_url": "https://arxiv.org/abs/2610.02179",
+"date": "2026-10-05",
+"summary": "Multi-teacher on-policy distillation (MOPD) aims to combine the strengths of RL-trained teachers in a single student, but how teacher signals affect parameter changes remains underexplored.",
+"score": 11,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2610.02181": {
@@ -2717,6 +3325,438 @@
 "github": "https://github.com/RISys-Lab/KaliBench",
 "stars": 4,
 "comments": 2
+}
+},
+"paper-2610.02298": {
+"id": "paper-2610.02298",
+"source": "hf_papers",
+"kind": "paper",
+"title": "EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling",
+"url": "https://huggingface.co/papers/2610.02298",
+"alt_url": "https://arxiv.org/abs/2610.02298",
+"date": "2026-10-05",
+"summary": "3D editing methods are usually tested on a single edit, yet an asset is built through a long sequence of revisions, each of which must implement the requested change while leaving everything else unchanged.",
+"score": 44,
+"extra": {
+"github": "https://github.com/AlayaLab/EditHero",
+"stars": 11,
+"comments": 0
+}
+},
+"paper-2610.02304": {
+"id": "paper-2610.02304",
+"source": "hf_papers",
+"kind": "paper",
+"title": "SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation",
+"url": "https://huggingface.co/papers/2610.02304",
+"alt_url": "https://arxiv.org/abs/2610.02304",
+"date": "2026-10-05",
+"summary": "Existing Simulink benchmarks mainly evaluate whether generated models compile, execute, or resemble a reference model. These criteria do not establish whether a model satisfies its engineering requirements.",
+"score": 45,
+"extra": {
+"github": "https://github.com/SimuVerity/SimuVerity",
+"stars": 16,
+"comments": 2
+}
+},
+"paper-2610.02381": {
+"id": "paper-2610.02381",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Latent-MOPD: Latent Multi-Teacher On-Policy Distillation",
+"url": "https://huggingface.co/papers/2610.02381",
+"alt_url": "https://arxiv.org/abs/2610.02381",
+"date": "2026-10-05",
+"summary": "On-policy distillation (OPD) trains a student on the responses it generates. Existing LLM multi-teacher OPD transfers what specialists predict through their output distributions.",
+"score": 54,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.02388": {
+"id": "paper-2610.02388",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Octrees as an Explicit 3D Language",
+"url": "https://huggingface.co/papers/2610.02388",
+"alt_url": "https://arxiv.org/abs/2610.02388",
+"date": "2026-10-05",
+"summary": "Existing 3D large language models (LLMs) compromise on two fronts: they compress shapes into latent codebook indices or coordinate text, which removes spatial structure from what the model observes, and they acquire the 3D modality by fine-tuning the backbone…",
+"score": 10,
+"extra": {
+"github": "https://github.com/octree-nn/octllm",
+"stars": 7,
+"comments": 0
+}
+},
+"paper-2610.02486": {
+"id": "paper-2610.02486",
+"source": "hf_papers",
+"kind": "paper",
+"title": "From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders",
+"url": "https://huggingface.co/papers/2610.02486",
+"alt_url": "https://arxiv.org/abs/2610.02486",
+"date": "2026-10-05",
+"summary": "Typed decision models answer schema-constrained questions about a text in one forward pass and return probabilities meant to be thresholded. We ask whether biomedical sentence encoders trained for retrieval are good starting points for such models.",
+"score": 11,
+"extra": {
+"github": "https://github.com/pritamdeka/sbert2s1",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.02508": {
+"id": "paper-2610.02508",
+"source": "hf_papers",
+"kind": "paper",
+"title": "World Action Modeling with Progressive Visual Planning",
+"url": "https://huggingface.co/papers/2610.02508",
+"alt_url": "https://arxiv.org/abs/2610.02508",
+"date": "2026-10-05",
+"summary": "World action models (WAMs) have emerged as a promising paradigm for robotic control by jointly predicting future visual dynamics and actions from an initial observation and instruction.",
+"score": 74,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.02521": {
+"id": "paper-2610.02521",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory",
+"url": "https://huggingface.co/papers/2610.02521",
+"alt_url": "https://arxiv.org/abs/2610.02521",
+"date": "2026-10-05",
+"summary": "Long-video generation and world models have shown strong potential for interactive entertainment and embodied simulation by predicting future observations conditioned on user actions and historical memory.",
+"score": 40,
+"extra": {
+"github": "https://github.com/xbyym/SMI",
+"stars": 18,
+"comments": 1
+}
+},
+"paper-2610.02710": {
+"id": "paper-2610.02710",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Self-Supervised Scaling of Terminal Environments for Scientific Domains",
+"url": "https://huggingface.co/papers/2610.02710",
+"alt_url": "https://arxiv.org/abs/2610.02710",
+"date": "2026-10-05",
+"summary": "Terminal agents are increasingly deployed beyond software engineering in science and other specialized domains.",
+"score": 7,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.02772": {
+"id": "paper-2610.02772",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Improving Atomic-Fact Recall via Focused Views in Unstructured Knowledge Editing",
+"url": "https://huggingface.co/papers/2610.02772",
+"alt_url": "https://arxiv.org/abs/2610.02772",
+"date": "2026-10-05",
+"summary": "Large language models (LLMs) increasingly serve as general-purpose interfaces to factual knowledge, but their parameters do not automatically reflect information that changes after pretraining.",
+"score": 7,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.02788": {
+"id": "paper-2610.02788",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation",
+"url": "https://huggingface.co/papers/2610.02788",
+"alt_url": "https://arxiv.org/abs/2610.02788",
+"date": "2026-10-05",
+"summary": "Transferring robotic skills from simulation to reality requires task knowledge that remains usable across differences in perception, dynamics, and embodiment.",
+"score": 15,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 0
+}
+},
+"paper-2610.02824": {
+"id": "paper-2610.02824",
+"source": "hf_papers",
+"kind": "paper",
+"title": "MetaRubric: Learning to Reward for Rubric-Based Reinforcement Learning",
+"url": "https://huggingface.co/papers/2610.02824",
+"alt_url": "https://arxiv.org/abs/2610.02824",
+"date": "2026-10-05",
+"summary": "Rubric-based reinforcement learning extends reward-driven optimization to open-ended tasks by assigning partial credit to individual response requirements.",
+"score": 19,
+"extra": {
+"github": "https://github.com/metarubric/metarubric",
+"stars": 1,
+"comments": 1
+}
+},
+"paper-2610.02826": {
+"id": "paper-2610.02826",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite",
+"url": "https://huggingface.co/papers/2610.02826",
+"alt_url": "https://arxiv.org/abs/2610.02826",
+"date": "2026-10-05",
+"summary": "Successful trajectories on difficult tasks provide valuable supervision for model improvement, but specialized harnesses introduce interventions that may be unavailable during deployment.",
+"score": 82,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 0
+}
+},
+"paper-2610.02840": {
+"id": "paper-2610.02840",
+"source": "hf_papers",
+"kind": "paper",
+"title": "PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation",
+"url": "https://huggingface.co/papers/2610.02840",
+"alt_url": "https://arxiv.org/abs/2610.02840",
+"date": "2026-10-05",
+"summary": "World action models jointly learn to forecast world dynamics and predict robot actions, such that the learned internal world dynamics guide accurate actions.",
+"score": 12,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.03195": {
+"id": "paper-2610.03195",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It",
+"url": "https://huggingface.co/papers/2610.03195",
+"alt_url": "https://arxiv.org/abs/2610.03195",
+"date": "2026-10-05",
+"summary": "As LLM agents decide on users' behalf which product to buy, which hotel to book, or which paper to cite, a preference for items from certain sources (the sites or services they come from) shapes what users receive and which sources are selected.",
+"score": 33,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.03240": {
+"id": "paper-2610.03240",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Collective Bias Mitigation via Model Routing and Collaboration",
+"url": "https://huggingface.co/papers/2610.03240",
+"alt_url": "https://arxiv.org/abs/2610.03240",
+"date": "2026-10-05",
+"summary": "Large language models (LLMs) are increasingly deployed in public health, finance, and governance, requiring both accuracy and societal value alignment.",
+"score": 14,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.03367": {
+"id": "paper-2610.03367",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Multilingual GSM-Symbolic: What determines capability transfer across languages?",
+"url": "https://huggingface.co/papers/2610.03367",
+"alt_url": "https://arxiv.org/abs/2610.03367",
+"date": "2026-10-05",
+"summary": "We understand little about how capabilities acquired in one language carry over to another, or what governs this transfer: evaluations rely on incomparable, saturation-prone datasets and rarely examine its determinants jointly.",
+"score": 39,
+"extra": {
+"github": "https://github.com/centre-for-humanities-computing/multilingual-gsm-symbolic",
+"stars": 4,
+"comments": 1
+}
+},
+"paper-2610.03391": {
+"id": "paper-2610.03391",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Native Action-Prior Learning from Videos for World Action Models",
+"url": "https://huggingface.co/papers/2610.03391",
+"alt_url": "https://arxiv.org/abs/2610.03391",
+"date": "2026-10-05",
+"summary": "World action models integrate future visual dynamics with robot action prediction, but their scalability remains limited by the need for action-annotated robot trajectories.",
+"score": 74,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.03509": {
+"id": "paper-2610.03509",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Efficient Reasoning Training Does Not Always Harm CoT Faithfulness and Monitorability",
+"url": "https://huggingface.co/papers/2610.03509",
+"alt_url": "https://arxiv.org/abs/2610.03509",
+"date": "2026-10-05",
+"summary": "Chain-of-thought (CoT) reasoning allows humans to inspect how large language models reach their answers, and oversee model behaviour.",
+"score": 13,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.03574": {
+"id": "paper-2610.03574",
+"source": "hf_papers",
+"kind": "paper",
+"title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+"url": "https://huggingface.co/papers/2610.03574",
+"alt_url": "https://arxiv.org/abs/2610.03574",
+"date": "2026-10-05",
+"summary": "We introduce HyperBrowseComp, a multilingual and multimodal browsing benchmark comprising 423 manually authored and human-validated questions across 13 languages, written by native or highly proficient speakers.",
+"score": 51,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.03632": {
+"id": "paper-2610.03632",
+"source": "hf_papers",
+"kind": "paper",
+"title": "World Embedding Benchmark",
+"url": "https://huggingface.co/papers/2610.03632",
+"alt_url": "https://arxiv.org/abs/2610.03632",
+"date": "2026-10-05",
+"summary": "Physical fidelity has received increasing attention in world models and video generation, yet how video representations encode physical information remains less understood.",
+"score": 41,
+"extra": {
+"github": "https://github.com/World-Representation-Lab/World-Embedding-Benchmark",
+"stars": 3,
+"comments": 2
+}
+},
+"paper-2610.03664": {
+"id": "paper-2610.03664",
+"source": "hf_papers",
+"kind": "paper",
+"title": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models",
+"url": "https://huggingface.co/papers/2610.03664",
+"alt_url": "https://arxiv.org/abs/2610.03664",
+"date": "2026-10-05",
+"summary": "Autoregressive (AR) video models excel at causal generation, but their reliance on next-chunk prediction confines them to a short-sighted, reactive paradigm.",
+"score": 25,
+"extra": {
+"github": "https://github.com/luka-group/ProAR",
+"stars": 2,
+"comments": 1
+}
+},
+"paper-2610.03665": {
+"id": "paper-2610.03665",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+"url": "https://huggingface.co/papers/2610.03665",
+"alt_url": "https://arxiv.org/abs/2610.03665",
+"date": "2026-10-05",
+"summary": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning.",
+"score": 50,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.03675": {
+"id": "paper-2610.03675",
+"source": "hf_papers",
+"kind": "paper",
+"title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+"url": "https://huggingface.co/papers/2610.03675",
+"alt_url": "https://arxiv.org/abs/2610.03675",
+"date": "2026-10-05",
+"summary": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations.",
+"score": 21,
+"extra": {
+"github": "https://github.com/chchenhui/frugalevo",
+"stars": 4,
+"comments": 1
+}
+},
+"paper-2610.03695": {
+"id": "paper-2610.03695",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Language Models that Play Chess and Explain Their Moves",
+"url": "https://huggingface.co/papers/2610.03695",
+"alt_url": "https://arxiv.org/abs/2610.03695",
+"date": "2026-10-05",
+"summary": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play.",
+"score": 23,
+"extra": {
+"github": "https://github.com/queen-project/queen",
+"stars": 1,
+"comments": 1
+}
+},
+"paper-2610.03710": {
+"id": "paper-2610.03710",
+"source": "hf_papers",
+"kind": "paper",
+"title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+"url": "https://huggingface.co/papers/2610.03710",
+"alt_url": "https://arxiv.org/abs/2610.03710",
+"date": "2026-10-05",
+"summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera.",
+"score": 9,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2610.03715": {
+"id": "paper-2610.03715",
+"source": "hf_papers",
+"kind": "paper",
+"title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+"url": "https://huggingface.co/papers/2610.03715",
+"alt_url": "https://arxiv.org/abs/2610.03715",
+"date": "2026-10-05",
+"summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs.",
+"score": 19,
+"extra": {
+"github": "https://github.com/4DCodeBench/4DCodeBench",
+"stars": 5,
+"comments": 1
+}
+},
+"paper-2610.04116": {
+"id": "paper-2610.04116",
+"source": "hf_papers",
+"kind": "paper",
+"title": "CUAWright: A Minimal Unified Interface for Digital Agents",
+"url": "https://huggingface.co/papers/2610.04116",
+"alt_url": "https://arxiv.org/abs/2610.04116",
+"date": "2026-10-05",
+"summary": "The prevailing approach to computer-use agents couples a model with a domain-specific harness: a browser or desktop environment equipped with human engineered tools that are fixed before task execution.",
+"score": 1,
+"extra": {
+"github": "https://github.com/microsoft/Webwright",
+"stars": 6027,
+"comments": 1
 }
 }
 }

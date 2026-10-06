@@ -869,7 +869,7 @@
 "summary": "I built a synthetic multi-agent loan crew on Amazon Bedrock and made Traccia hard-block a runaway agent, redact applicant PII across every sub-agent, and export EU AI Act audit evidence. Two of my th…",
 "score": 57,
 "extra": {
-"comments": 23,
+"comments": 24,
 "publisher": "DEV Community",
 "topics": [
 "aws",
@@ -1225,7 +1225,7 @@
 "summary": "Earlier this year, a company's AI agent quietly leaked internal data for three weeks before anyone...",
 "score": 38,
 "extra": {
-"comments": 48,
+"comments": 50,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -1320,6 +1320,27 @@
 "lang": "en"
 }
 },
+"devto-4772121": {
+"id": "devto-4772121",
+"source": "community",
+"kind": "community",
+"title": "Code Review Is Not an Authority Boundary",
+"url": "https://dev.to/kenwalger/code-review-is-not-an-authority-boundary-3dfc",
+"date": "2026-09-29",
+"summary": "AI can generate the implementation. Your architecture still has to decide what that implementation is...",
+"score": 21,
+"extra": {
+"comments": 23,
+"publisher": "DEV Community",
+"topics": [
+"security",
+"webassembly",
+"ai",
+"architecture"
+],
+"lang": "en"
+}
+},
 "devto-4772499": {
 "id": "devto-4772499",
 "source": "community",
@@ -1337,6 +1358,27 @@
 "python",
 "rag",
 "architecture"
+],
+"lang": "en"
+}
+},
+"devto-4772565": {
+"id": "devto-4772565",
+"source": "community",
+"kind": "community",
+"title": "AI Is Making Me Faster. I Don’t Want It to Make Me Worse.",
+"url": "https://dev.to/mikachu/ai-is-making-me-faster-i-dont-want-it-to-make-me-worse-3lc3",
+"date": "2026-09-29",
+"summary": "I use AI constantly when I code and when I write. I use it to research ideas, plan code, debug,...",
+"score": 34,
+"extra": {
+"comments": 9,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"programming",
+"productivity",
+"tutorial"
 ],
 "lang": "en"
 }
@@ -1538,9 +1580,9 @@
 "url": "https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8",
 "date": "2026-09-30",
 "summary": "I recently put out a video arguing that frontend development is changing. I don't think the work is...",
-"score": 53,
+"score": 58,
 "extra": {
-"comments": 22,
+"comments": 25,
 "publisher": "DEV Community",
 "topics": [
 "webdev",
@@ -1684,9 +1726,9 @@
 "url": "https://dev.to/james_anderson_h/slopsquatting-your-ai-invented-a-package-and-an-attacker-was-waiting-1g67",
 "date": "2026-09-30",
 "summary": "You ask your AI assistant how to do something. It gives you clean, confident code, with an install...",
-"score": 49,
+"score": 51,
 "extra": {
-"comments": 34,
+"comments": 36,
 "publisher": "DEV Community",
 "topics": [
 "security",
@@ -1705,7 +1747,7 @@
 "url": "https://dev.to/basisdesk/a-free-no-key-mcp-server-for-crypto-news-and-market-data-claude-cursor-chatgpt-28kb",
 "date": "2026-09-30",
 "summary": "Connect any MCP client to source-checked crypto news, live prices, whale transfers and token safety checks — one URL, no key.",
-"score": 5,
+"score": 10,
 "extra": {
 "comments": 0,
 "publisher": "DEV Community",
@@ -1831,7 +1873,7 @@
 "url": "https://dev.to/reidmarlow/search-agents-waste-half-their-tokens-rediscovering-entity-links-31an",
 "date": "2026-09-30",
 "summary": "If you wire an LLM agent to a local directory of documents and give it terminal tools (grep, find,...",
-"score": 11,
+"score": 13,
 "extra": {
 "comments": 29,
 "publisher": "DEV Community",
@@ -1844,6 +1886,27 @@
 "lang": "en"
 }
 },
+"devto-4778630": {
+"id": "devto-4778630",
+"source": "community",
+"kind": "community",
+"title": "Stop \"Vibe Checking\" Your AI Agents: How to Build Production Evals in 60 Minutes",
+"url": "https://dev.to/googleai/stop-vibe-checking-your-ai-agents-how-to-build-production-evals-in-60-minutes-2df4",
+"date": "2026-09-30",
+"summary": "How do you currently test your AI agents? If you're like most developers building agentic...",
+"score": 13,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"python",
+"langchain",
+"devops"
+],
+"lang": "en"
+}
+},
 "devto-4778910": {
 "id": "devto-4778910",
 "source": "community",
@@ -1852,7 +1915,7 @@
 "url": "https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg",
 "date": "2026-09-30",
 "summary": "In this post, I walk through B.L.O.O.M. (Bridging Local Observations, Openly Mapped), an offline...",
-"score": 21,
+"score": 26,
 "extra": {
 "comments": 3,
 "publisher": "DEV Community",
@@ -1936,9 +1999,9 @@
 "url": "https://dev.to/kenwalger/a-wine-cellar-that-remembers-what-you-used-to-believe-4i55",
 "date": "2026-09-30",
 "summary": "This is a submission for the Sanity Challenge, Path Two: Vibe-Code Something Strange What I...",
-"score": 29,
+"score": 31,
 "extra": {
-"comments": 2,
+"comments": 3,
 "publisher": "DEV Community",
 "topics": [
 "sanitychallenge",
@@ -1957,9 +2020,9 @@
 "url": "https://dev.to/annavi11arrea1/burnout-i-wrote-a-song-bleeding-knuckles-43fp",
 "date": "2026-09-30",
 "summary": "I was seeing a lot of people writing about burnout on here recently. I feel for you. I was in a mood...",
-"score": 24,
+"score": 26,
 "extra": {
-"comments": 7,
+"comments": 10,
 "publisher": "DEV Community",
 "topics": [
 "ai",

@@ -7,7 +7,7 @@
 "url": "https://github.com/QingYunA/answer-me-with-html",
 "date": "2026-10-02",
 "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-"score": 1029,
+"score": 1479,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -24,6 +24,58 @@
 "license": "MIT"
 }
 },
+"repo-kouhxp__gutsy": {
+"id": "repo-kouhxp__gutsy",
+"source": "github",
+"kind": "repo",
+"title": "kouhxp/gutsy",
+"url": "https://github.com/kouhxp/gutsy",
+"date": "2026-10-01",
+"summary": "Local decision model with calibrated probabilities: send a state and yes/no, choice or score questions, get a probability for every option. 0.8B GGUF on CPU, Jev-style API.",
+"score": 31,
+"extra": {
+"lang": "HTML",
+"topics": [
+"agents",
+"classifier",
+"content-moderation",
+"cpu-inference",
+"decision-model",
+"gguf",
+"intent-classification",
+"jev",
+"jev-compatible",
+"llama-cpp"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-mariagorskikh__open-instinct": {
+"id": "repo-mariagorskikh__open-instinct",
+"source": "github",
+"kind": "repo",
+"title": "mariagorskikh/open-instinct",
+"url": "https://github.com/mariagorskikh/open-instinct",
+"date": "2026-10-03",
+"summary": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
+"score": 102,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agents",
+"ai-agents",
+"composio",
+"imessage",
+"inkbox",
+"instinct",
+"maritime",
+"open-source",
+"personal-assistant",
+"typescript"
+],
+"license": "MIT"
+}
+},
 "repo-whirlchat__whirl": {
 "id": "repo-whirlchat__whirl",
 "source": "github",
@@ -32,7 +84,7 @@
 "url": "https://github.com/whirlchat/whirl",
 "date": "2026-10-02",
 "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-"score": 452,
+"score": 480,
 "extra": {
 "lang": "TypeScript",
 "topics": [
