@@ -1,4 +1,30 @@
 {
+"repo-BoatswainValve94__1min-ai-download": {
+"id": "repo-BoatswainValve94__1min-ai-download",
+"source": "github",
+"kind": "repo",
+"title": "BoatswainValve94/1min-ai-download",
+"url": "https://github.com/BoatswainValve94/1min-ai-download",
+"date": "2026-10-05",
+"summary": "1min.AI — Business SaaS listing. Visit link via SOFTGIT. Third-party; rights belong to original authors.",
+"score": 35,
+"extra": {
+"lang": "Python",
+"topics": [
+"1min-ai",
+"1min-ai-download",
+"ai-assistant",
+"ai-tools",
+"ai-workflow",
+"automation",
+"business-software",
+"chatgpt-alternative",
+"content-generation",
+"download"
+],
+"license": ""
+}
+},
 "repo-QingYunA__answer-me-with-html": {
 "id": "repo-QingYunA__answer-me-with-html",
 "source": "github",
@@ -7,19 +33,46 @@
 "url": "https://github.com/QingYunA/answer-me-with-html",
 "date": "2026-10-02",
 "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-"score": 1479,
+"score": 1768,
 "extra": {
 "lang": "JavaScript",
 "topics": [
 "agent-skill",
 "ai-agent",
 "claude-code",
+"claude-code-skill",
+"claude-skill",
+"claude-skills",
 "cli",
 "diagram",
 "explainer",
-"html",
-"llm",
-"ste100"
+"html"
+],
+"license": "MIT"
+}
+},
+"repo-VoltAgent__official-mcp-servers": {
+"id": "repo-VoltAgent__official-mcp-servers",
+"source": "github",
+"kind": "repo",
+"title": "VoltAgent/official-mcp-servers",
+"url": "https://github.com/VoltAgent/official-mcp-servers",
+"date": "2026-10-01",
+"summary": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
+"score": 178,
+"extra": {
+"lang": "",
+"topics": [
+"ai-tools",
+"awesome-list",
+"claude",
+"claude-code",
+"codex",
+"cursor",
+"mcp",
+"mcp-server",
+"mcp-servers",
+"model-context-protocol"
 ],
 "license": "MIT"
 }
@@ -32,7 +85,7 @@
 "url": "https://github.com/kouhxp/gutsy",
 "date": "2026-10-01",
 "summary": "Local decision model with calibrated probabilities: send a state and yes/no, choice or score questions, get a probability for every option. 0.8B GGUF on CPU, Jev-style API.",
-"score": 31,
+"score": 32,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -58,7 +111,7 @@
 "url": "https://github.com/mariagorskikh/open-instinct",
 "date": "2026-10-03",
 "summary": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
-"score": 102,
+"score": 213,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -76,6 +129,28 @@
 "license": "MIT"
 }
 },
+"repo-openpactprotocol__openpactprotocol": {
+"id": "repo-openpactprotocol__openpactprotocol",
+"source": "github",
+"kind": "repo",
+"title": "openpactprotocol/openpactprotocol",
+"url": "https://github.com/openpactprotocol/openpactprotocol",
+"date": "2026-10-01",
+"summary": "PACT is an open protocol for personal agents to interact with businesses’ agents under explicit, verifiable user permissions.",
+"score": 38,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"a2a",
+"a2a-protocol",
+"agents",
+"ai-agents",
+"oauth2",
+"personal-agents"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-whirlchat__whirl": {
 "id": "repo-whirlchat__whirl",
 "source": "github",
@@ -84,7 +159,7 @@
 "url": "https://github.com/whirlchat/whirl",
 "date": "2026-10-02",
 "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-"score": 480,
+"score": 490,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -100,6 +175,32 @@
 "typescript"
 ],
 "license": "MIT"
+}
+},
+"repo-xop01__ai_goodpractice": {
+"id": "repo-xop01__ai_goodpractice",
+"source": "github",
+"kind": "repo",
+"title": "xop01/ai_goodpractice",
+"url": "https://github.com/xop01/ai_goodpractice",
+"date": "2026-10-02",
+"summary": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+"score": 121,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agent",
+"ai-agents",
+"ai-coding",
+"ai-model",
+"ai-safety",
+"ai-tools",
+"guide",
+"guidebook",
+"guideline"
+],
+"license": ""
 }
 }
 }

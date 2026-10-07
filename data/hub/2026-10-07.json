@@ -1,0 +1,562 @@
+{
+"datasets": [
+{
+"downloads": 87536,
+"id": "XiaomiMiMo/MiMo-V2.6-RL-oss",
+"likes": 837,
+"tags": []
+},
+{
+"downloads": 2823,
+"id": "nisten/opus5-5-doctor-patient-conversations-all-human-diseases",
+"likes": 263,
+"tags": [
+"task_categories:question-answering",
+"task_categories:text-generation",
+"language:en"
+]
+},
+{
+"downloads": 1181,
+"id": "datasocial/tiktok-5.6B-videos",
+"likes": 65,
+"tags": []
+},
+{
+"downloads": 141303,
+"id": "espnet/yodas3",
+"likes": 212,
+"tags": [
+"task_categories:audio-to-audio",
+"task_categories:automatic-speech-recognition",
+"task_categories:text-to-speech",
+"task_categories:translation"
+]
+},
+{
+"downloads": 520,
+"id": "ankitjh4/bharat-government-documents",
+"likes": 50,
+"tags": [
+"task_categories:question-answering",
+"task_categories:text-retrieval"
+]
+},
+{
+"downloads": 153405,
+"id": "secemp9/arxiv-complete",
+"likes": 628,
+"tags": [
+"task_categories:text-generation",
+"task_categories:text-retrieval",
+"language:en"
+]
+},
+{
+"downloads": 1786,
+"id": "aidigestorg/ai-village",
+"likes": 110,
+"tags": [
+"language:en"
+]
+},
+{
+"downloads": 4801,
+"id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
+"likes": 276,
+"tags": [
+"task_categories:text-generation",
+"task_categories:question-answering",
+"language:en"
+]
+},
+{
+"downloads": 2087,
+"id": "cloud0day3/alania-synthetic-speech-tr",
+"likes": 41,
+"tags": [
+"task_categories:text-to-speech",
+"task_categories:automatic-speech-recognition",
+"language:tr"
+]
+},
+{
+"downloads": 7161,
+"id": "Cirquar-Tech/wm_imagined",
+"likes": 46,
+"tags": []
+},
+{
+"downloads": 1053,
+"id": "Zaevlad/audit-findings-dataset",
+"likes": 98,
+"tags": [
+"task_categories:text-classification",
+"task_categories:text-generation",
+"language:en"
+]
+},
+{
+"downloads": 28910,
+"id": "LocalLLaMA/typed-decisions",
+"likes": 114,
+"tags": [
+"task_categories:text-classification",
+"language:en"
+]
+},
+{
+"downloads": 712,
+"id": "bakrianoo/jabarti-llm-dataset",
+"likes": 38,
+"tags": [
+"task_categories:text-generation",
+"task_categories:question-answering",
+"language:ar",
+"language:en"
+]
+},
+{
+"downloads": 1877,
+"id": "witfoo/precinct6-cybersecurity",
+"likes": 37,
+"tags": [
+"task_categories:text-classification",
+"task_categories:graph-ml",
+"language:en"
+]
+},
+{
+"downloads": 268619,
+"id": "wikimedia/wikipedia",
+"likes": 1626,
+"tags": [
+"task_categories:text-generation",
+"task_categories:fill-mask",
+"language:ab",
+"language:ace",
+"language:ady",
+"language:af"
+]
+},
+{
+"downloads": 34987,
+"id": "LightwheelAI/EgoPro",
+"likes": 122,
+"tags": [
+"task_categories:video-classification",
+"language:en"
+]
+},
+{
+"downloads": 63225,
+"id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+"likes": 189,
+"tags": []
+},
+{
+"downloads": 4764,
+"id": "ZefanCai/Open-Jev",
+"likes": 78,
+"tags": [
+"task_categories:text-classification",
+"language:en",
+"language:zh",
+"language:tr"
+]
+},
+{
+"downloads": 30302,
+"id": "Anthropic/hh-rlhf",
+"likes": 2384,
+"tags": []
+},
+{
+"downloads": 46394,
+"id": "malcolmrey/various",
+"likes": 279,
+"tags": []
+},
+{
+"downloads": 4177,
+"id": "OpenDataArena/Spark-234K",
+"likes": 112,
+"tags": [
+"task_categories:text-generation",
+"language:en"
+]
+},
+{
+"downloads": 31894,
+"id": "openbmb/UltraData-SFT-Agent-2609",
+"likes": 280,
+"tags": [
+"task_categories:text-generation",
+"task_categories:question-answering",
+"language:en",
+"language:zh"
+]
+},
+{
+"downloads": 348500,
+"id": "genrobot2025/Gen-HumanEgo",
+"likes": 64,
+"tags": [
+"task_categories:robotics",
+"language:en"
+]
+},
+{
+"downloads": 229,
+"id": "docling-project/DeskForge-1M",
+"likes": 18,
+"tags": [
+"task_categories:image-to-text",
+"task_categories:object-detection",
+"language:en"
+]
+},
+{
+"downloads": 5526,
+"id": "FineEnvs/SmolDataEnvs",
+"likes": 87,
+"tags": [
+"task_categories:question-answering",
+"task_categories:table-question-answering"
+]
+},
+{
+"downloads": 312,
+"id": "MaziyarPanahi/AgentToolDecisions-180K",
+"likes": 20,
+"tags": [
+"task_categories:text-classification",
+"task_categories:text-ranking",
+"language:en"
+]
+},
+{
+"downloads": 2499,
+"id": "Hcompany/trajectories",
+"likes": 39,
+"tags": [
+"language:en"
+]
+},
+{
+"downloads": 265,
+"id": "cloud0day3/alania-domain-text-tr",
+"likes": 17,
+"tags": [
+"task_categories:text-to-speech",
+"task_categories:text-generation",
+"language:tr"
+]
+},
+{
+"downloads": 17060,
+"id": "BodyMaps/CancerVerse",
+"likes": 45,
+"tags": [
+"task_categories:image-classification",
+"task_categories:image-segmentation",
+"task_categories:image-to-text"
+]
+},
+{
+"downloads": 909,
+"id": "biglam/europeana_newspapers_images",
+"likes": 14,
+"tags": [
+"task_categories:image-to-text",
+"language:de",
+"language:et",
+"language:sr",
+"language:fr",
+"language:pl"
+]
+}
+],
+"spaces": [
+{
+"desc": "",
+"id": "Pepe104/MiniMax-H3-Turbo-Lora-UNCENSORED",
+"likes": 1171,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "FineEnvs/multi-harness-rl",
+"likes": 171,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "arudradey/qwen-image-2.1-uncensored-gguf",
+"likes": 334,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "multimodalart/jev-decision-index",
+"likes": 472,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "kulkas2pintu/wan777",
+"likes": 352,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "arudradey/qwen-image-2.1-uncensored-aio-loras",
+"likes": 177,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "tardellirs/model-pulse",
+"likes": 101,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "Viggle/Qwen-Image-2.1-viggle-turbo",
+"likes": 203,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "zai-org/OpenVuln",
+"likes": 209,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "autotrust/JEV-27B-Demo",
+"likes": 94,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "mlabonne/chessfly",
+"likes": 133,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "vamo455/Omni-videos-custom-auto_prompt_high-quality",
+"likes": 183,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "Qwen/Qwen-Image-2.1",
+"likes": 387,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "hugging-apps/bfs-best-face-swap",
+"likes": 95,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "kulkas2pintu/kv-i2v",
+"likes": 118,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "autotrust/jev-9b-decision-demo",
+"likes": 77,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "kulkas2pintu/QWEN_EDIT_IMAGE",
+"likes": 661,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "00000tt/LTX-2.3-10Eros",
+"likes": 154,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+"likes": 388,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "M3st3rJ4k3l/FLUX.2-Klein-Multi-LoRA-v2",
+"likes": 87,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+"likes": 3698,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "FineEnvs/MiMo-RL-Envs-Explorer",
+"likes": 83,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "simru66/wan2-2-fp8da-aoti-preview-2c-finishing",
+"likes": 36,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "AlexWortega/openjev",
+"likes": 41,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "linoyts/Qwen-Image-2.1-Move",
+"likes": 56,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "Onise/Qwen-Image-Edit-2509-LoRAs-Fast2",
+"likes": 421,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "selfit-camera/Omni-Image-Editor",
+"likes": 2767,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "assembledchaos/qwen-image-2-1-studio",
+"likes": 139,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "Aura1in/Krea-2-Turbo_v2",
+"likes": 29,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "stepfun-ai/StepAudio-3-Music",
+"likes": 193,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "webml-community/semantic-image-field",
+"likes": 59,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "hugging-apps/minimax-h3-character-swap-lora",
+"likes": 53,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "DontPlanToEnd/UGI-Leaderboard",
+"likes": 2115,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "k2-fsa/OmniVoice",
+"likes": 1386,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "Rchoks/wan555",
+"likes": 256,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "AST-1320/Qwen-2511-Plus-Flux.2-klein-9B",
+"likes": 31,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "jjjjoooonnnjo/wan22fp8daaotipreview",
+"likes": 29,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "convaiinnovations/laya-demo",
+"likes": 267,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "pablodawson/minimax-h3-360-orbit",
+"likes": 26,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "jaredpalmer/kev",
+"likes": 75,
+"sdk": "gradio",
+"title": ""
+}
+]
+}

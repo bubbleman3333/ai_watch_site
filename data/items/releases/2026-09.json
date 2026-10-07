@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Alpha-Gen",
 "date": "2026-09-28",
 "summary": "",
-"score": 91,
+"score": 107,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 2488,
+"downloads": 4093,
 "lang": "en"
 }
 },
@@ -187,13 +187,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render",
 "date": "2026-09-22",
 "summary": "",
-"score": 41,
+"score": 49,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 1320,
+"downloads": 2614,
 "lang": "en"
 }
 },
@@ -205,13 +205,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Refine-Details",
 "date": "2026-09-27",
 "summary": "",
-"score": 38,
+"score": 42,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 4904,
+"downloads": 6390,
 "lang": "en"
 }
 },
@@ -223,13 +223,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Restore",
 "date": "2026-09-27",
 "summary": "",
-"score": 51,
+"score": 55,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 1414,
+"downloads": 2663,
 "lang": "en"
 }
 },
@@ -241,13 +241,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-SDR-To-HDR",
 "date": "2026-09-28",
 "summary": "",
-"score": 21,
+"score": 24,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 2155,
+"downloads": 3366,
 "lang": "en"
 }
 },
@@ -319,7 +319,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 811,
+"downloads": 862,
 "lang": "en"
 }
 },
@@ -337,7 +337,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 1294,
+"downloads": 1346,
 "lang": "en"
 }
 },
@@ -367,13 +367,13 @@
 "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
 "date": "2026-09-20",
 "summary": "",
-"score": 57,
+"score": 58,
 "extra": {
 "org": "Qwen",
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "",
-"downloads": 11700,
+"downloads": 12291,
 "lang": "en"
 }
 },
@@ -391,7 +391,7 @@
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "text-to-image",
-"downloads": 7757,
+"downloads": 8247,
 "lang": "en"
 }
 },
@@ -439,13 +439,13 @@
 "url": "https://huggingface.co/apple/LensVLM-9B",
 "date": "2026-09-21",
 "summary": "",
-"score": 285,
+"score": 286,
 "extra": {
 "org": "apple",
 "publisher": "Apple",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 2489,
+"downloads": 2515,
 "lang": "en"
 }
 },
@@ -457,13 +457,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-action-base",
 "date": "2026-09-22",
 "summary": "",
-"score": 130,
+"score": 131,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 313,
+"downloads": 395,
 "lang": "en"
 }
 },
@@ -475,13 +475,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-action-droid",
 "date": "2026-09-22",
 "summary": "",
-"score": 34,
+"score": 35,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 993,
+"downloads": 1035,
 "lang": "en"
 }
 },
@@ -493,13 +493,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-action-so101",
 "date": "2026-09-22",
 "summary": "",
-"score": 49,
+"score": 52,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 1174,
+"downloads": 1217,
 "lang": "en"
 }
 },
@@ -715,7 +715,7 @@
 "publisher": "IBM Granite",
 "jp": false,
 "task": "time-series-forecasting",
-"downloads": 25,
+"downloads": 36,
 "lang": "en"
 }
 },
@@ -733,7 +733,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 964,
+"downloads": 1125,
 "lang": "ja"
 }
 },
@@ -751,7 +751,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 6063,
+"downloads": 6205,
 "lang": "ja"
 }
 },
@@ -763,13 +763,13 @@
 "url": "https://huggingface.co/llm-jp/llm-jp-4.1-33b-thinking",
 "date": "2026-09-16",
 "summary": "",
-"score": 12,
+"score": 13,
 "extra": {
 "org": "llm-jp",
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 960,
+"downloads": 1055,
 "lang": "ja"
 }
 },
@@ -787,7 +787,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 3743,
+"downloads": 3832,
 "lang": "ja"
 }
 },
@@ -817,13 +817,13 @@
 "url": "https://huggingface.co/llm-jp/llm-jp-4.1-8b-thinking-gguf",
 "date": "2026-09-24",
 "summary": "",
-"score": 11,
+"score": 12,
 "extra": {
 "org": "llm-jp",
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 2969,
+"downloads": 3288,
 "lang": "ja"
 }
 },
@@ -835,13 +835,13 @@
 "url": "https://huggingface.co/microsoft/FrogNano-4B-2609",
 "date": "2026-09-17",
 "summary": "",
-"score": 106,
+"score": 115,
 "extra": {
 "org": "microsoft",
 "publisher": "Microsoft",
 "jp": false,
 "task": "",
-"downloads": 581,
+"downloads": 733,
 "lang": "en"
 }
 },
@@ -925,13 +925,13 @@
 "url": "https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-NVFP4",
 "date": "2026-09-16",
 "summary": "",
-"score": 97,
+"score": 98,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 22895,
+"downloads": 23159,
 "lang": "en"
 }
 },
@@ -1219,7 +1219,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 467,
+"downloads": 489,
 "lang": "ja"
 }
 },
@@ -1291,7 +1291,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "",
-"downloads": 13389,
+"downloads": 15354,
 "lang": "en"
 }
 },
@@ -1309,7 +1309,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "",
-"downloads": 1929,
+"downloads": 1983,
 "lang": "en"
 }
 }
