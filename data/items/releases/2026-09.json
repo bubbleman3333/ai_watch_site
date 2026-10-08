@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Alpha-Gen",
 "date": "2026-09-28",
 "summary": "",
-"score": 107,
+"score": 118,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 4093,
+"downloads": 5255,
 "lang": "en"
 }
 },
@@ -187,13 +187,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render",
 "date": "2026-09-22",
 "summary": "",
-"score": 49,
+"score": 53,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 2614,
+"downloads": 2974,
 "lang": "en"
 }
 },
@@ -205,13 +205,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Refine-Details",
 "date": "2026-09-27",
 "summary": "",
-"score": 42,
+"score": 46,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 6390,
+"downloads": 6890,
 "lang": "en"
 }
 },
@@ -223,13 +223,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Restore",
 "date": "2026-09-27",
 "summary": "",
-"score": 55,
+"score": 58,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 2663,
+"downloads": 2898,
 "lang": "en"
 }
 },
@@ -241,13 +241,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-SDR-To-HDR",
 "date": "2026-09-28",
 "summary": "",
-"score": 24,
+"score": 25,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 3366,
+"downloads": 3796,
 "lang": "en"
 }
 },
@@ -319,7 +319,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 862,
+"downloads": 895,
 "lang": "en"
 }
 },
@@ -337,7 +337,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 1346,
+"downloads": 1402,
 "lang": "en"
 }
 },
@@ -373,7 +373,7 @@
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "",
-"downloads": 12291,
+"downloads": 12579,
 "lang": "en"
 }
 },
@@ -391,7 +391,7 @@
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "text-to-image",
-"downloads": 8247,
+"downloads": 8423,
 "lang": "en"
 }
 },
@@ -439,13 +439,13 @@
 "url": "https://huggingface.co/apple/LensVLM-9B",
 "date": "2026-09-21",
 "summary": "",
-"score": 286,
+"score": 288,
 "extra": {
 "org": "apple",
 "publisher": "Apple",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 2515,
+"downloads": 2556,
 "lang": "en"
 }
 },
@@ -463,7 +463,7 @@
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 395,
+"downloads": 551,
 "lang": "en"
 }
 },
@@ -475,13 +475,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-action-droid",
 "date": "2026-09-22",
 "summary": "",
-"score": 35,
+"score": 36,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 1035,
+"downloads": 1096,
 "lang": "en"
 }
 },
@@ -493,13 +493,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-action-so101",
 "date": "2026-09-22",
 "summary": "",
-"score": 52,
+"score": 55,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 1217,
+"downloads": 1338,
 "lang": "en"
 }
 },
@@ -709,13 +709,13 @@
 "url": "https://huggingface.co/ibm-granite/granite-timeseries-ensemble-r1",
 "date": "2026-09-23",
 "summary": "",
-"score": 0,
+"score": 2,
 "extra": {
 "org": "ibm-granite",
 "publisher": "IBM Granite",
 "jp": false,
 "task": "time-series-forecasting",
-"downloads": 36,
+"downloads": 44,
 "lang": "en"
 }
 },
@@ -751,7 +751,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 6205,
+"downloads": 6397,
 "lang": "ja"
 }
 },
@@ -787,7 +787,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 3832,
+"downloads": 3860,
 "lang": "ja"
 }
 },
@@ -823,7 +823,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 3288,
+"downloads": 3672,
 "lang": "ja"
 }
 },
@@ -835,13 +835,13 @@
 "url": "https://huggingface.co/microsoft/FrogNano-4B-2609",
 "date": "2026-09-17",
 "summary": "",
-"score": 115,
+"score": 124,
 "extra": {
 "org": "microsoft",
 "publisher": "Microsoft",
 "jp": false,
 "task": "",
-"downloads": 733,
+"downloads": 874,
 "lang": "en"
 }
 },
@@ -1219,7 +1219,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 489,
+"downloads": 506,
 "lang": "ja"
 }
 },

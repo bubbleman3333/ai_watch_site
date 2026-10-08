@@ -1,4 +1,94 @@
 {
+"release-LiquidAI__d1-3B": {
+"id": "release-LiquidAI__d1-3B",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-3B",
+"url": "https://huggingface.co/LiquidAI/d1-3B",
+"date": "2026-10-05",
+"summary": "",
+"score": 87,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 15,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-3B-GGUF": {
+"id": "release-LiquidAI__d1-3B-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-3B-GGUF",
+"url": "https://huggingface.co/LiquidAI/d1-3B-GGUF",
+"date": "2026-10-06",
+"summary": "",
+"score": 16,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 22,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-3B-w8a8": {
+"id": "release-LiquidAI__d1-3B-w8a8",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-3B-w8a8",
+"url": "https://huggingface.co/LiquidAI/d1-3B-w8a8",
+"date": "2026-10-07",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-omni-600M": {
+"id": "release-LiquidAI__d1-omni-600M",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-omni-600M",
+"url": "https://huggingface.co/LiquidAI/d1-omni-600M",
+"date": "2026-10-05",
+"summary": "",
+"score": 43,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 28,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-omni-600M-GGUF": {
+"id": "release-LiquidAI__d1-omni-600M-GGUF",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-omni-600M-GGUF",
+"url": "https://huggingface.co/LiquidAI/d1-omni-600M-GGUF",
+"date": "2026-10-06",
+"summary": "",
+"score": 14,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 18,
+"lang": "en"
+}
+},
 "release-elyza__ELYZA-Thinking-1.0-llm-jp-4-32b-a3b": {
 "id": "release-elyza__ELYZA-Thinking-1.0-llm-jp-4-32b-a3b",
 "source": "releases",
@@ -13,7 +103,7 @@
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 518,
+"downloads": 545,
 "lang": "ja"
 }
 },
@@ -25,13 +115,13 @@
 "url": "https://huggingface.co/elyza/ELYZA-Thinking-1.0-llm-jp-4-33b",
 "date": "2026-10-02",
 "summary": "",
-"score": 9,
+"score": 10,
 "extra": {
 "org": "elyza",
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 520,
+"downloads": 544,
 "lang": "ja"
 }
 },
@@ -97,7 +187,7 @@
 "url": "https://huggingface.co/nvidia/PixelUMM",
 "date": "2026-10-01",
 "summary": "",
-"score": 64,
+"score": 70,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
