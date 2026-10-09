@@ -33,7 +33,7 @@
 "url": "https://github.com/Elevatormusic/hermes-warm-compaction",
 "date": "2026-10-06",
 "summary": "Hermes Agent context engine: the main model writes the compaction handoff on its cached prompt prefix",
-"score": 31,
+"score": 37,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -55,7 +55,7 @@
 "url": "https://github.com/GTKottman/mortiflix-oss",
 "date": "2026-10-05",
 "summary": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-"score": 379,
+"score": 465,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -79,7 +79,7 @@
 "url": "https://github.com/LosaLosSantos/aurelio-finance",
 "date": "2026-10-06",
 "summary": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
-"score": 181,
+"score": 699,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -97,6 +97,26 @@
 "license": "MIT"
 }
 },
+"repo-MirroS-Lab__AgentGarten": {
+"id": "repo-MirroS-Lab__AgentGarten",
+"source": "github",
+"kind": "repo",
+"title": "MirroS-Lab/AgentGarten",
+"url": "https://github.com/MirroS-Lab/AgentGarten",
+"date": "2026-10-08",
+"summary": "AgentGarten: Code Worlds for Evolving Agents",
+"score": 50,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"diffusion",
+"multimodal",
+"self-evolving"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-QingYunA__answer-me-with-html": {
 "id": "repo-QingYunA__answer-me-with-html",
 "source": "github",
@@ -105,7 +125,7 @@
 "url": "https://github.com/QingYunA/answer-me-with-html",
 "date": "2026-10-02",
 "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-"score": 2044,
+"score": 2321,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -131,7 +151,7 @@
 "url": "https://github.com/Router0824/OpsPilot-AI",
 "date": "2026-10-03",
 "summary": "Open-source AI operations workspace for meetings, knowledge, decisions, tasks, risks, workflows, and organizational memory.",
-"score": 32,
+"score": 43,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -155,7 +175,7 @@
 "url": "https://github.com/VoltAgent/official-mcp-servers",
 "date": "2026-10-01",
 "summary": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
-"score": 215,
+"score": 247,
 "extra": {
 "lang": "",
 "topics": [
@@ -181,7 +201,7 @@
 "url": "https://github.com/h9-tec/arabic-ai-atlas",
 "date": "2026-10-04",
 "summary": "The Arabic AI ecosystem as a map, a list, and a skill your agent can install.",
-"score": 31,
+"score": 33,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -199,6 +219,32 @@
 "license": "MIT"
 }
 },
+"repo-jiwoochris__artex-ko": {
+"id": "repo-jiwoochris__artex-ko",
+"source": "github",
+"kind": "repo",
+"title": "jiwoochris/artex-ko",
+"url": "https://github.com/jiwoochris/artex-ko",
+"date": "2026-10-03",
+"summary": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+"score": 687,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai-agent",
+"autonomous-agents",
+"blue-team",
+"cybersecurity",
+"detection-engineering",
+"i18n",
+"korean",
+"llm",
+"penetration-testing",
+"security"
+],
+"license": "AGPL-3.0"
+}
+},
 "repo-kkjiangk__agent-py": {
 "id": "repo-kkjiangk__agent-py",
 "source": "github",
@@ -207,7 +253,7 @@
 "url": "https://github.com/kkjiangk/agent-py",
 "date": "2026-10-04",
 "summary": "Personal AIOps engineering project with durable workflows, scoped hybrid retrieval, reliable event delivery, and verified API/browser contracts.",
-"score": 32,
+"score": 40,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -257,7 +303,7 @@
 "url": "https://github.com/mariagorskikh/open-instinct",
 "date": "2026-10-03",
 "summary": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
-"score": 239,
+"score": 260,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -283,7 +329,7 @@
 "url": "https://github.com/openpactprotocol/openpactprotocol",
 "date": "2026-10-01",
 "summary": "PACT is an open protocol for personal agents to interact with businesses’ agents under explicit, verifiable user permissions.",
-"score": 92,
+"score": 97,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -297,6 +343,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-openqodex__openqodex": {
+"id": "repo-openqodex__openqodex",
+"source": "github",
+"kind": "repo",
+"title": "openqodex/openqodex",
+"url": "https://github.com/openqodex/openqodex",
+"date": "2026-10-02",
+"summary": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanne…",
+"score": 423,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-skills",
+"ai-agents",
+"ai-code-review",
+"claude-code",
+"claude-code-plugin",
+"claude-skills",
+"cline",
+"code-quality",
+"code-review",
+"codex"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-sisyphuslabs__omo-dori-mode-experimental": {
 "id": "repo-sisyphuslabs__omo-dori-mode-experimental",
 "source": "github",
@@ -305,7 +377,7 @@
 "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
 "date": "2026-10-07",
 "summary": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
-"score": 52,
+"score": 60,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -323,6 +395,32 @@
 "license": "MIT"
 }
 },
+"repo-speridlabs__iris-3b": {
+"id": "repo-speridlabs__iris-3b",
+"source": "github",
+"kind": "repo",
+"title": "speridlabs/iris-3b",
+"url": "https://github.com/speridlabs/iris-3b",
+"date": "2026-10-05",
+"summary": "Iris-3B: pixel-space generation & general vision learner. A 3B diffusion transformer that generates every pixel directly (no VAE); the same prior, fine-tuned, does monocular depth estimation and 4x i…",
+"score": 31,
+"extra": {
+"lang": "Python",
+"topics": [
+"depth-estimation",
+"diffusion",
+"flow-matching",
+"generative-prior",
+"image-restoration",
+"pixel-space",
+"pytorch",
+"super-resolution",
+"text-to-image",
+"vision-foundation-model"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-strands-agents__box": {
 "id": "repo-strands-agents__box",
 "source": "github",
@@ -331,7 +429,7 @@
 "url": "https://github.com/strands-agents/box",
 "date": "2026-10-02",
 "summary": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keep…",
-"score": 74,
+"score": 233,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -357,7 +455,7 @@
 "url": "https://github.com/whirlchat/whirl",
 "date": "2026-10-02",
 "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-"score": 494,
+"score": 502,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -383,7 +481,7 @@
 "url": "https://github.com/xop01/ai_goodpractice",
 "date": "2026-10-02",
 "summary": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-"score": 145,
+"score": 158,
 "extra": {
 "lang": "",
 "topics": [

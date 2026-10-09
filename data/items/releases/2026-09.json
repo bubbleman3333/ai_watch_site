@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Alpha-Gen",
 "date": "2026-09-28",
 "summary": "",
-"score": 118,
+"score": 130,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 5255,
+"downloads": 6405,
 "lang": "en"
 }
 },
@@ -187,13 +187,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render",
 "date": "2026-09-22",
 "summary": "",
-"score": 53,
+"score": 57,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 2974,
+"downloads": 4011,
 "lang": "en"
 }
 },
@@ -205,13 +205,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Refine-Details",
 "date": "2026-09-27",
 "summary": "",
-"score": 46,
+"score": 49,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 6890,
+"downloads": 7850,
 "lang": "en"
 }
 },
@@ -223,13 +223,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Restore",
 "date": "2026-09-27",
 "summary": "",
-"score": 58,
+"score": 61,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 2898,
+"downloads": 3469,
 "lang": "en"
 }
 },
@@ -241,13 +241,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-SDR-To-HDR",
 "date": "2026-09-28",
 "summary": "",
-"score": 25,
+"score": 26,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 3796,
+"downloads": 4149,
 "lang": "en"
 }
 },
@@ -319,7 +319,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 895,
+"downloads": 927,
 "lang": "en"
 }
 },
@@ -337,7 +337,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 1402,
+"downloads": 1428,
 "lang": "en"
 }
 },
@@ -373,7 +373,7 @@
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "",
-"downloads": 12579,
+"downloads": 12771,
 "lang": "en"
 }
 },
@@ -391,7 +391,7 @@
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "text-to-image",
-"downloads": 8423,
+"downloads": 8622,
 "lang": "en"
 }
 },
@@ -439,13 +439,13 @@
 "url": "https://huggingface.co/apple/LensVLM-9B",
 "date": "2026-09-21",
 "summary": "",
-"score": 288,
+"score": 289,
 "extra": {
 "org": "apple",
 "publisher": "Apple",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 2556,
+"downloads": 2574,
 "lang": "en"
 }
 },
@@ -457,13 +457,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-action-base",
 "date": "2026-09-22",
 "summary": "",
-"score": 131,
+"score": 133,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 551,
+"downloads": 837,
 "lang": "en"
 }
 },
@@ -481,7 +481,7 @@
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 1096,
+"downloads": 1152,
 "lang": "en"
 }
 },
@@ -499,7 +499,7 @@
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 1338,
+"downloads": 1643,
 "lang": "en"
 }
 },
@@ -715,7 +715,7 @@
 "publisher": "IBM Granite",
 "jp": false,
 "task": "time-series-forecasting",
-"downloads": 44,
+"downloads": 54,
 "lang": "en"
 }
 },
@@ -751,7 +751,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 6397,
+"downloads": 7380,
 "lang": "ja"
 }
 },
@@ -787,7 +787,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 3860,
+"downloads": 3907,
 "lang": "ja"
 }
 },
@@ -817,13 +817,13 @@
 "url": "https://huggingface.co/llm-jp/llm-jp-4.1-8b-thinking-gguf",
 "date": "2026-09-24",
 "summary": "",
-"score": 12,
+"score": 14,
 "extra": {
 "org": "llm-jp",
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 3672,
+"downloads": 3838,
 "lang": "ja"
 }
 },
@@ -1219,7 +1219,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 506,
+"downloads": 515,
 "lang": "ja"
 }
 },
