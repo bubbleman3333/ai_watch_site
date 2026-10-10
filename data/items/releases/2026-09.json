@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Alpha-Gen",
 "date": "2026-09-28",
 "summary": "",
-"score": 130,
+"score": 138,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 6405,
+"downloads": 6999,
 "lang": "en"
 }
 },
@@ -187,13 +187,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Layout-To-Render",
 "date": "2026-09-22",
 "summary": "",
-"score": 57,
+"score": 59,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 4011,
+"downloads": 4440,
 "lang": "en"
 }
 },
@@ -205,13 +205,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-Refine-Details",
 "date": "2026-09-27",
 "summary": "",
-"score": 49,
+"score": 51,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 7850,
+"downloads": 8442,
 "lang": "en"
 }
 },
@@ -229,7 +229,7 @@
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 3469,
+"downloads": 3887,
 "lang": "en"
 }
 },
@@ -241,13 +241,13 @@
 "url": "https://huggingface.co/Lightricks/LTX-2.5-22b-IC-LoRA-SDR-To-HDR",
 "date": "2026-09-28",
 "summary": "",
-"score": 26,
+"score": 29,
 "extra": {
 "org": "Lightricks",
 "publisher": "Lightricks",
 "jp": false,
 "task": "video-to-video",
-"downloads": 4149,
+"downloads": 4312,
 "lang": "en"
 }
 },
@@ -367,13 +367,13 @@
 "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-I2I",
 "date": "2026-09-20",
 "summary": "",
-"score": 58,
+"score": 60,
 "extra": {
 "org": "Qwen",
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "",
-"downloads": 12771,
+"downloads": 12958,
 "lang": "en"
 }
 },
@@ -385,13 +385,13 @@
 "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-PE-T2I",
 "date": "2026-09-20",
 "summary": "",
-"score": 57,
+"score": 58,
 "extra": {
 "org": "Qwen",
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "text-to-image",
-"downloads": 8622,
+"downloads": 8765,
 "lang": "en"
 }
 },
@@ -439,13 +439,13 @@
 "url": "https://huggingface.co/apple/LensVLM-9B",
 "date": "2026-09-21",
 "summary": "",
-"score": 289,
+"score": 290,
 "extra": {
 "org": "apple",
 "publisher": "Apple",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 2574,
+"downloads": 2588,
 "lang": "en"
 }
 },
@@ -457,13 +457,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-action-base",
 "date": "2026-09-22",
 "summary": "",
-"score": 133,
+"score": 134,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 837,
+"downloads": 1026,
 "lang": "en"
 }
 },
@@ -475,13 +475,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-action-droid",
 "date": "2026-09-22",
 "summary": "",
-"score": 36,
+"score": 37,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 1152,
+"downloads": 1483,
 "lang": "en"
 }
 },
@@ -499,7 +499,7 @@
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "robotics",
-"downloads": 1643,
+"downloads": 1686,
 "lang": "en"
 }
 },
@@ -709,13 +709,13 @@
 "url": "https://huggingface.co/ibm-granite/granite-timeseries-ensemble-r1",
 "date": "2026-09-23",
 "summary": "",
-"score": 2,
+"score": 3,
 "extra": {
 "org": "ibm-granite",
 "publisher": "IBM Granite",
 "jp": false,
 "task": "time-series-forecasting",
-"downloads": 54,
+"downloads": 60,
 "lang": "en"
 }
 },
@@ -751,7 +751,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 7380,
+"downloads": 8414,
 "lang": "ja"
 }
 },
@@ -787,7 +787,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 3907,
+"downloads": 3951,
 "lang": "ja"
 }
 },
@@ -823,7 +823,7 @@
 "publisher": "LLM-jp（国立情報学研究所）",
 "jp": true,
 "task": "text-generation",
-"downloads": 3838,
+"downloads": 4035,
 "lang": "ja"
 }
 },
@@ -1213,13 +1213,13 @@
 "url": "https://huggingface.co/pfnet/plamo-3-610m-fin-instruct",
 "date": "2026-09-24",
 "summary": "",
-"score": 4,
+"score": 5,
 "extra": {
 "org": "pfnet",
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 515,
+"downloads": 523,
 "lang": "ja"
 }
 },

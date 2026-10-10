@@ -7,13 +7,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-3B",
 "date": "2026-10-05",
 "summary": "",
-"score": 191,
+"score": 236,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 5370,
+"downloads": 7302,
 "lang": "en"
 }
 },
@@ -25,13 +25,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-3B-GGUF",
 "date": "2026-10-06",
 "summary": "",
-"score": 31,
+"score": 35,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 2353,
+"downloads": 8058,
 "lang": "en"
 }
 },
@@ -49,7 +49,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 36,
+"downloads": 85,
 "lang": "en"
 }
 },
@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-omni-600M",
 "date": "2026-10-05",
 "summary": "",
-"score": 79,
+"score": 94,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 8487,
+"downloads": 9473,
 "lang": "en"
 }
 },
@@ -79,13 +79,31 @@
 "url": "https://huggingface.co/LiquidAI/d1-omni-600M-GGUF",
 "date": "2026-10-06",
 "summary": "",
-"score": 26,
+"score": 31,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 826,
+"downloads": 1914,
+"lang": "en"
+}
+},
+"release-Qwen__Qwen-Image-2.1-Turbo": {
+"id": "release-Qwen__Qwen-Image-2.1-Turbo",
+"source": "releases",
+"kind": "release",
+"title": "Qwen/Qwen-Image-2.1-Turbo",
+"url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+"date": "2026-10-09",
+"summary": "",
+"score": 288,
+"extra": {
+"org": "Qwen",
+"publisher": "Qwen（Alibaba）",
+"jp": false,
+"task": "text-to-image",
+"downloads": 0,
 "lang": "en"
 }
 },
@@ -103,7 +121,7 @@
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 565,
+"downloads": 588,
 "lang": "ja"
 }
 },
@@ -115,13 +133,13 @@
 "url": "https://huggingface.co/elyza/ELYZA-Thinking-1.0-llm-jp-4-33b",
 "date": "2026-10-02",
 "summary": "",
-"score": 10,
+"score": 11,
 "extra": {
 "org": "elyza",
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 568,
+"downloads": 598,
 "lang": "ja"
 }
 },
@@ -161,6 +179,42 @@
 "lang": "en"
 }
 },
+"release-mistralai__LIDstral-Arabic": {
+"id": "release-mistralai__LIDstral-Arabic",
+"source": "releases",
+"kind": "release",
+"title": "mistralai/LIDstral-Arabic",
+"url": "https://huggingface.co/mistralai/LIDstral-Arabic",
+"date": "2026-10-08",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "mistralai",
+"publisher": "Mistral AI",
+"jp": false,
+"task": "text-classification",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-mistralai__Voxtral-Mini-4B-Realtime-Arabic": {
+"id": "release-mistralai__Voxtral-Mini-4B-Realtime-Arabic",
+"source": "releases",
+"kind": "release",
+"title": "mistralai/Voxtral-Mini-4B-Realtime-Arabic",
+"url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-Arabic",
+"date": "2026-10-08",
+"summary": "",
+"score": 6,
+"extra": {
+"org": "mistralai",
+"publisher": "Mistral AI",
+"jp": false,
+"task": "automatic-speech-recognition",
+"downloads": 0,
+"lang": "en"
+}
+},
 "release-nvidia__PixelDiT2-ImageNet": {
 "id": "release-nvidia__PixelDiT2-ImageNet",
 "source": "releases",
@@ -187,13 +241,121 @@
 "url": "https://huggingface.co/nvidia/PixelUMM",
 "date": "2026-10-01",
 "summary": "",
-"score": 73,
+"score": 75,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-to-text",
 "downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__agile_one_s_pick_ssd_n17_40000": {
+"id": "release-nvidia__agile_one_s_pick_ssd_n17_40000",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/agile_one_s_pick_ssd_n17_40000",
+"url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_40000",
+"date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "robotics",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__agile_one_s_pick_ssd_n17_58000": {
+"id": "release-nvidia__agile_one_s_pick_ssd_n17_58000",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/agile_one_s_pick_ssd_n17_58000",
+"url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_58000",
+"date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "robotics",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__agile_one_s_pickplace_ssd_n2_18200": {
+"id": "release-nvidia__agile_one_s_pickplace_ssd_n2_18200",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/agile_one_s_pickplace_ssd_n2_18200",
+"url": "https://huggingface.co/nvidia/agile_one_s_pickplace_ssd_n2_18200",
+"date": "2026-10-10",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "robotics",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__agile_one_s_place_ssd_n17_24050": {
+"id": "release-nvidia__agile_one_s_place_ssd_n17_24050",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/agile_one_s_place_ssd_n17_24050",
+"url": "https://huggingface.co/nvidia/agile_one_s_place_ssd_n17_24050",
+"date": "2026-10-09",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "robotics",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__agile_one_s_walk_n2_1680": {
+"id": "release-nvidia__agile_one_s_walk_n2_1680",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/agile_one_s_walk_n2_1680",
+"url": "https://huggingface.co/nvidia/agile_one_s_walk_n2_1680",
+"date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "robotics",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-tencent__Youtu-Parsing-Omni": {
+"id": "release-tencent__Youtu-Parsing-Omni",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Youtu-Parsing-Omni",
+"url": "https://huggingface.co/tencent/Youtu-Parsing-Omni",
+"date": "2026-10-09",
+"summary": "",
+"score": 47,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 50,
 "lang": "en"
 }
 }
