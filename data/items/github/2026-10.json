@@ -33,7 +33,7 @@
 "url": "https://github.com/Elevatormusic/hermes-warm-compaction",
 "date": "2026-10-06",
 "summary": "Hermes Agent context engine: the main model writes the compaction handoff on its cached prompt prefix",
-"score": 41,
+"score": 42,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -55,9 +55,9 @@
 "url": "https://github.com/Folkbench/folkbench",
 "date": "2026-10-02",
 "summary": "Folkbench 是一个可信的 AI 中转站评测与服务目录，按模型比较可用率、响应速度、价格、隐私与运营证据",
-"score": 158,
+"score": 205,
 "extra": {
-"lang": "TypeScript",
+"lang": "Rust",
 "topics": [
 "ai",
 "api-relay",
@@ -69,7 +69,7 @@
 "model-evaluation",
 "reliability"
 ],
-"license": ""
+"license": "NOASSERTION"
 }
 },
 "repo-GTKottman__mortiflix-oss": {
@@ -80,7 +80,7 @@
 "url": "https://github.com/GTKottman/mortiflix-oss",
 "date": "2026-10-05",
 "summary": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-"score": 498,
+"score": 543,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -96,6 +96,32 @@
 "license": "AGPL-3.0"
 }
 },
+"repo-Harvil1__codeAgent": {
+"id": "repo-Harvil1__codeAgent",
+"source": "github",
+"kind": "repo",
+"title": "Harvil1/codeAgent",
+"url": "https://github.com/Harvil1/codeAgent",
+"date": "2026-10-02",
+"summary": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the…",
+"score": 219,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"ai-agent",
+"cli",
+"coding-agent",
+"context-engineering",
+"deepseek",
+"llm",
+"mcp",
+"python",
+"terminal"
+],
+"license": "MIT"
+}
+},
 "repo-LosaLosSantos__aurelio-finance": {
 "id": "repo-LosaLosSantos__aurelio-finance",
 "source": "github",
@@ -104,7 +130,7 @@
 "url": "https://github.com/LosaLosSantos/aurelio-finance",
 "date": "2026-10-06",
 "summary": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
-"score": 1553,
+"score": 2094,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -130,7 +156,7 @@
 "url": "https://github.com/MirroS-Lab/AgentGarten",
 "date": "2026-10-08",
 "summary": "AgentGarten: Code Worlds for Evolving Agents",
-"score": 105,
+"score": 145,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -150,7 +176,7 @@
 "url": "https://github.com/QingYunA/answer-me-with-html",
 "date": "2026-10-02",
 "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-"score": 2506,
+"score": 2756,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -176,7 +202,7 @@
 "url": "https://github.com/Router0824/OpsPilot-AI",
 "date": "2026-10-03",
 "summary": "Open-source AI operations workspace for meetings, knowledge, decisions, tasks, risks, workflows, and organizational memory.",
-"score": 51,
+"score": 60,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -200,7 +226,7 @@
 "url": "https://github.com/VoltAgent/official-mcp-servers",
 "date": "2026-10-01",
 "summary": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
-"score": 257,
+"score": 272,
 "extra": {
 "lang": "",
 "topics": [
@@ -218,6 +244,27 @@
 "license": "MIT"
 }
 },
+"repo-celador__weft": {
+"id": "repo-celador__weft",
+"source": "github",
+"kind": "repo",
+"title": "celador/weft",
+"url": "https://github.com/celador/weft",
+"date": "2026-10-04",
+"summary": "Weft Coordination Protocol (WCP): live coordination for parallel coding agents across harnesses, built on Cloudflare. An Atelier (elier.ai) open-source project.",
+"score": 32,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"aaif",
+"agent-hooks",
+"agents",
+"coding-agents",
+"multi-agent"
+],
+"license": "MIT"
+}
+},
 "repo-franzenzenhofer__big-arrow-on-the-screen": {
 "id": "repo-franzenzenhofer__big-arrow-on-the-screen",
 "source": "github",
@@ -226,7 +273,7 @@
 "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
 "date": "2026-10-08",
 "summary": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-"score": 449,
+"score": 578,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -275,7 +322,7 @@
 "url": "https://github.com/jiwoochris/artex-ko",
 "date": "2026-10-03",
 "summary": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"score": 855,
+"score": 972,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -324,7 +371,7 @@
 "url": "https://github.com/kkjiangk/agent-py",
 "date": "2026-10-04",
 "summary": "Personal AIOps engineering project with durable workflows, scoped hybrid retrieval, reliable event delivery, and verified API/browser contracts.",
-"score": 47,
+"score": 56,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -348,7 +395,7 @@
 "url": "https://github.com/kouhxp/gutsy",
 "date": "2026-10-01",
 "summary": "Local decision model with calibrated probabilities: send a state and yes/no, choice or score questions, get a probability for every option. 0.8B GGUF on CPU, Jev-style API.",
-"score": 71,
+"score": 73,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -374,7 +421,7 @@
 "url": "https://github.com/longsurf-ai/openchart",
 "date": "2026-10-05",
 "summary": "OSS trading workspace with agents",
-"score": 146,
+"score": 151,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -400,7 +447,7 @@
 "url": "https://github.com/mariagorskikh/open-instinct",
 "date": "2026-10-03",
 "summary": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
-"score": 279,
+"score": 289,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -426,7 +473,7 @@
 "url": "https://github.com/nachisama/ai-data-extractor",
 "date": "2026-10-07",
 "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-"score": 149,
+"score": 152,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -452,7 +499,7 @@
 "url": "https://github.com/openpactprotocol/openpactprotocol",
 "date": "2026-10-01",
 "summary": "PACT is an open protocol for personal agents to interact with businesses’ agents under explicit, verifiable user permissions.",
-"score": 104,
+"score": 106,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -474,7 +521,7 @@
 "url": "https://github.com/openqodex/openqodex",
 "date": "2026-10-02",
 "summary": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanne…",
-"score": 507,
+"score": 566,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -500,7 +547,7 @@
 "url": "https://github.com/p10node/docflare-ai",
 "date": "2026-10-07",
 "summary": "Open-source AI chatbot & site search for your docs. One <script> tag, streaming answers with sources. 100% Cloudflare-native (Workers AI + Vectorize + D1), runs free on the free tier.",
-"score": 35,
+"score": 37,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -526,7 +573,7 @@
 "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
 "date": "2026-10-07",
 "summary": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
-"score": 68,
+"score": 69,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -552,7 +599,7 @@
 "url": "https://github.com/speridlabs/iris-3b",
 "date": "2026-10-05",
 "summary": "Iris-3B: pixel-space generation & general vision learner. A 3B diffusion transformer that generates every pixel directly (no VAE); the same prior, fine-tuned, does monocular depth estimation and 4x i…",
-"score": 78,
+"score": 90,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -578,7 +625,7 @@
 "url": "https://github.com/strands-agents/box",
 "date": "2026-10-02",
 "summary": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keep…",
-"score": 291,
+"score": 312,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -596,6 +643,52 @@
 "license": "Apache-2.0"
 }
 },
+"repo-weike-zhang__ai-novel-studio": {
+"id": "repo-weike-zhang__ai-novel-studio",
+"source": "github",
+"kind": "repo",
+"title": "weike-zhang/ai-novel-studio",
+"url": "https://github.com/weike-zhang/ai-novel-studio",
+"date": "2026-10-03",
+"summary": "AI novel generation with world building, interactive choices, and persistent character state. Next.js + Go. AI 小说创作台。",
+"score": 225,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai",
+"ai-novel",
+"golang",
+"interactive-fiction",
+"llm",
+"nextjs",
+"novel-generation",
+"storytelling"
+],
+"license": "MIT"
+}
+},
+"repo-weike-zhang__architecture-canvas": {
+"id": "repo-weike-zhang__architecture-canvas",
+"source": "github",
+"kind": "repo",
+"title": "weike-zhang/architecture-canvas",
+"url": "https://github.com/weike-zhang/architecture-canvas",
+"date": "2026-10-03",
+"summary": "Chat with your documents to create and refine editable architecture diagrams. Local workspace, Excalidraw canvas, optional Tavily search.",
+"score": 147,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agent",
+"architecture-diagram",
+"excalidraw",
+"local-first",
+"mcp",
+"tavily"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-whirlchat__whirl": {
 "id": "repo-whirlchat__whirl",
 "source": "github",
@@ -604,7 +697,7 @@
 "url": "https://github.com/whirlchat/whirl",
 "date": "2026-10-02",
 "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-"score": 504,
+"score": 505,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -630,7 +723,7 @@
 "url": "https://github.com/xop01/ai_goodpractice",
 "date": "2026-10-02",
 "summary": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-"score": 172,
+"score": 188,
 "extra": {
 "lang": "",
 "topics": [

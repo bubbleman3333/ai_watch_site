@@ -7,13 +7,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-3B",
 "date": "2026-10-05",
 "summary": "",
-"score": 236,
+"score": 264,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 7302,
+"downloads": 9088,
 "lang": "en"
 }
 },
@@ -25,13 +25,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-3B-GGUF",
 "date": "2026-10-06",
 "summary": "",
-"score": 35,
+"score": 42,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 8058,
+"downloads": 11726,
 "lang": "en"
 }
 },
@@ -49,7 +49,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 85,
+"downloads": 114,
 "lang": "en"
 }
 },
@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-omni-600M",
 "date": "2026-10-05",
 "summary": "",
-"score": 94,
+"score": 100,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 9473,
+"downloads": 10030,
 "lang": "en"
 }
 },
@@ -79,13 +79,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-omni-600M-GGUF",
 "date": "2026-10-06",
 "summary": "",
-"score": 31,
+"score": 36,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 1914,
+"downloads": 3187,
 "lang": "en"
 }
 },
@@ -97,13 +97,13 @@
 "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
 "date": "2026-10-09",
 "summary": "",
-"score": 288,
+"score": 442,
 "extra": {
 "org": "Qwen",
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "text-to-image",
-"downloads": 0,
+"downloads": 2138,
 "lang": "en"
 }
 },
@@ -121,7 +121,7 @@
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 588,
+"downloads": 618,
 "lang": "ja"
 }
 },
@@ -139,7 +139,7 @@
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 598,
+"downloads": 624,
 "lang": "ja"
 }
 },
@@ -187,13 +187,13 @@
 "url": "https://huggingface.co/mistralai/LIDstral-Arabic",
 "date": "2026-10-08",
 "summary": "",
-"score": 5,
+"score": 7,
 "extra": {
 "org": "mistralai",
 "publisher": "Mistral AI",
 "jp": false,
 "task": "text-classification",
-"downloads": 0,
+"downloads": 30,
 "lang": "en"
 }
 },
@@ -205,13 +205,13 @@
 "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-Arabic",
 "date": "2026-10-08",
 "summary": "",
-"score": 6,
+"score": 13,
 "extra": {
 "org": "mistralai",
 "publisher": "Mistral AI",
 "jp": false,
 "task": "automatic-speech-recognition",
-"downloads": 0,
+"downloads": 123,
 "lang": "en"
 }
 },
@@ -241,7 +241,7 @@
 "url": "https://huggingface.co/nvidia/PixelUMM",
 "date": "2026-10-01",
 "summary": "",
-"score": 75,
+"score": 81,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
@@ -287,6 +287,24 @@
 "lang": "en"
 }
 },
+"release-nvidia__agile_one_s_pick_ssd_n2_1120": {
+"id": "release-nvidia__agile_one_s_pick_ssd_n2_1120",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/agile_one_s_pick_ssd_n2_1120",
+"url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n2_1120",
+"date": "2026-10-10",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
 "release-nvidia__agile_one_s_pickplace_ssd_n2_18200": {
 "id": "release-nvidia__agile_one_s_pickplace_ssd_n2_18200",
 "source": "releases",
@@ -323,6 +341,24 @@
 "lang": "en"
 }
 },
+"release-nvidia__agile_one_s_place_ssd_n2_1260": {
+"id": "release-nvidia__agile_one_s_place_ssd_n2_1260",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/agile_one_s_place_ssd_n2_1260",
+"url": "https://huggingface.co/nvidia/agile_one_s_place_ssd_n2_1260",
+"date": "2026-10-10",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
 "release-nvidia__agile_one_s_walk_n2_1680": {
 "id": "release-nvidia__agile_one_s_walk_n2_1680",
 "source": "releases",
@@ -349,13 +385,13 @@
 "url": "https://huggingface.co/tencent/Youtu-Parsing-Omni",
 "date": "2026-10-09",
 "summary": "",
-"score": 47,
+"score": 60,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 50,
+"downloads": 340,
 "lang": "en"
 }
 }

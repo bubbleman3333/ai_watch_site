@@ -590,7 +590,7 @@
 "created": "2025-12-01",
 "context": 163840,
 "in": 0.259,
-"out": 0.42,
+"out": 0.8,
 "modality": "text->text"
 },
 {
@@ -607,7 +607,7 @@
 "name": "DeepSeek: DeepSeek V4 Flash 0423",
 "created": "2026-04-24",
 "context": 1048576,
-"in": 0.0075,
+"in": 0.03,
 "out": 1.28,
 "modality": "text->text"
 },
@@ -616,7 +616,7 @@
 "name": "DeepSeek: DeepSeek V4 Flash 0731",
 "created": "2026-07-31",
 "context": 1048576,
-"in": 0.0104,
+"in": 0.0095,
 "out": 1.28,
 "modality": "text->text"
 },
@@ -1678,8 +1678,8 @@
 "name": "MoonshotAI: Kimi K2.5",
 "created": "2026-01-27",
 "context": 262144,
-"in": 0.45,
-"out": 2.25,
+"in": 0.5,
+"out": 2.5,
 "modality": "text+image->text"
 },
 {
@@ -1687,7 +1687,7 @@
 "name": "MoonshotAI: Kimi K2.6",
 "created": "2026-04-20",
 "context": 262144,
-"in": 0.465,
+"in": 0.4344,
 "out": 2.45,
 "modality": "text+image->text"
 },
@@ -1706,7 +1706,7 @@
 "created": "2026-07-16",
 "context": 1048576,
 "in": 0.8,
-"out": 13.5,
+"out": 15.0,
 "modality": "text+image+video->text"
 },
 {
@@ -1858,8 +1858,8 @@
 "name": "NVIDIA: Nemotron 3.5 Lightning",
 "created": "2026-08-11",
 "context": 262144,
-"in": 0.0469,
-"out": 0.134,
+"in": 0.07,
+"out": 0.2,
 "modality": "text->text"
 },
 {
@@ -2974,8 +2974,8 @@
 "name": "Qwen: Qwen3 14B",
 "created": "2025-04-28",
 "context": 40960,
-"in": 0.1,
-"out": 0.22,
+"in": 0.12,
+"out": 0.24,
 "modality": "text->text"
 },
 {
@@ -3199,8 +3199,8 @@
 "name": "Qwen: Qwen3.6 35B A3B",
 "created": "2026-04-27",
 "context": 262144,
-"in": 0.15,
-"out": 1.0,
+"in": 0.1,
+"out": 0.95,
 "modality": "text+image+video->text"
 },
 {
@@ -3469,8 +3469,8 @@
 "name": "Tencent: Hy3",
 "created": "2026-07-06",
 "context": 262144,
-"in": 0.132,
-"out": 0.528,
+"in": 0.0825,
+"out": 0.33,
 "modality": "text->text"
 },
 {
@@ -3487,8 +3487,8 @@
 "name": "Tencent: Hy4 preview",
 "created": "2026-08-28",
 "context": 1048576,
-"in": 0.834,
-"out": 2.501,
+"in": 0.7506,
+"out": 2.2509,
 "modality": "text->text"
 },
 {
@@ -3839,7 +3839,7 @@
 "created": "2026-08-18",
 "context": 1048576,
 "in": 0.039,
-"out": 6.0,
+"out": 4.8,
 "modality": "text->text"
 },
 {
@@ -3937,7 +3937,7 @@
 "name": "DeepSeek: DeepSeek Flash Latest",
 "created": "2026-09-14",
 "context": 1048576,
-"in": 0.016,
+"in": 0.0001,
 "out": 0.6,
 "modality": "text+image->text"
 },
@@ -3946,8 +3946,8 @@
 "name": "DeepSeek: DeepSeek Pro Latest",
 "created": "2026-09-14",
 "context": 1048576,
-"in": 0.3,
-"out": 5.0,
+"in": 0.2191,
+"out": 0.6574,
 "modality": "text->text"
 },
 {
@@ -3955,8 +3955,8 @@
 "name": "DeepSeek: DeepSeek V4 Flash Latest",
 "created": "2026-08-01",
 "context": 1048576,
-"in": 0.0083,
-"out": 1.536,
+"in": 0.0095,
+"out": 1.28,
 "modality": "text->text"
 },
 {
@@ -3982,8 +3982,8 @@
 "name": "MoonshotAI: Kimi Latest",
 "created": "2026-04-27",
 "context": 1048576,
-"in": 0.65,
-"out": 15.0,
+"in": 0.28,
+"out": 14.89,
 "modality": "text+image+video->text"
 },
 {
@@ -4045,8 +4045,8 @@
 "name": "Z.ai: GLM Flash Latest",
 "created": "2026-08-27",
 "context": 1048576,
-"in": 0.032,
-"out": 0.72,
+"in": 0.03,
+"out": 0.5,
 "modality": "text+image+video->text"
 },
 {
@@ -4055,7 +4055,7 @@
 "created": "2026-08-19",
 "context": 1048576,
 "in": 0.039,
-"out": 6.0,
+"out": 4.8,
 "modality": "text->text"
 }
 ]

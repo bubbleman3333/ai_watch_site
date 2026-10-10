@@ -282,7 +282,7 @@
 "summary": "What I Benchmarked I've been fine-tuning Whisper on Nigerian speech for a while, and I...",
 "score": 6,
 "extra": {
-"comments": 1,
+"comments": 2,
 "publisher": "DEV Community",
 "topics": [
 "whisper",
@@ -322,9 +322,9 @@
 "url": "https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l",
 "date": "2026-10-08",
 "summary": "This is a submission for the Kaggle Benchmarking Challenge Those who read my articles know that a...",
-"score": 54,
+"score": 67,
 "extra": {
-"comments": 58,
+"comments": 73,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -951,7 +951,7 @@
 "summary": "Scenario S7 of my v0.2.0 field test had a pipeline that \"ran end to end.\" The unit suite was green....",
 "score": 16,
 "extra": {
-"comments": 6,
+"comments": 7,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -2188,7 +2188,7 @@
 "summary": "Ask an AI coding assistant to add a discount field to your checkout API and it will probably do a...",
 "score": 3,
 "extra": {
-"comments": 0,
+"comments": 1,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -2228,9 +2228,9 @@
 "url": "https://dev.to/thenjdevopsguy/how-to-implement-the-agentgatewaymodel-object-in-agentgateway-534",
 "date": "2026-10-04",
 "summary": "Knowing what LLM you're routing to, whether or not failover for more expensive tasks exists, what...",
-"score": 0,
+"score": 1,
 "extra": {
-"comments": 0,
+"comments": 1,
 "publisher": "DEV Community",
 "topics": [
 "agents",
@@ -2312,9 +2312,9 @@
 "url": "https://dev.to/emmasofia/before-the-alarm-screams-at-3-am-predicting-liams-nocturnal-hypoglycemia-with-prior-labs-tabpfn-25mn",
 "date": "2026-10-04",
 "summary": "How Prior Labs TabPFN tabular foundation model predicts nocturnal hypoglycemic crashes from CGM logs at 10 PM with zero cloud data leaks.",
-"score": 85,
+"score": 86,
 "extra": {
-"comments": 20,
+"comments": 21,
 "publisher": "DEV Community",
 "topics": [
 "hf26challenge",
@@ -2356,7 +2356,7 @@
 "summary": "The predecessor project had 56,869 anomalies across 100,000 traces. After fixing the noise, 11,294...",
 "score": 24,
 "extra": {
-"comments": 6,
+"comments": 7,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -2430,6 +2430,27 @@
 "lang": "en"
 }
 },
+"devto-4798413": {
+"id": "devto-4798413",
+"source": "community",
+"kind": "community",
+"title": "Let an AI Agent Deploy Safely: A Scoped MCP Server With an Audit Trail",
+"url": "https://dev.to/thegdsks/let-an-ai-agent-deploy-safely-a-scoped-mcp-server-with-an-audit-trail-2ofm",
+"date": "2026-10-10",
+"summary": "Let an AI Agent Deploy Safely: A Scoped MCP Server With an Audit Trail Handing an AI agent...",
+"score": 3,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"mcp",
+"devops",
+"selfhosted"
+],
+"lang": "en"
+}
+},
 "devto-4798445": {
 "id": "devto-4798445",
 "source": "community",
@@ -2459,9 +2480,9 @@
 "url": "https://dev.to/danielsamfdo/95-harmful-zero-red-flags-the-agent-handoff-problem-nobody-tests-79f",
 "date": "2026-10-05",
 "summary": "One-line: Tencent Zhuque Lab's RogueHandoff-20 benchmark injected unsafe intent into the transition...",
-"score": 2,
+"score": 3,
 "extra": {
-"comments": 1,
+"comments": 2,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -2480,9 +2501,9 @@
 "url": "https://dev.to/build996/how-do-you-check-that-an-agent-actually-did-what-it-says-it-did-302o",
 "date": "2026-10-05",
 "summary": "A while ago I gave a model a boring job inside an agent harness: sort eight files into subfolders by...",
-"score": 11,
+"score": 12,
 "extra": {
-"comments": 31,
+"comments": 44,
 "publisher": "DEV Community",
 "topics": [
 "discuss",
@@ -2563,9 +2584,9 @@
 "url": "https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190",
 "date": "2026-10-05",
 "summary": "An AI agent does something it shouldn't. It leaks data, or wipes the wrong database, or makes a call...",
-"score": 60,
+"score": 61,
 "extra": {
-"comments": 86,
+"comments": 98,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -2733,7 +2754,7 @@
 "summary": "An agent built an app inside a DigitalOcean Managed Agents microVM. I checkpointed it, forked it three ways, screenshotted every branch, then deleted the app and rolled back in 5.6 seconds. The proce…",
 "score": 28,
 "extra": {
-"comments": 5,
+"comments": 7,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -3216,13 +3237,13 @@
 "summary": "DEV × Kaggle Benchmarking Challenge · #kagglechallenge Author: Hotragn Pettugani · Kaggle ...",
 "score": 2,
 "extra": {
-"comments": 2,
+"comments": 4,
 "publisher": "DEV Community",
 "topics": [
 "kagglechallenge",
 "ai",
-"llm",
-"benchmarking"
+"devchallenge",
+"machinelearning"
 ],
 "lang": "en"
 }
@@ -3341,7 +3362,7 @@
 "summary": "Our verification layer uses an outside model as a judge: it reads a claim and its source and decides...",
 "score": 6,
 "extra": {
-"comments": 11,
+"comments": 12,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -3404,7 +3425,7 @@
 "summary": "From September 23 to October 2, a customer kept asking our AI app builder for changes that never...",
 "score": 12,
 "extra": {
-"comments": 15,
+"comments": 18,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -3486,7 +3507,7 @@
 "url": "https://dev.to/marceli/curiosity-over-comfort-5cki",
 "date": "2026-10-06",
 "summary": "I’m More Interested in Why Things Break Than Why They Work I don’t think I became...",
-"score": 22,
+"score": 23,
 "extra": {
 "comments": 9,
 "publisher": "DEV Community",
@@ -3572,7 +3593,7 @@
 "summary": "I built a small retrieval-augmented generation system over a corpus of research papers and wanted to...",
 "score": 0,
 "extra": {
-"comments": 3,
+"comments": 4,
 "publisher": "DEV Community",
 "topics": [
 "rag",
@@ -3612,9 +3633,9 @@
 "url": "https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5",
 "date": "2026-10-07",
 "summary": "You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...",
-"score": 68,
+"score": 72,
 "extra": {
-"comments": 27,
+"comments": 38,
 "publisher": "DEV Community",
 "topics": [
 "discuss",
@@ -3717,9 +3738,9 @@
 "url": "https://dev.to/michellebuchiokonicha/i-turned-149k-messy-images-into-an-offline-recognition-system-3cp3",
 "date": "2026-10-08",
 "summary": "Training an on-device YOLO26n food detection model from scratch across multi-source datasets I set...",
-"score": 13,
+"score": 14,
 "extra": {
-"comments": 4,
+"comments": 9,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -3772,6 +3793,27 @@
 "lang": "en"
 }
 },
+"devto-4812348": {
+"id": "devto-4812348",
+"source": "community",
+"kind": "community",
+"title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
+"url": "https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f",
+"date": "2026-10-10",
+"summary": "This is a submission for the Kaggle Benchmarking Challenge An AI agent benchmark for tool use should...",
+"score": 11,
+"extra": {
+"comments": 5,
+"publisher": "DEV Community",
+"topics": [
+"devchallenge",
+"kagglechallenge",
+"ai",
+"machinelearning"
+],
+"lang": "en"
+}
+},
 "devto-4812457": {
 "id": "devto-4812457",
 "source": "community",
@@ -3780,7 +3822,7 @@
 "url": "https://dev.to/sarvar_04/i-built-an-offline-ai-that-knows-your-last-frost-date-no-internet-no-api-3b8e",
 "date": "2026-10-09",
 "summary": "An open-weight tabular model forecasts your last spring frost and a local Gemma writes the planting advice. Fully offline, no account, $0 to run.",
-"score": 14,
+"score": 15,
 "extra": {
 "comments": 0,
 "publisher": "DEV Community",
@@ -3803,7 +3845,7 @@
 "summary": "A version number is a promise: nothing a client depends on changed without me saying so. For MCP...",
 "score": 5,
 "extra": {
-"comments": 17,
+"comments": 18,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -3866,7 +3908,7 @@
 "summary": "A 3B judge falsely accepted 11% of wrong answers, a 0.5B judge 41%. What matched pairs changed about position bias and self-preference, plus a checker-first harness.",
 "score": 3,
 "extra": {
-"comments": 5,
+"comments": 6,
 "publisher": "DEV Community",
 "topics": [
 "llm",
@@ -3887,7 +3929,7 @@
 "summary": "This is a submission for the Kaggle Benchmarking Challenge. What I benchmarked, and why I...",
 "score": 3,
 "extra": {
-"comments": 1,
+"comments": 2,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -3908,7 +3950,7 @@
 "summary": "Originally published on mrsaynothing.dev. The agent-run site ships one post a day; this explainer is...",
 "score": 6,
 "extra": {
-"comments": 1,
+"comments": 2,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -3927,7 +3969,7 @@
 "url": "https://dev.to/p0rt/what-agent-builders-can-borrow-from-openais-math-research-53mn",
 "date": "2026-10-07",
 "summary": "From OpenAI's published Lean proofs to a concrete Symptomato experiment: independently checked rules for updating patient memory.",
-"score": 7,
+"score": 8,
 "extra": {
 "comments": 8,
 "publisher": "DEV Community",
@@ -3992,7 +4034,7 @@
 "summary": "Same model, same question, same tool. Pasting 756 daily returns into the prompt got 4 of 9 right; passing a file path got 8 of 9, with a quarter of the tokens.",
 "score": 6,
 "extra": {
-"comments": 5,
+"comments": 11,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -4096,7 +4138,7 @@
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass. ...",
 "score": 25,
 "extra": {
-"comments": 20,
+"comments": 22,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -4117,7 +4159,7 @@
 "summary": "Llama Village in motion. The characters’ dialogue is generated by an on-device model. Watch the...",
 "score": 16,
 "extra": {
-"comments": 8,
+"comments": 9,
 "publisher": "DEV Community",
 "topics": [
 "flutter",
@@ -4138,7 +4180,7 @@
 "summary": "Coding agents resend old tool output on every turn, so replacing it with something smaller looks like...",
 "score": 2,
 "extra": {
-"comments": 5,
+"comments": 7,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -4178,7 +4220,7 @@
 "url": "https://dev.to/klausbyskov/retrieval-confidence-cant-tell-your-rag-chatbot-when-the-answer-is-missing-2ml0",
 "date": "2026-10-08",
 "summary": "I ran 65 questions against our own knowledge base and checked which ones the retrieved text actually...",
-"score": 2,
+"score": 3,
 "extra": {
 "comments": 6,
 "publisher": "DEV Community",
@@ -4264,7 +4306,7 @@
 "summary": "A published coding-agent score describes one frozen task slice, and it does not describe an entire...",
 "score": 3,
 "extra": {
-"comments": 2,
+"comments": 4,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -4285,7 +4327,7 @@
 "summary": "TL;DR. Last time we cut a browser agent's tokens by 58% and really saved money. This time we looked...",
 "score": 3,
 "extra": {
-"comments": 5,
+"comments": 7,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -4348,7 +4390,7 @@
 "summary": "A 1.5B model that writes an executable graph query instead of answering from memory: 93.3% vs 34.2%, and 81.4% vs 5.8% on unseen names.",
 "score": 1,
 "extra": {
-"comments": 0,
+"comments": 2,
 "publisher": "DEV Community",
 "topics": [
 "llm",
@@ -4367,7 +4409,7 @@
 "url": "https://dev.to/lovestaco/the-stack-id-need-for-claude-to-direct-a-whole-youtube-video-in-blender-2ekd",
 "date": "2026-10-09",
 "summary": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
-"score": 12,
+"score": 24,
 "extra": {
 "comments": 0,
 "publisher": "DEV Community",
@@ -4388,7 +4430,7 @@
 "url": "https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n",
 "date": "2026-10-08",
 "summary": "My Claude Code week started ending on Wednesday. I blamed the September 14 cut, like everyone on...",
-"score": 9,
+"score": 11,
 "extra": {
 "comments": 12,
 "publisher": "DEV Community",
@@ -4397,6 +4439,27 @@
 "claudecode",
 "productivity",
 "discuss"
+],
+"lang": "en"
+}
+},
+"devto-4819360": {
+"id": "devto-4819360",
+"source": "community",
+"kind": "community",
+"title": "How Do We Extract the “Why” from a PR into a CHANGELOG with Jev? 🤔",
+"url": "https://dev.to/nyaomaru/how-do-we-extract-the-why-from-a-pr-into-a-changelog-with-jev-52pk",
+"date": "2026-10-10",
+"summary": "Hoi hoi! 👋 I'm @nyaomaru, a frontend engineer currently building an AI-assisted CHANGELOG generator...",
+"score": 54,
+"extra": {
+"comments": 9,
+"publisher": "DEV Community",
+"topics": [
+"opensource",
+"githubactions",
+"ai",
+"typescript"
 ],
 "lang": "en"
 }
@@ -4431,7 +4494,7 @@
 "summary": "I was adding cache-read and cache-write columns to a usage ledger, and I put two usage payloads side...",
 "score": 2,
 "extra": {
-"comments": 2,
+"comments": 3,
 "publisher": "DEV Community",
 "topics": [
 "bedrock",
@@ -4450,9 +4513,9 @@
 "url": "https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7",
 "date": "2026-10-08",
 "summary": "Jev is a brilliant decision model. Gemini Flash-Lite is the model nobody talks about, and it’s fast,...",
-"score": 34,
+"score": 35,
 "extra": {
-"comments": 12,
+"comments": 16,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -4536,7 +4599,7 @@
 "summary": "Frontier models shrug off a confident liar and even a fake majority, then fold the moment a senior reviewer pulls rank. A benchmark on who caves to authority and who keeps their answer.",
 "score": 2,
 "extra": {
-"comments": 6,
+"comments": 9,
 "publisher": "DEV Community",
 "topics": [
 "kagglechallenge",
@@ -4555,15 +4618,36 @@
 "url": "https://dev.to/khushi886987/llms-pass-the-data-science-quiz-then-give-different-advice-a-kaggle-benchmark-of-36-measured-2i6b",
 "date": "2026-10-09",
 "summary": "This is a submission for the Kaggle Benchmarking Challenge. What I Benchmarked I spend a...",
-"score": 2,
+"score": 3,
 "extra": {
-"comments": 1,
+"comments": 3,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
 "kagglechallenge",
 "machinelearning",
 "ai"
+],
+"lang": "en"
+}
+},
+"devto-4821385": {
+"id": "devto-4821385",
+"source": "community",
+"kind": "community",
+"title": "A sharper eye did not make a more careful model.",
+"url": "https://dev.to/shiva_58957fc81dcd9b82868/a-sharper-eye-did-not-make-a-more-careful-model-1lb0",
+"date": "2026-10-09",
+"summary": "This is a submission for the Kaggle Benchmarking Challenge What I Benchmarked I wanted a...",
+"score": 14,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"devchallenge",
+"kagglechallenge",
+"ai",
+"machinelearning"
 ],
 "lang": "en"
 }
@@ -4576,7 +4660,7 @@
 "url": "https://dev.to/7onic/ai-design-1-the-validator-caught-my-own-docs-lying-199j",
 "date": "2026-10-09",
 "summary": "I built an MCP server so AI would stop ignoring my design-system rules. The first real violations it found were in my documentation, not the AI's code.",
-"score": 2,
+"score": 3,
 "extra": {
 "comments": 0,
 "publisher": "DEV Community",
@@ -4597,9 +4681,9 @@
 "url": "https://dev.to/dannwaneri/super-intelligent-yes-men-are-we-training-ai-to-ignore-the-truth-epp",
 "date": "2026-10-09",
 "summary": "This is a submission for the Kaggle Benchmarking Challenge What I Benchmarked A published...",
-"score": 34,
+"score": 39,
 "extra": {
-"comments": 10,
+"comments": 21,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -4618,9 +4702,9 @@
 "url": "https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b",
 "date": "2026-10-09",
 "summary": "I haven't written here in a while. Not because I ran out of opinions. That would be concerning. I...",
-"score": 25,
+"score": 45,
 "extra": {
-"comments": 26,
+"comments": 47,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -4662,12 +4746,33 @@
 "summary": "I first noticed something missing while reviewing saved discussions of Microsonya, my Telegram...",
 "score": 4,
 "extra": {
-"comments": 0,
+"comments": 1,
 "publisher": "DEV Community",
 "topics": [
 "kagglechallenge",
 "ai",
 "programming",
+"machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4823408": {
+"id": "devto-4823408",
+"source": "community",
+"kind": "community",
+"title": "Production RAG Is an Evidence Pipeline, Not a Vector-Database Demo",
+"url": "https://dev.to/nooryasserx/production-rag-is-an-evidence-pipeline-not-a-vector-database-demo-325o",
+"date": "2026-10-09",
+"summary": "A production RAG system is not “put documents in a vector database and ask an LLM.” It is an evidence...",
+"score": 0,
+"extra": {
+"comments": 5,
+"publisher": "DEV Community",
+"topics": [
+"architecture",
+"rag",
+"ai",
 "machinelearning"
 ],
 "lang": "en"
@@ -4723,9 +4828,9 @@
 "url": "https://dev.to/pavel_kkkkazantsev/i-tested-58-trading-hypotheses-48-failed-heres-the-framework-that-killed-them-1poe",
 "date": "2026-10-09",
 "summary": "58 hypotheses went in. 48 were rejected, 9 remained promising, and 1 could not be evaluated because...",
-"score": 5,
+"score": 10,
 "extra": {
-"comments": 3,
+"comments": 5,
 "publisher": "DEV Community",
 "topics": [
 "python",
@@ -4746,7 +4851,7 @@
 "summary": "Every time a RAG application answers a question, it may need to retrieve documents and make an LLM...",
 "score": 6,
 "extra": {
-"comments": 4,
+"comments": 8,
 "publisher": "DEV Community",
 "topics": [
 "rag",
@@ -4767,7 +4872,7 @@
 "summary": "Routing 5% of hard tokens to a 32B model and keeping the rest on a 0.6B model looks great on paper, until standard serving engines spend 95.8% of the step redoing prefix matching. TokenRouter fixes t…",
 "score": 5,
 "extra": {
-"comments": 2,
+"comments": 3,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -4807,9 +4912,345 @@
 "url": "https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42",
 "date": "2026-10-09",
 "summary": "I put ten AI agents on trial inside a fake company, hid the rules where real rules live, and let the...",
-"score": 5,
+"score": 15,
+"extra": {
+"comments": 6,
+"publisher": "DEV Community",
+"topics": [
+"devchallenge",
+"kagglechallenge",
+"ai",
+"machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4825774": {
+"id": "devto-4825774",
+"source": "community",
+"kind": "community",
+"title": "Gemma 4 E2B in Pure JAX on a Colab TPU: Google's 4-Bit Export Against an Exact Repack",
+"url": "https://dev.to/gde/gemma-4-e2b-in-pure-jax-on-a-colab-tpu-googles-4-bit-export-against-an-exact-repack-4dle",
+"date": "2026-10-10",
+"summary": "A Colab notebook for the AI GDE Marathon that loads three Gemma 4 E2B checkpoints into a pure-JAX engine on one TPU v5e chip and measures, on the reader's own chip, how far each 4-bit build sits from…",
+"score": 1,
+"extra": {
+"comments": 3,
+"publisher": "DEV Community",
+"topics": [
+"jax",
+"tpu",
+"gemma",
+"machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4825927": {
+"id": "devto-4825927",
+"source": "community",
+"kind": "community",
+"title": "Your AI Dashboard Is Green. Your Delivery Isn't.",
+"url": "https://dev.to/debashish_ghosal/your-ai-dashboard-is-green-your-delivery-isnt-1l3p",
+"date": "2026-10-10",
+"summary": "A diagnostic companion to DORA and DX metrics for SDMs and Directors Faros AI looked at...",
+"score": 17,
 "extra": {
 "comments": 4,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"roi",
+"llm",
+"agents"
+],
+"lang": "en"
+}
+},
+"devto-4826024": {
+"id": "devto-4826024",
+"source": "community",
+"kind": "community",
+"title": "Surviving the 200k-Token Lobotomy: How Unix init.d and 'Memento' Made My AI Coding Agent Immune to Context Compaction",
+"url": "https://dev.to/gde/surviving-the-200k-token-lobotomy-how-unix-initd-and-memento-made-my-ai-coding-agent-immune-to-2f74",
+"date": "2026-10-10",
+"summary": "Why host auto-compaction silently lobotomizes long-running AI coding sessions, and how 1983 SysV init.d runlevel files, Memento tattoos, and fork/wait subagents let our orchestrator survive two 230k-…",
+"score": 4,
+"extra": {
+"comments": 18,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"programming",
+"architecture",
+"unix"
+],
+"lang": "en"
+}
+},
+"devto-4826975": {
+"id": "devto-4826975",
+"source": "community",
+"kind": "community",
+"title": "WildProof: Go Outside With a Question, Come Back With Evidence",
+"url": "https://dev.to/dj29/wildproof-go-outside-with-a-question-come-back-with-evidence-574e",
+"date": "2026-10-10",
+"summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass ...",
+"score": 35,
+"extra": {
+"comments": 3,
+"publisher": "DEV Community",
+"topics": [
+"devchallenge",
+"hf26challenge",
+"opensource",
+"ai"
+],
+"lang": "en"
+}
+},
+"devto-4827099": {
+"id": "devto-4827099",
+"source": "community",
+"kind": "community",
+"title": "Building an AI Visibility Agent with Gemini, Google ADK, MCP, and BigQuery",
+"url": "https://dev.to/hjangid/building-an-ai-visibility-agent-with-gemini-google-adk-mcp-and-bigquery-4jhp",
+"date": "2026-10-10",
+"summary": "In Part 3, I built the historical layer. The system could persist AI visibility scans, brand...",
+"score": 4,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"mcp",
+"gemini",
+"googlecloud"
+],
+"lang": "en"
+}
+},
+"devto-4828640": {
+"id": "devto-4828640",
+"source": "community",
+"kind": "community",
+"title": "Building a Yandex SEO MCP server: six traps in the Yandex Webmaster API",
+"url": "https://dev.to/jbobbink/building-a-yandex-seo-mcp-server-six-traps-in-the-yandex-webmaster-api-1bc5",
+"date": "2026-10-10",
+"summary": "I spent a day building a Yandex SEO MCP server: wiring Yandex Webmaster into the Model Context...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"mcp",
+"api",
+"typescript",
+"seo"
+],
+"lang": "en"
+}
+},
+"devto-4828716": {
+"id": "devto-4828716",
+"source": "community",
+"kind": "community",
+"title": "Frostline: what to plant this week, from your local frost dates",
+"url": "https://dev.to/zkasuran/frostline-what-to-plant-this-week-from-your-local-frost-dates-3k2",
+"date": "2026-10-10",
+"summary": "A garden planner that predicts your local frost dates with an open tabular model, TabPFN, then writes the plan with Gemma. What to sow this week, from your own frost dates.",
+"score": 1,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"hf26challenge",
+"opensource",
+"ai",
+"machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4829137": {
+"id": "devto-4829137",
+"source": "community",
+"kind": "community",
+"title": "12 of 13 AI models knew the new name and still wrote the old one",
+"url": "https://dev.to/apples_one_cd174284bffb/12-of-13-ai-models-knew-the-new-name-and-still-wrote-the-old-one-2jla",
+"date": "2026-10-10",
+"summary": "This is a submission for the Kaggle Benchmarking Challenge What I Benchmarked TL;DR. I...",
+"score": 25,
+"extra": {
+"comments": 7,
+"publisher": "DEV Community",
+"topics": [
+"devchallenge",
+"kagglechallenge",
+"ai",
+"machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4829182": {
+"id": "devto-4829182",
+"source": "community",
+"kind": "community",
+"title": "I Measured My RAG Pipeline Honestly. It Was 40x Slower Than I Thought.",
+"url": "https://dev.to/vicarioy/i-measured-my-rag-pipeline-honestly-it-was-40x-slower-than-i-thought-3o5h",
+"date": "2026-10-10",
+"summary": "A few days ago I published the architecture behind Vicquant’s RAG Vault; a 9-stage retrieval pipeline...",
+"score": 1,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"rag",
+"fintech",
+"buildinpublic"
+],
+"lang": "en"
+}
+},
+"devto-4829184": {
+"id": "devto-4829184",
+"source": "community",
+"kind": "community",
+"title": "RAG ou fine-tuning: a pergunta errada para quem constrói sistemas de IA",
+"url": "https://dev.to/theguitarvity/rag-ou-fine-tuning-a-pergunta-errada-para-quem-constroi-sistemas-de-ia-38ld",
+"date": "2026-10-10",
+"summary": "Um time de plataforma está validando um assistente baseado em LLM, ainda em fase de testes, para...",
+"score": 10,
+"extra": {
+"comments": 3,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"rag",
+"llm",
+"architecture"
+],
+"lang": "en"
+}
+},
+"devto-4829197": {
+"id": "devto-4829197",
+"source": "community",
+"kind": "community",
+"title": "How to Build a Competitive Intelligence Agent for Public Companies",
+"url": "https://dev.to/valyuai/how-to-build-a-competitive-intelligence-agent-for-public-companies-op6",
+"date": "2026-10-10",
+"summary": "Day 10 of 30 Days of Search. Most competitor research breaks in the same place: it finds a few...",
+"score": 6,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"agents",
+"ai",
+"automation",
+"llm"
+],
+"lang": "en"
+}
+},
+"devto-4829457": {
+"id": "devto-4829457",
+"source": "community",
+"kind": "community",
+"title": "Build a RAG pipeline from scratch — the actually simple version",
+"url": "https://dev.to/aiunplugged/build-a-rag-pipeline-from-scratch-the-actually-simple-version-gen",
+"date": "2026-10-10",
+"summary": "Originally published on aiunplugged.in — cross-posting for the Dev.to community. Every RAG tutorial...",
+"score": 0,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"rag",
+"ai",
+"python",
+"llm"
+],
+"lang": "en"
+}
+},
+"devto-4829968": {
+"id": "devto-4829968",
+"source": "community",
+"kind": "community",
+"title": "How I Taught a Desktop Recorder to Know Who's Talking — A Transcription, Speaker ID and Vector Search Story",
+"url": "https://dev.to/abdullahmubin/how-i-taught-a-desktop-recorder-to-know-whos-talking-a-transcription-speaker-id-and-vector-3i1m",
+"date": "2026-10-10",
+"summary": "I wasn't building another voice recorder. I was building a meeting companion. A small app that sits...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"rag",
+"vectordatabase",
+"webdev"
+],
+"lang": "en"
+}
+},
+"devto-4830159": {
+"id": "devto-4830159",
+"source": "community",
+"kind": "community",
+"title": "The Atomic Answer Rule: Engineering Content for RAG Chunking and AI Search",
+"url": "https://dev.to/tarikmostafa/the-atomic-answer-rule-engineering-content-for-rag-chunking-and-ai-search-203e",
+"date": "2026-10-10",
+"summary": "The Atomic Answer Rule states that every H2 section of a document must answer its query as an...",
+"score": 5,
+"extra": {
+"comments": 3,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"seo",
+"webdev",
+"rag"
+],
+"lang": "en"
+}
+},
+"devto-4830164": {
+"id": "devto-4830164",
+"source": "community",
+"kind": "community",
+"title": "Secure an MCP Server for Production with theAuth",
+"url": "https://dev.to/thegdsks/secure-an-mcp-server-for-production-with-theauth-1l2b",
+"date": "2026-10-10",
+"summary": "theAuth is open-source auth for AI agents and humans. Star the repo on GitHub · Read the docs · Run...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"mcp",
+"ai",
+"security",
+"typescript"
+],
+"lang": "en"
+}
+},
+"devto-4830586": {
+"id": "devto-4830586",
+"source": "community",
+"kind": "community",
+"title": "The Missing Piece: Why AI Models Hallucinate Answers When They Should Abstain",
+"url": "https://dev.to/shreyansh_agrahari_2009db/the-missing-piece-why-ai-models-hallucinate-answers-when-they-should-abstain-403",
+"date": "2026-10-10",
+"summary": "This is a submission for the Kaggle Benchmarking Challenge \"The answer isn't always there. Does...",
+"score": 10,
+"extra": {
+"comments": 0,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -4840,6 +5281,26 @@
 ]
 }
 },
+"lob-gqaqgq": {
+"id": "lob-gqaqgq",
+"source": "community",
+"kind": "discussion",
+"title": "Voxlocal: a minimal voice agent written in Rust",
+"url": "https://samkhawase.com/blog/voxlocal-minimal-voice-agent/",
+"alt_url": "https://lobste.rs/s/gqaqgq/voxlocal_minimal_voice_agent_written",
+"date": "2026-10-10",
+"summary": "",
+"score": 3,
+"extra": {
+"comments": 1,
+"publisher": "Lobsters",
+"topics": [
+"ai",
+"programming",
+"rust"
+]
+}
+},
 "lob-lpomuo": {
 "id": "lob-lpomuo",
 "source": "community",
@@ -4848,6 +5309,24 @@
 "url": "https://cactuscompute.com/blog/whistle",
 "alt_url": "https://lobste.rs/s/lpomuo/whistle_speech_text_16_9_mb",
 "date": "2026-10-09",
+"summary": "",
+"score": 2,
+"extra": {
+"comments": 0,
+"publisher": "Lobsters",
+"topics": [
+"ai"
+]
+}
+},
+"lob-t2fxpt": {
+"id": "lob-t2fxpt",
+"source": "community",
+"kind": "discussion",
+"title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+"url": "https://arxiv.org/html/2610.05978v1",
+"alt_url": "https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent",
+"date": "2026-10-10",
 "summary": "",
 "score": 2,
 "extra": {
