@@ -14,6 +14,21 @@
 "lang": "en"
 }
 },
+"news-amazon-science-e05f5dfb850c": {
+"id": "news-amazon-science-e05f5dfb850c",
+"source": "news",
+"kind": "news",
+"title": "Can we change an AI model&#8217;s architecture without retraining it from scratch?",
+"url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Amazon Science",
+"feed": "amazon-science",
+"lang": "en"
+}
+},
 "news-anthropic-26f5049650b4": {
 "id": "news-anthropic-26f5049650b4",
 "source": "news",
@@ -119,6 +134,21 @@
 "lang": "en"
 }
 },
+"news-apple-ml-438f8f82161f": {
+"id": "news-apple-ml-438f8f82161f",
+"source": "news",
+"kind": "news",
+"title": "Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+"url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Apple Machine Learning",
+"feed": "apple-ml",
+"lang": "en"
+}
+},
 "news-apple-ml-600d36562e54": {
 "id": "news-apple-ml-600d36562e54",
 "source": "news",
@@ -126,6 +156,36 @@
 "title": "Limits of Confidence in Diffusion",
 "url": "https://machinelearning.apple.com/research/limits-confidence-diffusion",
 "date": "2026-10-02",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Apple Machine Learning",
+"feed": "apple-ml",
+"lang": "en"
+}
+},
+"news-apple-ml-770df069ccb5": {
+"id": "news-apple-ml-770df069ccb5",
+"source": "news",
+"kind": "news",
+"title": "Self-Compacting Language Model Agents",
+"url": "https://machinelearning.apple.com/research/self-compacting-language-agents",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Apple Machine Learning",
+"feed": "apple-ml",
+"lang": "en"
+}
+},
+"news-apple-ml-78d6d66a2b4f": {
+"id": "news-apple-ml-78d6d66a2b4f",
+"source": "news",
+"kind": "news",
+"title": "Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged",
+"url": "https://machinelearning.apple.com/research/llm-translation-quality-annotation",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -284,6 +344,21 @@
 "lang": "en"
 }
 },
+"news-ars-37b5a1e81dc8": {
+"id": "news-ars-37b5a1e81dc8",
+"source": "news",
+"kind": "media",
+"title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+"url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Ars Technica",
+"feed": "ars",
+"lang": "en"
+}
+},
 "news-ars-3a0428350fd0": {
 "id": "news-ars-3a0428350fd0",
 "source": "news",
@@ -321,6 +396,21 @@
 "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
 "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
 "date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Ars Technica",
+"feed": "ars",
+"lang": "en"
+}
+},
+"news-ars-5dfaa1d43f85": {
+"id": "news-ars-5dfaa1d43f85",
+"source": "news",
+"kind": "media",
+"title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+"url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -381,6 +471,36 @@
 "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
 "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
 "date": "2026-10-05",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Ars Technica",
+"feed": "ars",
+"lang": "en"
+}
+},
+"news-ars-b470d062734a": {
+"id": "news-ars-b470d062734a",
+"source": "news",
+"kind": "media",
+"title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+"url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Ars Technica",
+"feed": "ars",
+"lang": "en"
+}
+},
+"news-ars-b4c6a3e5aa4c": {
+"id": "news-ars-b4c6a3e5aa4c",
+"source": "news",
+"kind": "media",
+"title": "Russia was not ready for the data center war it started with Ukraine",
+"url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -629,6 +749,36 @@
 "lang": "en"
 }
 },
+"news-aws-5314a62ab1f9": {
+"id": "news-aws-5314a62ab1f9",
+"source": "news",
+"kind": "news",
+"title": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+"url": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "AWS Machine Learning",
+"feed": "aws",
+"lang": "en"
+}
+},
+"news-aws-5b656853362a": {
+"id": "news-aws-5b656853362a",
+"source": "news",
+"kind": "news",
+"title": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+"url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "AWS Machine Learning",
+"feed": "aws",
+"lang": "en"
+}
+},
 "news-aws-60dd8950334a": {
 "id": "news-aws-60dd8950334a",
 "source": "news",
@@ -756,6 +906,21 @@
 "title": "Serve live, governed data in AI-built apps with Amazon Quick",
 "url": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
 "date": "2026-10-01",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "AWS Machine Learning",
+"feed": "aws",
+"lang": "en"
+}
+},
+"news-aws-8dfe752ac289": {
+"id": "news-aws-8dfe752ac289",
+"source": "news",
+"kind": "news",
+"title": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+"url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -1019,6 +1184,21 @@
 "lang": "en"
 }
 },
+"news-aws-jp-0686d74bfc07": {
+"id": "news-aws-jp-0686d74bfc07",
+"source": "news",
+"kind": "news",
+"title": "責任ある AI ガバナンス: お客様が ISO/IEC 42005:2025 との整合を図れるよう AWS が支援する方法",
+"url": "https://aws.amazon.com/jp/blogs/news/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "AWS 日本",
+"feed": "aws-jp",
+"lang": "ja"
+}
+},
 "news-aws-jp-09ef87911b4a": {
 "id": "news-aws-jp-09ef87911b4a",
 "source": "news",
@@ -1041,6 +1221,21 @@
 "title": "Amazon Bedrock の自動推論チェックが変える生成 AI のコンプライアンス",
 "url": "https://aws.amazon.com/jp/blogs/news/how-automated-reasoning-checks-in-amazon-bedrock-transform-generative-ai-compliance/",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "AWS 日本",
+"feed": "aws-jp",
+"lang": "ja"
+}
+},
+"news-aws-jp-1e4b39de2eda": {
+"id": "news-aws-jp-1e4b39de2eda",
+"source": "news",
+"kind": "news",
+"title": "AWS で実現する AI 主権",
+"url": "https://aws.amazon.com/jp/blogs/news/enabling-ai-sovereignty-on-aws/",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -1101,6 +1296,21 @@
 "title": "AWS DevOps Agent Skills を作成するためのベストプラクティス",
 "url": "https://aws.amazon.com/jp/blogs/news/best-practices-for-writing-aws-devops-agent-skills/",
 "date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "AWS 日本",
+"feed": "aws-jp",
+"lang": "ja"
+}
+},
+"news-aws-jp-5393038b8da3": {
+"id": "news-aws-jp-5393038b8da3",
+"source": "news",
+"kind": "news",
+"title": "ソニー銀行が勘定系システムの開発に AI エージェントを適用し基本設計から結合テストまでの開発期間を 30% 短縮",
+"url": "https://aws.amazon.com/jp/blogs/news/casestudy-sonybank-agent-in-development/",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -1266,6 +1476,21 @@
 "title": "【開催報告】AI ペルソナワークショップ — 自社だけの AI ペルソナを作って、試してみよう",
 "url": "https://aws.amazon.com/jp/blogs/news/ai-persona-workshop-20260915/",
 "date": "2026-10-02",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "AWS 日本",
+"feed": "aws-jp",
+"lang": "ja"
+}
+},
+"news-aws-jp-cefc36351c51": {
+"id": "news-aws-jp-cefc36351c51",
+"source": "news",
+"kind": "news",
+"title": "新しいコンプライアンスガイド「ISO/IEC 42001:2023 on AWS」を公開 – AI マネジメントシステムの設計と運用を支援",
+"url": "https://aws.amazon.com/jp/blogs/news/new-compliance-guide-available-iso-iec-420012023-on-aws/",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -1484,6 +1709,21 @@
 "lang": "en"
 }
 },
+"news-databricks-584edc0f4d08": {
+"id": "news-databricks-584edc0f4d08",
+"source": "news",
+"kind": "news",
+"title": "From post-training to production: How TinyFish runs its web-native model on Databricks AI Runtime",
+"url": "https://www.databricks.com/blog/post-training-production-how-tinyfish-runs-its-web-native-model-databricks-ai-runtime",
+"date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Databricks",
+"feed": "databricks",
+"lang": "en"
+}
+},
 "news-databricks-82ffe0e1ed6b": {
 "id": "news-databricks-82ffe0e1ed6b",
 "source": "news",
@@ -1491,6 +1731,21 @@
 "title": "Connecting customer context to measurable ROI with agentic marketing",
 "url": "https://www.databricks.com/blog/connecting-customer-context-measurable-roi-agentic-marketing",
 "date": "2026-10-01",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Databricks",
+"feed": "databricks",
+"lang": "en"
+}
+},
+"news-databricks-834448fbd416": {
+"id": "news-databricks-834448fbd416",
+"source": "news",
+"kind": "news",
+"title": "How Flo Health built safer, more useful open models with Databricks AI Runtime",
+"url": "https://www.databricks.com/blog/how-flo-health-built-safer-more-useful-open-models-databricks-ai-runtime",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -1671,6 +1926,21 @@
 "title": "Secret protection must scale with software",
 "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
 "date": "2026-10-07",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "GitHub",
+"feed": "github",
+"lang": "en"
+}
+},
+"news-github-d8d241723974": {
+"id": "news-github-d8d241723974",
+"source": "news",
+"kind": "news",
+"title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+"url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -2114,6 +2384,51 @@
 "lang": "ja"
 }
 },
+"news-impress-88b6d348ac8e": {
+"id": "news-impress-88b6d348ac8e",
+"source": "news",
+"kind": "media",
+"title": "【西田宗千佳のイマトミライ】マイクロソフトが目指す「AIとWindows 11」の新しい関係",
+"url": "https://www.watch.impress.co.jp/docs/series/nishida/2147435.html",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Impress Watch",
+"feed": "impress",
+"lang": "ja"
+}
+},
+"news-impress-9c003fb528e3": {
+"id": "news-impress-9c003fb528e3",
+"source": "news",
+"kind": "media",
+"title": "Meta、新最上位AIモデル「Muse Wonder」 専門タスクやエージェントに強み",
+"url": "https://www.watch.impress.co.jp/docs/news/2147484.html",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Impress Watch",
+"feed": "impress",
+"lang": "ja"
+}
+},
+"news-impress-a9b53dca5657": {
+"id": "news-impress-a9b53dca5657",
+"source": "news",
+"kind": "media",
+"title": "ぺんてる、「Pentel Ain」に白い替芯ケース",
+"url": "https://www.watch.impress.co.jp/docs/news/2146536.html",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Impress Watch",
+"feed": "impress",
+"lang": "ja"
+}
+},
 "news-impress-b02531b25d04": {
 "id": "news-impress-b02531b25d04",
 "source": "news",
@@ -2136,6 +2451,21 @@
 "title": "OpenAI、ChatGPTの生成文に電子透かし EUで導入へ",
 "url": "https://www.watch.impress.co.jp/docs/news/2145957.html",
 "date": "2026-10-06",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Impress Watch",
+"feed": "impress",
+"lang": "ja"
+}
+},
+"news-impress-dead422e338e": {
+"id": "news-impress-dead422e338e",
+"source": "news",
+"kind": "media",
+"title": "アマゾン「プライム感謝祭」先行セール開始 iPhone Airなど登場",
+"url": "https://www.watch.impress.co.jp/docs/news/2147249.html",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -2384,6 +2714,21 @@
 "lang": "ja"
 }
 },
+"news-itmedia-22f588aafc59": {
+"id": "news-itmedia-22f588aafc59",
+"source": "news",
+"kind": "media",
+"title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+"url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+"date": "2026-10-11",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
 "news-itmedia-24d1ca5599f6": {
 "id": "news-itmedia-24d1ca5599f6",
 "source": "news",
@@ -2496,6 +2841,21 @@
 "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
 "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
 "date": "2026-10-05",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
+"news-itmedia-326f28425be7": {
+"id": "news-itmedia-326f28425be7",
+"source": "news",
+"kind": "media",
+"title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+"url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -2714,6 +3074,21 @@
 "lang": "ja"
 }
 },
+"news-itmedia-543633349964": {
+"id": "news-itmedia-543633349964",
+"source": "news",
+"kind": "media",
+"title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+"url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
 "news-itmedia-55cfe891c3a5": {
 "id": "news-itmedia-55cfe891c3a5",
 "source": "news",
@@ -2751,6 +3126,21 @@
 "title": "AIと協調する「スーパーヒューマン」を目指せ――キナクシスCEOが語るSCM変革の鍵",
 "url": "https://monoist.itmedia.co.jp/mn/articles/2610/09/news040.html",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
+"news-itmedia-5f8b32a3e80e": {
+"id": "news-itmedia-5f8b32a3e80e",
+"source": "news",
+"kind": "media",
+"title": "Meta、同社最大のAIモデル「Muse Wonder」発表 記憶力と粘り強さを強化、AIエージェント「Muse」にも搭載へ",
+"url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -2841,6 +3231,21 @@
 "title": "立ち話が“宝の山”に 8人の声を聞き分けられたAI文字起こし「Klang」の実力",
 "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002130/",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
+"news-itmedia-6a5fdf27674a": {
+"id": "news-itmedia-6a5fdf27674a",
+"source": "news",
+"kind": "media",
+"title": "Microsoft、第3世代AIチップ「Maia 300」を2027年に投入 GPU比で電力効率4割向上、自社サービスの主力推論基盤に",
+"url": "https://www.itmedia.co.jp/news/article/2610/13/2000002200/",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -2969,6 +3374,21 @@
 "lang": "ja"
 }
 },
+"news-itmedia-79d0885d3e68": {
+"id": "news-itmedia-79d0885d3e68",
+"source": "news",
+"kind": "media",
+"title": "新サービス「Gemini Agent」は企業向け、「Gemini Enterprise」加入者は追加料金なし 日本提供時期は未定",
+"url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
 "news-itmedia-804b1fcf89eb": {
 "id": "news-itmedia-804b1fcf89eb",
 "source": "news",
@@ -3006,6 +3426,21 @@
 "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
 "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
 "date": "2026-10-02",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
+"news-itmedia-8b486f9b15e8": {
+"id": "news-itmedia-8b486f9b15e8",
+"source": "news",
+"kind": "media",
+"title": "FDEが構築したAIエージェントの7割、企業が放棄へ Gartner予測",
+"url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -3081,6 +3516,21 @@
 "title": "ChatGPTの“利用制限”リセットへ 有料ユーザー向け",
 "url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001961/",
 "date": "2026-10-02",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
+"news-itmedia-9e0c713f5cae": {
+"id": "news-itmedia-9e0c713f5cae",
+"source": "news",
+"kind": "media",
+"title": "3社に1社がトークン予算超過 コスト増を最大44％抑える方法とは【アクセンチュア調査】",
+"url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -3584,6 +4034,21 @@
 "lang": "ja"
 }
 },
+"news-itmedia-f117d27ca28a": {
+"id": "news-itmedia-f117d27ca28a",
+"source": "news",
+"kind": "media",
+"title": "企業向けAIは「大規模LLM」一択ではない Zohoが重視するコストとデータ保護",
+"url": "https://kn.itmedia.co.jp/kn/article/2610/13/2000002172/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
 "news-itmedia-f18fb0836a09": {
 "id": "news-itmedia-f18fb0836a09",
 "source": "news",
@@ -3591,6 +4056,21 @@
 "title": "Google、プロンプトでゲームを作って遊べる「Playground」を米国で公開 「Unity Spark」も年内投入",
 "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002117/",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "ITmedia AI+",
+"feed": "itmedia",
+"lang": "ja"
+}
+},
+"news-itmedia-f3050cae3232": {
+"id": "news-itmedia-f3050cae3232",
+"source": "news",
+"kind": "media",
+"title": "OpenAI幹部が明かす“AI暴走事故”の教訓 “安全運転”のカギは",
+"url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002180/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -3681,6 +4161,21 @@
 "title": "[AINews] not much happened today",
 "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Latent Space",
+"feed": "latent-space",
+"lang": "en"
+}
+},
+"news-latent-space-728a22683c3e": {
+"id": "news-latent-space-728a22683c3e",
+"source": "news",
+"kind": "blog",
+"title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+"url": "https://www.latent.space/p/claude-dynamic-workflows",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -3851,6 +4346,21 @@
 "extra": {
 "publisher": "Latent Space",
 "feed": "latent-space",
+"lang": "en"
+}
+},
+"news-microsoft-5a6d73fa70f6": {
+"id": "news-microsoft-5a6d73fa70f6",
+"source": "news",
+"kind": "news",
+"title": "Introducing Microsoft’s latest custom chip: Maia 300",
+"url": "https://news.microsoft.com/maia-2026/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Microsoft",
+"feed": "microsoft",
 "lang": "en"
 }
 },
@@ -4199,6 +4709,21 @@
 "lang": "en"
 }
 },
+"news-msr-5d83dba89b9f": {
+"id": "news-msr-5d83dba89b9f",
+"source": "news",
+"kind": "news",
+"title": "Simulating student learning for better AI tutoring",
+"url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Microsoft Research",
+"feed": "msr",
+"lang": "en"
+}
+},
 "news-nvidia-1f284fec3a90": {
 "id": "news-nvidia-1f284fec3a90",
 "source": "news",
@@ -4266,6 +4791,21 @@
 "title": "Fall Into 25 New Games on GeForce NOW This October",
 "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/",
 "date": "2026-10-01",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "NVIDIA",
+"feed": "nvidia",
+"lang": "en"
+}
+},
+"news-nvidia-9c679f3096ea": {
+"id": "news-nvidia-9c679f3096ea",
+"source": "news",
+"kind": "news",
+"title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+"url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -4356,6 +4896,21 @@
 "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
 "url": "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking/",
 "date": "2026-10-06",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "NVIDIA Developer",
+"feed": "nvidia-dev",
+"lang": "en"
+}
+},
+"news-nvidia-dev-1ae6a56c4998": {
+"id": "news-nvidia-dev-1ae6a56c4998",
+"source": "news",
+"kind": "news",
+"title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+"url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -5009,6 +5564,21 @@
 "lang": "ja"
 }
 },
+"news-qiita-genai-1351b4663f1c": {
+"id": "news-qiita-genai-1351b4663f1c",
+"source": "news",
+"kind": "community",
+"title": "【速報】Google「Gemini Agent」発表！24/7自律稼働とマルチモデルの革新",
+"url": "https://qiita.com/tomokoro/items/8dea93c905606efed82d",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Qiita（生成AI）",
+"feed": "qiita-genai",
+"lang": "ja"
+}
+},
 "news-qiita-genai-1b4a7abd1d22": {
 "id": "news-qiita-genai-1b4a7abd1d22",
 "source": "news",
@@ -5091,6 +5661,21 @@
 "title": "TRPG立ち絵の表情差分をAIで量産する｜参照画像から崩さず作る手順とプロンプト設計",
 "url": "https://qiita.com/Sato-310/items/233930ef1478ac514f03",
 "date": "2026-10-07",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Qiita（生成AI）",
+"feed": "qiita-genai",
+"lang": "ja"
+}
+},
+"news-qiita-genai-5bc8043c4ac0": {
+"id": "news-qiita-genai-5bc8043c4ac0",
+"source": "news",
+"kind": "community",
+"title": "PM・開発マネージャーが2026年にフォローしておくべきAI情報",
+"url": "https://qiita.com/Ito_110/items/093b995554f3b5fd8396",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -5211,6 +5796,21 @@
 "title": "音声入力で何度も言い直していたら、ChatGPTが「重要なこと」だと思って記事に何度も書いてきた",
 "url": "https://qiita.com/TheOkachanPG/items/aa6623638464ebb14df8",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Qiita（生成AI）",
+"feed": "qiita-genai",
+"lang": "ja"
+}
+},
+"news-qiita-genai-8a1b5a035966": {
+"id": "news-qiita-genai-8a1b5a035966",
+"source": "news",
+"kind": "community",
+"title": "Claude Sonnet 5.5 の性能を実測｜5 モデル計 90 回で時間は Opus 5 の 0.35 倍、成功数は差なし",
+"url": "https://qiita.com/kenji_harada/items/43f5348563728dea7e12",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -5369,6 +5969,21 @@
 "lang": "ja"
 }
 },
+"news-qiita-genai-f5389cf1dc2d": {
+"id": "news-qiita-genai-f5389cf1dc2d",
+"source": "news",
+"kind": "community",
+"title": "2026年版 AIコーディング支援・Coding Agentをシステム開発でどう使うか",
+"url": "https://qiita.com/Ito_110/items/e1bdb9c25d43b9525080",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Qiita（生成AI）",
+"feed": "qiita-genai",
+"lang": "ja"
+}
+},
 "news-qiita-llm-02d3ff6ec052": {
 "id": "news-qiita-llm-02d3ff6ec052",
 "source": "news",
@@ -5376,6 +5991,21 @@
 "title": "多段の質問（multi-hop）とは？ 複数の情報をつないで答える仕組み",
 "url": "https://qiita.com/engchina/items/364bf8c6806b222edc0e",
 "date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Qiita（LLM）",
+"feed": "qiita-llm",
+"lang": "ja"
+}
+},
+"news-qiita-llm-1351b4663f1c": {
+"id": "news-qiita-llm-1351b4663f1c",
+"source": "news",
+"kind": "community",
+"title": "【速報】Google「Gemini Agent」発表！24/7自律稼働とマルチモデルの革新",
+"url": "https://qiita.com/tomokoro/items/8dea93c905606efed82d",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -5534,6 +6164,21 @@
 "lang": "ja"
 }
 },
+"news-qiita-llm-8a1b5a035966": {
+"id": "news-qiita-llm-8a1b5a035966",
+"source": "news",
+"kind": "community",
+"title": "Claude Sonnet 5.5 の性能を実測｜5 モデル計 90 回で時間は Opus 5 の 0.35 倍、成功数は差なし",
+"url": "https://qiita.com/kenji_harada/items/43f5348563728dea7e12",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Qiita（LLM）",
+"feed": "qiita-llm",
+"lang": "ja"
+}
+},
 "news-qiita-llm-8b3b503f1acc": {
 "id": "news-qiita-llm-8b3b503f1acc",
 "source": "news",
@@ -5541,6 +6186,21 @@
 "title": "「JevってBERTじゃね？」を深掘りするゾ",
 "url": "https://qiita.com/GeneLab_999/items/b89bcc28cedf542a44c5",
 "date": "2026-10-06",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Qiita（LLM）",
+"feed": "qiita-llm",
+"lang": "ja"
+}
+},
+"news-qiita-llm-909f863638d9": {
+"id": "news-qiita-llm-909f863638d9",
+"source": "news",
+"kind": "community",
+"title": "300件の意思決定ログから学ぶSSOT運用1年目の知見",
+"url": "https://qiita.com/fukukei23/items/df74ec8dfaeb4fd5cba0",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -5571,6 +6231,21 @@
 "title": "AI に技術資料を読ませるとき何が起きているか — 全部渡す・検索で渡す・地図でたどる",
 "url": "https://qiita.com/lexi2vent/items/8bd46c61c1ca4c940998",
 "date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Qiita（LLM）",
+"feed": "qiita-llm",
+"lang": "ja"
+}
+},
+"news-qiita-llm-9c8376b54cbc": {
+"id": "news-qiita-llm-9c8376b54cbc",
+"source": "news",
+"kind": "community",
+"title": "2026年版 LLM・AIモデル・APIでシステム開発者が追うべきこと",
+"url": "https://qiita.com/Ito_110/items/855150b7c6843f2515a3",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -6074,6 +6749,21 @@
 "lang": "en"
 }
 },
+"news-techcrunch-3ea17d5e3961": {
+"id": "news-techcrunch-3ea17d5e3961",
+"source": "news",
+"kind": "media",
+"title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+"url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "TechCrunch",
+"feed": "techcrunch",
+"lang": "en"
+}
+},
 "news-techcrunch-41a7e440548d": {
 "id": "news-techcrunch-41a7e440548d",
 "source": "news",
@@ -6096,6 +6786,21 @@
 "title": "Google brings agentic AI to Gemini, starting with businesses",
 "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "TechCrunch",
+"feed": "techcrunch",
+"lang": "en"
+}
+},
+"news-techcrunch-47c2a6e011d8": {
+"id": "news-techcrunch-47c2a6e011d8",
+"source": "news",
+"kind": "media",
+"title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+"url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -6314,6 +7019,21 @@
 "lang": "en"
 }
 },
+"news-techcrunch-6ecbcc7a7d94": {
+"id": "news-techcrunch-6ecbcc7a7d94",
+"source": "news",
+"kind": "media",
+"title": "This AI startup says it can generate permit-ready blueprints in minutes",
+"url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "TechCrunch",
+"feed": "techcrunch",
+"lang": "en"
+}
+},
 "news-techcrunch-6f089348aa29": {
 "id": "news-techcrunch-6f089348aa29",
 "source": "news",
@@ -6396,6 +7116,21 @@
 "title": "China’s Manus raises over $500M in first funding round since split with Meta",
 "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "TechCrunch",
+"feed": "techcrunch",
+"lang": "en"
+}
+},
+"news-techcrunch-80d24e118917": {
+"id": "news-techcrunch-80d24e118917",
+"source": "news",
+"kind": "media",
+"title": "Meta releases its first frontier model, Muse Wonder",
+"url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -6501,6 +7236,21 @@
 "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
 "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "TechCrunch",
+"feed": "techcrunch",
+"lang": "en"
+}
+},
+"news-techcrunch-8e8b602fc5f5": {
+"id": "news-techcrunch-8e8b602fc5f5",
+"source": "news",
+"kind": "media",
+"title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+"url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -6899,6 +7649,21 @@
 "lang": "en"
 }
 },
+"news-techcrunch-da2cafd8b490": {
+"id": "news-techcrunch-da2cafd8b490",
+"source": "news",
+"kind": "media",
+"title": "Microsoft president says UK is best placed to drive AI regulation",
+"url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "TechCrunch",
+"feed": "techcrunch",
+"lang": "en"
+}
+},
 "news-techcrunch-ddc310eb36a6": {
 "id": "news-techcrunch-ddc310eb36a6",
 "source": "news",
@@ -7101,6 +7866,21 @@
 "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
 "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "TechCrunch",
+"feed": "techcrunch",
+"lang": "en"
+}
+},
+"news-techcrunch-fa08cc00ea9a": {
+"id": "news-techcrunch-fa08cc00ea9a",
+"source": "news",
+"kind": "media",
+"title": "Honeyjar offers AI tools to improve PR and comms at every company",
+"url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -7416,6 +8196,21 @@
 "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
 "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
 "date": "2026-10-02",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "The Verge",
+"feed": "verge",
+"lang": "en"
+}
+},
+"news-verge-5b0bbc20b589": {
+"id": "news-verge-5b0bbc20b589",
+"source": "news",
+"kind": "media",
+"title": "Meta has some Wonder Full new AI models",
+"url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -7994,6 +8789,21 @@
 "lang": "en"
 }
 },
+"news-verge-f35a07389044": {
+"id": "news-verge-f35a07389044",
+"source": "news",
+"kind": "media",
+"title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+"url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "The Verge",
+"feed": "verge",
+"lang": "en"
+}
+},
 "news-verge-f81ac359aaf4": {
 "id": "news-verge-f81ac359aaf4",
 "source": "news",
@@ -8159,6 +8969,21 @@
 "lang": "en"
 }
 },
+"news-wired-9137d792198e": {
+"id": "news-wired-9137d792198e",
+"source": "news",
+"kind": "media",
+"title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+"url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "WIRED",
+"feed": "wired",
+"lang": "en"
+}
+},
 "news-wired-932dc2df3404": {
 "id": "news-wired-932dc2df3404",
 "source": "news",
@@ -8181,6 +9006,21 @@
 "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
 "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
 "date": "2026-10-07",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "WIRED",
+"feed": "wired",
+"lang": "en"
+}
+},
+"news-wired-af9f71cc4716": {
+"id": "news-wired-af9f71cc4716",
+"source": "news",
+"kind": "media",
+"title": "Muse Wonder Puts Meta Back at the AI Frontier",
+"url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -8444,6 +9284,21 @@
 "lang": "ja"
 }
 },
+"news-xtech-2ac9b9f87967": {
+"id": "news-xtech-2ac9b9f87967",
+"source": "news",
+"kind": "media",
+"title": "WebブラウザーのAI機能で手軽に要約、PDFやYouTube動画にも適用できる",
+"url": "https://xtech.nikkei.com/atcl/nxt/column/18/03736/082800007/",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "日経クロステック",
+"feed": "xtech",
+"lang": "ja"
+}
+},
 "news-xtech-2cc7f03c3f43": {
 "id": "news-xtech-2cc7f03c3f43",
 "source": "news",
@@ -8451,6 +9306,21 @@
 "title": "AIシステムの特徴を理解しよう 「結果が変化」など注意点を押さえる",
 "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/100500575/100500001/",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "日経クロステック",
+"feed": "xtech",
+"lang": "ja"
+}
+},
+"news-xtech-42c90e631ea9": {
+"id": "news-xtech-42c90e631ea9",
+"source": "news",
+"kind": "media",
+"title": "AIに業務を最適化 広告と財務の変革",
+"url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600014/100500236/",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -8579,6 +9449,21 @@
 "lang": "ja"
 }
 },
+"news-xtech-71f1f84a296d": {
+"id": "news-xtech-71f1f84a296d",
+"source": "news",
+"kind": "media",
+"title": "生成AIに残るハルシネーションの影響、フィジカルAI開発分析",
+"url": "https://xtech.nikkei.com/atcl/nxt/column/18/03747/100500004/",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "日経クロステック",
+"feed": "xtech",
+"lang": "ja"
+}
+},
 "news-xtech-748c90e232e6": {
 "id": "news-xtech-748c90e232e6",
 "source": "news",
@@ -8601,6 +9486,51 @@
 "title": "Claude Coworkがクラウド型専用に、企業の懸念は減るか増えるか？",
 "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00692/100800200/",
 "date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "日経クロステック",
+"feed": "xtech",
+"lang": "ja"
+}
+},
+"news-xtech-890bec3795f5": {
+"id": "news-xtech-890bec3795f5",
+"source": "news",
+"kind": "media",
+"title": "値上げに見積もり有効期間の短縮、AIの大波に揺れるハード市場",
+"url": "https://xtech.nikkei.com/atcl/nxt/column/18/00848/00198/",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "日経クロステック",
+"feed": "xtech",
+"lang": "ja"
+}
+},
+"news-xtech-9c62b634e945": {
+"id": "news-xtech-9c62b634e945",
+"source": "news",
+"kind": "media",
+"title": "「7人の侍」が先兵 AI社員で自己変革へ",
+"url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/100500574/100500002/",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "日経クロステック",
+"feed": "xtech",
+"lang": "ja"
+}
+},
+"news-xtech-a7d1c616cd38": {
+"id": "news-xtech-a7d1c616cd38",
+"source": "news",
+"kind": "media",
+"title": "Claude Code責任者が語る「超超急成長」の理由、リソース逼迫を乗り越えろ",
+"url": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100600002/",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -8646,6 +9576,21 @@
 "title": "シャープがAIサーバーの受注を開始 2030年度に売上高2500億円目指す",
 "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020800017/092401500/",
 "date": "2026-10-01",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "日経クロステック",
+"feed": "xtech",
+"lang": "ja"
+}
+},
+"news-xtech-c24ed3fd10d3": {
+"id": "news-xtech-c24ed3fd10d3",
+"source": "news",
+"kind": "media",
+"title": "cotomiに託す賭け 自前AIを捨てない",
+"url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/100500574/100500003/",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -8834,6 +9779,21 @@
 "lang": "ja"
 }
 },
+"news-xtech-f38f00de6dff": {
+"id": "news-xtech-f38f00de6dff",
+"source": "news",
+"kind": "media",
+"title": "AIエージェントに評価やフィードバックも任せる「ループエンジニアリング」",
+"url": "https://xtech.nikkei.com/atcl/nxt/column/18/01679/082800300/",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "日経クロステック",
+"feed": "xtech",
+"lang": "ja"
+}
+},
 "news-xtech-fb797cec2c31": {
 "id": "news-xtech-fb797cec2c31",
 "source": "news",
@@ -8984,6 +9944,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-1605482d70d0": {
+"id": "news-zenn-ai-1605482d70d0",
+"source": "news",
+"kind": "community",
+"title": "Codex と Claude Code を同じフォルダで使う入口（AGENTS.md と CLAUDE.md）",
+"url": "https://zenn.dev/chiero/articles/ddf132b6783219",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-166a12bca7c1": {
 "id": "news-zenn-ai-166a12bca7c1",
 "source": "news",
@@ -9066,6 +10041,21 @@
 "title": "質問許可の指示は『聞くかどうか』でなく『どう聞くか』を変えた",
 "url": "https://zenn.dev/every_ai_recipe/articles/ai-question-limit-3-no-guess-check",
 "date": "2026-10-05",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-1c292015b746": {
+"id": "news-zenn-ai-1c292015b746",
+"source": "news",
+"kind": "community",
+"title": "AIの進化がもたらすサイバー攻撃の激増と今求められる防御側の常識",
+"url": "https://zenn.dev/dilettante/articles/5a419a9b7c38e2",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -9254,6 +10244,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-2f53376f8679": {
+"id": "news-zenn-ai-2f53376f8679",
+"source": "news",
+"kind": "community",
+"title": "Claude Code と Codex に「壊して」と頼むレビューが終わらない。他人のコードを読むアプリで、止める基準を決めた記録",
+"url": "https://zenn.dev/qzailabs/articles/ai-break-it-review-never-ends",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-2f71de9280b7": {
 "id": "news-zenn-ai-2f71de9280b7",
 "source": "news",
@@ -9306,6 +10311,21 @@
 "title": "Jevが一般公開されたので使ってみた",
 "url": "https://zenn.dev/non_miyan/articles/a3daa49a32c366",
 "date": "2026-10-10",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-31fb6f19a46c": {
+"id": "news-zenn-ai-31fb6f19a46c",
+"source": "news",
+"kind": "community",
+"title": "AIで仕事は速くなった。なのに「入力」だけ、まだ渋滞していない？",
+"url": "https://zenn.dev/keyro/articles/ford-ai-input-bottleneck",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -9381,6 +10401,21 @@
 "title": "【Python/Playwright】全国500万社の企業フォーム構造をセマンティック解析・自動最適化する実践アーキテクチャ",
 "url": "https://zenn.dev/kigyoulist/articles/3953f13ad8878a",
 "date": "2026-10-11",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-3d2ebc5db9c3": {
+"id": "news-zenn-ai-3d2ebc5db9c3",
+"source": "news",
+"kind": "community",
+"title": "Claude Code Desktop上でネコ飼い始めました！",
+"url": "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-pixel-pet",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -9479,6 +10514,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-477bbcb49c37": {
+"id": "news-zenn-ai-477bbcb49c37",
+"source": "news",
+"kind": "community",
+"title": "AIGoCodeで複数のAIモデルを1つのAPIキーで扱う",
+"url": "https://zenn.dev/aigocode/articles/18d9c9087e529f",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-47cd2ef3504f": {
 "id": "news-zenn-ai-47cd2ef3504f",
 "source": "news",
@@ -9539,6 +10589,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-51ddba1bea90": {
+"id": "news-zenn-ai-51ddba1bea90",
+"source": "news",
+"kind": "community",
+"title": "Claude CodeとCodexを同じリポジトリで並列に動かす: git worktreeの落とし穴と相互レビュー",
+"url": "https://zenn.dev/arun/articles/parallel-agents-git-worktree",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-530322ff7905": {
 "id": "news-zenn-ai-530322ff7905",
 "source": "news",
@@ -9576,6 +10641,21 @@
 "title": "LoreKitは本当に「ノーアカウント・ノーネットワーク」か実測してみた",
 "url": "https://zenn.dev/mskbhd/articles/lab-304-lorekit",
 "date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-54f57fecd5e8": {
+"id": "news-zenn-ai-54f57fecd5e8",
+"source": "news",
+"kind": "community",
+"title": "【2026年版】Fateで理解するAI業界",
+"url": "https://zenn.dev/akari1106/articles/45121eea6105d1",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -9869,6 +10949,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-718eec80478b": {
+"id": "news-zenn-ai-718eec80478b",
+"source": "news",
+"kind": "community",
+"title": "Grok Bot Tokyo Hackathon 参加レポート",
+"url": "https://zenn.dev/xxishan/articles/74d24d16f0f5c9",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-741647399478": {
 "id": "news-zenn-ai-741647399478",
 "source": "news",
@@ -9996,6 +11091,21 @@
 "title": "Claude Code 応用編まとめ その3（#11〜#15）：mods・ステータスライン・プラグインで拡張して配る",
 "url": "https://zenn.dev/zundamon_tools/articles/claude-code-advanced-guide-3",
 "date": "2026-10-07",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-7a8822195858": {
+"id": "news-zenn-ai-7a8822195858",
+"source": "news",
+"kind": "community",
+"title": "Cloudflare Pagesで消したファイルは、デプロイごとのURLに残る — 404を確かめても消えていなかった",
+"url": "https://zenn.dev/zeroyen_dev/articles/cloudflare-pages-deleted-file-remains",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -10304,6 +11414,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-98f5f059482b": {
+"id": "news-zenn-ai-98f5f059482b",
+"source": "news",
+"kind": "community",
+"title": "Claude Code で AI社員18人の会社を運営する：フォルダ構成と決まり",
+"url": "https://zenn.dev/chiero/articles/36f7889983c90c",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-9ae6d61269c0": {
 "id": "news-zenn-ai-9ae6d61269c0",
 "source": "news",
@@ -10379,6 +11504,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-a1671057f1b3": {
+"id": "news-zenn-ai-a1671057f1b3",
+"source": "news",
+"kind": "community",
+"title": "日本語の会議録音、ローカルWhisperはどのサイズで足りる？ Macで6サイズ×雑音・話し声・用語ヒントを実測した",
+"url": "https://zenn.dev/kagaage/articles/b046f8a597c63a",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-a181d6f2ab0c": {
 "id": "news-zenn-ai-a181d6f2ab0c",
 "source": "news",
@@ -10446,6 +11586,21 @@
 "title": "Claude Code 応用編まとめ その2（#6〜#10）：MCP・/resume・claude -p・/loop・worktree",
 "url": "https://zenn.dev/zundamon_tools/articles/claude-code-advanced-guide-2",
 "date": "2026-10-06",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-a715666fa71d": {
+"id": "news-zenn-ai-a715666fa71d",
+"source": "news",
+"kind": "community",
+"title": "AIに書かせた日本語を毎日直していたので、直し方ごとスキルにして公開しました",
+"url": "https://zenn.dev/koji4/articles/42b8c6d5901323",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -10544,6 +11699,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-abccb0a22f4c": {
+"id": "news-zenn-ai-abccb0a22f4c",
+"source": "news",
+"kind": "community",
+"title": "フロントエンドカンファレンス関西2026に参加",
+"url": "https://zenn.dev/daigo428/articles/f57cce23d1639d",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-abefda46e7c3": {
 "id": "news-zenn-ai-abefda46e7c3",
 "source": "news",
@@ -10596,6 +11766,21 @@
 "title": "HashPort WalletのMCPをPlugin Creatorでプラグイン化して接続してみた",
 "url": "https://zenn.dev/masaru21/articles/d9e86d96b9fa51",
 "date": "2026-10-06",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-af542b14718d": {
+"id": "news-zenn-ai-af542b14718d",
+"source": "news",
+"kind": "community",
+"title": "【2026年版】Fateで理解するローカルLLMの選び方",
+"url": "https://zenn.dev/akari1106/articles/3a050fde72159d",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -10739,6 +11924,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-bd42561b9e04": {
+"id": "news-zenn-ai-bd42561b9e04",
+"source": "news",
+"kind": "community",
+"title": "Claude Code も Codex CLI も並べて、協力させる。デスクトップアプリ yagura を公開しました",
+"url": "https://zenn.dev/satoh_y_0323/articles/37b7368106e311",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-c1475331b512": {
 "id": "news-zenn-ai-c1475331b512",
 "source": "news",
@@ -10746,6 +11946,21 @@
 "title": "AIエージェント時代のレビューを設計する — River Review 実践ガイド",
 "url": "https://zenn.dev/minewo/books/river-review-guide",
 "date": "2026-10-06",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-c2c8f98faa2f": {
+"id": "news-zenn-ai-c2c8f98faa2f",
+"source": "news",
+"kind": "community",
+"title": "data2vec / data2vec 2.0：文脈を含む正解の学習と、その計算の効率化",
+"url": "https://zenn.dev/mantis_ryuji/articles/data2vec-contextual-targets",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -10791,6 +12006,21 @@
 "title": "# 4ヶ月分のログから見つかったPanchan --- AIで始めたハニーポット深掘りと「既知」判定の盲点",
 "url": "https://zenn.dev/t4n4bot4/articles/f4fdd6f3c08699",
 "date": "2026-10-04",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-c810869dbf24": {
+"id": "news-zenn-ai-c810869dbf24",
+"source": "news",
+"kind": "community",
+"title": "Claude Code の Mod が「エラーなしで何も描かれない」時に見る 3 か所",
+"url": "https://zenn.dev/nakadaharuki/articles/claude-code-mods-silent-fail",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -11429,6 +12659,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-ai-f78c7fdf3591": {
+"id": "news-zenn-ai-f78c7fdf3591",
+"source": "news",
+"kind": "community",
+"title": "Anthropic、AIの試験を全部ネットから切り離す",
+"url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261012",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
 "news-zenn-ai-f8a5551e66f7": {
 "id": "news-zenn-ai-f8a5551e66f7",
 "source": "news",
@@ -11451,6 +12696,21 @@
 "title": "Claude Code の hooks で自動チェックを仕込む",
 "url": "https://zenn.dev/akinori901/articles/20260901-00mti530",
 "date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（AI）",
+"feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-ai-faf1ef933c1a": {
+"id": "news-zenn-ai-faf1ef933c1a",
+"source": "news",
+"kind": "community",
+"title": "AI駆動開発未経験だけどAI駆動開発について整理してみた。",
+"url": "https://zenn.dev/adajo/articles/5a671014c6aa6e",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -11546,6 +12806,21 @@
 "extra": {
 "publisher": "Zenn（AI）",
 "feed": "zenn-ai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-01b5b3ae2f5a": {
+"id": "news-zenn-genai-01b5b3ae2f5a",
+"source": "news",
+"kind": "community",
+"title": "ものづくりのでは雑でもメモを残そう！NotebookLMでCADマニュアルと経験を共有",
+"url": "https://zenn.dev/fibujrsl/articles/b3f3419d80286c",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
 "lang": "ja"
 }
 },
@@ -11706,6 +12981,21 @@
 "title": "AI導入の変更後に、確認した証拠を残す5項目",
 "url": "https://zenn.dev/miraigent/articles/ai-adoption-change-review-evidence",
 "date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-10dbca409770": {
+"id": "news-zenn-genai-10dbca409770",
+"source": "news",
+"kind": "community",
+"title": "AIに小説を書かせる道具を v1.0 にして公開した ―「ClaudeCodeOpus5任せ」を分解し、固定フローと他ハーネスの実施で標準化",
+"url": "https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part6",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -12014,6 +13304,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-2b34cfa6b929": {
+"id": "news-zenn-genai-2b34cfa6b929",
+"source": "news",
+"kind": "community",
+"title": "倉庫と配送の仕事、AIに任せる線はどこまでですか？ — 物流の職制で決める",
+"url": "https://zenn.dev/satoshimizuhara/articles/ai-agent-warehouse-layers",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-2bf5da065b0b": {
 "id": "news-zenn-genai-2bf5da065b0b",
 "source": "news",
@@ -12164,6 +13469,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-38a459ef4cfd": {
+"id": "news-zenn-genai-38a459ef4cfd",
+"source": "news",
+"kind": "community",
+"title": "新しいモデルが出るたびに何を試せばいいかわからないので、Xの個人ベンチを調べた",
+"url": "https://zenn.dev/uguisu_blog/articles/45fc19e9e1fe6d",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-3cc9ba9a54af": {
 "id": "news-zenn-genai-3cc9ba9a54af",
 "source": "news",
@@ -12269,6 +13589,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-45c1448ee040": {
+"id": "news-zenn-genai-45c1448ee040",
+"source": "news",
+"kind": "community",
+"title": "Excelの名寄せでAIに任せるのは候補出しまで — 検算は人間の仕事に戻す",
+"url": "https://zenn.dev/yoshitokinosita/articles/0012-excel-ai-nayose",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-462627d85600": {
 "id": "news-zenn-genai-462627d85600",
 "source": "news",
@@ -12306,6 +13641,21 @@
 "title": "言わない技術 序論：AI に指示することが、ほとんどなくなった",
 "url": "https://zenn.dev/garplab/articles/9382c1c9790cbc",
 "date": "2026-10-02",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-49a3ba12eb3c": {
+"id": "news-zenn-genai-49a3ba12eb3c",
+"source": "news",
+"kind": "community",
+"title": "実務者が書いたRAGの正解データは「文書の外」を含む — 消さずに分けて測る評価の作り方",
+"url": "https://zenn.dev/boy_techblog/articles/zenn-gold-answers-beyond-docs",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -12411,6 +13761,21 @@
 "title": "技術ブログはゆるやかに衰退している",
 "url": "https://zenn.dev/northward/articles/decline-of-tech-blogs",
 "date": "2026-10-05",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-524378dd8ee8": {
+"id": "news-zenn-genai-524378dd8ee8",
+"source": "news",
+"kind": "community",
+"title": "AIの設定レビュー、答え合わせはどこまで必要？｜AWS WAFで検証してみた",
+"url": "https://zenn.dev/takuyousou/articles/waf-ai-review",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -12561,6 +13926,21 @@
 "title": "高校数学からデジタルシンセサイザーを理解する。ChatGPTで動かす音響・信号処理・機械学習28選",
 "url": "https://zenn.dev/fibujrsl/articles/f07379a6510321",
 "date": "2026-10-10",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-5fa6364fba22": {
+"id": "news-zenn-genai-5fa6364fba22",
+"source": "news",
+"kind": "community",
+"title": "Claude Code Modsは要る? コードを書かない私が1つ入れて確かめた ── 安全な入れ方と、使ってみた感想",
+"url": "https://zenn.dev/menmen_ailab/articles/d1b8a41a908ad8",
+"date": "2026-10-13",
 "summary": "",
 "score": 0,
 "extra": {
@@ -12824,6 +14204,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-7ade72d6e5d6": {
+"id": "news-zenn-genai-7ade72d6e5d6",
+"source": "news",
+"kind": "community",
+"title": "短尺・音声なしの動画生成モデルで使うプロンプト設計チェックリスト（Gemini Omni Flash 1.1 を例に）",
+"url": "https://zenn.dev/ethan_caldwell/articles/d25a59412237f1",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-7b94b8e63256": {
 "id": "news-zenn-genai-7b94b8e63256",
 "source": "news",
@@ -12891,6 +14286,21 @@
 "title": "ChatGPTのIntelligent UIと自作Generative UIを比較して見えた3つの課題",
 "url": "https://zenn.dev/tk_1/articles/fe3e547047a472",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-80de8d25b013": {
+"id": "news-zenn-genai-80de8d25b013",
+"source": "news",
+"kind": "community",
+"title": "業務フロー図を Excel で描くのはもうやめたい —— AI も読める業務フローエディタ「AFdraw」",
+"url": "https://zenn.dev/thirtypower/articles/afdraw-business-flow-editor",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -12996,6 +14406,21 @@
 "title": "LLMの評価基準は共通化できるか？ Gemini・Claude・GPT-6で同じ回答を採点してみた",
 "url": "https://zenn.dev/lifona/articles/06f36d40abecf3",
 "date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-8fab0cbd3f65": {
+"id": "news-zenn-genai-8fab0cbd3f65",
+"source": "news",
+"kind": "community",
+"title": "言わない技術 第7回：AI を問い詰めない技術",
+"url": "https://zenn.dev/garplab/articles/40f489bf972380",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -13139,6 +14564,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-a0c11611fdb5": {
+"id": "news-zenn-genai-a0c11611fdb5",
+"source": "news",
+"kind": "community",
+"title": "月10万円で組織が使えるLLM基盤をどこまで作れるか（1）課題設定",
+"url": "https://zenn.dev/covanew/articles/d667ace7d0ad2f",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-a368353582ae": {
 "id": "news-zenn-genai-a368353582ae",
 "source": "news",
@@ -13199,6 +14639,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-a613ed0c4ba7": {
+"id": "news-zenn-genai-a613ed0c4ba7",
+"source": "news",
+"kind": "community",
+"title": "頭が爆発したので、仕様駆動開発（SDD）プラグインを自作してみた",
+"url": "https://zenn.dev/daichi0713/articles/spec-ramo-intro",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-a6bb142c0449": {
 "id": "news-zenn-genai-a6bb142c0449",
 "source": "news",
@@ -13244,6 +14699,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-aa24fa74430f": {
+"id": "news-zenn-genai-aa24fa74430f",
+"source": "news",
+"kind": "community",
+"title": "AIでコミットは240%増えた。なのにリリースは30%増――GitHubの大規模研究から見る開発のボトルネック",
+"url": "https://zenn.dev/kotakotahiro/articles/7ce3ac51c8e1ee",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-aa824b799adf": {
 "id": "news-zenn-genai-aa824b799adf",
 "source": "news",
@@ -13274,6 +14744,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-aced98eb1409": {
+"id": "news-zenn-genai-aced98eb1409",
+"source": "news",
+"kind": "community",
+"title": "AI自動化で「同じ処理を2回実行しない」ためのIdempotency設計",
+"url": "https://zenn.dev/aiai_tool/articles/8da1bff2484356",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-afe6f9a22894": {
 "id": "news-zenn-genai-afe6f9a22894",
 "source": "news",
@@ -13296,6 +14781,21 @@
 "title": "Snowflake の AI_SIMILARITY でしきい値を決める前に",
 "url": "https://zenn.dev/mochitec_tech/articles/62dc0f6ec1db62",
 "date": "2026-10-05",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-b1cc04314ca5": {
+"id": "news-zenn-genai-b1cc04314ca5",
+"source": "news",
+"kind": "community",
+"title": "AI導入を見送った判断を、次の検討に使える記録へ変える",
+"url": "https://zenn.dev/miraigent/articles/ai-adoption-not-now-reconsideration",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -13454,6 +14954,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-bf20fd829c65": {
+"id": "news-zenn-genai-bf20fd829c65",
+"source": "news",
+"kind": "community",
+"title": "止められたのは grep で、通ったのは本番の設定の削除だった — Claude Code の auto モードの判定を30日分数えた",
+"url": "https://zenn.dev/kuu_dqx/articles/denied-grep-allowed-delete",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-bf5da0c3130a": {
 "id": "news-zenn-genai-bf5da0c3130a",
 "source": "news",
@@ -13604,6 +15119,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-cbc2031d0d5e": {
+"id": "news-zenn-genai-cbc2031d0d5e",
+"source": "news",
+"kind": "community",
+"title": "生成AIの「意図した振る舞い」は、どこで保証されるのか ― MCPから検証可能な実行系へ、Agent研究の新たな方向 ―",
+"url": "https://zenn.dev/albatrosary/articles/72011e841c93a2",
+"date": "2026-10-13",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-cc56132fb062": {
 "id": "news-zenn-genai-cc56132fb062",
 "source": "news",
@@ -13611,6 +15141,21 @@
 "title": "課金したくないのでローカル3Dモデル生成を試してみた（Pixal3D + Qwen-Image）",
 "url": "https://zenn.dev/bestat/articles/local-image-to-3d-pixal3d",
 "date": "2026-10-07",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
+"news-zenn-genai-cc82ad8d8e51": {
+"id": "news-zenn-genai-cc82ad8d8e51",
+"source": "news",
+"kind": "community",
+"title": "【１日１デプロイ】しぐさを読む短編RPG「みっつのわざと雲の竜」を作った",
+"url": "https://zenn.dev/boraemon2000/articles/cloud-dragon-telegraph-preview",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -13949,6 +15494,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-genai-eb457d7a472a": {
+"id": "news-zenn-genai-eb457d7a472a",
+"source": "news",
+"kind": "community",
+"title": "Claude Codeのmodsを35行で書いた。検証コマンドは誤り3件を止めたが、素通り3通りには何も言わなかった",
+"url": "https://zenn.dev/numarn/articles/claude-code-mods-hook-test-handson",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（生成AI）",
+"feed": "zenn-genai",
+"lang": "ja"
+}
+},
 "news-zenn-genai-ee8dacd334d2": {
 "id": "news-zenn-genai-ee8dacd334d2",
 "source": "news",
@@ -14249,6 +15809,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-10dbca409770": {
+"id": "news-zenn-llm-10dbca409770",
+"source": "news",
+"kind": "community",
+"title": "AIに小説を書かせる道具を v1.0 にして公開した ―「Opusだから回った」を分解して、固定フローと他ハーネスの試験に分けた",
+"url": "https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part6",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-11793eb026d0": {
 "id": "news-zenn-llm-11793eb026d0",
 "source": "news",
@@ -14384,6 +15959,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-1bf96a04a4a6": {
+"id": "news-zenn-llm-1bf96a04a4a6",
+"source": "news",
+"kind": "community",
+"title": "並列サブエージェントを「信じる」から「見る」へ — AIエージェントのフォークを1本のタイムラインで眺める",
+"url": "https://zenn.dev/shekhar/articles/6bfaa0498b590a",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-1c219b200e06": {
 "id": "news-zenn-llm-1c219b200e06",
 "source": "news",
@@ -14421,6 +16011,21 @@
 "title": "「民主的」なLLMチームは外れ値を生まない――小説のプロットで複数モデルの協調を検証した",
 "url": "https://zenn.dev/infra_ojisan/articles/llm-team-plot-democracy-experiment",
 "date": "2026-10-05",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-1fa636638e92": {
+"id": "news-zenn-llm-1fa636638e92",
+"source": "news",
+"kind": "community",
+"title": "LLM04：データとモデルのポイズニングとは？AIが「毒」を学ぶと何が起きるのか",
+"url": "https://zenn.dev/monkey_gineer/articles/security-llm-04-data-model-poisoning",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -14549,6 +16154,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-28e49d3923bd": {
+"id": "news-zenn-llm-28e49d3923bd",
+"source": "news",
+"kind": "community",
+"title": "Anthropic公式の職種特化プラグイン集「knowledge-work-plugins」のメモリ機能で社内略語を解読させてみた",
+"url": "https://zenn.dev/matsushima_a/articles/day-013-knowledge-work-plugins-memory-recall",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-2999f713e4e5": {
 "id": "news-zenn-llm-2999f713e4e5",
 "source": "news",
@@ -14654,6 +16274,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-2ff7f5971bec": {
+"id": "news-zenn-llm-2ff7f5971bec",
+"source": "news",
+"kind": "community",
+"title": "セレクタを書かずにスクレイピングするツール jevrake を作りました",
+"url": "https://zenn.dev/ryokasai/articles/jevrake-selector-free-scraping",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-30172fea9b10": {
 "id": "news-zenn-llm-30172fea9b10",
 "source": "news",
@@ -14714,6 +16349,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-31f82c70c5af": {
+"id": "news-zenn-llm-31f82c70c5af",
+"source": "news",
+"kind": "community",
+"title": "【続編】RTX 2060 6GB で 125B LLM (Strata) を IQ3_XXS で動かしてみた。日本語は崩れないが返答に5分",
+"url": "https://zenn.dev/remuno/articles/strata-rtx2060-qwen38-flash-next-q3",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-334511b503af": {
 "id": "news-zenn-llm-334511b503af",
 "source": "news",
@@ -14766,6 +16416,21 @@
 "title": "CopilotやClaude CodeのVSCode拡張での会話コストを計算する",
 "url": "https://zenn.dev/maratishe/articles/260930-vscode-llm-cost-calculator",
 "date": "2026-10-04",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-3b587828136c": {
+"id": "news-zenn-llm-3b587828136c",
+"source": "news",
+"kind": "community",
+"title": "Milesによる責務を分離したRL実装とハーネス適合の実験",
+"url": "https://zenn.dev/rtanaka/articles/8a50b3973dd728",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -15029,6 +16694,36 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-541b6072f801": {
+"id": "news-zenn-llm-541b6072f801",
+"source": "news",
+"kind": "community",
+"title": "コンパクション後に完了済みタスクを再実行させない: subagent-driven-development の ledger を読む",
+"url": "https://zenn.dev/skillselion/articles/0f8d3f202f6de0",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-54f57fecd5e8": {
+"id": "news-zenn-llm-54f57fecd5e8",
+"source": "news",
+"kind": "community",
+"title": "【2026年版】Fateで理解するAI業界",
+"url": "https://zenn.dev/akari1106/articles/45121eea6105d1",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-5625288a735b": {
 "id": "news-zenn-llm-5625288a735b",
 "source": "news",
@@ -15081,6 +16776,21 @@
 "title": "校準データなしで切る──LILAが特異値分布のKS距離だけでLLMを構造化プルーニングする仕組み",
 "url": "https://zenn.dev/lixian/articles/lila-calibration-free-spectral-pruning",
 "date": "2026-10-04",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-59470c361c77": {
+"id": "news-zenn-llm-59470c361c77",
+"source": "news",
+"kind": "community",
+"title": "LLM03：サプライチェーンとは？借りてきたAIモデルを信頼してよいのか",
+"url": "https://zenn.dev/monkey_gineer/articles/security-llm-03-supply-chain",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -15231,6 +16941,21 @@
 "title": "途中で切れたJSONを「直す」と、切れたことに気づけなくなる ― 853通りの切れ方で測った",
 "url": "https://zenn.dev/tonbifun/articles/36e851c9e059c7",
 "date": "2026-10-06",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-61901607d7d8": {
+"id": "news-zenn-llm-61901607d7d8",
+"source": "news",
+"kind": "community",
+"title": "ローカルLLM 41モデルが1つも解けなかった算数の6問は、問題の訳のせいだった",
+"url": "https://zenn.dev/llmonmac/articles/mgsm-rev2-remeasure",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -15501,6 +17226,21 @@
 "title": "RTX 3060でLLMの重み行列を約50分の1に圧縮した時、元の計算は再現するのか",
 "url": "https://zenn.dev/skot2km/articles/5007884357200f",
 "date": "2026-10-11",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-723321e1059f": {
+"id": "news-zenn-llm-723321e1059f",
+"source": "news",
+"kind": "community",
+"title": "AIに会社を任せたら何も決まらなかったので、社長をやることにした",
+"url": "https://zenn.dev/think_node/articles/800c0df4b15ace",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -15839,6 +17579,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-8b99ebb8e9e0": {
+"id": "news-zenn-llm-8b99ebb8e9e0",
+"source": "news",
+"kind": "community",
+"title": "AIエージェントに仕事を任せる現場のセキュリティ対策",
+"url": "https://zenn.dev/mio_data_jp/articles/ai-agent-company-security",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-8d0f855c9d75": {
 "id": "news-zenn-llm-8d0f855c9d75",
 "source": "news",
@@ -15921,6 +17676,21 @@
 "title": "JevK5 v0.3実機検証｜Jev Decision Index・JevBench評価と全判断モデル比較マスター表",
 "url": "https://zenn.dev/null_teck/articles/jevk5-benchmark-decision-index",
 "date": "2026-10-03",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-94f2a50b08a5": {
+"id": "news-zenn-llm-94f2a50b08a5",
+"source": "news",
+"kind": "community",
+"title": "中国製オープンウェイトモデルに、自社サービスの脆弱性を探させた",
+"url": "https://zenn.dev/neurogica/articles/ef9ebaa4f3e9bd",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -16064,6 +17834,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-9bb90fca328e": {
+"id": "news-zenn-llm-9bb90fca328e",
+"source": "news",
+"kind": "community",
+"title": "Jevを日本語判定での導入検証メモ",
+"url": "https://zenn.dev/i2bskn/articles/7169a9c960c8b8",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-9c582ff1d14e": {
 "id": "news-zenn-llm-9c582ff1d14e",
 "source": "news",
@@ -16109,6 +17894,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-a0c11611fdb5": {
+"id": "news-zenn-llm-a0c11611fdb5",
+"source": "news",
+"kind": "community",
+"title": "月10万円で組織が使えるLLM基盤をどこまで作れるか（1）課題設定",
+"url": "https://zenn.dev/covanew/articles/d667ace7d0ad2f",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-a1a67bd0c2c0": {
 "id": "news-zenn-llm-a1a67bd0c2c0",
 "source": "news",
@@ -16116,6 +17916,21 @@
 "title": "Mac mini M5 Pro (2026) の 64GB でローカル LLM はどれが使えるか",
 "url": "https://zenn.dev/unchox/articles/mac-mini-m5-pro-64gb-local-llm-bench",
 "date": "2026-10-08",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-a2f4a9f361b0": {
+"id": "news-zenn-llm-a2f4a9f361b0",
+"source": "news",
+"kind": "community",
+"title": "Tech Watch 2026-10-13: 小さな探索役と自己改善するチーム",
+"url": "https://zenn.dev/laiken/articles/20261013-tech-watch",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -16206,6 +18021,21 @@
 "title": "事実確認を通っても残った言い過ぎ——AIが書いた記事を一次記録で逆引きして直した",
 "url": "https://zenn.dev/mukuro696/articles/7b3caf5758ddd4",
 "date": "2026-10-07",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-ab2c87417a3f": {
+"id": "news-zenn-llm-ab2c87417a3f",
+"source": "news",
+"kind": "community",
+"title": "OpenAI Decisions API を日本語判定で検証し、Jev と比べたメモ",
+"url": "https://zenn.dev/i2bskn/articles/7f3f374e4272bb",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {
@@ -16484,6 +18314,21 @@
 "lang": "ja"
 }
 },
+"news-zenn-llm-ca65a0931dec": {
+"id": "news-zenn-llm-ca65a0931dec",
+"source": "news",
+"kind": "community",
+"title": "Ternary Bonsai 2 27BをRTX 4070で動かす：PrismML版llama.cpp、思考の止め方、文脈枠の崖",
+"url": "https://zenn.dev/localai_lab/articles/e99753d9876882",
+"date": "2026-10-12",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
 "news-zenn-llm-cc970a0bf2bc": {
 "id": "news-zenn-llm-cc970a0bf2bc",
 "source": "news",
@@ -16746,6 +18591,21 @@
 "title": "AIエージェントが「嘘の成功報告」をする — 自作IDEの失敗吸収ハーネスを強化した話",
 "url": "https://zenn.dev/cuculhart/articles/0cd15131dafab1",
 "date": "2026-10-09",
+"summary": "",
+"score": 0,
+"extra": {
+"publisher": "Zenn（LLM）",
+"feed": "zenn-llm",
+"lang": "ja"
+}
+},
+"news-zenn-llm-efa6c7c25c0c": {
+"id": "news-zenn-llm-efa6c7c25c0c",
+"source": "news",
+"kind": "community",
+"title": "ローカルLLMの住人の島で100日、お金が貯まったパン屋から島を出ていった",
+"url": "https://zenn.dev/llmonmac/articles/island-economy-100-days",
+"date": "2026-10-12",
 "summary": "",
 "score": 0,
 "extra": {

@@ -1,4 +1,30 @@
 {
+"repo-Aryanutkarsh__SeeCode": {
+"id": "repo-Aryanutkarsh__SeeCode",
+"source": "github",
+"kind": "repo",
+"title": "Aryanutkarsh/SeeCode",
+"url": "https://github.com/Aryanutkarsh/SeeCode",
+"date": "2026-10-02",
+"summary": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
+"score": 424,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-skills",
+"ai-agents",
+"architecture-diagram",
+"claude-code",
+"claude-skills",
+"codex",
+"coding-agents",
+"data-visualization",
+"developer-tools",
+"diagrams"
+],
+"license": "MIT"
+}
+},
 "repo-Ayzzz123__mcd-coupon-strategist": {
 "id": "repo-Ayzzz123__mcd-coupon-strategist",
 "source": "github",
@@ -7,7 +33,7 @@
 "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
 "date": "2026-10-10",
 "summary": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
-"score": 171,
+"score": 232,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -81,7 +107,7 @@
 "url": "https://github.com/Folkbench/folkbench",
 "date": "2026-10-02",
 "summary": "Folkbench 是一个可信的 AI 中转站评测与服务目录，按模型比较可用率、响应速度、价格、隐私与运营证据",
-"score": 306,
+"score": 590,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -90,10 +116,11 @@
 "api-relay-pricing",
 "benchmark",
 "benchmarks",
+"claude",
+"claude-code",
+"codex",
 "folkbench",
-"llm",
-"model-evaluation",
-"reliability"
+"llm"
 ],
 "license": "NOASSERTION"
 }
@@ -106,7 +133,7 @@
 "url": "https://github.com/GTKottman/mortiflix-oss",
 "date": "2026-10-05",
 "summary": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-"score": 571,
+"score": 593,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -130,7 +157,7 @@
 "url": "https://github.com/Harvil1/codeAgent",
 "date": "2026-10-02",
 "summary": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the…",
-"score": 219,
+"score": 309,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -156,7 +183,7 @@
 "url": "https://github.com/LingCore/WinShun",
 "date": "2026-10-08",
 "summary": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP serve…",
-"score": 185,
+"score": 241,
 "extra": {
 "lang": "C++",
 "topics": [
@@ -182,7 +209,7 @@
 "url": "https://github.com/LosaLosSantos/aurelio-finance",
 "date": "2026-10-06",
 "summary": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
-"score": 2223,
+"score": 2905,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -208,7 +235,7 @@
 "url": "https://github.com/MirroS-Lab/AgentGarten",
 "date": "2026-10-08",
 "summary": "AgentGarten: Code Worlds for Evolving Agents",
-"score": 156,
+"score": 173,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -228,7 +255,7 @@
 "url": "https://github.com/QingYunA/answer-me-with-html",
 "date": "2026-10-02",
 "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-"score": 2900,
+"score": 3150,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -240,8 +267,8 @@
 "claude-skills",
 "cli",
 "diagram",
-"explainer",
-"html"
+"dsh-plugin",
+"explainer"
 ],
 "license": "MIT"
 }
@@ -254,7 +281,7 @@
 "url": "https://github.com/Router0824/OpsPilot-AI",
 "date": "2026-10-03",
 "summary": "Open-source AI operations workspace for meetings, knowledge, decisions, tasks, risks, workflows, and organizational memory.",
-"score": 70,
+"score": 80,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -270,6 +297,30 @@
 "license": "MIT"
 }
 },
+"repo-Tejashmakwana__motionmaxxing": {
+"id": "repo-Tejashmakwana__motionmaxxing",
+"source": "github",
+"kind": "repo",
+"title": "Tejashmakwana/motionmaxxing",
+"url": "https://github.com/Tejashmakwana/motionmaxxing",
+"date": "2026-10-06",
+"summary": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+"score": 283,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-skills",
+"ai",
+"claude-code",
+"gsap",
+"hyperframes",
+"motion-graphics",
+"motionmaxxing",
+"video"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-VoltAgent__official-mcp-servers": {
 "id": "repo-VoltAgent__official-mcp-servers",
 "source": "github",
@@ -278,7 +329,7 @@
 "url": "https://github.com/VoltAgent/official-mcp-servers",
 "date": "2026-10-01",
 "summary": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
-"score": 295,
+"score": 306,
 "extra": {
 "lang": "",
 "topics": [
@@ -304,7 +355,7 @@
 "url": "https://github.com/bherbruck/solidcraft",
 "date": "2026-10-07",
 "summary": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-"score": 564,
+"score": 1103,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -329,7 +380,7 @@
 "url": "https://github.com/celador/weft",
 "date": "2026-10-04",
 "summary": "Weft Coordination Protocol (WCP): live coordination for parallel coding agents across harnesses, built on Cloudflare. An Atelier (elier.ai) open-source project.",
-"score": 36,
+"score": 37,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -342,6 +393,58 @@
 "license": "MIT"
 }
 },
+"repo-deeplethe__solid-glass": {
+"id": "repo-deeplethe__solid-glass",
+"source": "github",
+"kind": "repo",
+"title": "deeplethe/solid-glass",
+"url": "https://github.com/deeplethe/solid-glass",
+"date": "2026-10-12",
+"summary": "A design system for AI applications. Material, physical, tactile, technical.",
+"score": 230,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agent-ui",
+"ai",
+"ai-agents",
+"chat-ui",
+"design-system",
+"llm",
+"react",
+"shadcn",
+"shadcn-ui",
+"tailwindcss"
+],
+"license": "MIT"
+}
+},
+"repo-final-bench__ongrid": {
+"id": "repo-final-bench__ongrid",
+"source": "github",
+"kind": "repo",
+"title": "final-bench/ongrid",
+"url": "https://github.com/final-bench/ongrid",
+"date": "2026-10-09",
+"summary": "ONGRID — Ontology-Native Graph · Retrieval · Inference · Decision. 3D knowledge graph + zero-token ZTC answer verification. by VIDRAFT.",
+"score": 31,
+"extra": {
+"lang": "HTML",
+"topics": [
+"3d-visualization",
+"answer-verification",
+"graphrag",
+"hallucination-detection",
+"knowledge-graph",
+"llm",
+"ontology",
+"rag",
+"threejs",
+"vidraft"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-franzenzenhofer__big-arrow-on-the-screen": {
 "id": "repo-franzenzenhofer__big-arrow-on-the-screen",
 "source": "github",
@@ -350,7 +453,7 @@
 "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
 "date": "2026-10-08",
 "summary": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-"score": 625,
+"score": 670,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -373,7 +476,7 @@
 "url": "https://github.com/h9-tec/arabic-ai-atlas",
 "date": "2026-10-04",
 "summary": "The Arabic AI ecosystem as a map, a list, and a skill your agent can install.",
-"score": 34,
+"score": 35,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -399,7 +502,7 @@
 "url": "https://github.com/jiwoochris/artex-ko",
 "date": "2026-10-03",
 "summary": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"score": 1232,
+"score": 1386,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -440,6 +543,27 @@
 "license": "MIT"
 }
 },
+"repo-junjiezhou1122__ideascientist-claude-code": {
+"id": "repo-junjiezhou1122__ideascientist-claude-code",
+"source": "github",
+"kind": "repo",
+"title": "junjiezhou1122/ideascientist-claude-code",
+"url": "https://github.com/junjiezhou1122/ideascientist-claude-code",
+"date": "2026-10-09",
+"summary": "Native Claude Code, Codex and Pi adaptations of IdeaScientist for automatic, evidence-grounded research ideation.",
+"score": 34,
+"extra": {
+"lang": "Python",
+"topics": [
+"agents",
+"claude-code",
+"claude-code-plugin",
+"research",
+"scientific-ideation"
+],
+"license": "NOASSERTION"
+}
+},
 "repo-kkjiangk__agent-py": {
 "id": "repo-kkjiangk__agent-py",
 "source": "github",
@@ -448,7 +572,7 @@
 "url": "https://github.com/kkjiangk/agent-py",
 "date": "2026-10-04",
 "summary": "Personal AIOps engineering project with durable workflows, scoped hybrid retrieval, reliable event delivery, and verified API/browser contracts.",
-"score": 68,
+"score": 84,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -472,7 +596,7 @@
 "url": "https://github.com/kouhxp/gutsy",
 "date": "2026-10-01",
 "summary": "Local decision model with calibrated probabilities: send a state and yes/no, choice or score questions, get a probability for every option. 0.8B GGUF on CPU, Jev-style API.",
-"score": 86,
+"score": 89,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -498,7 +622,7 @@
 "url": "https://github.com/longsurf-ai/openchart",
 "date": "2026-10-05",
 "summary": "OSS trading workspace with agents",
-"score": 162,
+"score": 171,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -524,7 +648,7 @@
 "url": "https://github.com/mariagorskikh/open-instinct",
 "date": "2026-10-03",
 "summary": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
-"score": 298,
+"score": 316,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -540,6 +664,32 @@
 "typescript"
 ],
 "license": "MIT"
+}
+},
+"repo-morluto__awesome-reverse-engineering": {
+"id": "repo-morluto__awesome-reverse-engineering",
+"source": "github",
+"kind": "repo",
+"title": "morluto/awesome-reverse-engineering",
+"url": "https://github.com/morluto/awesome-reverse-engineering",
+"date": "2026-10-09",
+"summary": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
+"score": 303,
+"extra": {
+"lang": "",
+"topics": [
+"agent-skills",
+"ai-agents",
+"awesome",
+"awesome-list",
+"binary-analysis",
+"ctf",
+"cybersecurity",
+"debugging",
+"decompiler",
+"disassembler"
+],
+"license": "CC0-1.0"
 }
 },
 "repo-nachisama__ai-data-extractor": {
@@ -568,6 +718,31 @@
 "license": "MIT"
 }
 },
+"repo-onehumanbeing__esp32-iphone-agent": {
+"id": "repo-onehumanbeing__esp32-iphone-agent",
+"source": "github",
+"kind": "repo",
+"title": "onehumanbeing/esp32-iphone-agent",
+"url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+"date": "2026-10-11",
+"summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+"score": 706,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-agent",
+"airplay",
+"automation",
+"computer-use",
+"esp32",
+"esp32-s3",
+"iphone",
+"llm",
+"usb-hid"
+],
+"license": "MIT"
+}
+},
 "repo-openpactprotocol__openpactprotocol": {
 "id": "repo-openpactprotocol__openpactprotocol",
 "source": "github",
@@ -576,7 +751,7 @@
 "url": "https://github.com/openpactprotocol/openpactprotocol",
 "date": "2026-10-01",
 "summary": "PACT is an open protocol for personal agents to interact with businesses’ agents under explicit, verifiable user permissions.",
-"score": 107,
+"score": 108,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -598,7 +773,7 @@
 "url": "https://github.com/openqodex/openqodex",
 "date": "2026-10-02",
 "summary": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanne…",
-"score": 602,
+"score": 634,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -624,7 +799,7 @@
 "url": "https://github.com/ozcancelik/harfiyen",
 "date": "2026-10-09",
 "summary": "Tarayıcıda çalışan Türkçe konuşma tanıma ve altyazı aracı. Otomatik noktalama, canlı transkript ve altyazılı video dışa aktarma. Tamamen yerel, WebGPU destekli.",
-"score": 32,
+"score": 44,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -650,7 +825,7 @@
 "url": "https://github.com/p10node/docflare-ai",
 "date": "2026-10-07",
 "summary": "Open-source AI chatbot & site search for your docs. One <script> tag, streaming answers with sources. 100% Cloudflare-native (Workers AI + Vectorize + D1), runs free on the free tier.",
-"score": 38,
+"score": 39,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -676,7 +851,7 @@
 "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
 "date": "2026-10-07",
 "summary": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
-"score": 71,
+"score": 72,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -694,6 +869,30 @@
 "license": "MIT"
 }
 },
+"repo-soltia48__jr-conventional-line-radio-receiver": {
+"id": "repo-soltia48__jr-conventional-line-radio-receiver",
+"source": "github",
+"kind": "repo",
+"title": "soltia48/jr-conventional-line-radio-receiver",
+"url": "https://github.com/soltia48/jr-conventional-line-radio-receiver",
+"date": "2026-10-10",
+"summary": "A desktop receiver for digital train radio on JR conventional railway lines, built with Rust, Tauri 2, and SoapySDR.",
+"score": 38,
+"extra": {
+"lang": "Rust",
+"topics": [
+"audio",
+"celp",
+"codec",
+"dsp",
+"radio",
+"sdr",
+"speech",
+"wireless"
+],
+"license": "MIT"
+}
+},
 "repo-speridlabs__iris-3b": {
 "id": "repo-speridlabs__iris-3b",
 "source": "github",
@@ -702,7 +901,7 @@
 "url": "https://github.com/speridlabs/iris-3b",
 "date": "2026-10-05",
 "summary": "Iris-3B: pixel-space generation & general vision learner. A 3B diffusion transformer that generates every pixel directly (no VAE); the same prior, fine-tuned, does monocular depth estimation and 4x i…",
-"score": 113,
+"score": 131,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -728,7 +927,7 @@
 "url": "https://github.com/strands-agents/box",
 "date": "2026-10-02",
 "summary": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keep…",
-"score": 332,
+"score": 372,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -800,7 +999,7 @@
 "url": "https://github.com/whirlchat/whirl",
 "date": "2026-10-02",
 "summary": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-"score": 506,
+"score": 505,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -826,7 +1025,7 @@
 "url": "https://github.com/xop01/ai_goodpractice",
 "date": "2026-10-02",
 "summary": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
-"score": 215,
+"score": 249,
 "extra": {
 "lang": "",
 "topics": [
@@ -842,6 +1041,51 @@
 "guideline"
 ],
 "license": ""
+}
+},
+"repo-yzg1226__mcd-party-officer": {
+"id": "repo-yzg1226__mcd-party-officer",
+"source": "github",
+"kind": "repo",
+"title": "yzg1226/mcd-party-officer",
+"url": "https://github.com/yzg1226/mcd-party-officer",
+"date": "2026-10-09",
+"summary": "🍟 麦当劳门店派对成团调度 Skill — 把派对从「策划」推进到「办得成」：成团概率雷达 / 包场vs拼团 / 择日黄历 / 儿童营养指数 / 招募卡与邀请函",
+"score": 158,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skill",
+"mcdonalds",
+"mcp",
+"mcp-server",
+"party",
+"python",
+"workbuddy"
+],
+"license": "MIT"
+}
+},
+"repo-zhuyansen__new-term-radar": {
+"id": "repo-zhuyansen__new-term-radar",
+"source": "github",
+"kind": "repo",
+"title": "zhuyansen/new-term-radar",
+"url": "https://github.com/zhuyansen/new-term-radar",
+"date": "2026-10-12",
+"summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+"score": 592,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai",
+"aisa",
+"github-actions",
+"keyword-research",
+"seo",
+"trends"
+],
+"license": "MIT"
 }
 }
 }

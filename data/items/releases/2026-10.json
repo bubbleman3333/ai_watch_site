@@ -7,13 +7,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-3B",
 "date": "2026-10-05",
 "summary": "",
-"score": 299,
+"score": 346,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 10843,
+"downloads": 11866,
 "lang": "en"
 }
 },
@@ -25,13 +25,67 @@
 "url": "https://huggingface.co/LiquidAI/d1-3B-GGUF",
 "date": "2026-10-06",
 "summary": "",
-"score": 43,
+"score": 51,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 13742,
+"downloads": 16778,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-3B-MLX-4bit": {
+"id": "release-LiquidAI__d1-3B-MLX-4bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-3B-MLX-4bit",
+"url": "https://huggingface.co/LiquidAI/d1-3B-MLX-4bit",
+"date": "2026-10-12",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 8,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-3B-MLX-8bit": {
+"id": "release-LiquidAI__d1-3B-MLX-8bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-3B-MLX-8bit",
+"url": "https://huggingface.co/LiquidAI/d1-3B-MLX-8bit",
+"date": "2026-10-12",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 7,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-3B-MLX-fp16": {
+"id": "release-LiquidAI__d1-3B-MLX-fp16",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-3B-MLX-fp16",
+"url": "https://huggingface.co/LiquidAI/d1-3B-MLX-fp16",
+"date": "2026-10-12",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 6,
 "lang": "en"
 }
 },
@@ -43,13 +97,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-3B-w8a8",
 "date": "2026-10-07",
 "summary": "",
-"score": 6,
+"score": 7,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 151,
+"downloads": 178,
 "lang": "en"
 }
 },
@@ -61,13 +115,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-omni-600M",
 "date": "2026-10-05",
 "summary": "",
-"score": 106,
+"score": 115,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 10489,
+"downloads": 10942,
 "lang": "en"
 }
 },
@@ -79,13 +133,49 @@
 "url": "https://huggingface.co/LiquidAI/d1-omni-600M-GGUF",
 "date": "2026-10-06",
 "summary": "",
-"score": 39,
+"score": 41,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 4132,
+"downloads": 4955,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-omni-600M-MLX-8bit": {
+"id": "release-LiquidAI__d1-omni-600M-MLX-8bit",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-omni-600M-MLX-8bit",
+"url": "https://huggingface.co/LiquidAI/d1-omni-600M-MLX-8bit",
+"date": "2026-10-12",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 11,
+"lang": "en"
+}
+},
+"release-LiquidAI__d1-omni-600M-MLX-fp16": {
+"id": "release-LiquidAI__d1-omni-600M-MLX-fp16",
+"source": "releases",
+"kind": "release",
+"title": "LiquidAI/d1-omni-600M-MLX-fp16",
+"url": "https://huggingface.co/LiquidAI/d1-omni-600M-MLX-fp16",
+"date": "2026-10-12",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "LiquidAI",
+"publisher": "Liquid AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 6,
 "lang": "en"
 }
 },
@@ -97,13 +187,13 @@
 "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
 "date": "2026-10-09",
 "summary": "",
-"score": 537,
+"score": 639,
 "extra": {
 "org": "Qwen",
 "publisher": "Qwen（Alibaba）",
 "jp": false,
 "task": "text-to-image",
-"downloads": 4702,
+"downloads": 6787,
 "lang": "en"
 }
 },
@@ -121,7 +211,7 @@
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 641,
+"downloads": 662,
 "lang": "ja"
 }
 },
@@ -139,7 +229,7 @@
 "publisher": "ELYZA",
 "jp": true,
 "task": "text-generation",
-"downloads": 644,
+"downloads": 668,
 "lang": "ja"
 }
 },
@@ -187,13 +277,13 @@
 "url": "https://huggingface.co/mistralai/LIDstral-Arabic",
 "date": "2026-10-08",
 "summary": "",
-"score": 10,
+"score": 16,
 "extra": {
 "org": "mistralai",
 "publisher": "Mistral AI",
 "jp": false,
 "task": "text-classification",
-"downloads": 49,
+"downloads": 56,
 "lang": "en"
 }
 },
@@ -205,13 +295,13 @@
 "url": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-Arabic",
 "date": "2026-10-08",
 "summary": "",
-"score": 16,
+"score": 26,
 "extra": {
 "org": "mistralai",
 "publisher": "Mistral AI",
 "jp": false,
 "task": "automatic-speech-recognition",
-"downloads": 218,
+"downloads": 387,
 "lang": "en"
 }
 },
@@ -241,13 +331,31 @@
 "url": "https://huggingface.co/nvidia/PixelUMM",
 "date": "2026-10-01",
 "summary": "",
-"score": 81,
+"score": 84,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-to-text",
 "downloads": 0,
+"lang": "en"
+}
+},
+"release-nvidia__Qwen-Image-NVFP4": {
+"id": "release-nvidia__Qwen-Image-NVFP4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Qwen-Image-NVFP4",
+"url": "https://huggingface.co/nvidia/Qwen-Image-NVFP4",
+"date": "2026-10-09",
+"summary": "",
+"score": 3,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-to-image",
+"downloads": 2,
 "lang": "en"
 }
 },
@@ -295,7 +403,7 @@
 "url": "https://huggingface.co/nvidia/agile_one_s_pick_ssd_n2_1120",
 "date": "2026-10-10",
 "summary": "",
-"score": 0,
+"score": 1,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
@@ -385,13 +493,13 @@
 "url": "https://huggingface.co/tencent/Youtu-Parsing-Omni",
 "date": "2026-10-09",
 "summary": "",
-"score": 77,
+"score": 86,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 549,
+"downloads": 741,
 "lang": "en"
 }
 }
