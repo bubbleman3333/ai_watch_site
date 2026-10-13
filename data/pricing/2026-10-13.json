@@ -387,15 +387,6 @@
 "modality": "text+image+file->text"
 },
 {
-"id": "apodex/apodex-1.1-mini:free",
-"name": "Apodex: Apodex 1.1 Mini (free)",
-"created": "2026-10-01",
-"context": 262144,
-"in": 0.0,
-"out": 0.0,
-"modality": "text->text"
-},
-{
 "id": "arcee-ai/trinity-large-thinking",
 "name": "Arcee AI: Trinity Large Thinking",
 "created": "2026-04-01",
@@ -607,8 +598,8 @@
 "name": "DeepSeek: DeepSeek V4 Flash 0423",
 "created": "2026-04-24",
 "context": 1048576,
-"in": 0.0159,
-"out": 1.28,
+"in": 0.091,
+"out": 0.182,
 "modality": "text->text"
 },
 {
@@ -643,8 +634,8 @@
 "name": "DeepSeek: DeepSeek V4 Pro 0813",
 "created": "2026-08-12",
 "context": 1048576,
-"in": 1.32,
-"out": 3.96,
+"in": 0.66,
+"out": 1.98,
 "modality": "text->text"
 },
 {
@@ -652,8 +643,8 @@
 "name": "DeepSeek: DeepSeek V4.1 Flash",
 "created": "2026-09-10",
 "context": 1048576,
-"in": 0.3,
-"out": 1.2,
+"in": 0.15,
+"out": 0.6,
 "modality": "text+image->text"
 },
 {
@@ -963,6 +954,24 @@
 "modality": "text+image+file+audio+video->text"
 },
 {
+"id": "google/gemini-4-argon",
+"name": "Google: Gemini 4 Argon",
+"created": "2026-10-13",
+"context": 1048576,
+"in": 2.0,
+"out": 10.0,
+"modality": "text+image+file+audio+video->text"
+},
+{
+"id": "google/gemini-4-argon:batch",
+"name": "Google: Gemini 4 Argon (batch)",
+"created": "2026-10-13",
+"context": 1048576,
+"in": 1.0,
+"out": 5.0,
+"modality": "text+image+file+audio+video->text"
+},
+{
 "id": "google/gemini-nano-banana-2.1",
 "name": "Google: Nano Banana 2.1",
 "created": "2026-10-06",
@@ -1116,30 +1125,12 @@
 "modality": "text->text"
 },
 {
-"id": "inclusionai/ling-3.0-flash-fin",
-"name": "inclusionAI: Ling 3.0 Flash Fin",
-"created": "2026-08-27",
-"context": 262144,
-"in": 0.042,
-"out": 0.1232,
-"modality": "text->text"
-},
-{
-"id": "inclusionai/ling-3.0-flash-sante",
-"name": "inclusionAI: Ling 3.0 Flash Sante",
-"created": "2026-09-04",
-"context": 262144,
-"in": 0.042,
-"out": 0.1232,
-"modality": "text->text"
-},
-{
 "id": "inclusionai/ling-3.0-flash-vl",
 "name": "inclusionAI: Ling 3.0 Flash VL",
 "created": "2026-09-10",
-"context": 262144,
-"in": 0.021,
-"out": 0.0616,
+"context": 131072,
+"in": 0.06,
+"out": 0.18,
 "modality": "text+image+video->text"
 },
 {
@@ -1147,8 +1138,8 @@
 "name": "inclusionAI: Ling 3.1 Flash",
 "created": "2026-10-02",
 "context": 262144,
-"in": 0.0,
-"out": 0.0,
+"in": 0.075,
+"out": 0.225,
 "modality": "text->text"
 },
 {
@@ -1176,6 +1167,15 @@
 "context": 65536,
 "in": 0.0,
 "out": 0.0,
+"modality": "text->text"
+},
+{
+"id": "liquid/lfm-2.5-24b-a2b",
+"name": "LiquidAI: LFM2.5-24B-A2B",
+"created": "2026-10-13",
+"context": 128000,
+"in": 0.05,
+"out": 0.7,
 "modality": "text->text"
 },
 {
@@ -1715,7 +1715,7 @@
 "created": "2026-07-16",
 "context": 1048576,
 "in": 0.73,
-"out": 13.5,
+"out": 10.0,
 "modality": "text+image+video->text"
 },
 {
@@ -3145,8 +3145,8 @@
 "name": "Qwen: Qwen3.5-35B-A3B",
 "created": "2026-02-25",
 "context": 262144,
-"in": 0.08,
-"out": 0.75,
+"in": 0.15,
+"out": 1.0,
 "modality": "text+image+video->text"
 },
 {
@@ -3411,6 +3411,24 @@
 "modality": "text->text"
 },
 {
+"id": "scaledown/extract",
+"name": "ScaleDown: Extract",
+"created": "2026-10-13",
+"context": 1000000,
+"in": 0.04,
+"out": 0.0,
+"modality": "text+image+file->text"
+},
+{
+"id": "scaledown/summarize",
+"name": "ScaleDown: Summarize",
+"created": "2026-10-13",
+"context": 1000000,
+"in": 0.04,
+"out": 0.0,
+"modality": "text+image+file->text"
+},
+{
 "id": "stepfun/step-3.5-flash",
 "name": "StepFun: Step 3.5 Flash",
 "created": "2026-01-29",
@@ -3478,8 +3496,8 @@
 "name": "Tencent: Hy3",
 "created": "2026-07-06",
 "context": 262144,
-"in": 0.132,
-"out": 0.528,
+"in": 0.0825,
+"out": 0.33,
 "modality": "text->text"
 },
 {
@@ -3496,8 +3514,8 @@
 "name": "Tencent: Hy4 preview",
 "created": "2026-08-28",
 "context": 1048576,
-"in": 0.834,
-"out": 2.501,
+"in": 0.7506,
+"out": 2.2509,
 "modality": "text->text"
 },
 {
@@ -3579,6 +3597,15 @@
 "context": 1048576,
 "in": 0.8,
 "out": 3.2,
+"modality": "text+image->text"
+},
+{
+"id": "unbiased/pareto-26.9",
+"name": "Pareto 26.9",
+"created": "2026-10-13",
+"context": 262144,
+"in": 2.5,
+"out": 7.5,
 "modality": "text+image->text"
 },
 {
@@ -3856,7 +3883,7 @@
 "name": "Z.ai: GLM 5.3 Flash",
 "created": "2026-08-26",
 "context": 1048576,
-"in": 0.0261,
+"in": 0.0333,
 "out": 0.9,
 "modality": "text+image+video->text"
 },
@@ -3946,8 +3973,8 @@
 "name": "DeepSeek: DeepSeek Flash Latest",
 "created": "2026-09-14",
 "context": 1048576,
-"in": 0.0441,
-"out": 0.891,
+"in": 0.0405,
+"out": 0.765,
 "modality": "text+image->text"
 },
 {
@@ -3955,8 +3982,8 @@
 "name": "DeepSeek: DeepSeek Pro Latest",
 "created": "2026-09-14",
 "context": 1048576,
-"in": 0.25,
-"out": 5.0,
+"in": 0.225,
+"out": 8.0,
 "modality": "text->text"
 },
 {
@@ -3991,8 +4018,8 @@
 "name": "MoonshotAI: Kimi Latest",
 "created": "2026-04-27",
 "context": 1048576,
-"in": 0.73,
-"out": 13.5,
+"in": 0.72,
+"out": 24.0,
 "modality": "text+image+video->text"
 },
 {
@@ -4041,6 +4068,15 @@
 "modality": "text+image+file->text"
 },
 {
+"id": "~unbiased/pareto-latest",
+"name": "Pareto Latest",
+"created": "2026-10-13",
+"context": 262144,
+"in": 2.5,
+"out": 7.5,
+"modality": "text+image->text"
+},
+{
 "id": "~x-ai/grok-latest",
 "name": "xAI: Grok Latest",
 "created": "2026-07-08",
@@ -4054,7 +4090,7 @@
 "name": "Z.ai: GLM Flash Latest",
 "created": "2026-08-27",
 "context": 1048576,
-"in": 0.0261,
+"in": 0.0333,
 "out": 0.9,
 "modality": "text+image+video->text"
 },
@@ -4063,8 +4099,8 @@
 "name": "Z.ai: GLM Latest",
 "created": "2026-08-19",
 "context": 1048576,
-"in": 0.055,
-"out": 5.0,
+"in": 0.063,
+"out": 4.4,
 "modality": "text->text"
 }
 ]
