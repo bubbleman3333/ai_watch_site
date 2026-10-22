@@ -382,7 +382,7 @@
 "url": "https://github.com/Aynamuk/MapleStoryAutoLevelUp-CN",
 "date": "2026-09-25",
 "summary": "冒险岛怀旧服（国服）自动练级工具 · 基于计算机视觉，免安装包解压即用（普通用户请看 README_用户版）",
-"score": 55,
+"score": 58,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -395,6 +395,32 @@
 "python"
 ],
 "license": "MIT"
+}
+},
+"repo-BlueRingsLabs__no-shortcuts": {
+"id": "repo-BlueRingsLabs__no-shortcuts",
+"source": "github",
+"kind": "repo",
+"title": "BlueRingsLabs/no-shortcuts",
+"url": "https://github.com/BlueRingsLabs/no-shortcuts",
+"date": "2026-09-26",
+"summary": "Free Course : Data, Machine Learning, Deep Learning and AI Engineering, the long way round: the math, the code, the systems and the security. 173 lessons, 166 runnable labs, no shortcuts. Free under…",
+"score": 48,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-engineering",
+"course",
+"data-engineering",
+"deep-learning",
+"llm",
+"machine-learning",
+"mlops",
+"python",
+"pytorch",
+"rag"
+],
+"license": "NOASSERTION"
 }
 },
 "repo-CharlesFeng0314__JEV_sees": {
@@ -550,7 +576,7 @@
 "url": "https://github.com/Dreamer-Toby/STEPQuant",
 "date": "2026-09-29",
 "summary": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
-"score": 101,
+"score": 95,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -570,7 +596,7 @@
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "date": "2026-09-24",
 "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there…",
-"score": 33768,
+"score": 36715,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -596,7 +622,7 @@
 "url": "https://github.com/Edwardxlai/easyread",
 "date": "2026-09-30",
 "summary": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-"score": 999,
+"score": 1010,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -674,7 +700,7 @@
 "url": "https://github.com/FengZhenfei/carrel",
 "date": "2026-09-28",
 "summary": "Ontology-Augmented Generation for AI agents.",
-"score": 373,
+"score": 462,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -792,7 +818,7 @@
 "url": "https://github.com/GroundedCoreAI/nexusdesk",
 "date": "2026-09-23",
 "summary": "Open-source, self-hosted, extensible Agent platform built around ReAct and Harness engineering, with AI customer support as its first complete reference application.",
-"score": 100,
+"score": 97,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -892,7 +918,7 @@
 "url": "https://github.com/JEen-wang/Adaptive-rag",
 "date": "2026-09-29",
 "summary": "按问题复杂度自动分流的电商客服 Agent：简单问题直接回答；复杂问题经过多跳检索并自我纠错；查单、退改通过工具调用完成，且高风险写操作必须先经人工确认。基于 FastAPI 和 LangGraph，混合检索并附带引用，内置离线评测与 Prometheus 指标。",
-"score": 126,
+"score": 136,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -914,7 +940,7 @@
 "url": "https://github.com/KKKKhazix/AIHOT",
 "date": "2026-09-28",
 "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-"score": 8356,
+"score": 8427,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -985,7 +1011,7 @@
 "url": "https://github.com/Louis-CFM/coucou",
 "date": "2026-09-27",
 "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-"score": 5880,
+"score": 6223,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -1294,7 +1320,7 @@
 "url": "https://github.com/PSRben/VisionHOPE",
 "date": "2026-09-27",
 "summary": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
-"score": 1097,
+"score": 947,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1391,7 +1417,7 @@
 "url": "https://github.com/Sallyn0225/eidolon-sc",
 "date": "2026-09-25",
 "summary": "和《偶像大师 闪耀色彩》偶像实时语音/文字对话的 AI 分身：日语原声 + 中文字幕、回忆原作剧情、跨角色共享记忆；支持 Google/GitHub 登录与自带密钥，Docker Compose 一键部署（参考 LAPLACE Eidolon）",
-"score": 189,
+"score": 202,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1490,7 +1516,7 @@
 "url": "https://github.com/StartLuxLabs/StartLux-Decision",
 "date": "2026-09-29",
 "summary": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
-"score": 1119,
+"score": 1217,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1581,7 +1607,7 @@
 "url": "https://github.com/TencentCloud/octop-gateway",
 "date": "2026-09-24",
 "summary": "Multi-platform IM channel bridge with unified message abstraction for AI agents and bots",
-"score": 76,
+"score": 78,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1619,7 +1645,7 @@
 "url": "https://github.com/TencentCloud/octop-memory",
 "date": "2026-09-24",
 "summary": "Help your agent remember what matters. Keep preferences, carry context across sessions, and bring your memory to the next agent.",
-"score": 76,
+"score": 77,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1700,7 +1726,7 @@
 "url": "https://github.com/Ursa-Minor-Beta/agent-factory-docker-api-ui",
 "date": "2026-09-25",
 "summary": "Agent Factory is an open-source studio for building, editing and chatting with AI agents. You build them from simple nodes: LLM calls, HTTP requests, JavaScript, memory and sub-agents. It runs locall…",
-"score": 68,
+"score": 95,
 "extra": {
 "lang": "",
 "topics": [
@@ -1752,7 +1778,7 @@
 "url": "https://github.com/VectifyAI/jev-doc-search",
 "date": "2026-09-30",
 "summary": "Long-document search with Jev and PageIndex",
-"score": 155,
+"score": 156,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1927,7 +1953,7 @@
 "url": "https://github.com/Yzmblog/DMAD",
 "date": "2026-09-29",
 "summary": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-"score": 209,
+"score": 211,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1952,7 +1978,7 @@
 "url": "https://github.com/aashish254/Aniflow",
 "date": "2026-09-25",
 "summary": "🎬 Autonomous AI Studio for Manhwa & Webtoon Recaps — Vision Pipeline (YOLOv8 + Magi v2), Multi-Voice TTS & Video Synthesis",
-"score": 35,
+"score": 38,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1968,6 +1994,32 @@
 "webtoon"
 ],
 "license": "MIT"
+}
+},
+"repo-adventists-ai__duplexjev": {
+"id": "repo-adventists-ai__duplexjev",
+"source": "github",
+"kind": "repo",
+"title": "adventists-ai/duplexjev",
+"url": "https://github.com/adventists-ai/duplexjev",
+"date": "2026-09-23",
+"summary": "DuplexJev-32B and DuplexJev-4B: speech decision models for full-duplex voice agents. Typed single-token readout from a frozen speech LLM, served with vLLM. Try it: api.adventists.cn/duplexjev",
+"score": 31,
+"extra": {
+"lang": "Python",
+"topics": [
+"full-duplex",
+"icassp2027",
+"paralinguistics",
+"qwen3",
+"qwen3-vl",
+"speech",
+"speech-llm",
+"spoken-dialogue",
+"turn-taking",
+"ultravox"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-agent-for-dummys__Agent-For-Dummies": {
@@ -2116,7 +2168,7 @@
 "url": "https://github.com/akivet/Mica",
 "date": "2026-09-25",
 "summary": "A 4B decision model: calibrated probabilities for yes/no, choice and score questions over long inputs.",
-"score": 39,
+"score": 42,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2141,7 +2193,7 @@
 "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
 "date": "2026-09-23",
 "summary": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents,…",
-"score": 548,
+"score": 551,
 "extra": {
 "lang": "Markdown",
 "topics": [
@@ -2240,7 +2292,7 @@
 "url": "https://github.com/anteloc/ldraw-nova",
 "date": "2026-09-23",
 "summary": "Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev",
-"score": 456,
+"score": 467,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2445,7 +2497,7 @@
 "url": "https://github.com/blendi-remade/dioramas",
 "date": "2026-09-30",
 "summary": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-"score": 415,
+"score": 485,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2521,7 +2573,7 @@
 "url": "https://github.com/breakstageaxe61/genspark-claw",
 "date": "2026-09-26",
 "summary": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node…",
-"score": 571,
+"score": 607,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2693,7 +2745,7 @@
 "url": "https://github.com/chipfighter/context-attachment-manager",
 "date": "2026-09-24",
 "summary": "Codex and Claude Code plugin (works in Claude Desktop): choose which past images go to the model with your next message. Unchecked images become placeholders, the conversation goes on, and requests s…",
-"score": 359,
+"score": 357,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2790,7 +2842,7 @@
 "url": "https://github.com/crow-hq/llm-wiki-v2",
 "date": "2026-09-24",
 "summary": "Turn your documents into a Markdown wiki that answers with citations. Runs locally with Ollama or any LLM provider. CROW classifier routing: 89% right note vs 62%, 2.1× faster ingest, 68% fewer token…",
-"score": 245,
+"score": 246,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2866,7 +2918,7 @@
 "url": "https://github.com/deskmind-ai/deskmind",
 "date": "2026-09-26",
 "summary": "Small enough to run on your Mac. Smart enough to ask. An open-source computer use agent for macOS, with local models (MLX) that see, decide and act. 得心，应手。",
-"score": 114,
+"score": 115,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -3246,7 +3298,7 @@
 "url": "https://github.com/fumingyang2004/Tulpa",
 "date": "2026-09-26",
 "summary": "基于Windows本地QQ+微信的Harness/MCP：用Agent进行实时检索、跟进、管理、记忆与工作区。同时开放MCP版本，可供DSH，Codex，Claude Code，Antigravity，WorkBuddy等agent使用",
-"score": 414,
+"score": 423,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3350,7 +3402,7 @@
 "url": "https://github.com/graygnatconsole/mcp-audit-tool",
 "date": "2026-09-26",
 "summary": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + C…",
-"score": 573,
+"score": 614,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3400,7 +3452,7 @@
 "url": "https://github.com/heaven999b/hello-agent-system",
 "date": "2026-09-27",
 "summary": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons (EN/中文) with tested exercises: tools, architectures, reliability,…",
-"score": 276,
+"score": 282,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3590,7 +3642,7 @@
 "url": "https://github.com/janishar/qwen-image-2.1-studio",
 "date": "2026-09-23",
 "summary": "Local Qwen-Image-2.1 studio for Apple Silicon: text-to-image, multi-image editing and prompt enhancing, with a CLI and a helmstudio web UI.",
-"score": 58,
+"score": 59,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4012,7 +4064,7 @@
 "url": "https://github.com/lemomo-ai/lemo-opuscar",
 "date": "2026-09-26",
 "summary": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. | Opus5.5 x 43 种影片风…",
-"score": 4904,
+"score": 5540,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -4165,7 +4217,7 @@
 "url": "https://github.com/mailschema/mailschema",
 "date": "2026-09-23",
 "summary": "Mail Action Protocol, shared types and Registry for agents and services working through email.",
-"score": 54,
+"score": 67,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -4208,7 +4260,7 @@
 "url": "https://github.com/matank001/clodfarm",
 "date": "2026-09-25",
 "summary": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it f…",
-"score": 205,
+"score": 208,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4234,7 +4286,7 @@
 "url": "https://github.com/mikehasa/golive-skill",
 "date": "2026-09-23",
 "summary": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No…",
-"score": 1310,
+"score": 1318,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4399,7 +4451,7 @@
 "url": "https://github.com/nanaism/yomiyasu",
 "date": "2026-09-30",
 "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-"score": 2380,
+"score": 2403,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4425,7 +4477,7 @@
 "url": "https://github.com/nano-muse/nanoMuse",
 "date": "2026-09-23",
 "summary": "nanoMuse: an open-source personal agent for every device you own — one agent with a name and a face that does things, keeps working while the app is closed, remembers you, and asks before anything yo…",
-"score": 2158,
+"score": 2305,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -4654,7 +4706,7 @@
 "url": "https://github.com/oleost/VisionState",
 "date": "2026-09-28",
 "summary": "Teach a local AI what your camera sees and turn it into Home Assistant sensors — garage door open/closed, gate shut, car parked. 100% local, any CPU.",
-"score": 131,
+"score": 130,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4680,7 +4732,7 @@
 "url": "https://github.com/oliexe/paseo-bots",
 "date": "2026-09-27",
 "summary": "Tiny pixel coworkers that live in Paseo and never ask for a raise. A Grok Bot / OpenMausBot alternative plugin for https://paseo.sh/",
-"score": 44,
+"score": 45,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4724,7 +4776,7 @@
 "url": "https://github.com/openspline/openspline",
 "date": "2026-09-29",
 "summary": "Give a face to your voice AI in 5 lines of code. Generate realtime avatar video connected to your voice AI locally",
-"score": 283,
+"score": 292,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4995,7 +5047,7 @@
 "url": "https://github.com/rehan-remade/universal-modder",
 "date": "2026-09-30",
 "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-"score": 8631,
+"score": 8719,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -5021,7 +5073,7 @@
 "url": "https://github.com/rhfeiyang/HC-DLM",
 "date": "2026-09-29",
 "summary": "Official implementation of \"Hierarchical Continuous Diffusion Language Models\"",
-"score": 62,
+"score": 63,
 "extra": {
 "lang": "",
 "topics": [
@@ -5243,7 +5295,7 @@
 "url": "https://github.com/shader-effects-inc/shaders",
 "date": "2026-09-29",
 "summary": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
-"score": 5281,
+"score": 5331,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -5372,7 +5424,7 @@
 "url": "https://github.com/strands-labs/strands-decider",
 "date": "2026-09-29",
 "summary": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-"score": 687,
+"score": 693,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -5621,7 +5673,7 @@
 "url": "https://github.com/vincentsch/explainroo",
 "date": "2026-09-25",
 "summary": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
-"score": 626,
+"score": 618,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -5772,7 +5824,7 @@
 "url": "https://github.com/xiaour/yolo-data",
 "date": "2026-09-29",
 "summary": "先进且稳定的企业级智能分析平台；面向企业问数、洞察分析的Data Agent，基于数据分析方法论打造可审计、可治理、可复现workflow",
-"score": 42,
+"score": 43,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -5868,7 +5920,7 @@
 "url": "https://github.com/yetone/magpie",
 "date": "2026-09-23",
 "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-"score": 18779,
+"score": 19504,
 "extra": {
 "lang": "Go",
 "topics": [
