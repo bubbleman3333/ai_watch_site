@@ -382,7 +382,7 @@
 "url": "https://github.com/Aynamuk/MapleStoryAutoLevelUp-CN",
 "date": "2026-09-25",
 "summary": "冒险岛怀旧服（国服）自动练级工具 · 基于计算机视觉，免安装包解压即用（普通用户请看 README_用户版）",
-"score": 58,
+"score": 59,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -405,7 +405,7 @@
 "url": "https://github.com/BlueRingsLabs/no-shortcuts",
 "date": "2026-09-26",
 "summary": "Free Course : Data, Machine Learning, Deep Learning and AI Engineering, the long way round: the math, the code, the systems and the security. 173 lessons, 166 runnable labs, no shortcuts. Free under…",
-"score": 48,
+"score": 56,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -596,7 +596,7 @@
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "date": "2026-09-24",
 "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there…",
-"score": 36715,
+"score": 39080,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -622,7 +622,7 @@
 "url": "https://github.com/Edwardxlai/easyread",
 "date": "2026-09-30",
 "summary": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-"score": 1010,
+"score": 1011,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -700,7 +700,7 @@
 "url": "https://github.com/FengZhenfei/carrel",
 "date": "2026-09-28",
 "summary": "Ontology-Augmented Generation for AI agents.",
-"score": 462,
+"score": 463,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -739,6 +739,32 @@
 "video-similarity"
 ],
 "license": "MIT"
+}
+},
+"repo-FoShmily__ai-paper-system": {
+"id": "repo-FoShmily__ai-paper-system",
+"source": "github",
+"kind": "repo",
+"title": "FoShmily/ai-paper-system",
+"url": "https://github.com/FoShmily/ai-paper-system",
+"date": "2026-09-29",
+"summary": "AI论文系统 · AI论文生成、AI论文写作，一键论文生成，降AIGC、降重、答辩PPT · OEM白标招商加盟",
+"score": 231,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-humanizer",
+"ai-ppt",
+"aigc",
+"deepseek",
+"llm",
+"paper-generator",
+"rewriter",
+"saas",
+"thesis"
+],
+"license": ""
 }
 },
 "repo-Frankweb33__flybrain-robot-bridge": {
@@ -918,7 +944,7 @@
 "url": "https://github.com/JEen-wang/Adaptive-rag",
 "date": "2026-09-29",
 "summary": "按问题复杂度自动分流的电商客服 Agent：简单问题直接回答；复杂问题经过多跳检索并自我纠错；查单、退改通过工具调用完成，且高风险写操作必须先经人工确认。基于 FastAPI 和 LangGraph，混合检索并附带引用，内置离线评测与 Prometheus 指标。",
-"score": 136,
+"score": 143,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -940,7 +966,7 @@
 "url": "https://github.com/KKKKhazix/AIHOT",
 "date": "2026-09-28",
 "summary": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-"score": 8427,
+"score": 8506,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1011,7 +1037,7 @@
 "url": "https://github.com/Louis-CFM/coucou",
 "date": "2026-09-27",
 "summary": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-"score": 6223,
+"score": 6311,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -1320,7 +1346,7 @@
 "url": "https://github.com/PSRben/VisionHOPE",
 "date": "2026-09-27",
 "summary": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems.",
-"score": 947,
+"score": 1067,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1344,7 +1370,7 @@
 "url": "https://github.com/Perruer/keelflow",
 "date": "2026-09-24",
 "summary": "Build AI agents and LLM workflows visually. Security-maintained continuation of Flowise: security fixes, Apache-2.0 only, drop-in for your existing flows and data.",
-"score": 40,
+"score": 41,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1417,7 +1443,7 @@
 "url": "https://github.com/Sallyn0225/eidolon-sc",
 "date": "2026-09-25",
 "summary": "和《偶像大师 闪耀色彩》偶像实时语音/文字对话的 AI 分身：日语原声 + 中文字幕、回忆原作剧情、跨角色共享记忆；支持 Google/GitHub 登录与自带密钥，Docker Compose 一键部署（参考 LAPLACE Eidolon）",
-"score": 202,
+"score": 221,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1516,7 +1542,7 @@
 "url": "https://github.com/StartLuxLabs/StartLux-Decision",
 "date": "2026-09-29",
 "summary": "Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. Engine for vLLM, llama.cpp and MLX.",
-"score": 1217,
+"score": 1421,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1587,7 +1613,7 @@
 "url": "https://github.com/TencentCloud/octop-browser",
 "date": "2026-09-24",
 "summary": "Agent-first lightweight browser automation — direct CDP, no Playwright, more accurate and more reliable.",
-"score": 61,
+"score": 62,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1626,7 +1652,7 @@
 "url": "https://github.com/TencentCloud/octop-harness",
 "date": "2026-09-24",
 "summary": "A production-grade agent runtime engineered from the Harness Engineering philosophy.",
-"score": 112,
+"score": 115,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1645,7 +1671,7 @@
 "url": "https://github.com/TencentCloud/octop-memory",
 "date": "2026-09-24",
 "summary": "Help your agent remember what matters. Keep preferences, carry context across sessions, and bring your memory to the next agent.",
-"score": 77,
+"score": 78,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1726,7 +1752,7 @@
 "url": "https://github.com/Ursa-Minor-Beta/agent-factory-docker-api-ui",
 "date": "2026-09-25",
 "summary": "Agent Factory is an open-source studio for building, editing and chatting with AI agents. You build them from simple nodes: LLM calls, HTTP requests, JavaScript, memory and sub-agents. It runs locall…",
-"score": 95,
+"score": 98,
 "extra": {
 "lang": "",
 "topics": [
@@ -1953,7 +1979,7 @@
 "url": "https://github.com/Yzmblog/DMAD",
 "date": "2026-09-29",
 "summary": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-"score": 211,
+"score": 217,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2168,7 +2194,7 @@
 "url": "https://github.com/akivet/Mica",
 "date": "2026-09-25",
 "summary": "A 4B decision model: calibrated probabilities for yes/no, choice and score questions over long inputs.",
-"score": 42,
+"score": 43,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2214,7 +2240,7 @@
 "url": "https://github.com/amitshekhariitbhu/ai-system-design",
 "date": "2026-09-25",
 "summary": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-"score": 732,
+"score": 733,
 "extra": {
 "lang": "Markdown",
 "topics": [
@@ -2497,7 +2523,7 @@
 "url": "https://github.com/blendi-remade/dioramas",
 "date": "2026-09-30",
 "summary": "A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 on fal). 20 example sites.",
-"score": 485,
+"score": 526,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2573,7 +2599,7 @@
 "url": "https://github.com/breakstageaxe61/genspark-claw",
 "date": "2026-09-26",
 "summary": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node…",
-"score": 607,
+"score": 651,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2745,7 +2771,7 @@
 "url": "https://github.com/chipfighter/context-attachment-manager",
 "date": "2026-09-24",
 "summary": "Codex and Claude Code plugin (works in Claude Desktop): choose which past images go to the model with your next message. Unchecked images become placeholders, the conversation goes on, and requests s…",
-"score": 357,
+"score": 377,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2868,7 +2894,7 @@
 "url": "https://github.com/dagoSte/squadra",
 "date": "2026-09-28",
 "summary": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independent review. Built-in skills recall lessons, simplify code a…",
-"score": 251,
+"score": 393,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2918,7 +2944,7 @@
 "url": "https://github.com/deskmind-ai/deskmind",
 "date": "2026-09-26",
 "summary": "Small enough to run on your Mac. Smart enough to ask. An open-source computer use agent for macOS, with local models (MLX) that see, decide and act. 得心，应手。",
-"score": 115,
+"score": 119,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -3298,7 +3324,7 @@
 "url": "https://github.com/fumingyang2004/Tulpa",
 "date": "2026-09-26",
 "summary": "基于Windows本地QQ+微信的Harness/MCP：用Agent进行实时检索、跟进、管理、记忆与工作区。同时开放MCP版本，可供DSH，Codex，Claude Code，Antigravity，WorkBuddy等agent使用",
-"score": 423,
+"score": 436,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3376,7 +3402,7 @@
 "url": "https://github.com/gonzaroman/IHMT-MEMORY",
 "date": "2026-09-30",
 "summary": "Long-term memory for AI coding agents (Claude Code, Codex, opencode) as a tree of plain files",
-"score": 38,
+"score": 39,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3402,7 +3428,7 @@
 "url": "https://github.com/graygnatconsole/mcp-audit-tool",
 "date": "2026-09-26",
 "summary": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + C…",
-"score": 614,
+"score": 662,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3452,7 +3478,7 @@
 "url": "https://github.com/heaven999b/hello-agent-system",
 "date": "2026-09-27",
 "summary": "👋 Hello Agent System — learn enterprise AI agent system design by building every production layer from scratch. 17 bilingual lessons (EN/中文) with tested exercises: tools, architectures, reliability,…",
-"score": 282,
+"score": 295,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4064,7 +4090,7 @@
 "url": "https://github.com/lemomo-ai/lemo-opuscar",
 "date": "2026-09-26",
 "summary": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. | Opus5.5 x 43 种影片风…",
-"score": 5540,
+"score": 6126,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -4451,7 +4477,7 @@
 "url": "https://github.com/nanaism/yomiyasu",
 "date": "2026-09-30",
 "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-"score": 2403,
+"score": 2439,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4732,7 +4758,7 @@
 "url": "https://github.com/oliexe/paseo-bots",
 "date": "2026-09-27",
 "summary": "Tiny pixel coworkers that live in Paseo and never ask for a raise. A Grok Bot / OpenMausBot alternative plugin for https://paseo.sh/",
-"score": 45,
+"score": 47,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4776,7 +4802,7 @@
 "url": "https://github.com/openspline/openspline",
 "date": "2026-09-29",
 "summary": "Give a face to your voice AI in 5 lines of code. Generate realtime avatar video connected to your voice AI locally",
-"score": 292,
+"score": 295,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -5047,7 +5073,7 @@
 "url": "https://github.com/rehan-remade/universal-modder",
 "date": "2026-09-30",
 "summary": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-"score": 8719,
+"score": 8813,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -5295,7 +5321,7 @@
 "url": "https://github.com/shader-effects-inc/shaders",
 "date": "2026-09-29",
 "summary": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
-"score": 5331,
+"score": 5367,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -5424,7 +5450,7 @@
 "url": "https://github.com/strands-labs/strands-decider",
 "date": "2026-09-29",
 "summary": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-"score": 693,
+"score": 700,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -5673,7 +5699,7 @@
 "url": "https://github.com/vincentsch/explainroo",
 "date": "2026-09-25",
 "summary": "Explainer videos and product demos made by your AI agent. Free and open source: a local voice (Kokoro), word timing (Whisper) and a canvas renderer turn a script into a narrated MP4.",
-"score": 618,
+"score": 631,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -5824,7 +5850,7 @@
 "url": "https://github.com/xiaour/yolo-data",
 "date": "2026-09-29",
 "summary": "先进且稳定的企业级智能分析平台；面向企业问数、洞察分析的Data Agent，基于数据分析方法论打造可审计、可治理、可复现workflow",
-"score": 43,
+"score": 45,
 "extra": {
 "lang": "JavaScript",
 "topics": [
