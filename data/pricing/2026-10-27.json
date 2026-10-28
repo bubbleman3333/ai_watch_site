@@ -580,8 +580,8 @@
 "name": "DeepSeek: DeepSeek V4 Flash 0731",
 "created": "2026-07-31",
 "context": 1048576,
-"in": 0.44,
-"out": 1.32,
+"in": 0.119,
+"out": 0.238,
 "modality": "text->text"
 },
 {
@@ -598,8 +598,8 @@
 "name": "DeepSeek: DeepSeek V4 Pro 0423",
 "created": "2026-04-24",
 "context": 1048576,
-"in": 0.9553,
-"out": 1.9105,
+"in": 0.8754,
+"out": 1.7508,
 "modality": "text->text"
 },
 {
@@ -976,8 +976,8 @@
 "name": "Google: Gemma 3 4B",
 "created": "2025-03-13",
 "context": 131072,
-"in": 0.04,
-"out": 0.05,
+"in": 0.05,
+"out": 0.1,
 "modality": "text+image->text"
 },
 {
@@ -1669,7 +1669,7 @@
 "name": "MoonshotAI: Kimi K3",
 "created": "2026-07-16",
 "context": 1048576,
-"in": 0.159,
+"in": 0.2,
 "out": 20.0,
 "modality": "text+image+video->text"
 },
@@ -1779,15 +1779,6 @@
 "context": 262144,
 "in": 0.3,
 "out": 2.4,
-"modality": "text->text"
-},
-{
-"id": "nvidia/nemotron-3-super-120b-a12b:free",
-"name": "NVIDIA: Nemotron 3 Super (free)",
-"created": "2026-03-11",
-"context": 262144,
-"in": 0.0,
-"out": 0.0,
 "modality": "text->text"
 },
 {
@@ -2610,6 +2601,24 @@
 "modality": "text+image+file->text"
 },
 {
+"id": "openai/gpt-6.1-terra-pro",
+"name": "OpenAI: GPT-6.1 Terra Pro",
+"created": "2026-10-26",
+"context": 1050000,
+"in": 1.0,
+"out": 5.0,
+"modality": "text+image+file->text"
+},
+{
+"id": "openai/gpt-6.1-terra-pro:batch",
+"name": "OpenAI: GPT-6.1 Terra Pro (batch)",
+"created": "2026-10-26",
+"context": 1050000,
+"in": 0.5,
+"out": 2.5,
+"modality": "text+image+file->text"
+},
+{
 "id": "openai/gpt-6.1-terra:batch",
 "name": "OpenAI: GPT-6.1 Terra (batch)",
 "created": "2026-10-26",
@@ -2907,6 +2916,15 @@
 "modality": "text+image->text"
 },
 {
+"id": "prism-ml/ternary-bonsai-2-9b",
+"name": "PrismML: Ternary Bonsai 2 9B",
+"created": "2026-10-16",
+"context": 262144,
+"in": 0.08,
+"out": 0.13,
+"modality": "text+image->text"
+},
+{
 "id": "qwen/qwen-2.5-72b-instruct",
 "name": "Qwen2.5 72B Instruct",
 "created": "2024-09-19",
@@ -3182,7 +3200,7 @@
 "created": "2026-04-27",
 "context": 262144,
 "in": 0.1,
-"out": 0.9,
+"out": 0.95,
 "modality": "text+image+video->text"
 },
 {
@@ -3253,8 +3271,8 @@
 "name": "Qwen: Qwen3.8 27B",
 "created": "2026-08-14",
 "context": 1000000,
-"in": 0.039,
-"out": 1.25,
+"in": 0.2,
+"out": 2.5,
 "modality": "text+image+video->text"
 },
 {
@@ -3487,8 +3505,8 @@
 "name": "Tencent: Hy3",
 "created": "2026-07-06",
 "context": 262144,
-"in": 0.132,
-"out": 0.528,
+"in": 0.0825,
+"out": 0.33,
 "modality": "text->text"
 },
 {
@@ -3505,8 +3523,8 @@
 "name": "Tencent: Hy4 preview",
 "created": "2026-08-28",
 "context": 1048576,
-"in": 0.834,
-"out": 2.501,
+"in": 0.7506,
+"out": 2.2509,
 "modality": "text->text"
 },
 {
@@ -3721,8 +3739,8 @@
 "name": "Xiaomi: MiMo-V2.5-Pro",
 "created": "2026-04-22",
 "context": 1050000,
-"in": 0.3045,
-"out": 0.609,
+"in": 0.48,
+"out": 1.8,
 "modality": "text->text"
 },
 {
@@ -3964,8 +3982,8 @@
 "name": "DeepSeek: DeepSeek Flash Latest",
 "created": "2026-09-14",
 "context": 1048576,
-"in": 0.04,
-"out": 0.5,
+"in": 0.0182,
+"out": 1.8,
 "modality": "text+image->text"
 },
 {
@@ -3973,7 +3991,7 @@
 "name": "DeepSeek: DeepSeek Pro Latest",
 "created": "2026-09-14",
 "context": 1048576,
-"in": 0.2374,
+"in": 0.241,
 "out": 8.0,
 "modality": "text->text"
 },
@@ -4009,8 +4027,8 @@
 "name": "MoonshotAI: Kimi Latest",
 "created": "2026-04-27",
 "context": 1048576,
-"in": 0.159,
-"out": 20.0,
+"in": 0.19,
+"out": 9.7533,
 "modality": "text+image+video->text"
 },
 {
@@ -4081,8 +4099,8 @@
 "name": "Z.ai: GLM Flash Latest",
 "created": "2026-08-27",
 "context": 1048576,
-"in": 0.0413,
-"out": 0.0758,
+"in": 0.0379,
+"out": 0.0771,
 "modality": "text+image+video->text"
 },
 {
