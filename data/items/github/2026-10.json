@@ -7,7 +7,7 @@
 "url": "https://github.com/0xS4N4TG/kinetograph",
 "date": "2026-10-23",
 "summary": "A blazingly fast programmatic video engine, made for agents.",
-"score": 367,
+"score": 400,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -33,7 +33,7 @@
 "url": "https://github.com/2430816465/campus-knowledge-agent",
 "date": "2026-10-14",
 "summary": "校园知识服务 Agent 智能体平台：基于 FastAPI、Qwen3 与 RAG，贯通公开资料解析、时间范围检索、证据溯源及人工审核。",
-"score": 102,
+"score": 105,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -57,7 +57,7 @@
 "url": "https://github.com/AienTech/dossier",
 "date": "2026-10-03",
 "summary": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
-"score": 3397,
+"score": 3525,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -83,7 +83,7 @@
 "url": "https://github.com/Alejandros17487/ai-jailbreaks",
 "date": "2026-10-21",
 "summary": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testin…",
-"score": 528,
+"score": 532,
 "extra": {
 "lang": "",
 "topics": [
@@ -153,7 +153,7 @@
 "url": "https://github.com/Animan-AI/DuckBuddy",
 "date": "2026-10-18",
 "summary": "Your real-life buddy duck: an open-source embodied AI robot duck that walks, hears, sees, and has a life of its own. 让 DuckBuddy 成为你真正的生活伙伴鸭：开源具身智能小鸭机器人，运动、语音、视觉与生命层全部跑在机器人自己身上。Feetech servos + Orang…",
-"score": 77,
+"score": 78,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -179,7 +179,7 @@
 "url": "https://github.com/Aryanutkarsh/SeeCode",
 "date": "2026-10-02",
 "summary": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
-"score": 740,
+"score": 784,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -221,6 +221,32 @@
 "workbuddy"
 ],
 "license": "MIT"
+}
+},
+"repo-Balanov__baiagent-director": {
+"id": "repo-Balanov__baiagent-director",
+"source": "github",
+"kind": "repo",
+"title": "Balanov/baiagent-director",
+"url": "https://github.com/Balanov/baiagent-director",
+"date": "2026-10-28",
+"summary": "Free local-first AI business advisor with evidence-linked research and verifiable pilot plans.",
+"score": 305,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agpl",
+"ai",
+"baiagent",
+"business-automation",
+"electron",
+"evidence-based",
+"llama-cpp",
+"local-ai",
+"qwen",
+"windows"
+],
+"license": "AGPL-3.0"
 }
 },
 "repo-BlenderGPT3D__blender-ai-addon": {
@@ -361,7 +387,7 @@
 "url": "https://github.com/Deibler/openskycam",
 "date": "2026-10-26",
 "summary": "Record a sky camera around the clock, keep the footage on your own disk, and find what flew past.",
-"score": 72,
+"score": 75,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -413,7 +439,7 @@
 "url": "https://github.com/DozenTwelve/Papermorph",
 "date": "2026-10-03",
 "summary": "An AI skill that turns books into animated, narrated, interactive web experiences",
-"score": 1029,
+"score": 1039,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -439,7 +465,7 @@
 "url": "https://github.com/EL4CTEO/blender-skills",
 "date": "2026-10-14",
 "summary": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
-"score": 603,
+"score": 623,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -578,7 +604,7 @@
 "url": "https://github.com/Folkbench/folkbench",
 "date": "2026-10-02",
 "summary": "Folkbench 是一个可信的 AI 中转站评测与服务目录，按模型比较可用率、响应速度、价格、隐私与运营证据",
-"score": 4002,
+"score": 4083,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -604,7 +630,7 @@
 "url": "https://github.com/GTKottman/mortiflix-oss",
 "date": "2026-10-05",
 "summary": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key.",
-"score": 670,
+"score": 674,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -628,7 +654,7 @@
 "url": "https://github.com/Generated-Computers/Locals",
 "date": "2026-10-12",
 "summary": "Run many AI agents at once on your Mac, about three times faster.",
-"score": 442,
+"score": 443,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -678,7 +704,7 @@
 "url": "https://github.com/Graphicle-AI/graphicle",
 "date": "2026-10-14",
 "summary": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
-"score": 479,
+"score": 484,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -730,7 +756,7 @@
 "url": "https://github.com/HaozheH3/awesome-rea-games",
 "date": "2026-10-16",
 "summary": "A collection of game decompilations, recompilations, demos, ports",
-"score": 104,
+"score": 63,
 "extra": {
 "lang": "",
 "topics": [
@@ -752,7 +778,7 @@
 "url": "https://github.com/Harvil1/codeAgent",
 "date": "2026-10-02",
 "summary": "CodeAgent is an open-source coding agent that lives in your terminal. It understands your repository, plans multi-step changes, writes and edits files, runs commands and tests, and iterates until the…",
-"score": 1019,
+"score": 1017,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -778,7 +804,7 @@
 "url": "https://github.com/HelixDB/helix-foundry",
 "date": "2026-10-07",
 "summary": "Connect your company's data, let an agent draft an ontology over it, and load it into HelixDB as one graph you can explore and ask questions of. Hosted at foundry.helix-db.com, or run it on your own…",
-"score": 1855,
+"score": 1931,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -878,7 +904,7 @@
 "url": "https://github.com/JunWan666/astrbot-for-android",
 "date": "2026-10-26",
 "summary": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
-"score": 275,
+"score": 287,
 "extra": {
 "lang": "Kotlin",
 "topics": [
@@ -930,7 +956,7 @@
 "url": "https://github.com/Leonxlnx/earshot",
 "date": "2026-10-15",
 "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-"score": 3317,
+"score": 3380,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -977,7 +1003,7 @@
 "url": "https://github.com/LingCore/WinShun",
 "date": "2026-10-08",
 "summary": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP serve…",
-"score": 765,
+"score": 776,
 "extra": {
 "lang": "C++",
 "topics": [
@@ -1003,7 +1029,7 @@
 "url": "https://github.com/LosaLosSantos/aurelio-finance",
 "date": "2026-10-06",
 "summary": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
-"score": 336,
+"score": 339,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1055,7 +1081,7 @@
 "url": "https://github.com/MemTensor/MemT-1.0",
 "date": "2026-10-19",
 "summary": "Official repository for MemT-1.0",
-"score": 480,
+"score": 481,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1107,7 +1133,7 @@
 "url": "https://github.com/MirroS-Lab/AgentGarten",
 "date": "2026-10-08",
 "summary": "AgentGarten: Code Worlds for Evolving Agents",
-"score": 209,
+"score": 210,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1127,7 +1153,7 @@
 "url": "https://github.com/NB-Corp/gpt-with-taste",
 "date": "2026-10-12",
 "summary": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
-"score": 518,
+"score": 550,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1148,7 +1174,7 @@
 "url": "https://github.com/NousResearch/hermes-official-plugins",
 "date": "2026-10-10",
 "summary": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
-"score": 551,
+"score": 557,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1174,7 +1200,7 @@
 "url": "https://github.com/Omianheart/Deadline-resp-Tracker-AI",
 "date": "2026-10-28",
 "summary": "📅 AI-powered academic deadline assistant that uses Gemini Vision to extract assignments, exams, projects & submission dates from academic documents, with smart deadline Q&A and Telegram notifications…",
-"score": 32,
+"score": 68,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1200,7 +1226,7 @@
 "url": "https://github.com/PeaceOfElf37336/resilient-telegram-rpocket-bot",
 "date": "2026-10-28",
 "summary": "A Telegram bot built around what happens when the API doesn't answer — retry with jittered backoff, structured logging, systemd deployment. Runs with --demo, no token needed.",
-"score": 32,
+"score": 68,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1226,7 +1252,7 @@
 "url": "https://github.com/Phantomduke375846-alt/clinic_rag_rpocket_bot",
 "date": "2026-10-28",
 "summary": "A domain-specific medical Retrieval-Augmented Generation (RAG) system that answers health-related questions strictly based on retrieved evidence from a local vector database.",
-"score": 32,
+"score": 68,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1244,6 +1270,32 @@
 "license": ""
 }
 },
+"repo-ProphetTitanhub21008__prove-the-resp-ui": {
+"id": "repo-ProphetTitanhub21008__prove-the-resp-ui",
+"source": "github",
+"kind": "repo",
+"title": "ProphetTitanhub21008/prove-the-resp-ui",
+"url": "https://github.com/ProphetTitanhub21008/prove-the-resp-ui",
+"date": "2026-10-31",
+"summary": "Open the live page and check it against what you asked for. SHIP, FIX, or CAN'T SEE. Then patch only the named misses. Stop agents shipping a page they never opened.",
+"score": 43,
+"extra": {
+"lang": "HTML",
+"topics": [
+"art-direction",
+"creative-workflow",
+"cursor-skills",
+"design-research",
+"generative-ai",
+"graphic-design",
+"html-slides",
+"poster-design",
+"presentation-design",
+"skills-sh"
+],
+"license": ""
+}
+},
 "repo-QingYunA__answer-me-with-html": {
 "id": "repo-QingYunA__answer-me-with-html",
 "source": "github",
@@ -1252,7 +1304,7 @@
 "url": "https://github.com/QingYunA/answer-me-with-html",
 "date": "2026-10-02",
 "summary": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-"score": 4901,
+"score": 4966,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1380,7 +1432,7 @@
 "url": "https://github.com/Sam-Hui-dot/mcd-budget-meal",
 "date": "2026-10-11",
 "summary": "麦麦预算餐：基于麦当劳 MCP 的真实核价、预算比较与餐品替换 Skill",
-"score": 1622,
+"score": 1618,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1401,7 +1453,7 @@
 "url": "https://github.com/SorcererEarl/crypto-rpocket-accumulation-scanner",
 "date": "2026-10-28",
 "summary": "Python crypto scanner: finds coins in quiet accumulation, back tested on 961 samples, rebuilt from the evidence, automated with Telegram alerts.",
-"score": 32,
+"score": 68,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1427,7 +1479,7 @@
 "url": "https://github.com/Syenzzz/mcd-coupon-strategist",
 "date": "2026-10-10",
 "summary": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
-"score": 994,
+"score": 991,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1453,7 +1505,7 @@
 "url": "https://github.com/TKY-27/iris-3b-metal",
 "date": "2026-10-09",
 "summary": "Iris-3B pixel-space text-to-image on Apple Silicon GPUs: Metal-optimized engine, native macOS app, CLI, Python and local HTTP API",
-"score": 56,
+"score": 55,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1479,7 +1531,7 @@
 "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
 "date": "2026-10-05",
 "summary": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.",
-"score": 198,
+"score": 203,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1501,7 +1553,7 @@
 "url": "https://github.com/Tejashmakwana/motionmaxxing",
 "date": "2026-10-06",
 "summary": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
-"score": 1141,
+"score": 1193,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1525,7 +1577,7 @@
 "url": "https://github.com/TencentARC/Looking-Ahead",
 "date": "2026-10-21",
 "summary": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
-"score": 170,
+"score": 179,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1572,7 +1624,7 @@
 "url": "https://github.com/TrollSparktech/Anilist_monitor_resp",
 "date": "2026-10-28",
 "summary": "A desktop-native Windows system tray Telegram bot that monitors AniList for new anime announcements and releases with network auto-recovery, single-instance protection, and zero-spam baseline caching…",
-"score": 32,
+"score": 68,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1598,7 +1650,7 @@
 "url": "https://github.com/VecSzn/PolyStrata",
 "date": "2026-10-06",
 "summary": "Run large AI models on your own PC: Qwen3.8-Flash-Next on Strata's engine, and GLM 5.3 Flash, DeepSeek V4 Flash, LFM2.5, Qwen3.6, Ornith 1.5, Gemma 4, Tiel Coder and MiniCPM-V on a second engine writ…",
-"score": 680,
+"score": 718,
 "extra": {
 "lang": "C++",
 "topics": [
@@ -1624,7 +1676,7 @@
 "url": "https://github.com/VinkyDev/vibestart",
 "date": "2026-10-04",
 "summary": "Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type safety, lint, and tests built in. | 自由组合全栈 TypeScript 技术栈，得到一个前沿、经过验证、为 AI 编码智能体打造的…",
-"score": 271,
+"score": 276,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1676,7 +1728,7 @@
 "url": "https://github.com/WUnicorn67526/memochka-rpocket-team-bot",
 "date": "2026-10-28",
 "summary": "😼 AI-участница Telegram-чата с памятью, локальными мемами, реакциями и собственным характером",
-"score": 32,
+"score": 68,
 "extra": {
 "lang": "",
 "topics": [
@@ -1702,7 +1754,7 @@
 "url": "https://github.com/Water-Run/ft",
 "date": "2026-10-02",
 "summary": "f(t)函数: LLM制作的动画集. 自由软件, 自由视频.",
-"score": 32,
+"score": 33,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1728,7 +1780,7 @@
 "url": "https://github.com/YOLOW92/pagesift",
 "date": "2026-10-20",
 "summary": "Rust web content engine: clean Markdown, incremental collections, isolated HTTP sessions and verified media archives. Firecrawl-compatible API.",
-"score": 175,
+"score": 179,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1754,7 +1806,7 @@
 "url": "https://github.com/Zfinix/eleven",
 "date": "2026-10-13",
 "summary": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-"score": 940,
+"score": 945,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1780,7 +1832,7 @@
 "url": "https://github.com/a2sys-ai/jevfetch",
 "date": "2026-10-08",
 "summary": "A web-reading tool for LLM agents that returns the parts of a page relevant to a question, verbatim",
-"score": 50,
+"score": 51,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1801,7 +1853,7 @@
 "url": "https://github.com/aa1143/NamiGPT",
 "date": "2026-10-28",
 "summary": "零基础入门大模型（LLM）的基础教程：从零手写 GPT-2，一行行看懂大模型是怎么工作的 | Build GPT-2 from scratch in PyTorch, step by step",
-"score": 143,
+"score": 152,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1848,7 +1900,7 @@
 "url": "https://github.com/actionow-ai/vvv",
 "date": "2026-10-22",
 "summary": "一次构建视频模板，多次复用：给 Claude Code、Codex 等 25+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents.",
-"score": 498,
+"score": 507,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1872,7 +1924,7 @@
 "url": "https://github.com/agent0ai/tuxee",
 "date": "2026-10-20",
 "summary": "Tuxee - the most convenient linux for servers and agents.",
-"score": 126,
+"score": 153,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1911,7 +1963,7 @@
 "url": "https://github.com/alexgaoth/awesome-reverse-engineered",
 "date": "2026-10-11",
 "summary": "don't reverse engineer smth twice. 12,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill, refreshed…",
-"score": 959,
+"score": 973,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2015,7 +2067,7 @@
 "url": "https://github.com/arbazsiddiqui/voxlock",
 "date": "2026-10-11",
 "summary": "The best performing voice isolator there is. Keeps the caller's voice and removes the other voices in the room before speech-to-text hears them. Open source, streaming, runs on CPU and in the browser…",
-"score": 81,
+"score": 82,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2067,7 +2119,7 @@
 "url": "https://github.com/beckettharriman/openfill",
 "date": "2026-10-14",
 "summary": "Generative Fill, Remove object, Generative Expand and Text to Image for PhotoCraft and GIMP 3. Free, local, on your own GPU through ComfyUI.",
-"score": 184,
+"score": 195,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2118,7 +2170,7 @@
 "url": "https://github.com/boardshogunfluctuate/Capri-AI",
 "date": "2026-10-30",
 "summary": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affilia…",
-"score": 196,
+"score": 516,
 "extra": {
 "lang": "",
 "topics": [
@@ -2170,7 +2222,7 @@
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "date": "2026-10-25",
 "summary": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"score": 2448,
+"score": 3581,
 "extra": {
 "lang": "Dart",
 "topics": [
@@ -2196,7 +2248,7 @@
 "url": "https://github.com/cdcailf/cjkfold",
 "date": "2026-10-13",
 "summary": "Fold look-alike CJK glyphs (Kangxi radicals, CJK radical supplements) so text extracted from PDFs matches again.",
-"score": 190,
+"score": 192,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2242,7 +2294,7 @@
 "url": "https://github.com/chatvia/chatvia",
 "date": "2026-10-15",
 "summary": "Open-source platform for AI chat agents that answer from your own knowledge base. Hybrid RAG search in PostgreSQL, MCP and custom tools, guardrails and human handoff. Put agents on a hosted chat page…",
-"score": 78,
+"score": 111,
 "extra": {
 "lang": "PHP",
 "topics": [
@@ -2268,7 +2320,7 @@
 "url": "https://github.com/chenxiachan/textfold",
 "date": "2026-10-04",
 "summary": "Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.",
-"score": 820,
+"score": 843,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2364,7 +2416,7 @@
 "url": "https://github.com/ctoldigital/axuse",
 "date": "2026-10-14",
 "summary": "Accessibility-first browser & computer use for AI agents — one MCP server for every harness (Codex, Claude Code, OpenCode, Antigravity). Instruments the DOM/accessibility tree via CDP instead of scre…",
-"score": 664,
+"score": 712,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2390,7 +2442,7 @@
 "url": "https://github.com/datalab-to/indra",
 "date": "2026-10-13",
 "summary": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
-"score": 1491,
+"score": 1544,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2412,7 +2464,7 @@
 "url": "https://github.com/daveebbelaar/bama",
 "date": "2026-10-24",
 "summary": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
-"score": 937,
+"score": 1084,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -2438,7 +2490,7 @@
 "url": "https://github.com/deeplethe/solid-glass",
 "date": "2026-10-12",
 "summary": "A design system for AI applications. Material, physical, tactile, technical.",
-"score": 2063,
+"score": 2018,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2513,7 +2565,7 @@
 "url": "https://github.com/eliasbiondo/antirion",
 "date": "2026-10-17",
 "summary": "⚡ The fastest open-source AI Gateway and LLM Gateway — one binary with built-in console to route, secure, budget and observe every LLM call across OpenAI, Anthropic, Gemini, Bedrock and more.",
-"score": 497,
+"score": 524,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -2565,7 +2617,7 @@
 "url": "https://github.com/erhanmeydan/kilnframe",
 "date": "2026-10-11",
 "summary": "Free, open source plugin for Premiere Pro and DaVinci Resolve: turns what you say into animated inserts and music, rendered on your own computer",
-"score": 87,
+"score": 90,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2591,7 +2643,7 @@
 "url": "https://github.com/escudero/brandpose",
 "date": "2026-10-15",
 "summary": "Personal project: where shoppers look, estimated from an ordinary security camera and open source AI (YOLO11, Gaze-LLE, Depth Anything V2)",
-"score": 195,
+"score": 199,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2691,7 +2743,7 @@
 "url": "https://github.com/feder-cr/git-ai",
 "date": "2026-10-15",
 "summary": "Git designed for AI agents.",
-"score": 1028,
+"score": 1030,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -2761,7 +2813,7 @@
 "url": "https://github.com/flohoeller/affectui",
 "date": "2026-10-03",
 "summary": "Handcrafted React components, illustrations and motion for AI products. One file each, calm motion, dark mode built in. Install with the shadcn CLI – free and open source.",
-"score": 401,
+"score": 412,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2787,7 +2839,7 @@
 "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
 "date": "2026-10-08",
 "summary": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-"score": 826,
+"score": 827,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -2852,6 +2904,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-glincker__awesome-selfhosted-ai": {
+"id": "repo-glincker__awesome-selfhosted-ai",
+"source": "github",
+"kind": "repo",
+"title": "glincker/awesome-selfhosted-ai",
+"url": "https://github.com/glincker/awesome-selfhosted-ai",
+"date": "2026-10-31",
+"summary": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
+"score": 48,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-agents",
+"awesome",
+"awesome-list",
+"homelab",
+"llm",
+"local-ai",
+"local-llm",
+"mcp-server",
+"ollama",
+"open-source"
+],
+"license": "CC0-1.0"
+}
+},
 "repo-h9-tec__ai-roadmap-2026": {
 "id": "repo-h9-tec__ai-roadmap-2026",
 "source": "github",
@@ -2860,7 +2938,7 @@
 "url": "https://github.com/h9-tec/ai-roadmap-2026",
 "date": "2026-10-21",
 "summary": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer",
-"score": 180,
+"score": 182,
 "extra": {
 "lang": "",
 "topics": [
@@ -2910,7 +2988,7 @@
 "url": "https://github.com/hanzohanzhe/Grandet",
 "date": "2026-10-05",
 "summary": "Find the cheapest API for any model and connect it from your AI agent: Grandet Skill and an anonymous MCP server, backed by listed prices from 1,800+ official, inference and relay providers on grande…",
-"score": 1012,
+"score": 1015,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2962,7 +3040,7 @@
 "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
 "date": "2026-10-13",
 "summary": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
-"score": 852,
+"score": 875,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3013,7 +3091,7 @@
 "url": "https://github.com/hevnsnt/CVEngine",
 "date": "2026-10-24",
 "summary": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-"score": 537,
+"score": 548,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3081,6 +3159,32 @@
 "license": "NOASSERTION"
 }
 },
+"repo-hsuanshao__TeamAgentMemory": {
+"id": "repo-hsuanshao__TeamAgentMemory",
+"source": "github",
+"kind": "repo",
+"title": "hsuanshao/TeamAgentMemory",
+"url": "https://github.com/hsuanshao/TeamAgentMemory",
+"date": "2026-10-18",
+"summary": "Self-hosted memory service for AI agents that work in teams, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and department/team/member isolation. SQLite o…",
+"score": 39,
+"extra": {
+"lang": "Rust",
+"topics": [
+"agent-memory",
+"ai",
+"ai-agent-memory",
+"ai-agents",
+"claude-code",
+"claude-code-plugin",
+"codex",
+"docker",
+"hermes-agent",
+"llm"
+],
+"license": "NOASSERTION"
+}
+},
 "repo-huaxialucaicaizi__ai-startup-skills": {
 "id": "repo-huaxialucaicaizi__ai-startup-skills",
 "source": "github",
@@ -3089,7 +3193,7 @@
 "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
 "date": "2026-10-22",
 "summary": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
-"score": 614,
+"score": 617,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3115,7 +3219,7 @@
 "url": "https://github.com/hujjun/mcd-saver-strategist",
 "date": "2026-10-09",
 "summary": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
-"score": 1546,
+"score": 1543,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3141,7 +3245,7 @@
 "url": "https://github.com/i12bp8/decomp.wtf",
 "date": "2026-10-13",
 "summary": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-"score": 544,
+"score": 546,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3167,7 +3271,7 @@
 "url": "https://github.com/jackwener/DSH-Android",
 "date": "2026-10-27",
 "summary": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-"score": 509,
+"score": 629,
 "extra": {
 "lang": "Kotlin",
 "topics": [
@@ -3190,7 +3294,7 @@
 "url": "https://github.com/jaikydota/BullFlow",
 "date": "2026-10-14",
 "summary": "推量牛 BullFlow — 开源企业级 RAG 解决方案：从企业知识库、营销内容自动化生产到全域内容分发 | Open-source enterprise RAG solution: knowledge base → automated marketing content → omnichannel publishing. 知识库全链路本地开源模型，无需付费模型；AI Agent 创作图文 /…",
-"score": 239,
+"score": 257,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3216,7 +3320,7 @@
 "url": "https://github.com/jiwoochris/artex-global",
 "date": "2026-10-03",
 "summary": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"score": 2400,
+"score": 2444,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -3312,7 +3416,7 @@
 "url": "https://github.com/junxchan54-maker/mcd-cn-assistant",
 "date": "2026-10-09",
 "summary": "🍟 麦当劳中国官方 MCP 智能助手技能：把 35 个原子工具编排成 4 条业务流 —— 活动推送 · 联名关注 · 最优惠点餐 · 多人群点聚合账单。算价用 calculate-price 真算，下单必二次确认。｜McDonald's China MCP agent skill: campaigns, collab watch, best-value ordering, group bill…",
-"score": 382,
+"score": 379,
 "extra": {
 "lang": "",
 "topics": [
@@ -3338,7 +3442,7 @@
 "url": "https://github.com/justxor/deepseek-local-guide-ru",
 "date": "2026-10-17",
 "summary": "🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и сервере — Ollama, llama.cpp, LM Studio, vLLM, Open WebUI, API, RAG, агенты, fine-tuning, лучшие фишки",
-"score": 166,
+"score": 168,
 "extra": {
 "lang": "Shell",
 "topics": [
@@ -3364,7 +3468,7 @@
 "url": "https://github.com/jwuthri-cloud/Tracely-ai",
 "date": "2026-10-11",
 "summary": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
-"score": 1210,
+"score": 1212,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3390,7 +3494,7 @@
 "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
 "date": "2026-10-18",
 "summary": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.",
-"score": 543,
+"score": 552,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3416,7 +3520,7 @@
 "url": "https://github.com/khanhtq29vn/contextcraft",
 "date": "2026-10-22",
 "summary": "AST-Aware, Personalized-PageRank-Ranked, Token-Budgeted Codebase Compressor for LLMs",
-"score": 61,
+"score": 64,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3442,7 +3546,7 @@
 "url": "https://github.com/kitlangton/scrawl",
 "date": "2026-10-14",
 "summary": "Show an agent a problem: mark up, record, send",
-"score": 811,
+"score": 824,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3517,7 +3621,7 @@
 "url": "https://github.com/langchain-ai/design-agent",
 "date": "2026-10-18",
 "summary": "Open-source design agent: on-brand stills, decks, diagrams, charts and motion graphics from a chat thread, built on Deep Agents.",
-"score": 510,
+"score": 530,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3533,6 +3637,29 @@
 "paper"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-larchanka__skills": {
+"id": "repo-larchanka__skills",
+"source": "github",
+"kind": "repo",
+"title": "larchanka/skills",
+"url": "https://github.com/larchanka/skills",
+"date": "2026-10-25",
+"summary": "This repository is a collection of independent skills and tools for software development and automation. Each skill is a self-contained project with its own purpose, implementation, and documentation.",
+"score": 31,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"agent-skill",
+"agent-skills",
+"agentic-ai",
+"agents",
+"ai",
+"skills"
+],
+"license": "MIT"
 }
 },
 "repo-lee-dro__PatchCore": {
@@ -3567,7 +3694,7 @@
 "url": "https://github.com/lillyguisnet/sam3-segmentation",
 "date": "2026-10-24",
 "summary": "Agent skill: outline, mask and count objects in photos with Meta's SAM 3 on your own NVIDIA GPU, with review, exports and a viewer. Works with Claude Code, Codex, Cursor, Pi and other Agent Skills cl…",
-"score": 114,
+"score": 115,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3593,7 +3720,7 @@
 "url": "https://github.com/liuda30201/AI-Coding",
 "date": "2026-10-15",
 "summary": "AI 编程福利导航：汇总 Claude Code、Codex、Cursor 中转站与公益站，整理免费额度、注册福利、签到活动和评测记录，提供可视化看板与 Python 数据采集工具。",
-"score": 578,
+"score": 592,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -3619,7 +3746,7 @@
 "url": "https://github.com/lokicorvus/crosspet",
 "date": "2026-10-03",
 "summary": "跨 AI 桌宠：跟着你用的 AI 换形象、跟着 AI 的工作状态做动作",
-"score": 375,
+"score": 386,
 "extra": {
 "lang": "C#",
 "topics": [
@@ -3645,7 +3772,7 @@
 "url": "https://github.com/longsurf-ai/openchart",
 "date": "2026-10-05",
 "summary": "OSS trading workspace with agents",
-"score": 282,
+"score": 287,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3695,7 +3822,7 @@
 "url": "https://github.com/maaazhuang/mvkit",
 "date": "2026-10-18",
 "summary": "Industrial machine vision library with C11 and C++14 APIs.",
-"score": 35,
+"score": 36,
 "extra": {
 "lang": "C++",
 "topics": [
@@ -3717,7 +3844,7 @@
 "url": "https://github.com/marclou/mailcheap",
 "date": "2026-10-10",
 "summary": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
-"score": 1576,
+"score": 1588,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3743,7 +3870,7 @@
 "url": "https://github.com/mariagorskikh/open-instinct",
 "date": "2026-10-03",
 "summary": "Open Instinct: an open-source Instinct. A personal agent you text on iMessage, with its own computer and a trusted network of other agents. Built on Pi, Inkbox, Maritime and Composio.",
-"score": 425,
+"score": 427,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3761,6 +3888,32 @@
 "license": "MIT"
 }
 },
+"repo-microsoft__TokenEconomizer": {
+"id": "repo-microsoft__TokenEconomizer",
+"source": "github",
+"kind": "repo",
+"title": "microsoft/TokenEconomizer",
+"url": "https://github.com/microsoft/TokenEconomizer",
+"date": "2026-10-13",
+"summary": "Experience-Driven Black-Box Cost Control for Coding Agents",
+"score": 3023,
+"extra": {
+"lang": "Python",
+"topics": [
+"agentic-ai",
+"agentic-coding",
+"ai-coding",
+"ai-coding-assistant",
+"anthropic",
+"artificial-intelligence",
+"claude-code",
+"codex",
+"coding-agent",
+"coding-agents"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-miuuyy__Octopus-SI-OS": {
 "id": "repo-miuuyy__Octopus-SI-OS",
 "source": "github",
@@ -3769,7 +3922,7 @@
 "url": "https://github.com/miuuyy/Octopus-SI-OS",
 "date": "2026-10-09",
 "summary": "A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a path toward superintelligence.",
-"score": 623,
+"score": 626,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3795,7 +3948,7 @@
 "url": "https://github.com/morluto/awesome-reverse-engineering",
 "date": "2026-10-09",
 "summary": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.",
-"score": 1438,
+"score": 1468,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3821,7 +3974,7 @@
 "url": "https://github.com/mw00/project-maya",
 "date": "2026-10-06",
 "summary": "Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant…",
-"score": 2279,
+"score": 2330,
 "extra": {
 "lang": "Cuda",
 "topics": [
@@ -3873,7 +4026,7 @@
 "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
 "date": "2026-10-11",
 "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-"score": 4132,
+"score": 4160,
 "extra": {
 "lang": "C",
 "topics": [
@@ -3920,7 +4073,7 @@
 "url": "https://github.com/openqodex/openqodex",
 "date": "2026-10-02",
 "summary": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanne…",
-"score": 1072,
+"score": 1087,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3946,7 +4099,7 @@
 "url": "https://github.com/opensec-git/Pi-Bolt",
 "date": "2026-10-02",
 "summary": "Pi, the coding agent, compiled ahead of time to native code. Starts 3× sooner than Pi on Bun and uses about a third of its CPU.",
-"score": 669,
+"score": 679,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3972,7 +4125,7 @@
 "url": "https://github.com/outcrawlai/scout",
 "date": "2026-10-13",
 "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-"score": 947,
+"score": 948,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4047,7 +4200,7 @@
 "url": "https://github.com/patch-gg/anymove",
 "date": "2026-10-27",
 "summary": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-"score": 441,
+"score": 448,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4071,7 +4224,7 @@
 "url": "https://github.com/patch-gg/trompe",
 "date": "2026-10-25",
 "summary": "Texture a whole game level from a gray blockout with image models: plan cameras, paint, project, bake. Real shadows, glTF out.",
-"score": 180,
+"score": 183,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4085,6 +4238,30 @@
 "license": "Apache-2.0"
 }
 },
+"repo-peterpoal134__memory-brain": {
+"id": "repo-peterpoal134__memory-brain",
+"source": "github",
+"kind": "repo",
+"title": "peterpoal134/memory-brain",
+"url": "https://github.com/peterpoal134/memory-brain",
+"date": "2026-10-28",
+"summary": "给 AstrBot 的可落地 AI 记忆与生活层：五类记忆、混合检索、遗忘治理、情绪边界、自主生活循环。不覆盖人格。",
+"score": 51,
+"extra": {
+"lang": "Python",
+"topics": [
+"agpl",
+"ai-companion",
+"astrbot",
+"astrbot-plugin",
+"llm",
+"local-first",
+"long-term-memory",
+"rag"
+],
+"license": "AGPL-3.0"
+}
+},
 "repo-pgrundev__pgx": {
 "id": "repo-pgrundev__pgx",
 "source": "github",
@@ -4093,7 +4270,7 @@
 "url": "https://github.com/pgrundev/pgx",
 "date": "2026-10-08",
 "summary": "Postgres for agents. 🐘",
-"score": 581,
+"score": 600,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4119,7 +4296,7 @@
 "url": "https://github.com/pinganbbOvO/ai-companion-kit",
 "date": "2026-10-08",
 "summary": "给你的 AI 一副身体，和一点人味 —— 会记事、会看场合的 QQ 陪聊 + 能控制安卓手机的 MCP",
-"score": 530,
+"score": 533,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -4145,7 +4322,7 @@
 "url": "https://github.com/pipedude/yahont-ce",
 "date": "2026-10-18",
 "summary": "Self-hosted AI-платформа с расширенными возможностями: RAG, агенты, веб-поиск, исследования, коннекторы, любые LLM и гибкие настройки",
-"score": 49,
+"score": 50,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4197,9 +4374,9 @@
 "url": "https://github.com/qybaihe/bla",
 "date": "2026-10-25",
 "summary": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust ->…",
-"score": 1393,
+"score": 1704,
 "extra": {
-"lang": "TypeScript",
+"lang": "JavaScript",
 "topics": [
 "adversarial-ai",
 "claude-code",
@@ -4223,7 +4400,7 @@
 "url": "https://github.com/rasidi3112/pondok-ai",
 "date": "2026-10-08",
 "summary": "Turn one machine into a private ChatGPT for a whole room. One command sets up Ollama, Open WebUI, RAG and an OpenAI-compatible API sized to your hardware, and pondok-ai share lets a classroom or offi…",
-"score": 39,
+"score": 42,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4249,7 +4426,7 @@
 "url": "https://github.com/reacher-z/Awesome-REA",
 "date": "2026-10-16",
 "summary": "Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.",
-"score": 669,
+"score": 721,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4275,7 +4452,7 @@
 "url": "https://github.com/reason-machines/reason-network",
 "date": "2026-10-16",
 "summary": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
-"score": 1343,
+"score": 1410,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4301,7 +4478,7 @@
 "url": "https://github.com/rosehahah/the-machine",
 "date": "2026-10-19",
 "summary": "A fan-made, open-source recreation of The Machine from Person of Interest — MPOV on your own cameras, plus the console. With deep thanks to POI.",
-"score": 99,
+"score": 102,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -4340,7 +4517,7 @@
 "url": "https://github.com/shipwords-dev/shipwords",
 "date": "2026-10-28",
 "summary": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。",
-"score": 296,
+"score": 311,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4468,7 +4645,7 @@
 "url": "https://github.com/songshikang0111/awesome-REA-cases",
 "date": "2026-10-12",
 "summary": "A curated collection of REA and AI-assisted reverse engineering cases, projects, and ideas. Updated every four hours.",
-"score": 370,
+"score": 372,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4540,7 +4717,7 @@
 "url": "https://github.com/stockedge/manga-generator",
 "date": "2026-10-22",
 "summary": "原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール",
-"score": 140,
+"score": 154,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -4566,7 +4743,7 @@
 "url": "https://github.com/strands-agents/box",
 "date": "2026-10-02",
 "summary": "Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keep…",
-"score": 487,
+"score": 489,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4592,7 +4769,7 @@
 "url": "https://github.com/tangency-labs/solidcraft",
 "date": "2026-10-07",
 "summary": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-"score": 12372,
+"score": 12630,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4617,7 +4794,7 @@
 "url": "https://github.com/thesysdev/open-intelligent-ui",
 "date": "2026-10-08",
 "summary": "An open-source take on ChatGPT's Intelligent UI: answers stream as interactive UI (maps, photos, charts, drawings and working tools). Built with OpenUI.",
-"score": 884,
+"score": 893,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4643,7 +4820,7 @@
 "url": "https://github.com/tidydesigns/tidy",
 "date": "2026-10-08",
 "summary": "Tidy is an open source product canvas for designers, engineers, and agents. Apache-2.0.",
-"score": 50,
+"score": 51,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4669,7 +4846,7 @@
 "url": "https://github.com/tobilg/duckdb-differential",
 "date": "2026-10-09",
 "summary": "Versioned DuckDB databases, locally or replicated through S3, for people and agents",
-"score": 40,
+"score": 42,
 "extra": {
 "lang": "C++",
 "topics": [
@@ -4689,7 +4866,7 @@
 "url": "https://github.com/tony3liu/eido",
 "date": "2026-10-08",
 "summary": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls.",
-"score": 194,
+"score": 204,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4715,7 +4892,7 @@
 "url": "https://github.com/trhhubsd/ARTEX",
 "date": "2026-10-08",
 "summary": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
-"score": 1210,
+"score": 1236,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -4791,7 +4968,7 @@
 "url": "https://github.com/wanghao-SunSky/cs329z-chinese",
 "date": "2026-10-28",
 "summary": "Stanford CS329Z Engineering AI Agents 中文教程：19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、Agent 记忆、多智能体、评测与安全。完整 Markdown 和在线/离线 HTML。Chinese course notes and hands-on guide.",
-"score": 40,
+"score": 211,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -4817,7 +4994,7 @@
 "url": "https://github.com/wangzan101/Mika",
 "date": "2026-10-29",
 "summary": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-"score": 1239,
+"score": 2697,
 "extra": {
 "lang": "Kotlin",
 "topics": [
@@ -4913,7 +5090,7 @@
 "url": "https://github.com/worldbench/Orbia",
 "date": "2026-10-08",
 "summary": "🔥 Orbia: Do Generated Videos Form a Consistent 3D World?",
-"score": 60,
+"score": 62,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4965,7 +5142,7 @@
 "url": "https://github.com/x18n-dev/x18n",
 "date": "2026-10-15",
 "summary": "Universal toolkits for linting, viewing and managing i18n for any frameworks.",
-"score": 593,
+"score": 601,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -5014,7 +5191,7 @@
 "url": "https://github.com/y5ez3g/facadecode",
 "date": "2026-10-11",
 "summary": "One IDE for you and your AI team. A VS Code fork where Claude Code, Codex, Antigravity, and Muse Code work in parallel across multiple projects and features.",
-"score": 129,
+"score": 136,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -5078,6 +5255,32 @@
 "license": "MIT"
 }
 },
+"repo-yzlin286-wq__Deepscient": {
+"id": "repo-yzlin286-wq__Deepscient",
+"source": "github",
+"kind": "repo",
+"title": "yzlin286-wq/Deepscient",
+"url": "https://github.com/yzlin286-wq/Deepscient",
+"date": "2026-10-21",
+"summary": "让 AI 与人类一起攻克真正的科学难题 —— 12 阶段 55 门 · 36 工具 · 98 条技能 · 证据链与可复现",
+"score": 523,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-skills",
+"cordis",
+"deepseek-harness",
+"literature-review",
+"mcp",
+"nodejs",
+"reproducibility",
+"research",
+"scientific-writing",
+"windows"
+],
+"license": "MIT"
+}
+},
 "repo-zgcagi__Harness-RSI": {
 "id": "repo-zgcagi__Harness-RSI",
 "source": "github",
@@ -5112,7 +5315,7 @@
 "url": "https://github.com/zhuyansen/new-term-radar",
 "date": "2026-10-12",
 "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-"score": 1981,
+"score": 1999,
 "extra": {
 "lang": "Python",
 "topics": [

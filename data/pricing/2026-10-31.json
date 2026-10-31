@@ -607,8 +607,8 @@
 "name": "DeepSeek: DeepSeek V4 Pro 0813",
 "created": "2026-08-12",
 "context": 1048576,
-"in": 0.66,
-"out": 1.98,
+"in": 0.115,
+"out": 4.0,
 "modality": "text->text"
 },
 {
@@ -1372,8 +1372,8 @@
 "name": "MiniMax: MiniMax M2.5",
 "created": "2026-02-12",
 "context": 204800,
-"in": 0.3,
-"out": 1.2,
+"in": 0.27,
+"out": 0.95,
 "modality": "text->text"
 },
 {
@@ -2817,42 +2817,6 @@
 "modality": "text+image->text"
 },
 {
-"id": "poolside/laguna-s-2.1",
-"name": "Poolside: Laguna S 2.1",
-"created": "2026-07-21",
-"context": 1048576,
-"in": 0.09,
-"out": 0.18,
-"modality": "text->text"
-},
-{
-"id": "poolside/laguna-s-2.1:free",
-"name": "Poolside: Laguna S 2.1 (free)",
-"created": "2026-07-21",
-"context": 262144,
-"in": 0.0,
-"out": 0.0,
-"modality": "text->text"
-},
-{
-"id": "poolside/laguna-xs-2.1",
-"name": "Poolside: Laguna XS 2.1",
-"created": "2026-07-02",
-"context": 262144,
-"in": 0.06,
-"out": 0.12,
-"modality": "text->text"
-},
-{
-"id": "poolside/laguna-xs-2.1:free",
-"name": "Poolside: Laguna XS 2.1 (free)",
-"created": "2026-07-02",
-"context": 262144,
-"in": 0.0,
-"out": 0.0,
-"modality": "text->text"
-},
-{
 "id": "prism-ml/ternary-bonsai-2-27b",
 "name": "PrismML: Ternary Bonsai 2 27B",
 "created": "2026-09-18",
@@ -3127,8 +3091,8 @@
 "name": "Qwen: Qwen3.6 27B",
 "created": "2026-04-27",
 "context": 262144,
-"in": 0.32,
-"out": 3.2,
+"in": 0.45,
+"out": 2.7,
 "modality": "text+image+video->text"
 },
 {
@@ -3208,8 +3172,8 @@
 "name": "Qwen: Qwen3.8 27B",
 "created": "2026-08-14",
 "context": 1000000,
-"in": 0.15,
-"out": 1.875,
+"in": 0.04,
+"out": 2.3,
 "modality": "text+image+video->text"
 },
 {
@@ -3757,8 +3721,8 @@
 "name": "Z.ai: GLM 4.7",
 "created": "2025-12-22",
 "context": 204800,
-"in": 0.54,
-"out": 1.98,
+"in": 0.6,
+"out": 2.2,
 "modality": "text->text"
 },
 {
@@ -3803,7 +3767,7 @@
 "created": "2026-06-16",
 "context": 1048576,
 "in": 0.006,
-"out": 7.0,
+"out": 6.8,
 "modality": "text->text"
 },
 {
@@ -3811,8 +3775,8 @@
 "name": "Z.ai: GLM 5.3",
 "created": "2026-08-18",
 "context": 1048576,
-"in": 0.08,
-"out": 3.184,
+"in": 0.0699,
+"out": 1.4,
 "modality": "text->text"
 },
 {
@@ -3820,8 +3784,8 @@
 "name": "Z.ai: GLM 5.3 Flash",
 "created": "2026-08-26",
 "context": 1048576,
-"in": 0.0216,
-"out": 0.1238,
+"in": 0.0149,
+"out": 0.1543,
 "modality": "text+image+video->text"
 },
 {
@@ -3910,8 +3874,8 @@
 "name": "DeepSeek: DeepSeek Flash Latest",
 "created": "2026-09-14",
 "context": 1048576,
-"in": 0.022,
-"out": 0.192,
+"in": 0.0118,
+"out": 0.091,
 "modality": "text+image->text"
 },
 {
@@ -3920,7 +3884,7 @@
 "created": "2026-09-14",
 "context": 1048576,
 "in": 0.1035,
-"out": 4.0,
+"out": 8.0,
 "modality": "text->text"
 },
 {
@@ -3928,7 +3892,7 @@
 "name": "DeepSeek: DeepSeek V4 Flash Latest",
 "created": "2026-08-01",
 "context": 1048576,
-"in": 0.056,
+"in": 0.0434,
 "out": 0.3,
 "modality": "text->text"
 },
@@ -3955,8 +3919,8 @@
 "name": "MoonshotAI: Kimi Latest",
 "created": "2026-04-27",
 "context": 1048576,
-"in": 0.1615,
-"out": 10.5572,
+"in": 0.1495,
+"out": 7.15,
 "modality": "text+image+video->text"
 },
 {
@@ -4027,8 +3991,8 @@
 "name": "Z.ai: GLM Flash Latest",
 "created": "2026-08-27",
 "context": 1048576,
-"in": 0.0216,
-"out": 0.1238,
+"in": 0.0149,
+"out": 0.1543,
 "modality": "text+image+video->text"
 },
 {
