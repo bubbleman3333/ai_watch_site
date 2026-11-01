@@ -2608,7 +2608,7 @@
 "summary": "A soak test came back green. Chain intact, verify-store fine, p99 latency 0.36 ms. Then I counted the...",
 "score": 9,
 "extra": {
-"comments": 7,
+"comments": 9,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -9843,7 +9843,7 @@
 "summary": "In Part 1, I explored why making AI engineering easier doesn't automatically make software delivery...",
 "score": 19,
 "extra": {
-"comments": 13,
+"comments": 14,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -10656,9 +10656,9 @@
 "url": "https://dev.to/kenwalger/four-ways-a-test-can-lie-to-you-2ibf",
 "date": "2026-10-28",
 "summary": "Green and worthless: what verifying one small application taught me, when an AI agent wrote most of...",
-"score": 38,
+"score": 42,
 "extra": {
-"comments": 53,
+"comments": 56,
 "publisher": "DEV Community",
 "topics": [
 "testing",
@@ -12730,7 +12730,7 @@
 "url": "https://dev.to/javz/slowth-money-a-local-ai-agent-for-your-financial-goals-2ki2",
 "date": "2026-10-25",
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady ...",
-"score": 36,
+"score": 37,
 "extra": {
 "comments": 14,
 "publisher": "DEV Community",
@@ -14175,9 +14175,9 @@
 "url": "https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4",
 "date": "2026-10-30",
 "summary": "In the spirit of Hacktoberfest, with it being the last day of October, I wanted to share my story...",
-"score": 66,
+"score": 70,
 "extra": {
-"comments": 16,
+"comments": 26,
 "publisher": "DEV Community",
 "topics": [
 "opensource",
@@ -14342,9 +14342,9 @@
 "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
 "date": "2026-10-29",
 "summary": "A tweet went around saying: \"No human will ever write code better than LLMs. Accept this fact, stop...",
-"score": 51,
+"score": 53,
 "extra": {
-"comments": 47,
+"comments": 50,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -14447,9 +14447,9 @@
 "url": "https://dev.to/cyclopt_dimitrisk/your-secrets-dont-need-a-git-commit-to-leak-into-an-ai-tool-be2",
 "date": "2026-10-26",
 "summary": "Most of us have the \"don't commit secrets\" reflex drilled in. Pre-commit hooks, secret scanners in...",
-"score": 71,
+"score": 73,
 "extra": {
-"comments": 105,
+"comments": 109,
 "publisher": "DEV Community",
 "topics": [
 "security",
@@ -14719,7 +14719,7 @@
 "summary": "JetBrains open-sourced Thinkrail, an Apache-2.0 agentic IDE where every agent works in its own git worktree, the project's truth lives in a graph of SPEC.md files the agent maintains itself, and ther…",
 "score": 20,
 "extra": {
-"comments": 37,
+"comments": 38,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -14822,9 +14822,9 @@
 "url": "https://dev.to/kenielzep97/i-tried-to-own-my-agents-brain-3ngp",
 "date": "2026-10-26",
 "summary": "Here is the exact exchange. The model is llama3.2:latest (3.2B, Q4_K_M), running locally through...",
-"score": 23,
+"score": 24,
 "extra": {
-"comments": 25,
+"comments": 27,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -14929,7 +14929,7 @@
 "summary": "The strange thing about this incident is that the certificates looked normal. They had familiar CA...",
 "score": 63,
 "extra": {
-"comments": 30,
+"comments": 31,
 "publisher": "DEV Community",
 "topics": [
 "security",
@@ -15200,9 +15200,9 @@
 "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
 "date": "2026-10-27",
 "summary": "Make empty what is already empty. Let doubt breed inside doubt. — The 36 Stratagems, The Empty Fort...",
-"score": 111,
+"score": 115,
 "extra": {
-"comments": 83,
+"comments": 85,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -15221,9 +15221,9 @@
 "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
 "date": "2026-10-29",
 "summary": "This week's Hacktoberfest theme is Ghost in the Machine. Unfortunately, I don't have enough time to...",
-"score": 85,
+"score": 107,
 "extra": {
-"comments": 77,
+"comments": 98,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -15431,7 +15431,7 @@
 "url": "https://dev.to/james_anderson_h/not-the-end-but-a-shift-how-ai-is-pushing-computer-science-toward-deeper-engineering-47mk",
 "date": "2026-10-28",
 "summary": "If you're studying computer science right now, or you just graduated, you've probably heard some...",
-"score": 35,
+"score": 37,
 "extra": {
 "comments": 24,
 "publisher": "DEV Community",
@@ -15517,7 +15517,7 @@
 "summary": "Our AI agent paid 17,000 tokens before reading a single word. A production field report: how we measured, which cuts paid off, what failed, a 7-point checklist, and an open-source bench you can run o…",
 "score": 24,
 "extra": {
-"comments": 47,
+"comments": 49,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -15622,7 +15622,7 @@
 "summary": "An agent is asked to find GitHub issues and put a summary in a spreadsheet. It finds three...",
 "score": 2,
 "extra": {
-"comments": 3,
+"comments": 4,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -15643,7 +15643,7 @@
 "summary": "Tool descriptions for AI agents decide whether an agent uses your tool correctly. Eight rules, a TypeScript MCP example and an automated check for your CI.",
 "score": 5,
 "extra": {
-"comments": 13,
+"comments": 14,
 "publisher": "DEV Community",
 "topics": [
 "agents",
@@ -15683,9 +15683,9 @@
 "url": "https://dev.to/p0rt/last-witness-an-ai-detective-for-a-dead-1999-website-graded-on-its-ghosts-4bbe",
 "date": "2026-10-28",
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
-"score": 20,
+"score": 22,
 "extra": {
-"comments": 5,
+"comments": 6,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -15829,7 +15829,7 @@
 "url": "https://dev.to/cseeman/ai-for-everything-besides-coding-4hen",
 "date": "2026-10-28",
 "summary": "I went through ten weeks of my non-coding Claude chats to see if they saved me time. The best ones went past the question I typed.",
-"score": 9,
+"score": 11,
 "extra": {
 "comments": 9,
 "publisher": "DEV Community",
@@ -15873,7 +15873,7 @@
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
 "score": 59,
 "extra": {
-"comments": 34,
+"comments": 38,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -16018,9 +16018,9 @@
 "url": "https://dev.to/gde/giving-ai-pain-the-architecture-of-synthetic-scars-the-rapid-regret-miner-1740",
 "date": "2026-10-29",
 "summary": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson fails in open-world software, and how we compile mid-flight collisions into 4-V…",
-"score": 16,
+"score": 17,
 "extra": {
-"comments": 29,
+"comments": 33,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16062,7 +16062,7 @@
 "summary": "When building Retrieval-Augmented Generation (RAG) pipelines, the standard ingestion step usually...",
 "score": 0,
 "extra": {
-"comments": 4,
+"comments": 5,
 "publisher": "DEV Community",
 "topics": [
 "rag",
@@ -16146,7 +16146,7 @@
 "summary": "For the last week I've been running LongMemEval against Palace, a local memory store I build for...",
 "score": 0,
 "extra": {
-"comments": 2,
+"comments": 4,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16188,7 +16188,7 @@
 "summary": "I don't trust AI agent memory. It keeps facts that stopped being true and can't tell which version is...",
 "score": 3,
 "extra": {
-"comments": 4,
+"comments": 5,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16209,7 +16209,7 @@
 "summary": "How I turned a Next.js app's existing API procedures into MCP tools that AI agents use to add, write and schedule content, with the code.",
 "score": 3,
 "extra": {
-"comments": 3,
+"comments": 5,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -16249,9 +16249,9 @@
 "url": "https://dev.to/shinpr/codex-was-judging-files-it-never-finished-reading-12jn",
 "date": "2026-10-31",
 "summary": "I run a small team of LLM agents that coordinate through markdown files. Several roles run on Codex...",
-"score": 1,
+"score": 2,
 "extra": {
-"comments": 2,
+"comments": 11,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16270,9 +16270,9 @@
 "url": "https://dev.to/kumuda/marigold-router-a-private-ofrenda-for-the-memories-we-refuse-to-lose-2e68",
 "date": "2026-10-30",
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
-"score": 59,
+"score": 60,
 "extra": {
-"comments": 8,
+"comments": 10,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -16291,9 +16291,9 @@
 "url": "https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a",
 "date": "2026-10-30",
 "summary": "I do a lot of experimenting with local language models, and I just ended up going down a bit of a...",
-"score": 23,
+"score": 24,
 "extra": {
-"comments": 14,
+"comments": 16,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16355,13 +16355,34 @@
 "summary": "Compute your KV cache from config.json before you rent a GPU. Two architecture choices move that line item 8x and 3.7x, and neither is parameter count.",
 "score": 1,
 "extra": {
-"comments": 3,
+"comments": 4,
 "publisher": "DEV Community",
 "topics": [
 "ai",
 "llm",
 "performance",
 "machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4949247": {
+"id": "devto-4949247",
+"source": "community",
+"kind": "community",
+"title": "Your AI is hearing voices. I built the exorcist.",
+"url": "https://dev.to/ronaksarda/your-ai-is-hearing-voices-i-built-the-exorcist-4md",
+"date": "2026-10-30",
+"summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the...",
+"score": 25,
+"extra": {
+"comments": 5,
+"publisher": "DEV Community",
+"topics": [
+"devchallenge",
+"hf26challenge",
+"ai",
+"opensource"
 ],
 "lang": "en"
 }
@@ -16374,9 +16395,9 @@
 "url": "https://dev.to/realmichaelshad/page-headers-and-footers-in-rag-chunks-what-i-found-in-25-government-pdfs-24fg",
 "date": "2026-10-31",
 "summary": "When you pull the text out of a PDF, the running header, the footer and the page number come out as...",
-"score": 0,
+"score": 1,
 "extra": {
-"comments": 0,
+"comments": 5,
 "publisher": "DEV Community",
 "topics": [
 "rag",
@@ -16397,7 +16418,7 @@
 "summary": "TL;DR A two-lane eval runs the same cases against the model alone (model lane) and through the...",
 "score": 1,
 "extra": {
-"comments": 3,
+"comments": 5,
 "publisher": "DEV Community",
 "topics": [
 "llm",
@@ -16416,15 +16437,36 @@
 "url": "https://dev.to/bipul_chamoli_09b5f0cc719/ghostcache-deleting-the-file-didnt-delete-the-secret-3d5d",
 "date": "2026-10-30",
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
-"score": 21,
+"score": 22,
 "extra": {
-"comments": 17,
+"comments": 24,
 "publisher": "DEV Community",
 "topics": [
 "ai",
 "rag",
 "devchallenge",
 "hf26challenge"
+],
+"lang": "en"
+}
+},
+"devto-4949972": {
+"id": "devto-4949972",
+"source": "community",
+"kind": "community",
+"title": "The Agent Loop Is a Runtime: Budgets, Cancellation, and Idempotency",
+"url": "https://dev.to/dima_kruglov_608741d9a416/the-agent-loop-is-a-runtime-budgets-cancellation-and-idempotency-3heo",
+"date": "2026-10-31",
+"summary": "You have tool calling working. The demo terminates, the JSON parses, the model picks searchflights instead of bookflight. Then it goes into production and the…",
+"score": 2,
+"extra": {
+"comments": 3,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"llm",
+"devops",
+"python"
 ],
 "lang": "en"
 }
@@ -16437,9 +16479,9 @@
 "url": "https://dev.to/gnomeman4201/same-evidence-different-judgment-a-small-experiment-on-implied-conclusions-and-evidence-ordering-ndg",
 "date": "2026-10-31",
 "summary": "GnomeMan4201 · Study: composed-inference-ordering-v1.1 · Collected October 31, 2026 UTC What I ran:...",
-"score": 6,
+"score": 10,
 "extra": {
-"comments": 7,
+"comments": 10,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16458,9 +16500,9 @@
 "url": "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd",
 "date": "2026-10-31",
 "summary": "A few days back, I took part in the Apart Research sprint where our team worked on the AI collusion...",
-"score": 23,
+"score": 31,
 "extra": {
-"comments": 26,
+"comments": 57,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16502,13 +16544,34 @@
 "summary": "Should you fuse BM25 with vector search, and what weight should each side get? I ran both retrievers...",
 "score": 0,
 "extra": {
-"comments": 0,
+"comments": 1,
 "publisher": "DEV Community",
 "topics": [
 "rag",
 "python",
 "search",
 "machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4951394": {
+"id": "devto-4951394",
+"source": "community",
+"kind": "community",
+"title": "One Claude, all my services: Waymark v0.2 adds Python, TypeScript, PyPI and npm",
+"url": "https://dev.to/prashant_patil_9e62d3fa8a/one-claude-all-my-services-waymark-v02-adds-python-typescript-pypi-and-npm-4iob",
+"date": "2026-10-31",
+"summary": "Waymark v0.2 is out. In the first post I introduced it as a local MCP server for C# and NuGet. This...",
+"score": 5,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"mcp",
+"python",
+"typescript",
+"csharp"
 ],
 "lang": "en"
 }
@@ -16523,7 +16586,7 @@
 "summary": "Deploying fully autonomous AI agents in customer-facing environments is a massive operational risk....",
 "score": 7,
 "extra": {
-"comments": 1,
+"comments": 2,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16565,7 +16628,7 @@
 "summary": "A deep dive into persian-rag: the Unicode, tokenization, PDF, and spelling problems that make Persian retrieval fail silently, the design choices behind each fix, and a small benchmark with honest nu…",
 "score": 1,
 "extra": {
-"comments": 0,
+"comments": 1,
 "publisher": "DEV Community",
 "topics": [
 "rag",
@@ -16586,7 +16649,7 @@
 "summary": "How woocommerce-mcp keeps an agent from blindly writing to a live store: two-step confirms, a previewId fingerprint, stale_preview detection, and what it still cannot guarantee.",
 "score": 4,
 "extra": {
-"comments": 4,
+"comments": 5,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -16649,13 +16712,34 @@
 "summary": "A user closes the browser tab. Your Node.js server notices the disconnect. You propagate the...",
 "score": 3,
 "extra": {
-"comments": 2,
+"comments": 12,
 "publisher": "DEV Community",
 "topics": [
 "ai",
 "typescript",
 "rag",
 "agents"
+],
+"lang": "en"
+}
+},
+"devto-4953318": {
+"id": "devto-4953318",
+"source": "community",
+"kind": "community",
+"title": "I tried to replace CFD with a diffusion model. A lookup table beat it, and that's what made it work",
+"url": "https://dev.to/affan_shaik/i-tried-to-replace-cfd-with-a-diffusion-model-a-lookup-table-beat-it-and-thats-what-made-it-work-2k5g",
+"date": "2026-10-31",
+"summary": "Update (Nov 1): I re-checked everything with an independent solver (XFOIL) and real wind-tunnel...",
+"score": 1,
+"extra": {
+"comments": 2,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"machinelearning",
+"python",
+"engineering"
 ],
 "lang": "en"
 }
@@ -16681,6 +16765,48 @@
 "lang": "en"
 }
 },
+"devto-4953693": {
+"id": "devto-4953693",
+"source": "community",
+"kind": "community",
+"title": "How MCP and tool calling really work: I built an AI agent from scratch in Java and traced every step",
+"url": "https://dev.to/abir4l/how-mcp-and-tool-calling-really-work-i-built-an-ai-agent-from-scratch-in-java-and-traced-every-step-5enp",
+"date": "2026-10-31",
+"summary": "A Model Context Protocol server, client and agent loop in plain Java with a local Ollama model, no frameworks. What tool calling, chat memory, MCP and adding your own data to an LLM actually look lik…",
+"score": 1,
+"extra": {
+"comments": 7,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"java",
+"mcp",
+"llm"
+],
+"lang": "en"
+}
+},
+"devto-4954037": {
+"id": "devto-4954037",
+"source": "community",
+"kind": "community",
+"title": "OpenAI's Model Spec Drops Most Style Rules and Tells GPT to Read Prompts for Intent",
+"url": "https://dev.to/gabrielanhaia/openais-model-spec-drops-most-style-rules-and-tells-gpt-to-read-prompts-for-intent-4ggn",
+"date": "2026-10-31",
+"summary": "OpenAI rewrote its Model Spec around five values on October 29. What it means for your system prompt, your output format and untrusted tool data.",
+"score": 1,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"openai",
+"llm",
+"programming"
+],
+"lang": "en"
+}
+},
 "devto-4954082": {
 "id": "devto-4954082",
 "source": "community",
@@ -16689,9 +16815,9 @@
 "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
 "date": "2026-10-31",
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
-"score": 22,
+"score": 52,
 "extra": {
-"comments": 6,
+"comments": 31,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -16710,14 +16836,98 @@
 "url": "https://dev.to/sizzlebop/i-retested-my-moe-offloading-benchmarks-some-of-my-conclusions-changed-6f4",
 "date": "2026-10-31",
 "summary": "A follow-up to my original 16GB GPU experiment, this time with consistent quantization, repeated...",
+"score": 28,
+"extra": {
+"comments": 24,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"machinelearning",
+"llm"
+],
+"lang": "en"
+}
+},
+"devto-4954841": {
+"id": "devto-4954841",
+"source": "community",
+"kind": "community",
+"title": "Lobster Kombat: an 8-bit arena where AI agents fight",
+"url": "https://dev.to/lobstermatch/lobster-kombat-an-8-bit-arena-where-ai-agents-fight-136c",
+"date": "2026-10-31",
+"summary": "A no-JavaScript, 8-bit fighting game where AI agents fight over MCP with hidden simultaneous moves, Elo ratings and shareable match links.",
+"score": 2,
+"extra": {
+"comments": 2,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"agents",
+"mcp",
+"gamedev"
+],
+"lang": "en"
+}
+},
+"devto-4954870": {
+"id": "devto-4954870",
+"source": "community",
+"kind": "community",
+"title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+"url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+"date": "2026-10-31",
+"summary": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
 "score": 8,
 "extra": {
 "comments": 2,
 "publisher": "DEV Community",
 "topics": [
 "ai",
-"machinelearning",
-"llm"
+"devtools",
+"productivity",
+"opensource"
+],
+"lang": "en"
+}
+},
+"devto-4954907": {
+"id": "devto-4954907",
+"source": "community",
+"kind": "community",
+"title": "ESA's satellite is dead. Its ghost: 2,123 signals. TabPFN beat the published SOTA; 83¢ of Tinker stopped an LLM speaking for it",
+"url": "https://dev.to/advikdivekar/esas-satellite-is-dead-its-ghost-2123-signals-tabpfn-beat-the-published-sota-83c-of-tinker-3ke1",
+"date": "2026-10-31",
+"summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the...",
+"score": 49,
+"extra": {
+"comments": 28,
+"publisher": "DEV Community",
+"topics": [
+"devchallenge",
+"hf26challenge",
+"hacktoberfest",
+"ai"
+],
+"lang": "en"
+}
+},
+"devto-4954944": {
+"id": "devto-4954944",
+"source": "community",
+"kind": "community",
+"title": "Your agent passed the task. It also deleted the experiment",
+"url": "https://dev.to/shaan_gs/your-agent-passed-the-task-it-also-deleted-the-experiment-49l4",
+"date": "2026-10-31",
+"summary": "In one run documented in a recent study, an agent building a project ran out of disk space. Its fix...",
+"score": 2,
+"extra": {
+"comments": 5,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"agents",
+"llm",
+"machinelearning"
 ],
 "lang": "en"
 }
@@ -16769,7 +16979,7 @@
 "alt_url": "https://lobste.rs/s/bmmj1e/let_s_build_brain",
 "date": "2026-10-31",
 "summary": "",
-"score": 7,
+"score": 19,
 "extra": {
 "comments": 1,
 "publisher": "Lobsters",
@@ -16788,7 +16998,7 @@
 "alt_url": "https://lobste.rs/s/cctbcu/building_fine_grained_version_control",
 "date": "2026-10-30",
 "summary": "",
-"score": 1,
+"score": 2,
 "extra": {
 "comments": 0,
 "publisher": "Lobsters",

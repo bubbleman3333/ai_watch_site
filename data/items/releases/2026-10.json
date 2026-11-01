@@ -241,13 +241,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-1.7B-Base",
 "date": "2026-10-26",
 "summary": "",
-"score": 93,
+"score": 110,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "text-generation",
-"downloads": 3152,
+"downloads": 3934,
 "lang": "en"
 }
 },
@@ -259,13 +259,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-1.7B-MLX-4bit",
 "date": "2026-10-27",
 "summary": "",
-"score": 17,
+"score": 18,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "text-generation",
-"downloads": 6810,
+"downloads": 7709,
 "lang": "en"
 }
 },
@@ -283,7 +283,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "text-generation",
-"downloads": 564,
+"downloads": 661,
 "lang": "en"
 }
 },
@@ -301,7 +301,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "text-generation",
-"downloads": 506,
+"downloads": 575,
 "lang": "en"
 }
 },
@@ -319,7 +319,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "text-generation",
-"downloads": 2912,
+"downloads": 3188,
 "lang": "en"
 }
 },
@@ -331,13 +331,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-1.7B-MLX-bf16",
 "date": "2026-10-27",
 "summary": "",
-"score": 13,
+"score": 14,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "text-generation",
-"downloads": 1880,
+"downloads": 2229,
 "lang": "en"
 }
 },
@@ -349,13 +349,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-1.7B-NVFP4",
 "date": "2026-10-24",
 "summary": "",
-"score": 16,
+"score": 17,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "text-generation",
-"downloads": 1574,
+"downloads": 2013,
 "lang": "en"
 }
 },
@@ -367,13 +367,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-Audio-2B-GGUF",
 "date": "2026-10-27",
 "summary": "",
-"score": 38,
+"score": 37,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 32391,
+"downloads": 41574,
 "lang": "en"
 }
 },
@@ -391,7 +391,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 836,
+"downloads": 1013,
 "lang": "en"
 }
 },
@@ -403,13 +403,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-Audio-2B-MLX-8bit",
 "date": "2026-10-27",
 "summary": "",
-"score": 7,
+"score": 9,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 852,
+"downloads": 1064,
 "lang": "en"
 }
 },
@@ -421,13 +421,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-Audio-2B-MLX-bf16",
 "date": "2026-10-27",
 "summary": "",
-"score": 6,
+"score": 7,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 704,
+"downloads": 835,
 "lang": "en"
 }
 },
@@ -445,7 +445,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 403,
+"downloads": 500,
 "lang": "en"
 }
 },
@@ -457,13 +457,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B-GGUF",
 "date": "2026-10-27",
 "summary": "",
-"score": 88,
+"score": 96,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 69967,
+"downloads": 90171,
 "lang": "en"
 }
 },
@@ -481,7 +481,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 1612,
+"downloads": 2041,
 "lang": "en"
 }
 },
@@ -499,7 +499,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 1348,
+"downloads": 1687,
 "lang": "en"
 }
 },
@@ -517,7 +517,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 1044,
+"downloads": 1356,
 "lang": "en"
 }
 },
@@ -535,7 +535,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "any-to-any",
-"downloads": 515,
+"downloads": 758,
 "lang": "en"
 }
 },
@@ -553,7 +553,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 481,
+"downloads": 543,
 "lang": "en"
 }
 },
@@ -565,13 +565,13 @@
 "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B-MLX-6bit",
 "date": "2026-10-27",
 "summary": "",
-"score": 9,
+"score": 10,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 510,
+"downloads": 571,
 "lang": "en"
 }
 },
@@ -589,7 +589,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 317,
+"downloads": 385,
 "lang": "en"
 }
 },
@@ -607,7 +607,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 375,
+"downloads": 553,
 "lang": "en"
 }
 },
@@ -619,13 +619,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-2B-GGUF",
 "date": "2026-10-27",
 "summary": "",
-"score": 26,
+"score": 28,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 12992,
+"downloads": 15051,
 "lang": "en"
 }
 },
@@ -643,7 +643,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 300,
+"downloads": 358,
 "lang": "en"
 }
 },
@@ -661,7 +661,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 324,
+"downloads": 385,
 "lang": "en"
 }
 },
@@ -679,7 +679,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 255,
+"downloads": 311,
 "lang": "en"
 }
 },
@@ -691,13 +691,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-2B-ONNX",
 "date": "2026-10-27",
 "summary": "",
-"score": 10,
+"score": 11,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 323,
+"downloads": 513,
 "lang": "en"
 }
 },
@@ -823,7 +823,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "audio-text-to-text",
-"downloads": 13968,
+"downloads": 14827,
 "lang": "en"
 }
 },
@@ -841,7 +841,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "audio-text-to-text",
-"downloads": 256,
+"downloads": 330,
 "lang": "en"
 }
 },
@@ -859,7 +859,7 @@
 "publisher": "Liquid AI",
 "jp": false,
 "task": "audio-text-to-text",
-"downloads": 302,
+"downloads": 376,
 "lang": "en"
 }
 },
@@ -871,13 +871,13 @@
 "url": "https://huggingface.co/LiquidAI/d1-Omni-2B-ONNX",
 "date": "2026-10-27",
 "summary": "",
-"score": 8,
+"score": 9,
 "extra": {
 "org": "LiquidAI",
 "publisher": "Liquid AI",
 "jp": false,
 "task": "audio-text-to-text",
-"downloads": 124,
+"downloads": 165,
 "lang": "en"
 }
 },
@@ -961,13 +961,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
 "date": "2026-10-17",
 "summary": "",
-"score": 517,
+"score": 523,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 21136,
+"downloads": 22850,
 "lang": "en"
 }
 },
@@ -1033,13 +1033,13 @@
 "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
 "date": "2026-10-26",
 "summary": "",
-"score": 473,
+"score": 515,
 "extra": {
 "org": "baidu",
 "publisher": "Baidu",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 69231,
+"downloads": 109519,
 "lang": "en"
 }
 },
@@ -1051,13 +1051,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
 "date": "2026-10-13",
 "summary": "",
-"score": 783,
+"score": 793,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "image-to-image",
-"downloads": 149203,
+"downloads": 152681,
 "lang": "en"
 }
 },
@@ -1069,13 +1069,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-base",
 "date": "2026-10-13",
 "summary": "",
-"score": 209,
+"score": 211,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "image-to-image",
-"downloads": 117787,
+"downloads": 118669,
 "lang": "en"
 }
 },
@@ -1087,13 +1087,13 @@
 "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
 "date": "2026-10-14",
 "summary": "",
-"score": 2196,
+"score": 2262,
 "extra": {
 "org": "black-forest-labs",
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "image-to-image",
-"downloads": 925236,
+"downloads": 970633,
 "lang": "en"
 }
 },
@@ -1111,7 +1111,7 @@
 "publisher": "Black Forest Labs",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 61268,
+"downloads": 61979,
 "lang": "en"
 }
 },
@@ -1123,13 +1123,13 @@
 "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
 "date": "2026-10-17",
 "summary": "",
-"score": 4102,
+"score": 4296,
 "extra": {
 "org": "deepseek-ai",
 "publisher": "DeepSeek",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 156373,
+"downloads": 170353,
 "lang": "en"
 }
 },
@@ -1237,7 +1237,7 @@
 "publisher": "IBM Granite",
 "jp": false,
 "task": "",
-"downloads": 3565,
+"downloads": 3749,
 "lang": "en"
 }
 },
@@ -1255,7 +1255,7 @@
 "publisher": "IBM Granite",
 "jp": false,
 "task": "automatic-speech-recognition",
-"downloads": 256,
+"downloads": 336,
 "lang": "en"
 }
 },
@@ -1273,7 +1273,7 @@
 "publisher": "IBM Granite",
 "jp": false,
 "task": "text-generation",
-"downloads": 3185,
+"downloads": 3405,
 "lang": "en"
 }
 },
@@ -1291,7 +1291,7 @@
 "publisher": "IBM Granite",
 "jp": false,
 "task": "",
-"downloads": 1645,
+"downloads": 1726,
 "lang": "en"
 }
 },
@@ -1309,7 +1309,7 @@
 "publisher": "IBM Granite",
 "jp": false,
 "task": "text-generation",
-"downloads": 4204,
+"downloads": 4417,
 "lang": "en"
 }
 },
@@ -1327,7 +1327,7 @@
 "publisher": "IBM Granite",
 "jp": false,
 "task": "",
-"downloads": 2242,
+"downloads": 2341,
 "lang": "en"
 }
 },
@@ -1345,7 +1345,7 @@
 "publisher": "Microsoft",
 "jp": false,
 "task": "",
-"downloads": 43,
+"downloads": 46,
 "lang": "en"
 }
 },
@@ -1357,13 +1357,13 @@
 "url": "https://huggingface.co/microsoft/Mage-VL-Cowork",
 "date": "2026-10-30",
 "summary": "",
-"score": 90,
+"score": 121,
 "extra": {
 "org": "microsoft",
 "publisher": "Microsoft",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 233,
+"downloads": 752,
 "lang": "en"
 }
 },
@@ -1381,7 +1381,7 @@
 "publisher": "Microsoft",
 "jp": false,
 "task": "text-generation",
-"downloads": 2069,
+"downloads": 2122,
 "lang": "en"
 }
 },
@@ -1399,7 +1399,7 @@
 "publisher": "Microsoft",
 "jp": false,
 "task": "text-generation",
-"downloads": 2386,
+"downloads": 2453,
 "lang": "en"
 }
 },
@@ -1447,13 +1447,13 @@
 "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4",
 "date": "2026-10-15",
 "summary": "",
-"score": 61,
+"score": 64,
 "extra": {
 "org": "mistralai",
 "publisher": "Mistral AI",
 "jp": false,
 "task": "",
-"downloads": 545,
+"downloads": 631,
 "lang": "en"
 }
 },
@@ -1471,7 +1471,7 @@
 "publisher": "Mistral AI",
 "jp": false,
 "task": "time-series-forecasting",
-"downloads": 5215,
+"downloads": 5692,
 "lang": "en"
 }
 },
@@ -1483,13 +1483,13 @@
 "url": "https://huggingface.co/mistralai/Timestral-209M",
 "date": "2026-10-14",
 "summary": "",
-"score": 460,
+"score": 464,
 "extra": {
 "org": "mistralai",
 "publisher": "Mistral AI",
 "jp": false,
 "task": "time-series-forecasting",
-"downloads": 17551,
+"downloads": 18274,
 "lang": "en"
 }
 },
@@ -1507,7 +1507,7 @@
 "publisher": "Mistral AI",
 "jp": false,
 "task": "time-series-forecasting",
-"downloads": 11135,
+"downloads": 11601,
 "lang": "en"
 }
 },
@@ -1525,7 +1525,7 @@
 "publisher": "Mistral AI",
 "jp": false,
 "task": "time-series-forecasting",
-"downloads": 8780,
+"downloads": 9098,
 "lang": "en"
 }
 },
@@ -1555,13 +1555,13 @@
 "url": "https://huggingface.co/nvidia/ARDY-SOMA-RP-30FPS-KimodoRep-Horizon60",
 "date": "2026-10-13",
 "summary": "",
-"score": 2,
+"score": 3,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 191,
+"downloads": 200,
 "lang": "en"
 }
 },
@@ -1633,7 +1633,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-to-video",
-"downloads": 985,
+"downloads": 1020,
 "lang": "en"
 }
 },
@@ -1651,7 +1651,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "robotics",
-"downloads": 226,
+"downloads": 235,
 "lang": "en"
 }
 },
@@ -1663,13 +1663,13 @@
 "url": "https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
 "date": "2026-10-30",
 "summary": "",
-"score": 86,
+"score": 118,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 715,
+"downloads": 1473,
 "lang": "en"
 }
 },
@@ -1705,7 +1705,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "robotics",
-"downloads": 347,
+"downloads": 356,
 "lang": "en"
 }
 },
@@ -1723,7 +1723,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 116,
+"downloads": 122,
 "lang": "en"
 }
 },
@@ -1741,7 +1741,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 244,
+"downloads": 249,
 "lang": "en"
 }
 },
@@ -1759,7 +1759,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 5341,
+"downloads": 5665,
 "lang": "en"
 }
 },
@@ -1777,7 +1777,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "reinforcement-learning",
-"downloads": 1207,
+"downloads": 1277,
 "lang": "en"
 }
 },
@@ -1789,7 +1789,7 @@
 "url": "https://huggingface.co/nvidia/MotionBricks",
 "date": "2026-10-23",
 "summary": "",
-"score": 105,
+"score": 113,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
@@ -1813,7 +1813,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 1957,
+"downloads": 2008,
 "lang": "en"
 }
 },
@@ -1867,7 +1867,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 5023,
+"downloads": 5183,
 "lang": "en"
 }
 },
@@ -1885,7 +1885,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 23244,
+"downloads": 24904,
 "lang": "en"
 }
 },
@@ -1915,13 +1915,13 @@
 "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
 "date": "2026-10-12",
 "summary": "",
-"score": 108,
+"score": 109,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 54103,
+"downloads": 56263,
 "lang": "en"
 }
 },
@@ -1939,7 +1939,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 2585,
+"downloads": 2617,
 "lang": "en"
 }
 },
@@ -1951,13 +1951,13 @@
 "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
 "date": "2026-10-12",
 "summary": "",
-"score": 248,
+"score": 252,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 28064,
+"downloads": 29196,
 "lang": "en"
 }
 },
@@ -2011,7 +2011,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 9562,
+"downloads": 9784,
 "lang": "en"
 }
 },
@@ -2029,7 +2029,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 19561,
+"downloads": 20157,
 "lang": "en"
 }
 },
@@ -2047,7 +2047,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 1762,
+"downloads": 1821,
 "lang": "en"
 }
 },
@@ -2059,13 +2059,13 @@
 "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4",
 "date": "2026-10-16",
 "summary": "",
-"score": 13,
+"score": 14,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 3101,
+"downloads": 3214,
 "lang": "en"
 }
 },
@@ -2113,13 +2113,13 @@
 "url": "https://huggingface.co/nvidia/Nemotron-3.5-Rerank-8B-BF16",
 "date": "2026-10-15",
 "summary": "",
-"score": 46,
+"score": 47,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-ranking",
-"downloads": 5016,
+"downloads": 5130,
 "lang": "en"
 }
 },
@@ -2209,7 +2209,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 261,
+"downloads": 271,
 "lang": "en"
 }
 },
@@ -2227,7 +2227,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 78,
+"downloads": 82,
 "lang": "en"
 }
 },
@@ -2407,7 +2407,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "robotics",
-"downloads": 245,
+"downloads": 254,
 "lang": "en"
 }
 },
@@ -2479,7 +2479,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "robotics",
-"downloads": 190,
+"downloads": 199,
 "lang": "en"
 }
 },
@@ -2515,7 +2515,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "robotics",
-"downloads": 266,
+"downloads": 276,
 "lang": "en"
 }
 },
@@ -2659,7 +2659,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 5904,
+"downloads": 6021,
 "lang": "en"
 }
 },
@@ -2677,7 +2677,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 1046,
+"downloads": 1065,
 "lang": "en"
 }
 },
@@ -2695,7 +2695,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 30567,
+"downloads": 30738,
 "lang": "en"
 }
 },
@@ -2707,13 +2707,13 @@
 "url": "https://huggingface.co/tencent/Hy-Nomas",
 "date": "2026-10-21",
 "summary": "",
-"score": 126,
+"score": 130,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "",
-"downloads": 53401,
+"downloads": 59480,
 "lang": "en"
 }
 },
@@ -2731,7 +2731,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "",
-"downloads": 121,
+"downloads": 126,
 "lang": "en"
 }
 },
@@ -2743,13 +2743,13 @@
 "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B",
 "date": "2026-10-22",
 "summary": "",
-"score": 44,
+"score": 46,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "translation",
-"downloads": 509,
+"downloads": 660,
 "lang": "en"
 }
 },
@@ -2761,13 +2761,13 @@
 "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
 "date": "2026-10-22",
 "summary": "",
-"score": 458,
+"score": 459,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "translation",
-"downloads": 1141,
+"downloads": 1160,
 "lang": "en"
 }
 },
@@ -2785,7 +2785,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "",
-"downloads": 1386,
+"downloads": 1514,
 "lang": "en"
 }
 },
@@ -2803,7 +2803,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "translation",
-"downloads": 286,
+"downloads": 414,
 "lang": "en"
 }
 },
@@ -2821,7 +2821,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "translation",
-"downloads": 146,
+"downloads": 151,
 "lang": "en"
 }
 },
@@ -2839,7 +2839,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "",
-"downloads": 3376,
+"downloads": 3518,
 "lang": "en"
 }
 },
@@ -2857,7 +2857,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "",
-"downloads": 747,
+"downloads": 764,
 "lang": "en"
 }
 },
@@ -2875,7 +2875,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 8817,
+"downloads": 9180,
 "lang": "en"
 }
 },
@@ -2893,7 +2893,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 8113,
+"downloads": 8587,
 "lang": "en"
 }
 },
