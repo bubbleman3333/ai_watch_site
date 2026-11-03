@@ -1,0 +1,120 @@
+{
+"repo-Balanov__uncut": {
+"id": "repo-Balanov__uncut",
+"source": "github",
+"kind": "repo",
+"title": "Balanov/uncut",
+"url": "https://github.com/Balanov/uncut",
+"date": "2026-11-01",
+"summary": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+"score": 575,
+"extra": {
+"lang": "Go",
+"topics": [
+"agent-harness",
+"cli",
+"coding-agent",
+"go",
+"headless",
+"llm",
+"local-models"
+],
+"license": "MIT"
+}
+},
+"repo-DominikScholz__open-bot-avatar": {
+"id": "repo-DominikScholz__open-bot-avatar",
+"source": "github",
+"kind": "repo",
+"title": "DominikScholz/open-bot-avatar",
+"url": "https://github.com/DominikScholz/open-bot-avatar",
+"date": "2026-11-02",
+"summary": "A JSON spec and renderer for interactive agent avatars",
+"score": 42,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"agents",
+"animation",
+"avatar",
+"bot",
+"json",
+"svg"
+],
+"license": "MIT"
+}
+},
+"repo-Jumbomuffin777__Frontier-UI": {
+"id": "repo-Jumbomuffin777__Frontier-UI",
+"source": "github",
+"kind": "repo",
+"title": "Jumbomuffin777/Frontier-UI",
+"url": "https://github.com/Jumbomuffin777/Frontier-UI",
+"date": "2026-11-01",
+"summary": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoi…",
+"score": 53,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai-tools",
+"artcraft",
+"artificial-intelligence",
+"generative-ai",
+"llm",
+"local-ai",
+"local-llm",
+"open-webui",
+"open-webui-extensions",
+"open-webui-plugins"
+],
+"license": "MIT"
+}
+},
+"repo-Toyhom__awesome-computational-character-modeling": {
+"id": "repo-Toyhom__awesome-computational-character-modeling",
+"source": "github",
+"kind": "repo",
+"title": "Toyhom/awesome-computational-character-modeling",
+"url": "https://github.com/Toyhom/awesome-computational-character-modeling",
+"date": "2026-11-02",
+"summary": "Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation, organized by the manuscript.",
+"score": 58,
+"extra": {
+"lang": "TeX",
+"topics": [
+"awesome-list",
+"computational-character-modeling",
+"large-language-models",
+"role-playing-agents",
+"survey"
+],
+"license": "MIT"
+}
+},
+"repo-UncensoredLabs__uncensored-ai-api": {
+"id": "repo-UncensoredLabs__uncensored-ai-api",
+"source": "github",
+"kind": "repo",
+"title": "UncensoredLabs/uncensored-ai-api",
+"url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+"date": "2026-11-01",
+"summary": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+"score": 92,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"abliterated-models",
+"ai-chat",
+"ai-models",
+"chat-api",
+"chatbot",
+"deepseek",
+"developer-tools",
+"generative-ai",
+"glm",
+"llm-api"
+],
+"license": "MIT"
+}
+}
+}
