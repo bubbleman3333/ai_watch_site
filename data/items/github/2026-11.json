@@ -1,4 +1,21 @@
 {
+"repo-Balanov__latch": {
+"id": "repo-Balanov__latch",
+"source": "github",
+"kind": "repo",
+"title": "Balanov/latch",
+"url": "https://github.com/Balanov/latch",
+"date": "2026-11-04",
+"summary": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
+"score": 197,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agents"
+],
+"license": "MIT"
+}
+},
 "repo-Balanov__uncut": {
 "id": "repo-Balanov__uncut",
 "source": "github",
@@ -7,7 +24,7 @@
 "url": "https://github.com/Balanov/uncut",
 "date": "2026-11-01",
 "summary": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-"score": 593,
+"score": 600,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -30,7 +47,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 121,
+"score": 157,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -52,7 +69,7 @@
 "url": "https://github.com/Jumbomuffin777/Frontier-UI",
 "date": "2026-11-01",
 "summary": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoi…",
-"score": 58,
+"score": 59,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -70,6 +87,54 @@
 "license": "MIT"
 }
 },
+"repo-KKKKhazix__agent-autoloop": {
+"id": "repo-KKKKhazix__agent-autoloop",
+"source": "github",
+"kind": "repo",
+"title": "KKKKhazix/agent-autoloop",
+"url": "https://github.com/KKKKhazix/agent-autoloop",
+"date": "2026-11-03",
+"summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+"score": 2506,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agents",
+"automation",
+"claude-code",
+"cli",
+"codex",
+"event-driven",
+"mcp",
+"nodejs",
+"self-hosted",
+"typescript"
+],
+"license": "MIT"
+}
+},
+"repo-MiniMax-AI__mcode-agent-table": {
+"id": "repo-MiniMax-AI__mcode-agent-table",
+"source": "github",
+"kind": "repo",
+"title": "MiniMax-AI/mcode-agent-table",
+"url": "https://github.com/MiniMax-AI/mcode-agent-table",
+"date": "2026-11-03",
+"summary": "BYOB Table Protocol v0.1 and reference implementation: bring your own agent (MiniMax Code and others) to one shared table for any-topology discussion and collaboration.",
+"score": 35,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agents",
+"byob",
+"mcp",
+"minimax",
+"multi-agent",
+"protocol"
+],
+"license": "MIT"
+}
+},
 "repo-Toyhom__awesome-computational-character-modeling": {
 "id": "repo-Toyhom__awesome-computational-character-modeling",
 "source": "github",
@@ -78,7 +143,7 @@
 "url": "https://github.com/Toyhom/awesome-computational-character-modeling",
 "date": "2026-11-02",
 "summary": "Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation, organized by the manuscript.",
-"score": 100,
+"score": 144,
 "extra": {
 "lang": "TeX",
 "topics": [
@@ -115,6 +180,82 @@
 "llm-api"
 ],
 "license": "MIT"
+}
+},
+"repo-bytedance__axion1_0": {
+"id": "repo-bytedance__axion1_0",
+"source": "github",
+"kind": "repo",
+"title": "bytedance/axion1_0",
+"url": "https://github.com/bytedance/axion1_0",
+"date": "2026-11-02",
+"summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
+"score": 45,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skills",
+"agentic-ai",
+"agentic-workflow",
+"agents",
+"ai",
+"ai-agents",
+"llm",
+"multi-agent"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-ianTPE__tetra-unfold": {
+"id": "repo-ianTPE__tetra-unfold",
+"source": "github",
+"kind": "repo",
+"title": "ianTPE/tetra-unfold",
+"url": "https://github.com/ianTPE/tetra-unfold",
+"date": "2026-11-01",
+"summary": "Seamless tetrahedral world map with a multi-stop flight trip planner in 9 languages. Also unfolds 360° photos for AI vision and drone attitude. 四面體世界地圖與出差航線規劃。",
+"score": 62,
+"extra": {
+"lang": "HTML",
+"topics": [
+"360-camera",
+"attitude-estimation",
+"authagraph",
+"cartography",
+"computer-vision",
+"d3",
+"drone",
+"equirectangular",
+"flight-planner",
+"github-pages"
+],
+"license": "NOASSERTION"
+}
+},
+"repo-silverdugongenhance__PromptReel": {
+"id": "repo-silverdugongenhance__PromptReel",
+"source": "github",
+"kind": "repo",
+"title": "silverdugongenhance/PromptReel",
+"url": "https://github.com/silverdugongenhance/PromptReel",
+"date": "2026-11-04",
+"summary": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscrip…",
+"score": 104,
+"extra": {
+"lang": "",
+"topics": [
+"ai-tools",
+"ai-video",
+"ai-video-clip",
+"ai-video-generator-crack",
+"free",
+"generative-ai",
+"local-ai",
+"offline",
+"prompt-to-video",
+"text-to-video-generation"
+],
+"license": ""
 }
 }
 }

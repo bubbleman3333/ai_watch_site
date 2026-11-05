@@ -1,0 +1,38 @@
+{
+"release-Rakuten__RakutenAI-3.0.1": {
+"id": "release-Rakuten__RakutenAI-3.0.1",
+"source": "releases",
+"kind": "release",
+"title": "Rakuten/RakutenAI-3.0.1",
+"url": "https://huggingface.co/Rakuten/RakutenAI-3.0.1",
+"date": "2026-11-04",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "Rakuten",
+"publisher": "楽天",
+"jp": true,
+"task": "text-generation",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-moonshotai__Kimi-K3.1-Pro": {
+"id": "release-moonshotai__Kimi-K3.1-Pro",
+"source": "releases",
+"kind": "release",
+"title": "moonshotai/Kimi-K3.1-Pro",
+"url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+"date": "2026-11-02",
+"summary": "",
+"score": 501,
+"extra": {
+"org": "moonshotai",
+"publisher": "Moonshot AI",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 797,
+"lang": "en"
+}
+}
+}

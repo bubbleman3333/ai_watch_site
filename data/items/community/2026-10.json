@@ -9841,7 +9841,7 @@
 "url": "https://dev.to/ujja/ai-engineering-is-easy-do-we-really-have-to-change-how-we-work-31n7",
 "date": "2026-10-29",
 "summary": "In Part 1, I explored why making AI engineering easier doesn't automatically make software delivery...",
-"score": 19,
+"score": 20,
 "extra": {
 "comments": 18,
 "publisher": "DEV Community",
@@ -14177,7 +14177,7 @@
 "summary": "In the spirit of Hacktoberfest, with it being the last day of October, I wanted to share my story...",
 "score": 74,
 "extra": {
-"comments": 30,
+"comments": 31,
 "publisher": "DEV Community",
 "topics": [
 "opensource",
@@ -14342,9 +14342,9 @@
 "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
 "date": "2026-10-29",
 "summary": "A tweet went around saying: \"No human will ever write code better than LLMs. Accept this fact, stop...",
-"score": 61,
+"score": 68,
 "extra": {
-"comments": 55,
+"comments": 57,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -15242,9 +15242,9 @@
 "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
 "date": "2026-10-29",
 "summary": "This week's Hacktoberfest theme is Ghost in the Machine. Unfortunately, I don't have enough time to...",
-"score": 126,
+"score": 129,
 "extra": {
-"comments": 115,
+"comments": 118,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -15935,7 +15935,7 @@
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
 "score": 63,
 "extra": {
-"comments": 45,
+"comments": 52,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -16082,7 +16082,7 @@
 "summary": "Why 90% of AI coding frustration comes from the Quota vs. Prompt-Compliance Death Loop, why Rich Sutton's Bitter Lesson fails in open-world software, and how we compile mid-flight collisions into 4-V…",
 "score": 25,
 "extra": {
-"comments": 38,
+"comments": 42,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16334,7 +16334,7 @@
 "summary": "I run a small team of LLM agents that coordinate through markdown files. Several roles run on Codex...",
 "score": 2,
 "extra": {
-"comments": 13,
+"comments": 15,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16376,7 +16376,7 @@
 "summary": "I do a lot of experimenting with local language models, and I just ended up going down a bit of a...",
 "score": 26,
 "extra": {
-"comments": 17,
+"comments": 18,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16445,6 +16445,27 @@
 "llm",
 "performance",
 "machinelearning"
+],
+"lang": "en"
+}
+},
+"devto-4948961": {
+"id": "devto-4948961",
+"source": "community",
+"kind": "community",
+"title": "From One Chatbot to Five Agents: My AWS Agent Engineer Nanodegree",
+"url": "https://dev.to/earlgreyhot1701d/from-one-chatbot-to-five-agents-my-aws-agent-engineer-nanodegree-69i",
+"date": "2026-10-30",
+"summary": "TL;DR: I finished the Future AWS Agent Engineer nanodegree with three graded projects, each a...",
+"score": 24,
+"extra": {
+"comments": 16,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"aws",
+"agents",
+"learning"
 ],
 "lang": "en"
 }
@@ -16583,9 +16604,9 @@
 "url": "https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd",
 "date": "2026-10-31",
 "summary": "A few days back, I took part in the Apart Research sprint where our team worked on the AI collusion...",
-"score": 40,
+"score": 50,
 "extra": {
-"comments": 70,
+"comments": 76,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16732,7 +16753,7 @@
 "summary": "A deep dive into persian-rag: the Unicode, tokenization, PDF, and spelling problems that make Persian retrieval fail silently, the design choices behind each fix, and a small benchmark with honest nu…",
 "score": 1,
 "extra": {
-"comments": 3,
+"comments": 4,
 "publisher": "DEV Community",
 "topics": [
 "rag",
@@ -16753,7 +16774,7 @@
 "summary": "How woocommerce-mcp keeps an agent from blindly writing to a live store: two-step confirms, a previewId fingerprint, stale_preview detection, and what it still cannot guarantee.",
 "score": 4,
 "extra": {
-"comments": 10,
+"comments": 12,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -16816,7 +16837,7 @@
 "summary": "A user closes the browser tab. Your Node.js server notices the disconnect. You propagate the...",
 "score": 4,
 "extra": {
-"comments": 15,
+"comments": 23,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -16940,9 +16961,9 @@
 "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
 "date": "2026-10-31",
 "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine ...",
-"score": 87,
+"score": 108,
 "extra": {
-"comments": 51,
+"comments": 59,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -16963,7 +16984,7 @@
 "summary": "A follow-up to my original 16GB GPU experiment, this time with consistent quantization, repeated...",
 "score": 33,
 "extra": {
-"comments": 29,
+"comments": 31,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -17004,7 +17025,7 @@
 "summary": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
 "score": 16,
 "extra": {
-"comments": 9,
+"comments": 11,
 "publisher": "DEV Community",
 "topics": [
 "ai",
