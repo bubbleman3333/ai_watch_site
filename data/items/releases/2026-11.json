@@ -1,4 +1,40 @@
 {
+"release-ByteDance-Seed__Cross-Layer-TopK-CLT": {
+"id": "release-ByteDance-Seed__Cross-Layer-TopK-CLT",
+"source": "releases",
+"kind": "release",
+"title": "ByteDance-Seed/Cross-Layer-TopK-CLT",
+"url": "https://huggingface.co/ByteDance-Seed/Cross-Layer-TopK-CLT",
+"date": "2026-11-05",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "ByteDance-Seed",
+"publisher": "ByteDance Seed",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-ByteDance-Seed__Qwen3-30B-A3B-MoE-SAE": {
+"id": "release-ByteDance-Seed__Qwen3-30B-A3B-MoE-SAE",
+"source": "releases",
+"kind": "release",
+"title": "ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE",
+"url": "https://huggingface.co/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE",
+"date": "2026-11-05",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "ByteDance-Seed",
+"publisher": "ByteDance Seed",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
 "release-Rakuten__RakutenAI-3.0.1": {
 "id": "release-Rakuten__RakutenAI-3.0.1",
 "source": "releases",
@@ -7,14 +43,50 @@
 "url": "https://huggingface.co/Rakuten/RakutenAI-3.0.1",
 "date": "2026-11-04",
 "summary": "",
-"score": 1,
+"score": 5,
 "extra": {
 "org": "Rakuten",
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 0,
+"downloads": 25,
 "lang": "ja"
+}
+},
+"release-allenai__Molmo2-4B-tb": {
+"id": "release-allenai__Molmo2-4B-tb",
+"source": "releases",
+"kind": "release",
+"title": "allenai/Molmo2-4B-tb",
+"url": "https://huggingface.co/allenai/Molmo2-4B-tb",
+"date": "2026-11-05",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "robotics",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-allenai__maniflow-tb": {
+"id": "release-allenai__maniflow-tb",
+"source": "releases",
+"kind": "release",
+"title": "allenai/maniflow-tb",
+"url": "https://huggingface.co/allenai/maniflow-tb",
+"date": "2026-11-05",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "allenai",
+"publisher": "Ai2",
+"jp": false,
+"task": "robotics",
+"downloads": 0,
+"lang": "en"
 }
 },
 "release-moonshotai__Kimi-K3.1-Pro": {
@@ -25,13 +97,31 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 501,
+"score": 923,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 797,
+"downloads": 11658,
+"lang": "en"
+}
+},
+"release-nvidia__MetricTrail": {
+"id": "release-nvidia__MetricTrail",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/MetricTrail",
+"url": "https://huggingface.co/nvidia/MetricTrail",
+"date": "2026-11-05",
+"summary": "",
+"score": 15,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "",
+"downloads": 0,
 "lang": "en"
 }
 }

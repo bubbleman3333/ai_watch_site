@@ -8,11 +8,11 @@
 "alt_url": "https://arxiv.org/abs/2610.00854",
 "date": "2026-11-04",
 "summary": "A robot generalist must interpret a scene, act on it, and satisfy every condition of a task. How far do frontier vision-language models (VLMs) meet these demands?",
-"score": 5,
+"score": 74,
 "extra": {
 "github": "https://github.com/embodied-agent-arena/embodied-agent-arena",
-"stars": 14,
-"comments": 1
+"stars": 22,
+"comments": 2
 }
 },
 "paper-2610.16927": {
@@ -72,7 +72,7 @@
 "alt_url": "https://arxiv.org/abs/2610.27954",
 "date": "2026-11-03",
 "summary": "Recent advances in large (vision) language models have enabled computer-use agents that automate digital workflows via fine-grained keyboard and mouse operations.",
-"score": 32,
+"score": 34,
 "extra": {
 "github": "https://github.com/BangProx/ReTRACE",
 "stars": 4,
@@ -120,7 +120,7 @@
 "alt_url": "https://arxiv.org/abs/2610.32878",
 "date": "2026-11-03",
 "summary": "Low-rank SVD-based compression offers a powerful strategy to reduce the computational costs of LLMs.",
-"score": 4,
+"score": 5,
 "extra": {
 "github": "https://github.com/lems-svd/lems",
 "stars": 4,
@@ -168,7 +168,7 @@
 "alt_url": "https://arxiv.org/abs/2610.35219",
 "date": "2026-11-03",
 "summary": "Existing multi-agent collaboration (MAC) methods have primarily explored a group thinking collaboration topology, where agents independently generate solutions and aggregate their outputs.",
-"score": 8,
+"score": 9,
 "extra": {
 "github": "https://github.com/67L1/MACR",
 "stars": 3,
@@ -223,6 +223,22 @@
 "comments": 2
 }
 },
+"paper-2610.36544": {
+"id": "paper-2610.36544",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Monitor Accuracy Isn't the Answer: A Decision-Value Framework for Evaluating AI Agent Restart Monitors",
+"url": "https://huggingface.co/papers/2610.36544",
+"alt_url": "https://arxiv.org/abs/2610.36544",
+"date": "2026-11-05",
+"summary": "Classification accuracy and true-positive and false-positive rates alone do not determine whether restarting an AI agent improves success.",
+"score": 2,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
 "paper-2610.36545": {
 "id": "paper-2610.36545",
 "source": "hf_papers",
@@ -248,11 +264,27 @@
 "alt_url": "https://arxiv.org/abs/2610.36915",
 "date": "2026-11-04",
 "summary": "When the sources retrieved for a query disagree, the right response depends on why they disagree: a question with several valid answers, a contested topic, stale information and a false source each call for different behaviour. Cattan et al.",
-"score": 2,
+"score": 4,
 "extra": {
 "github": "https://github.com/Parv17k/decision-models-conflict-typing",
 "stars": 4,
-"comments": 3
+"comments": 4
+}
+},
+"paper-2610.37257": {
+"id": "paper-2610.37257",
+"source": "hf_papers",
+"kind": "paper",
+"title": "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling",
+"url": "https://huggingface.co/papers/2610.37257",
+"alt_url": "https://arxiv.org/abs/2610.37257",
+"date": "2026-11-05",
+"summary": "Recent advances in interactive world models have made it possible to generate controllable, dynamic environments from action inputs.",
+"score": 34,
+"extra": {
+"github": "https://github.com/kangverse/GameVerse",
+"stars": 10,
+"comments": 1
 }
 },
 "paper-2610.37393": {
@@ -312,10 +344,10 @@
 "alt_url": "https://arxiv.org/abs/2610.37826",
 "date": "2026-11-03",
 "summary": "Retrieval-augmented generation (RAG) lets a large language model (LLM) answer questions by retrieving relevant passages from a large corpus.",
-"score": 10,
+"score": 13,
 "extra": {
 "github": "https://github.com/Dingyi-Kang/DeFT-RAG",
-"stars": 7,
+"stars": 9,
 "comments": 3
 }
 },
@@ -344,11 +376,11 @@
 "alt_url": "https://arxiv.org/abs/2610.37914",
 "date": "2026-11-04",
 "summary": "Many open mixture-of-experts (MoE) language models train with Muon instead of AdamW. Most balance the load with a bias on each expert's routing score, adjusted after every step. Their recipes disagree on whether Muon should also train the router.",
-"score": 2,
+"score": 4,
 "extra": {
 "github": "https://github.com/marcoshernanz/muon-moe-routing",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2610.37918": {
@@ -392,7 +424,7 @@
 "alt_url": "https://arxiv.org/abs/2610.38252",
 "date": "2026-11-03",
 "summary": "Music audio generation spans instrumental clips, full songs with vocals, edits of existing recordings, and systems that play alongside a musician in real time.",
-"score": 3,
+"score": 4,
 "extra": {
 "github": "",
 "stars": 0,
@@ -408,11 +440,11 @@
 "alt_url": "https://arxiv.org/abs/2610.38623",
 "date": "2026-11-03",
 "summary": "Jev enables efficient decision-making with large language models (LLMs) through typed querying primitives, allowing the same semantic state to be expressed in different formats, such as binary and multiple-choice queries.",
-"score": 9,
+"score": 10,
 "extra": {
 "github": "https://github.com/67L1/PrimaCons-CRPR",
 "stars": 3,
-"comments": 2
+"comments": 3
 }
 },
 "paper-2610.38637": {
@@ -424,7 +456,7 @@
 "alt_url": "https://arxiv.org/abs/2610.38637",
 "date": "2026-11-03",
 "summary": "On-Policy Self-Distillation (OPSD), which aligns a student model's token-level distribution with that of its self-teacher prompted by privileged context, has emerged as a promising direction to mitigate reward sparsity in sequence-level post-training paradigm…",
-"score": 6,
+"score": 7,
 "extra": {
 "github": "",
 "stars": 0,
@@ -456,11 +488,11 @@
 "alt_url": "https://arxiv.org/abs/2610.39251",
 "date": "2026-11-04",
 "summary": "Trajectory-level GRPO is a common approach for training multi-step GUI agents, but repeatedly rolling out complete trajectories from the task root can be inefficient: task-level rewards provide coarse supervision over which intermediate decisions require impr…",
-"score": 2,
+"score": 3,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2610.39276": {
@@ -556,7 +588,7 @@
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2610.39813": {
@@ -568,10 +600,26 @@
 "alt_url": "https://arxiv.org/abs/2610.39813",
 "date": "2026-11-04",
 "summary": "LLM-based multi-agent systems (MAS) rely on collaboration among specialized agents to solve complex tasks. Existing methods improve MAS by refining the prompts, skills, and execution strategies of individual agents based on task feedback.",
-"score": 23,
+"score": 26,
 "extra": {
 "github": "",
 "stars": 0,
+"comments": 2
+}
+},
+"paper-2610.40131": {
+"id": "paper-2610.40131",
+"source": "hf_papers",
+"kind": "paper",
+"title": "VideoMemBench: How Well Do MLLMs Remember in Video Conversations?",
+"url": "https://huggingface.co/papers/2610.40131",
+"alt_url": "https://arxiv.org/abs/2610.40131",
+"date": "2026-11-05",
+"summary": "Multimodal large language models (MLLMs) can now process hour-long videos, making extended multi-turn dialogue over a single video a natural mode of use.",
+"score": 11,
+"extra": {
+"github": "https://github.com/Oliiveralien/VideoMemBench",
+"stars": 1,
 "comments": 1
 }
 },
@@ -584,10 +632,10 @@
 "alt_url": "https://arxiv.org/abs/2610.40191",
 "date": "2026-11-03",
 "summary": "Video generation is shifting from end-to-end synthesis toward agentic generation, where planning, tool use, and feedback enable coherent, controllable multi-shot videos.",
-"score": 74,
+"score": 77,
 "extra": {
 "github": "https://github.com/agentic-videogen/awesome-agentic-videogen",
-"stars": 50,
+"stars": 54,
 "comments": 2
 }
 },
@@ -616,10 +664,10 @@
 "alt_url": "https://arxiv.org/abs/2610.40293",
 "date": "2026-11-03",
 "summary": "Large language model (LLM)-based multi-agent systems (MAS) coordinate specialized agents to solve complex tasks, turning each user request into interdependent model and tool operations.",
-"score": 9,
+"score": 10,
 "extra": {
 "github": "https://github.com/ShengxuanQiu/MAServeBench",
-"stars": 4,
+"stars": 5,
 "comments": 2
 }
 },
@@ -671,6 +719,22 @@
 "comments": 2
 }
 },
+"paper-2610.40516": {
+"id": "paper-2610.40516",
+"source": "hf_papers",
+"kind": "paper",
+"title": "How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates",
+"url": "https://huggingface.co/papers/2610.40516",
+"alt_url": "https://arxiv.org/abs/2610.40516",
+"date": "2026-11-05",
+"summary": "Safety alignment for Large Language Models is heavily focused on English with limited multilingual representation, particularly damaging low-resource language performance.",
+"score": 7,
+"extra": {
+"github": "https://github.com/swiss-ai/msafetemp",
+"stars": 1,
+"comments": 1
+}
+},
 "paper-2610.40574": {
 "id": "paper-2610.40574",
 "source": "hf_papers",
@@ -680,11 +744,11 @@
 "alt_url": "https://arxiv.org/abs/2610.40574",
 "date": "2026-11-04",
 "summary": "On-policy Self-distillation (OPSD) has proven effective for post-training large language models by constructing a teacher conditioned on privileged references.",
-"score": 9,
+"score": 13,
 "extra": {
 "github": "https://github.com/xingzhejun/MTA-OPSD",
 "stars": 3,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2610.40636": {
@@ -744,11 +808,11 @@
 "alt_url": "https://arxiv.org/abs/2610.40747",
 "date": "2026-11-04",
 "summary": "Effective computer-use agents (CUAs) should seamlessly combine visual GUI interaction with code and terminal execution within a single policy.",
-"score": 12,
+"score": 17,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2610.40748": {
@@ -776,11 +840,11 @@
 "alt_url": "https://arxiv.org/abs/2610.40753",
 "date": "2026-11-04",
 "summary": "Coding agents increasingly rely on automated approvers to decide whether a proposed shell command may run.",
-"score": 12,
+"score": 14,
 "extra": {
 "github": "https://github.com/wudaoz/Caper",
-"stars": 4,
-"comments": 1
+"stars": 6,
+"comments": 2
 }
 },
 "paper-2610.40799": {
@@ -847,6 +911,22 @@
 "comments": 1
 }
 },
+"paper-2610.41104": {
+"id": "paper-2610.41104",
+"source": "hf_papers",
+"kind": "paper",
+"title": "MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation",
+"url": "https://huggingface.co/papers/2610.41104",
+"alt_url": "https://arxiv.org/abs/2610.41104",
+"date": "2026-11-05",
+"summary": "Self-distillation methods for large language models with an exponential moving average (EMA) teacher already retain a history of student updates. Muon nevertheless stores a separate momentum buffer, increasing persistent training memory.",
+"score": 14,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
 "paper-2610.41216": {
 "id": "paper-2610.41216",
 "source": "hf_papers",
@@ -856,7 +936,7 @@
 "alt_url": "https://arxiv.org/abs/2610.41216",
 "date": "2026-11-03",
 "summary": "Robot agents built on vision-language models depend on both the planner and its harness: the tools, feedback, memory, and recovery logic around it. Can improvements to a large teacher's harness be carried into a compact agent with lower inference compute cost?",
-"score": 3,
+"score": 4,
 "extra": {
 "github": "https://github.com/Garfield-kh/TinyAstral",
 "stars": 10,
@@ -904,7 +984,7 @@
 "alt_url": "https://arxiv.org/abs/2610.41296",
 "date": "2026-11-03",
 "summary": "Answer-level rewards cannot distinguish reasoning traces with equally correct outcomes. We study whether auxiliary trajectory preferences improve small-language-model self-improvement and transfer under limited supervision.",
-"score": 7,
+"score": 8,
 "extra": {
 "github": "",
 "stars": 0,
@@ -920,10 +1000,26 @@
 "alt_url": "https://arxiv.org/abs/2610.41366",
 "date": "2026-11-04",
 "summary": "Training-free expert pruning makes two decisions: which experts to remove, and what the layer computes when its router still selects a removed expert. Published methods change both at once.",
-"score": 2,
+"score": 3,
 "extra": {
 "github": "",
 "stars": 0,
+"comments": 2
+}
+},
+"paper-2610.41432": {
+"id": "paper-2610.41432",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents",
+"url": "https://huggingface.co/papers/2610.41432",
+"alt_url": "https://arxiv.org/abs/2610.41432",
+"date": "2026-11-05",
+"summary": "Computer-use agents increasingly tackle tasks ranging from everyday desktop activities to long-horizon professional workflows.",
+"score": 9,
+"extra": {
+"github": "https://github.com/microsoft/Hybrid-Computer-Use",
+"stars": 22,
 "comments": 1
 }
 },
@@ -936,7 +1032,7 @@
 "alt_url": "https://arxiv.org/abs/2610.41574",
 "date": "2026-11-03",
 "summary": "Unlike autoregressive (AR) models, diffusion language models (DLMs) permit parallel token updates, flexible generation, and bidirectional attention, but leading systems rely on costly pretraining or full-model fine-tuning.",
-"score": 9,
+"score": 10,
 "extra": {
 "github": "https://github.com/RuurdKuiper/BYOD",
 "stars": 2,
@@ -952,7 +1048,7 @@
 "alt_url": "https://arxiv.org/abs/2610.41994",
 "date": "2026-11-03",
 "summary": "Linear attention scales linearly with sequence length, but its finite-state memory can limit long-context retrieval.",
-"score": 4,
+"score": 5,
 "extra": {
 "github": "https://github.com/SpeedAI-Lab/DAMI",
 "stars": 9,
@@ -1112,11 +1208,11 @@
 "alt_url": "https://arxiv.org/abs/2611.00172",
 "date": "2026-11-03",
 "summary": "Embedding models underpin virtually every modern AI system, from search engines to recommendation systems.",
-"score": 22,
+"score": 23,
 "extra": {
 "github": "https://github.com/codefuse-ai/Awesome-Omnimodal-Embeddings",
-"stars": 19,
-"comments": 1
+"stars": 22,
+"comments": 2
 }
 },
 "paper-2611.00352": {
@@ -1128,11 +1224,11 @@
 "alt_url": "https://arxiv.org/abs/2611.00352",
 "date": "2026-11-04",
 "summary": "With model weights fixed, we measure how much of an entity-replacement response transfers between English factual questions, beyond whether answers change.",
-"score": 1,
+"score": 2,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.00617": {
@@ -1144,11 +1240,11 @@
 "alt_url": "https://arxiv.org/abs/2611.00617",
 "date": "2026-11-04",
 "summary": "Psychotherapy clients may experience distress before they can coherently describe it, and their expression changes with emotion, perceived safety, and trust.",
-"score": 67,
+"score": 77,
 "extra": {
 "github": "https://github.com/whunextgen/Pandora",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.00859": {
@@ -1160,11 +1256,27 @@
 "alt_url": "https://arxiv.org/abs/2611.00859",
 "date": "2026-11-03",
 "summary": "Real-time long-video generation requires continuous output with consistent appearance and natural motion.",
-"score": 121,
+"score": 124,
 "extra": {
 "github": "https://github.com/SJTU-DENG-Lab/WaveForcing",
-"stars": 115,
-"comments": 5
+"stars": 128,
+"comments": 6
+}
+},
+"paper-2611.01120": {
+"id": "paper-2611.01120",
+"source": "hf_papers",
+"kind": "paper",
+"title": "StreamDuo: A Live Commentator and a Research Agent for Unseen Games",
+"url": "https://huggingface.co/papers/2611.01120",
+"alt_url": "https://arxiv.org/abs/2611.01120",
+"date": "2026-11-05",
+"summary": "Streaming video LLMs can now commentate live gameplay, but they are trained and tested on the same games.",
+"score": 18,
+"extra": {
+"github": "https://github.com/ZixianGao/StreamDuo-code",
+"stars": 10,
+"comments": 2
 }
 },
 "paper-2611.01460": {
@@ -1192,7 +1304,7 @@
 "alt_url": "https://arxiv.org/abs/2611.01484",
 "date": "2026-11-03",
 "summary": "As coding agents achieve increasingly high success rates on software engineering benchmarks, recent efforts have sought to increase task complexity through longer horizons and more extensive code modifications.",
-"score": 26,
+"score": 25,
 "extra": {
 "github": "",
 "stars": 0,
@@ -1208,10 +1320,10 @@
 "alt_url": "https://arxiv.org/abs/2611.01560",
 "date": "2026-11-03",
 "summary": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training.",
-"score": 43,
+"score": 47,
 "extra": {
 "github": "https://github.com/Open-RUA/uni-robot-agent",
-"stars": 196,
+"stars": 230,
 "comments": 1
 }
 },
@@ -1224,11 +1336,11 @@
 "alt_url": "https://arxiv.org/abs/2611.01598",
 "date": "2026-11-04",
 "summary": "Heterogeneous embedded boards pair a Linux application processor with a real-time microcontroller (MCU), which suggests moving a task between the two domains when its timing degrades.",
-"score": 0,
+"score": 1,
 "extra": {
 "github": "https://github.com/elixpo/qfabric",
 "stars": 2,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.01621": {
@@ -1240,11 +1352,11 @@
 "alt_url": "https://arxiv.org/abs/2611.01621",
 "date": "2026-11-04",
 "summary": "Anticipating financial outcomes requires synthesizing evolving evidence and reasoning under uncertainty, making deep research systems promising tools for forecasting.",
-"score": 0,
+"score": 1,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.01815": {
@@ -1256,7 +1368,7 @@
 "alt_url": "https://arxiv.org/abs/2611.01815",
 "date": "2026-11-03",
 "summary": "Prediction errors from video world models are often treated as physical surprise, but they can also reflect appearance, static content, motion, or ordinary prediction difficulty.",
-"score": 22,
+"score": 23,
 "extra": {
 "github": "https://github.com/3-ml/jepa-surprise",
 "stars": 0,
@@ -1272,7 +1384,23 @@
 "alt_url": "https://arxiv.org/abs/2611.01860",
 "date": "2026-11-03",
 "summary": "Computer graphics is built on code. Large language model (LLM) agents can now generate graphics code and iteratively refine it through various feedback.",
-"score": 131,
+"score": 140,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 4
+}
+},
+"paper-2611.01926": {
+"id": "paper-2611.01926",
+"source": "hf_papers",
+"kind": "paper",
+"title": "TAC-CoT: Tool-Empowered Implicit Chain-of-Thought via Interleaving Explicit Tokens",
+"url": "https://huggingface.co/papers/2611.01926",
+"alt_url": "https://arxiv.org/abs/2611.01926",
+"date": "2026-11-05",
+"summary": "LLM-based agentic systems are increasingly combined with CoT reasoning to solve tasks that require accurate reasoning, external knowledge, and multi-step deliberation.",
+"score": 14,
 "extra": {
 "github": "",
 "stars": 0,
@@ -1288,11 +1416,11 @@
 "alt_url": "https://arxiv.org/abs/2611.01927",
 "date": "2026-11-04",
 "summary": "Long-horizon terminal tasks are used to evaluate and train agents. Human-curated datasets are scarce, so many synthesis methods have emerged.",
-"score": 2,
+"score": 4,
 "extra": {
 "github": "https://github.com/AlanRosston/Depth",
-"stars": 10,
-"comments": 1
+"stars": 11,
+"comments": 2
 }
 },
 "paper-2611.02017": {
@@ -1304,11 +1432,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02017",
 "date": "2026-11-04",
 "summary": "Software development sessions often involve several unfinished tasks rather than one issue carried through to completion.",
-"score": 6,
+"score": 9,
 "extra": {
 "github": "https://github.com/Miraclecsc/Switch-SWE",
 "stars": 26,
-"comments": 1
+"comments": 3
 }
 },
 "paper-2611.02074": {
@@ -1320,7 +1448,7 @@
 "alt_url": "https://arxiv.org/abs/2611.02074",
 "date": "2026-11-03",
 "summary": "Coding agents solve repository issues through long sequences of exploration, editing, and validation. These trajectories are increasingly used as post-training data, so how they are collected shapes what the trained model learns.",
-"score": 38,
+"score": 40,
 "extra": {
 "github": "",
 "stars": 0,
@@ -1336,11 +1464,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02079",
 "date": "2026-11-04",
 "summary": "Harness optimization can substantially improve LLM agents without modifying model weights, but existing methods primarily optimize response quality.",
-"score": 16,
+"score": 18,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 3
+"comments": 4
 }
 },
 "paper-2611.02102": {
@@ -1352,10 +1480,10 @@
 "alt_url": "https://arxiv.org/abs/2611.02102",
 "date": "2026-11-03",
 "summary": "Scaling computer-use agents from individual actions to complex software work requires experience that connects decisions to complete outcomes. We present NorthCUA, an integrated system for turbocharging computer-use agents through experience at scale.",
-"score": 31,
+"score": 32,
 "extra": {
 "github": "https://github.com/beipo-ai/NorthCUA",
-"stars": 45,
+"stars": 52,
 "comments": 1
 }
 },
@@ -1368,11 +1496,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02112",
 "date": "2026-11-03",
 "summary": "On-policy distillation (OPD) trains a student on its own generations by matching the teacher's token probabilities. These probabilities entangle two kinds of information: which tokens the teacher prefers, and how confident it is.",
-"score": 31,
+"score": 34,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 3
+"comments": 4
 }
 },
 "paper-2611.02244": {
@@ -1384,11 +1512,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02244",
 "date": "2026-11-04",
 "summary": "AI reviewers are increasingly used to assess scientific manuscripts, yet it remains unclear whether their judgments reflect the improvements authors make through revision.",
-"score": 6,
+"score": 10,
 "extra": {
 "github": "https://github.com/c-steve-wang/PaperTrace",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.02332": {
@@ -1400,7 +1528,7 @@
 "alt_url": "https://arxiv.org/abs/2611.02332",
 "date": "2026-11-03",
 "summary": "Tool-using language-model agents often execute actions that their domain policies forbid. We present LeanGuard, a runtime that checks every proposed tool call against a policy written in Lean4 before the call reaches the environment.",
-"score": 9,
+"score": 11,
 "extra": {
 "github": "https://github.com/DebarghaG/LeanGuard",
 "stars": 8,
@@ -1416,11 +1544,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02476",
 "date": "2026-11-04",
 "summary": "Dialectal Arabic speech recognition remains constrained by the scarcity of dialect-resolved transcribed speech despite the abundance of web audio.",
-"score": 1,
+"score": 2,
 "extra": {
 "github": "https://github.com/Antares-97/GigaSpeech3",
-"stars": 1,
-"comments": 1
+"stars": 13,
+"comments": 2
 }
 },
 "paper-2611.02497": {
@@ -1432,11 +1560,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02497",
 "date": "2026-11-04",
 "summary": "General-purpose robot policies must work across robots, tasks, and environments, yet the variation that makes physical trials informative also makes them difficult to reproduce.",
-"score": 43,
+"score": 47,
 "extra": {
 "github": "https://github.com/RoboColosseum/robocolosseum-client",
 "stars": 3,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.02501": {
@@ -1448,11 +1576,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02501",
 "date": "2026-11-04",
 "summary": "Speculative decoding accelerates memory-bound LLM decoding with a lightweight drafter, and parallel drafters extend this speedup by drafting a whole block in one forward pass.",
-"score": 16,
+"score": 19,
 "extra": {
 "github": "https://github.com/StargazerX0/SpecPilot",
-"stars": 82,
-"comments": 1
+"stars": 152,
+"comments": 2
 }
 },
 "paper-2611.02568": {
@@ -1464,11 +1592,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02568",
 "date": "2026-11-04",
 "summary": "3D generation, editing, and completion are typically treated as regenerating the complete 3D asset under task-specific constraints, even when only a local region needs modification.",
-"score": 3,
+"score": 5,
 "extra": {
 "github": "https://github.com/XiaokunSun/SeMo3D",
-"stars": 8,
-"comments": 1
+"stars": 23,
+"comments": 2
 }
 },
 "paper-2611.02633": {
@@ -1480,10 +1608,10 @@
 "alt_url": "https://arxiv.org/abs/2611.02633",
 "date": "2026-11-03",
 "summary": "Progress in AI is often measured by what a single model can do on its own. Yet teams of AI agents are starting to make breakthroughs and discoveries in science, medicine, mathematics and software engineering.",
-"score": 14,
+"score": 15,
 "extra": {
 "github": "https://github.com/zou-group/collaborative-intelligence",
-"stars": 17,
+"stars": 20,
 "comments": 1
 }
 },
@@ -1496,11 +1624,11 @@
 "alt_url": "https://arxiv.org/abs/2611.02737",
 "date": "2026-11-04",
 "summary": "Long-form multi-shot video editing requires an intended edit to remain coherent across abrupt changes in scene, viewpoint, and subject appearance, while processing substantially longer visual context than conventional single-shot editors.",
-"score": 62,
+"score": 74,
 "extra": {
 "github": "https://github.com/adobe-research/MoviEdit-Bench",
-"stars": 7,
-"comments": 1
+"stars": 15,
+"comments": 2
 }
 },
 "paper-2611.02782": {
@@ -1512,11 +1640,43 @@
 "alt_url": "https://arxiv.org/abs/2611.02782",
 "date": "2026-11-03",
 "summary": "Few-step autoregressive video diffusion enables efficient generation, yet maintaining consistency over long rollouts remains challenging, especially when subjects or scenes reappear after going out of sight.",
-"score": 16,
+"score": 18,
 "extra": {
 "github": "https://github.com/ziplab/History-Forcing",
-"stars": 52,
+"stars": 58,
 "comments": 1
+}
+},
+"paper-2611.02846": {
+"id": "paper-2611.02846",
+"source": "hf_papers",
+"kind": "paper",
+"title": "SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding",
+"url": "https://huggingface.co/papers/2611.02846",
+"alt_url": "https://arxiv.org/abs/2611.02846",
+"date": "2026-11-05",
+"summary": "Speculative decoding (SD) accelerates large language model inference by reducing the sequential cost of token-by-token generation.",
+"score": 13,
+"extra": {
+"github": "https://github.com/QwenApp/SpecOPD",
+"stars": 23,
+"comments": 1
+}
+},
+"paper-2611.02857": {
+"id": "paper-2611.02857",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Solv3R: 3D Looped Transformer as a Multi-view Solver",
+"url": "https://huggingface.co/papers/2611.02857",
+"alt_url": "https://arxiv.org/abs/2611.02857",
+"date": "2026-11-05",
+"summary": "Classical structure-from-motion reconstruction proceeds iteratively, refining camera poses and scene geometry from a current estimate.",
+"score": 16,
+"extra": {
+"github": "https://github.com/ubc-vision/solv3r",
+"stars": 111,
+"comments": 2
 }
 },
 "paper-2611.02897": {
@@ -1528,10 +1688,10 @@
 "alt_url": "https://arxiv.org/abs/2611.02897",
 "date": "2026-11-03",
 "summary": "Traditional image cropping assumes the photograph already contains the composition worth keeping, and asks only where to crop. A full 360^{circ} scene offers no such guarantee: the viewing direction in a scene has to be discovered before anything can be frame…",
-"score": 36,
+"score": 38,
 "extra": {
 "github": "https://github.com/NTUneillee/PhotoGuider",
-"stars": 50,
+"stars": 54,
 "comments": 1
 }
 },
@@ -1564,7 +1724,7 @@
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.03097": {
@@ -1579,8 +1739,8 @@
 "score": 5,
 "extra": {
 "github": "https://github.com/StarTrail-org/DRPixel",
-"stars": 16,
-"comments": 1
+"stars": 17,
+"comments": 2
 }
 },
 "paper-2611.03126": {
@@ -1592,11 +1752,11 @@
 "alt_url": "https://arxiv.org/abs/2611.03126",
 "date": "2026-11-03",
 "summary": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data.",
-"score": 78,
+"score": 47,
 "extra": {
 "github": "https://github.com/xlyu0106/CUA-Master",
-"stars": 98,
-"comments": 1
+"stars": 121,
+"comments": 2
 }
 },
 "paper-2611.03178": {
@@ -1608,11 +1768,11 @@
 "alt_url": "https://arxiv.org/abs/2611.03178",
 "date": "2026-11-03",
 "summary": "Rapid advances in cowork agents are shifting human-AI collaboration toward real-world automation, delivering software, designs, and other artifacts.",
-"score": 94,
+"score": 100,
 "extra": {
 "github": "https://github.com/RUC-NLPIR/CoworkOS",
-"stars": 116,
-"comments": 3
+"stars": 125,
+"comments": 4
 }
 },
 "paper-2611.03183": {
@@ -1628,7 +1788,7 @@
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.03219": {
@@ -1640,10 +1800,26 @@
 "alt_url": "https://arxiv.org/abs/2611.03219",
 "date": "2026-11-03",
 "summary": "Recently, harness self-evolution has emerged as an important paradigm for improving agent performance. Prior studies show that evolving the agent harness can effectively enhance agent capabilities without modifying the foundation model's parameters.",
-"score": 5,
+"score": 7,
 "extra": {
 "github": "https://github.com/THU-Agent/continual-harness-evolution",
-"stars": 1,
+"stars": 2,
+"comments": 1
+}
+},
+"paper-2611.03228": {
+"id": "paper-2611.03228",
+"source": "hf_papers",
+"kind": "paper",
+"title": "AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds",
+"url": "https://huggingface.co/papers/2611.03228",
+"alt_url": "https://arxiv.org/abs/2611.03228",
+"date": "2026-11-05",
+"summary": "Most image-based 3D reconstructors primarily recover visible surfaces, producing partial point clouds with large holes and leaving unobserved geometry unresolved.",
+"score": 9,
+"extra": {
+"github": "",
+"stars": 0,
 "comments": 1
 }
 },
@@ -1656,11 +1832,27 @@
 "alt_url": "https://arxiv.org/abs/2611.03233",
 "date": "2026-11-04",
 "summary": "We introduce Axion 1.0, a fully open agent foundation model that combines strong and broad agentic capabilities with a remarkably simple training recipe.",
-"score": 39,
+"score": 46,
 "extra": {
 "github": "https://github.com/bytedance/axion1_0",
-"stars": 37,
-"comments": 2
+"stars": 56,
+"comments": 3
+}
+},
+"paper-2611.03330": {
+"id": "paper-2611.03330",
+"source": "hf_papers",
+"kind": "paper",
+"title": "The SIMPLE Law for Energy Cost of LLM Inference",
+"url": "https://huggingface.co/papers/2611.03330",
+"alt_url": "https://arxiv.org/abs/2611.03330",
+"date": "2026-11-05",
+"summary": "Generative AI is billed per token, yet tokens are not equally expensive. Each token enters the KV-cache and raises the cost of those that follow, so energy grows non-linearly along a sequence whose tokens look identical.",
+"score": 7,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2611.03344": {
@@ -1675,7 +1867,7 @@
 "score": 18,
 "extra": {
 "github": "https://github.com/yandex-research/flamia-blackwell-attention",
-"stars": 8,
+"stars": 10,
 "comments": 1
 }
 },
@@ -1692,7 +1884,7 @@
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.03393": {
@@ -1707,8 +1899,40 @@
 "score": 2,
 "extra": {
 "github": "https://github.com/TaoLiveAIGC/TaoMate-FVSR",
-"stars": 19,
+"stars": 26,
 "comments": 1
+}
+},
+"paper-2611.03394": {
+"id": "paper-2611.03394",
+"source": "hf_papers",
+"kind": "paper",
+"title": "TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation",
+"url": "https://huggingface.co/papers/2611.03394",
+"alt_url": "https://arxiv.org/abs/2611.03394",
+"date": "2026-11-05",
+"summary": "Streaming digital humans produce detailed video while continuing speech as new text arrives. High-resolution denoising is costly, and text updates can cause repeated or interrupted speech.",
+"score": 1,
+"extra": {
+"github": "https://github.com/TaoLiveAIGC/TaoMate-HD",
+"stars": 10,
+"comments": 1
+}
+},
+"paper-2611.03404": {
+"id": "paper-2611.03404",
+"source": "hf_papers",
+"kind": "paper",
+"title": "VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing",
+"url": "https://huggingface.co/papers/2611.03404",
+"alt_url": "https://arxiv.org/abs/2611.03404",
+"date": "2026-11-05",
+"summary": "Video dubbing aims to synthesize lip movements that match target speech while preserving the speaker identity, head pose, and background of a source video.",
+"score": 7,
+"extra": {
+"github": "https://github.com/LAW1223/VidDub",
+"stars": 7,
+"comments": 2
 }
 },
 "paper-2611.03424": {
@@ -1720,11 +1944,27 @@
 "alt_url": "https://arxiv.org/abs/2611.03424",
 "date": "2026-11-03",
 "summary": "Research taste, the judgment of what to read, which problems to pursue, and which methods to try, increasingly shapes the work of AI scientists, yet it remains far less understood than their ability to execute research.",
-"score": 43,
+"score": 47,
 "extra": {
 "github": "https://github.com/cxcscmu/IdeaTaste",
-"stars": 7,
+"stars": 18,
 "comments": 3
+}
+},
+"paper-2611.03517": {
+"id": "paper-2611.03517",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Ask, Don't Equip: Question-Driven Coding Agents for Deep Kernel Optimization",
+"url": "https://huggingface.co/papers/2611.03517",
+"alt_url": "https://arxiv.org/abs/2611.03517",
+"date": "2026-11-05",
+"summary": "LLM agents for GPU kernel optimization sit at two ends of a structure-freedom tradeoff.",
+"score": 2,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 },
 "paper-2611.03526": {
@@ -1736,10 +1976,10 @@
 "alt_url": "https://arxiv.org/abs/2611.03526",
 "date": "2026-11-03",
 "summary": "Computer programmers chain together the same reusable computational primitives, for example, conditional statements or loops, but in different orders to implement different algorithms.",
-"score": 10,
+"score": 11,
 "extra": {
 "github": "https://github.com/arahmani1/library-of-layers",
-"stars": 17,
+"stars": 18,
 "comments": 1
 }
 },
@@ -1768,11 +2008,11 @@
 "alt_url": "https://arxiv.org/abs/2611.03634",
 "date": "2026-11-04",
 "summary": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training.",
-"score": 19,
+"score": 24,
 "extra": {
 "github": "https://github.com/aiming-lab/WebHarbor",
-"stars": 46,
-"comments": 1
+"stars": 54,
+"comments": 2
 }
 },
 "paper-2611.03685": {
@@ -1784,11 +2024,11 @@
 "alt_url": "https://arxiv.org/abs/2611.03685",
 "date": "2026-11-04",
 "summary": "Visual agents need to coordinate reasoning and action while their environment evolves during inference.",
-"score": 6,
+"score": 8,
 "extra": {
 "github": "https://github.com/answers111/LOLPlay",
-"stars": 4,
-"comments": 1
+"stars": 5,
+"comments": 2
 }
 },
 "paper-2611.03747": {
@@ -1800,10 +2040,26 @@
 "alt_url": "https://arxiv.org/abs/2611.03747",
 "date": "2026-11-04",
 "summary": "Natural Language Processing (NLP) has been widely applied in financial domains, enabling automated analysis and retrieval of stock market information.",
-"score": 1,
+"score": 2,
 "extra": {
 "github": "https://github.com/nhunguet/SearchEngine",
 "stars": 6,
+"comments": 2
+}
+},
+"paper-2611.03768": {
+"id": "paper-2611.03768",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention",
+"url": "https://huggingface.co/papers/2611.03768",
+"alt_url": "https://arxiv.org/abs/2611.03768",
+"date": "2026-11-05",
+"summary": "Sparse attention cuts the cost of long-context inference by making the attention matrix sparse: each query attends only a subset of the sequence, chosen by a fixed pattern or, in recent production LLMs, learned per query.",
+"score": 3,
+"extra": {
+"github": "https://github.com/ArjunKrishnak/dsa-multi-layer-indexer",
+"stars": 1,
 "comments": 1
 }
 },
@@ -1819,7 +2075,23 @@
 "score": 2,
 "extra": {
 "github": "https://github.com/MachineLearningLifeScience/BEND2",
-"stars": 2,
+"stars": 3,
+"comments": 2
+}
+},
+"paper-2611.03852": {
+"id": "paper-2611.03852",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost",
+"url": "https://huggingface.co/papers/2611.03852",
+"alt_url": "https://arxiv.org/abs/2611.03852",
+"date": "2026-11-05",
+"summary": "Reasoning substantially improves language models' ability to solve difficult problems, but long reasoning traces make these gains expensive.",
+"score": 2,
+"extra": {
+"github": "",
+"stars": 0,
 "comments": 1
 }
 },
@@ -1832,11 +2104,11 @@
 "alt_url": "https://arxiv.org/abs/2611.03998",
 "date": "2026-11-04",
 "summary": "We introduce Dory1.0-4B, a 4-billion-parameter looped (latent-recurrent) language model with elastic depth: a single checkpoint serves different inference compute budgets.",
-"score": 6,
+"score": 11,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.04035": {
@@ -1848,7 +2120,23 @@
 "alt_url": "https://arxiv.org/abs/2611.04035",
 "date": "2026-11-04",
 "summary": "Foundation models in changing environments can encounter unfamiliar domain knowledge that their original training did not cover.",
-"score": 11,
+"score": 15,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.04166": {
+"id": "paper-2611.04166",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs",
+"url": "https://huggingface.co/papers/2611.04166",
+"alt_url": "https://arxiv.org/abs/2611.04166",
+"date": "2026-11-04",
+"summary": "Reasoning vision-language-action (VLA) models pair physical control with natural-language rationales that supervisors can read to monitor embodied safety. Prior attacks on VLA reasoning corrupt the rationale itself and leave visible evidence in the text.",
+"score": 0,
 "extra": {
 "github": "",
 "stars": 0,
@@ -1868,7 +2156,7 @@
 "extra": {
 "github": "https://github.com/yliusci/length-is-cheap",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.04303": {
@@ -1880,7 +2168,39 @@
 "alt_url": "https://arxiv.org/abs/2611.04303",
 "date": "2026-11-04",
 "summary": "In-image machine translation (IIMT) replaces text in an image with its translation while preserving the surrounding visual context.",
-"score": 10,
+"score": 11,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.04391": {
+"id": "paper-2611.04391",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs",
+"url": "https://huggingface.co/papers/2611.04391",
+"alt_url": "https://arxiv.org/abs/2611.04391",
+"date": "2026-11-05",
+"summary": "Pretrained Vision-Language-Action (VLA) policies provide a strong starting point for deployment, but adapting them to a target robot and environment still requires costly embodiment-specific demonstrations.",
+"score": 13,
+"extra": {
+"github": "https://github.com/jun-brro/h2rb-code",
+"stars": 2,
+"comments": 1
+}
+},
+"paper-2611.04408": {
+"id": "paper-2611.04408",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Halley: A Predictive Control Plane for Optical AI Data Center Networks",
+"url": "https://huggingface.co/papers/2611.04408",
+"alt_url": "https://arxiv.org/abs/2611.04408",
+"date": "2026-11-05",
+"summary": "A frontier AI model is trained in an AI data center, on tens of thousands of accelerators joined by a dedicated network, and every training step ends with all of them exchanging data at once.",
+"score": 30,
 "extra": {
 "github": "",
 "stars": 0,
@@ -1900,7 +2220,7 @@
 "extra": {
 "github": "https://github.com/WTHH031230/SphereFlow",
 "stars": 1,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.04418": {
@@ -1912,11 +2232,11 @@
 "alt_url": "https://arxiv.org/abs/2611.04418",
 "date": "2026-11-04",
 "summary": "The advancement of multimodal learning is heavily constrained by the scarcity and high annotation cost of high-quality instruction data.",
-"score": 23,
+"score": 26,
 "extra": {
 "github": "https://github.com/LRuca/VidUEU-Agent",
-"stars": 15,
-"comments": 1
+"stars": 17,
+"comments": 2
 }
 },
 "paper-2611.04449": {
@@ -1932,7 +2252,7 @@
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.04467": {
@@ -1944,10 +2264,42 @@
 "alt_url": "https://arxiv.org/abs/2611.04467",
 "date": "2026-11-04",
 "summary": "Unified multimodal models (UMMs) integrate image generation and visual understanding, but are existing single-pathway unlearning methods sufficient to suppress target concepts across both? In this work, we study cross-pathway concept unlearning.",
-"score": 2,
+"score": 3,
 "extra": {
 "github": "",
 "stars": 0,
+"comments": 2
+}
+},
+"paper-2611.04634": {
+"id": "paper-2611.04634",
+"source": "hf_papers",
+"kind": "paper",
+"title": "VeriSpoof: Beyond Real or Fake with One Audio LLM",
+"url": "https://huggingface.co/papers/2611.04634",
+"alt_url": "https://arxiv.org/abs/2611.04634",
+"date": "2026-11-05",
+"summary": "A speech deepfake detector estimates whether a recording is synthetic, but a forensic analyst also asks which system produced it, whether recordings share a source, and what evidence supports each conclusion.",
+"score": 5,
+"extra": {
+"github": "https://github.com/swagshaw/verispoof",
+"stars": 6,
+"comments": 1
+}
+},
+"paper-2611.04760": {
+"id": "paper-2611.04760",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
+"url": "https://huggingface.co/papers/2611.04760",
+"alt_url": "https://arxiv.org/abs/2611.04760",
+"date": "2026-11-05",
+"summary": "Probabilistic time-series forecasting requires models that simultaneously capture structured temporal dynamics, expressive uncertainty, and efficient inference, yet existing approaches fall short of this goal: latent dynamical models impose structure but rely…",
+"score": 3,
+"extra": {
+"github": "https://github.com/azencot-group/KGO",
+"stars": 48,
 "comments": 1
 }
 },
@@ -1963,8 +2315,8 @@
 "score": 1,
 "extra": {
 "github": "https://github.com/Kiz8-Team/kierston-oss",
-"stars": 0,
-"comments": 2
+"stars": 1,
+"comments": 3
 }
 },
 "paper-2611.04814": {
@@ -1976,11 +2328,11 @@
 "alt_url": "https://arxiv.org/abs/2611.04814",
 "date": "2026-11-04",
 "summary": "Large reasoning models achieve strong performance on challenging tasks, but their long chain-of-thought often incurs substantial inference costs by continuing to deliberate after sufficient information has been obtained.",
-"score": 65,
+"score": 56,
 "extra": {
 "github": "https://github.com/MuyaoYuan/LoCo",
-"stars": 6,
-"comments": 6
+"stars": 9,
+"comments": 7
 }
 },
 "paper-2611.04870": {
@@ -1992,11 +2344,11 @@
 "alt_url": "https://arxiv.org/abs/2611.04870",
 "date": "2026-11-04",
 "summary": "A robot world model that serves as a simulator must do more than generate plausible videos: it must faithfully follow commanded actions, maintain consistency across camera views, and sustain coherent long-horizon rollouts.",
-"score": 9,
+"score": 10,
 "extra": {
-"github": "",
-"stars": 0,
-"comments": 1
+"github": "https://github.com/PrimebotTech/PrimeSim",
+"stars": 3,
+"comments": 2
 }
 },
 "paper-2611.04916": {
@@ -2008,9 +2360,41 @@
 "alt_url": "https://arxiv.org/abs/2611.04916",
 "date": "2026-11-04",
 "summary": "Video generation has progressed from isolated clips to coherent short-form audiovisual sequences, and the bottleneck is shifting from rendering to semantic control.",
-"score": 51,
+"score": 65,
 "extra": {
 "github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.04949": {
+"id": "paper-2611.04949",
+"source": "hf_papers",
+"kind": "paper",
+"title": "HERIT: Enabling Global Access to Hanja-to-English Historical Translation by Mitigating Temporal Bias",
+"url": "https://huggingface.co/papers/2611.04949",
+"alt_url": "https://arxiv.org/abs/2611.04949",
+"date": "2026-11-05",
+"summary": "Historical archives are invaluable for multidisciplinary research but remain inaccessible globally due to severe language barriers.",
+"score": 0,
+"extra": {
+"github": "https://github.com/dandamdandam/HERIT",
+"stars": 1,
+"comments": 1
+}
+},
+"paper-2611.05029": {
+"id": "paper-2611.05029",
+"source": "hf_papers",
+"kind": "paper",
+"title": "DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI",
+"url": "https://huggingface.co/papers/2611.05029",
+"alt_url": "https://arxiv.org/abs/2611.05029",
+"date": "2026-11-05",
+"summary": "Continual learning in physical AI differs from conventional continual learning because small per-step policy errors can accumulate over a trajectory.",
+"score": 0,
+"extra": {
+"github": "https://github.com/oswaldoludwig/DRAP-Dynamics-Risk-Adaptive-Plasticity",
 "stars": 0,
 "comments": 1
 }
@@ -2024,11 +2408,11 @@
 "alt_url": "https://arxiv.org/abs/2611.05036",
 "date": "2026-11-04",
 "summary": "Large language models are deployed as long-horizon agents that compose diverse tools across MCP services into executable workflows.",
-"score": 34,
+"score": 39,
 "extra": {
 "github": "https://github.com/dongguanting/ToolSpace",
-"stars": 28,
-"comments": 1
+"stars": 34,
+"comments": 2
 }
 },
 "paper-2611.05163": {
@@ -2040,11 +2424,11 @@
 "alt_url": "https://arxiv.org/abs/2611.05163",
 "date": "2026-11-04",
 "summary": "Robot foundation models have shown remarkable performance in robot control, yet adapting them to a new task still relies heavily on teleoperated demonstrations.",
-"score": 5,
+"score": 6,
 "extra": {
 "github": "https://github.com/ryan-seungyong-lee/RoboTryOn",
-"stars": 2,
-"comments": 1
+"stars": 5,
+"comments": 2
 }
 },
 "paper-2611.05193": {
@@ -2056,11 +2440,11 @@
 "alt_url": "https://arxiv.org/abs/2611.05193",
 "date": "2026-11-04",
 "summary": "Composed Image Retrieval (CIR) aims to retrieve a target image given a reference image and a modification text.",
-"score": 43,
+"score": 47,
 "extra": {
 "github": "https://github.com/cvlab-kaist/FactEmbed",
-"stars": 9,
-"comments": 1
+"stars": 13,
+"comments": 2
 }
 },
 "paper-2611.05255": {
@@ -2072,11 +2456,11 @@
 "alt_url": "https://arxiv.org/abs/2611.05255",
 "date": "2026-11-04",
 "summary": "Byte level language models avoid tokenizer dependence and provide universal coverage, but processing every byte at full resolution is expensive.",
-"score": 1,
+"score": 3,
 "extra": {
 "github": "https://github.com/akhadangi/deepmem",
-"stars": 0,
-"comments": 1
+"stars": 1,
+"comments": 2
 }
 },
 "paper-2611.05275": {
@@ -2088,11 +2472,11 @@
 "alt_url": "https://arxiv.org/abs/2611.05275",
 "date": "2026-11-04",
 "summary": "Artificial general intelligence (AGI) requires a method that can understand, generate, reason, and act across diverse domains and modalities.",
-"score": 84,
+"score": 85,
 "extra": {
 "github": "https://github.com/InfRec-Cardinal/route-anything",
-"stars": 8,
-"comments": 1
+"stars": 11,
+"comments": 2
 }
 },
 "paper-2611.05280": {
@@ -2104,10 +2488,26 @@
 "alt_url": "https://arxiv.org/abs/2611.05280",
 "date": "2026-11-04",
 "summary": "Unified Multimodal Models (UMMs) integrate visual understanding, generation, and editing within a single unified framework. However, existing unified multimodal datasets and benchmarks remain dominated by single-turn tasks.",
-"score": 26,
+"score": 31,
 "extra": {
 "github": "",
 "stars": 0,
+"comments": 2
+}
+},
+"paper-2611.05304": {
+"id": "paper-2611.05304",
+"source": "hf_papers",
+"kind": "paper",
+"title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+"url": "https://huggingface.co/papers/2611.05304",
+"alt_url": "https://arxiv.org/abs/2611.05304",
+"date": "2026-11-05",
+"summary": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling.",
+"score": 8,
+"extra": {
+"github": "https://github.com/mscheong01/LoopVQ",
+"stars": 3,
 "comments": 1
 }
 },
@@ -2120,11 +2520,27 @@
 "alt_url": "https://arxiv.org/abs/2611.05306",
 "date": "2026-11-04",
 "summary": "Later tokens are costlier to generate than earlier tokens. On frontier open weight models, the disparity in cost may rise to as much as 7x.",
-"score": 9,
+"score": 14,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 3
+"comments": 4
+}
+},
+"paper-2611.05320": {
+"id": "paper-2611.05320",
+"source": "hf_papers",
+"kind": "paper",
+"title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+"url": "https://huggingface.co/papers/2611.05320",
+"alt_url": "https://arxiv.org/abs/2611.05320",
+"date": "2026-11-05",
+"summary": "Teleoperation remains the default way to collect robot demonstrations, but every episode costs robot and operator time, and every new task starts from scratch. We ask whether a coding agent can take over the teleoperator's job.",
+"score": 23,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
 }
 },
 "paper-2611.05345": {
@@ -2136,11 +2552,11 @@
 "alt_url": "https://arxiv.org/abs/2611.05345",
 "date": "2026-11-04",
 "summary": "Speculative decoding has been treated purely as a systems optimization that speeds up large language model decoding without changing the model behavior. Under this view, the growing effort to train better draft models has been focused solely on acceptance rat…",
-"score": 6,
+"score": 9,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.05377": {
@@ -2152,11 +2568,219 @@
 "alt_url": "https://arxiv.org/abs/2611.05377",
 "date": "2026-11-04",
 "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance.",
-"score": 51,
+"score": 54,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.05593": {
+"id": "paper-2611.05593",
+"source": "hf_papers",
+"kind": "paper",
+"title": "GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats",
+"url": "https://huggingface.co/papers/2611.05593",
+"alt_url": "https://arxiv.org/abs/2611.05593",
+"date": "2026-11-05",
+"summary": "Can a neural network learn to render 3D Gaussian splats on its own, with no rasterizer in the renderer? We present GaussianRenderFormer, a transformer that takes a set of Gaussians and a camera and outputs the image directly.",
+"score": 3,
+"extra": {
+"github": "https://github.com/SVLwoof/gaussianformer",
+"stars": 1,
+"comments": 1
+}
+},
+"paper-2611.05609": {
+"id": "paper-2611.05609",
+"source": "hf_papers",
+"kind": "paper",
+"title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
+"url": "https://huggingface.co/papers/2611.05609",
+"alt_url": "https://arxiv.org/abs/2611.05609",
+"date": "2026-11-05",
+"summary": "Multi-teacher on-policy distillation (MOPD) extends on-policy distillation (OPD) to consolidate capabilities from multiple teachers.",
+"score": 16,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.05648": {
+"id": "paper-2611.05648",
+"source": "hf_papers",
+"kind": "paper",
+"title": "NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers",
+"url": "https://huggingface.co/papers/2611.05648",
+"alt_url": "https://arxiv.org/abs/2611.05648",
+"date": "2026-11-05",
+"summary": "Adversarial diffusion distillation has conventionally relied on image features for discrimination. We revisit this choice for multimodal diffusion transformers (MMDiTs), whose text stream becomes image-dependent through joint attention.",
+"score": 7,
+"extra": {
+"github": "https://github.com/ChenDarYen/NitroFusion2",
+"stars": 15,
+"comments": 1
+}
+},
+"paper-2611.05988": {
+"id": "paper-2611.05988",
+"source": "hf_papers",
+"kind": "paper",
+"title": "LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds",
+"url": "https://huggingface.co/papers/2611.05988",
+"alt_url": "https://arxiv.org/abs/2611.05988",
+"date": "2026-11-05",
+"summary": "Streaming video-to-audio (V2A) generation is essential for immersive interactive applications.",
+"score": 2,
+"extra": {
+"github": "https://github.com/dalision/livefoley",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2611.06042": {
+"id": "paper-2611.06042",
+"source": "hf_papers",
+"kind": "paper",
+"title": "UniRestorer++: Scalable Universal Image Restoration with Multi-Granularity Degradation Modeling",
+"url": "https://huggingface.co/papers/2611.06042",
+"alt_url": "https://arxiv.org/abs/2611.06042",
+"date": "2026-11-05",
+"summary": "Universal image restoration aims to handle diverse degradations within a single model, but a reliable scaling strategy remains underexplored.",
+"score": 2,
+"extra": {
+"github": "https://github.com/mrluin/UniRestorer_plusplus",
+"stars": 2,
+"comments": 2
+}
+},
+"paper-2611.06083": {
+"id": "paper-2611.06083",
+"source": "hf_papers",
+"kind": "paper",
+"title": "SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?",
+"url": "https://huggingface.co/papers/2611.06083",
+"alt_url": "https://arxiv.org/abs/2611.06083",
+"date": "2026-11-05",
+"summary": "Omni models answer questions about videos by jointly processing sampled frames and audio in one turn, with progress driven largely by scaling model size and omni training data.",
+"score": 5,
 "extra": {
 "github": "",
 "stars": 0,
 "comments": 1
+}
+},
+"paper-2611.06483": {
+"id": "paper-2611.06483",
+"source": "hf_papers",
+"kind": "paper",
+"title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+"url": "https://huggingface.co/papers/2611.06483",
+"alt_url": "https://arxiv.org/abs/2611.06483",
+"date": "2026-11-05",
+"summary": "While multi-turn agentic reinforcement learning (RL) excels on long-horizon tasks, its performance gains remain highly sensitive to interaction constraints.",
+"score": 33,
+"extra": {
+"github": "https://github.com/GaryStack/Rethinking-Agent-RL",
+"stars": 16,
+"comments": 2
+}
+},
+"paper-2611.06518": {
+"id": "paper-2611.06518",
+"source": "hf_papers",
+"kind": "paper",
+"title": "EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL",
+"url": "https://huggingface.co/papers/2611.06518",
+"alt_url": "https://arxiv.org/abs/2611.06518",
+"date": "2026-11-05",
+"summary": "Group Relative Policy Optimization (GRPO) has advanced generative model post-training in verifiable domains such as code and mathematics, but evaluating video quality, especially emotional expression, often depends on subjective aesthetics and has no uniquely…",
+"score": 22,
+"extra": {
+"github": "https://github.com/Tencent-Hunyuan/EmoReward",
+"stars": 27,
+"comments": 1
+}
+},
+"paper-2611.06728": {
+"id": "paper-2611.06728",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+"url": "https://huggingface.co/papers/2611.06728",
+"alt_url": "https://arxiv.org/abs/2611.06728",
+"date": "2026-11-05",
+"summary": "Streaming video understanding requires models to repeatedly decide whether to respond or continue observing.",
+"score": 83,
+"extra": {
+"github": "https://github.com/XD111ds/turn-wise-rl",
+"stars": 63,
+"comments": 1
+}
+},
+"paper-2611.06768": {
+"id": "paper-2611.06768",
+"source": "hf_papers",
+"kind": "paper",
+"title": "PyRUA-REAL: Robot Exploration and Adaptive Learning through RSI in the Real World",
+"url": "https://huggingface.co/papers/2611.06768",
+"alt_url": "https://arxiv.org/abs/2611.06768",
+"date": "2026-11-05",
+"summary": "Coding agents powered by models such as GPT-6-Astra connect spatial reasoning with executable robot behavior, raising the question of how such agents can produce lasting improvements in robot capabilities from physical interaction.",
+"score": 9,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2611.06796": {
+"id": "paper-2611.06796",
+"source": "hf_papers",
+"kind": "paper",
+"title": "VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation",
+"url": "https://huggingface.co/papers/2611.06796",
+"alt_url": "https://arxiv.org/abs/2611.06796",
+"date": "2026-11-05",
+"summary": "Few-step distillation offers efficient generation with diffusion and flow models, but preserving quality with only a few sampling steps remains challenging.",
+"score": 12,
+"extra": {
+"github": "https://github.com/Luo-Yihong/VA-TDM",
+"stars": 40,
+"comments": 1
+}
+},
+"paper-2611.06910": {
+"id": "paper-2611.06910",
+"source": "hf_papers",
+"kind": "paper",
+"title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+"url": "https://huggingface.co/papers/2611.06910",
+"alt_url": "https://arxiv.org/abs/2611.06910",
+"date": "2026-11-05",
+"summary": "AI agents are playing an increasingly important role in physics research.",
+"score": 47,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 0
+}
+},
+"paper-2611.06918": {
+"id": "paper-2611.06918",
+"source": "hf_papers",
+"kind": "paper",
+"title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+"url": "https://huggingface.co/papers/2611.06918",
+"alt_url": "https://arxiv.org/abs/2611.06918",
+"date": "2026-11-05",
+"summary": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards.",
+"score": 56,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
 }
 }
 }

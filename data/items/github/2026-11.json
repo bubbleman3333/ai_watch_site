@@ -7,7 +7,7 @@
 "url": "https://github.com/Balanov/latch",
 "date": "2026-11-04",
 "summary": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
-"score": 197,
+"score": 227,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -24,7 +24,7 @@
 "url": "https://github.com/Balanov/uncut",
 "date": "2026-11-01",
 "summary": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-"score": 600,
+"score": 608,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -47,7 +47,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 157,
+"score": 191,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -69,7 +69,7 @@
 "url": "https://github.com/Jumbomuffin777/Frontier-UI",
 "date": "2026-11-01",
 "summary": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoi…",
-"score": 59,
+"score": 63,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -95,7 +95,7 @@
 "url": "https://github.com/KKKKhazix/agent-autoloop",
 "date": "2026-11-03",
 "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-"score": 2506,
+"score": 3237,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -121,7 +121,7 @@
 "url": "https://github.com/MiniMax-AI/mcode-agent-table",
 "date": "2026-11-03",
 "summary": "BYOB Table Protocol v0.1 and reference implementation: bring your own agent (MiniMax Code and others) to one shared table for any-topology discussion and collaboration.",
-"score": 35,
+"score": 50,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -135,6 +135,57 @@
 "license": "MIT"
 }
 },
+"repo-RiventronLucky53535__crypto-rpocket-accumulation-scanner": {
+"id": "repo-RiventronLucky53535__crypto-rpocket-accumulation-scanner",
+"source": "github",
+"kind": "repo",
+"title": "RiventronLucky53535/crypto-rpocket-accumulation-scanner",
+"url": "https://github.com/RiventronLucky53535/crypto-rpocket-accumulation-scanner",
+"date": "2026-11-05",
+"summary": "Python crypto scanner: finds coins in quiet accumulation, back tested on 961 samples, rebuilt from the evidence, automated with Telegram alerts.",
+"score": 41,
+"extra": {
+"lang": "",
+"topics": [
+"asyncio",
+"ats",
+"booking-system",
+"conversational-ai",
+"cryptocurrency",
+"data-analysis",
+"multi-agent-systems",
+"pandas",
+"pgvector",
+"rag"
+],
+"license": ""
+}
+},
+"repo-SAOS-3624__dsh-see-now": {
+"id": "repo-SAOS-3624__dsh-see-now",
+"source": "github",
+"kind": "repo",
+"title": "SAOS-3624/dsh-see-now",
+"url": "https://github.com/SAOS-3624/dsh-see-now",
+"date": "2026-11-01",
+"summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+"score": 384,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-agent",
+"dsh",
+"dsh-plugin",
+"ffmpeg",
+"llm",
+"realtime",
+"screen-capture",
+"token-efficient",
+"vision"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-Toyhom__awesome-computational-character-modeling": {
 "id": "repo-Toyhom__awesome-computational-character-modeling",
 "source": "github",
@@ -143,7 +194,7 @@
 "url": "https://github.com/Toyhom/awesome-computational-character-modeling",
 "date": "2026-11-02",
 "summary": "Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation, organized by the manuscript.",
-"score": 144,
+"score": 190,
 "extra": {
 "lang": "TeX",
 "topics": [
@@ -182,6 +233,52 @@
 "license": "MIT"
 }
 },
+"repo-YT-Proteus-bot__MineAgent": {
+"id": "repo-YT-Proteus-bot__MineAgent",
+"source": "github",
+"kind": "repo",
+"title": "YT-Proteus-bot/MineAgent",
+"url": "https://github.com/YT-Proteus-bot/MineAgent",
+"date": "2026-11-05",
+"summary": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
+"score": 111,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent",
+"agentic-ai",
+"agentic-workflow",
+"agents"
+],
+"license": ""
+}
+},
+"repo-YgggoblinAurora__Anilist_monitor_resp": {
+"id": "repo-YgggoblinAurora__Anilist_monitor_resp",
+"source": "github",
+"kind": "repo",
+"title": "YgggoblinAurora/Anilist_monitor_resp",
+"url": "https://github.com/YgggoblinAurora/Anilist_monitor_resp",
+"date": "2026-11-05",
+"summary": "A desktop-native Windows system tray Telegram bot that monitors AniList for new anime announcements and releases with network auto-recovery, single-instance protection, and zero-spam baseline caching…",
+"score": 40,
+"extra": {
+"lang": "HTML",
+"topics": [
+"acp",
+"agent-client-protocol",
+"aiogram",
+"computer-vision",
+"drone",
+"fastapi",
+"intellij-idea",
+"intellij-idea-ai",
+"notifier",
+"object-detection"
+],
+"license": ""
+}
+},
 "repo-bytedance__axion1_0": {
 "id": "repo-bytedance__axion1_0",
 "source": "github",
@@ -190,7 +287,7 @@
 "url": "https://github.com/bytedance/axion1_0",
 "date": "2026-11-02",
 "summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-"score": 45,
+"score": 57,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -214,7 +311,7 @@
 "url": "https://github.com/ianTPE/tetra-unfold",
 "date": "2026-11-01",
 "summary": "Seamless tetrahedral world map with a multi-stop flight trip planner in 9 languages. Also unfolds 360° photos for AI vision and drone attitude. 四面體世界地圖與出差航線規劃。",
-"score": 62,
+"score": 69,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -232,6 +329,80 @@
 "license": "NOASSERTION"
 }
 },
+"repo-johnpsasser__lifeboat": {
+"id": "repo-johnpsasser__lifeboat",
+"source": "github",
+"kind": "repo",
+"title": "johnpsasser/lifeboat",
+"url": "https://github.com/johnpsasser/lifeboat",
+"date": "2026-11-03",
+"summary": "Offline emergency assistant: a local LLM and a 200 GB offline library on one Mac, with cited answers and no internet.",
+"score": 38,
+"extra": {
+"lang": "Python",
+"topics": [
+"apple-silicon",
+"disaster-preparedness",
+"emergency-preparedness",
+"first-aid",
+"kiwix",
+"llama-cpp",
+"llm",
+"local-llm",
+"offline",
+"offline-first"
+],
+"license": "MIT"
+}
+},
+"repo-liangjianshu__multimodal-image-retrieval": {
+"id": "repo-liangjianshu__multimodal-image-retrieval",
+"source": "github",
+"kind": "repo",
+"title": "liangjianshu/multimodal-image-retrieval",
+"url": "https://github.com/liangjianshu/multimodal-image-retrieval",
+"date": "2026-11-02",
+"summary": "多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。",
+"score": 59,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-tools",
+"clip",
+"contrastive-learning",
+"ecommerce",
+"embeddinggemma",
+"image-retrieval",
+"image-search",
+"infonce",
+"intent-recognition",
+"lora"
+],
+"license": "MIT"
+}
+},
+"repo-phonny40rowle__rag-search": {
+"id": "repo-phonny40rowle__rag-search",
+"source": "github",
+"kind": "repo",
+"title": "phonny40rowle/rag-search",
+"url": "https://github.com/phonny40rowle/rag-search",
+"date": "2026-11-05",
+"summary": "A self-hosted retrieval-augmented search API: web search, content extraction, embeddings, and answer generation.",
+"score": 50,
+"extra": {
+"lang": "Python",
+"topics": [
+"fastapi",
+"llm",
+"python",
+"rag",
+"retrieval-augmented-generation",
+"search"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-silverdugongenhance__PromptReel": {
 "id": "repo-silverdugongenhance__PromptReel",
 "source": "github",
@@ -240,7 +411,7 @@
 "url": "https://github.com/silverdugongenhance/PromptReel",
 "date": "2026-11-04",
 "summary": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscrip…",
-"score": 104,
+"score": 151,
 "extra": {
 "lang": "",
 "topics": [
@@ -256,6 +427,29 @@
 "text-to-video-generation"
 ],
 "license": ""
+}
+},
+"repo-zaxiu88888__issue-rag": {
+"id": "repo-zaxiu88888__issue-rag",
+"source": "github",
+"kind": "repo",
+"title": "zaxiu88888/issue-rag",
+"url": "https://github.com/zaxiu88888/issue-rag",
+"date": "2026-11-01",
+"summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
+"score": 52,
+"extra": {
+"lang": "Python",
+"topics": [
+"evaluation",
+"github-issues",
+"llm",
+"llm-as-judge",
+"python",
+"rag",
+"retrieval-augmented-generation"
+],
+"license": "MIT"
 }
 }
 }
