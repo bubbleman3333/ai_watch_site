@@ -1,4 +1,22 @@
 {
+"release-ByteDance-Seed__Cola2": {
+"id": "release-ByteDance-Seed__Cola2",
+"source": "releases",
+"kind": "release",
+"title": "ByteDance-Seed/Cola2",
+"url": "https://huggingface.co/ByteDance-Seed/Cola2",
+"date": "2026-11-06",
+"summary": "",
+"score": 7,
+"extra": {
+"org": "ByteDance-Seed",
+"publisher": "ByteDance Seed",
+"jp": false,
+"task": "text-generation",
+"downloads": 0,
+"lang": "en"
+}
+},
 "release-ByteDance-Seed__Cross-Layer-TopK-CLT": {
 "id": "release-ByteDance-Seed__Cross-Layer-TopK-CLT",
 "source": "releases",
@@ -13,7 +31,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "",
-"downloads": 0,
+"downloads": 290,
 "lang": "en"
 }
 },
@@ -25,7 +43,7 @@
 "url": "https://huggingface.co/ByteDance-Seed/Qwen3-30B-A3B-MoE-SAE",
 "date": "2026-11-05",
 "summary": "",
-"score": 1,
+"score": 2,
 "extra": {
 "org": "ByteDance-Seed",
 "publisher": "ByteDance Seed",
@@ -49,7 +67,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 25,
+"downloads": 78,
 "lang": "ja"
 }
 },
@@ -67,7 +85,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 0,
+"downloads": 40,
 "lang": "en"
 }
 },
@@ -85,7 +103,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 0,
+"downloads": 43,
 "lang": "en"
 }
 },
@@ -97,13 +115,13 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 923,
+"score": 1491,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 11658,
+"downloads": 18432,
 "lang": "en"
 }
 },
@@ -115,13 +133,13 @@
 "url": "https://huggingface.co/nvidia/MetricTrail",
 "date": "2026-11-05",
 "summary": "",
-"score": 15,
+"score": 20,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 0,
+"downloads": 82,
 "lang": "en"
 }
 }
