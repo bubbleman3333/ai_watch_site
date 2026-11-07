@@ -607,8 +607,8 @@
 "name": "DeepSeek: DeepSeek V4 Pro 0423",
 "created": "2026-04-24",
 "context": 1048576,
-"in": 1.6,
-"out": 3.2,
+"in": 0.4949,
+"out": 0.9897,
 "modality": "text->text"
 },
 {
@@ -616,8 +616,8 @@
 "name": "DeepSeek: DeepSeek V4 Pro 0813",
 "created": "2026-08-12",
 "context": 1048576,
-"in": 0.1165,
-"out": 4.66,
+"in": 0.111,
+"out": 4.44,
 "modality": "text->text"
 },
 {
@@ -1138,8 +1138,8 @@
 "name": "inclusionAI: Ling 3.1 Flash",
 "created": "2026-10-02",
 "context": 1000000,
-"in": 0.075,
-"out": 0.225,
+"in": 0.045,
+"out": 0.135,
 "modality": "text->text"
 },
 {
@@ -1185,6 +1185,24 @@
 "context": 128000,
 "in": 0.05,
 "out": 0.7,
+"modality": "text->text"
+},
+{
+"id": "liquid/lfm-3-1.7b",
+"name": "LiquidAI: LFM3-1.7B",
+"created": "2026-11-06",
+"context": 262144,
+"in": 0.08,
+"out": 0.2,
+"modality": "text->text"
+},
+{
+"id": "liquid/lfm-3-1.7b:free",
+"name": "LiquidAI: LFM3-1.7B (free)",
+"created": "2026-11-06",
+"context": 262144,
+"in": 0.0,
+"out": 0.0,
 "modality": "text->text"
 },
 {
@@ -1660,8 +1678,8 @@
 "name": "MoonshotAI: Kimi K2.5",
 "created": "2026-01-27",
 "context": 262144,
-"in": 0.5,
-"out": 2.5,
+"in": 0.532,
+"out": 3.325,
 "modality": "text+image->text"
 },
 {
@@ -2641,8 +2659,8 @@
 "name": "OpenAI: gpt-oss-120b",
 "created": "2025-08-05",
 "context": 131072,
-"in": 0.012,
-"out": 0.043,
+"in": 0.018,
+"out": 0.066,
 "modality": "text->text"
 },
 {
@@ -3424,8 +3442,8 @@
 "name": "Tencent: Hy3",
 "created": "2026-07-06",
 "context": 262144,
-"in": 0.132,
-"out": 0.528,
+"in": 0.0825,
+"out": 0.33,
 "modality": "text->text"
 },
 {
@@ -3451,8 +3469,8 @@
 "name": "Tencent: Hy4 preview",
 "created": "2026-08-28",
 "context": 1048576,
-"in": 0.834,
-"out": 2.501,
+"in": 0.7506,
+"out": 2.2509,
 "modality": "text->text"
 },
 {
@@ -3820,8 +3838,8 @@
 "name": "Z.ai: GLM 5.3 Flash",
 "created": "2026-08-26",
 "context": 1048576,
-"in": 0.15,
-"out": 0.5,
+"in": 0.0335,
+"out": 0.083,
 "modality": "text+image+video->text"
 },
 {
@@ -3964,8 +3982,8 @@
 "name": "MoonshotAI: Kimi Latest",
 "created": "2026-04-27",
 "context": 1048576,
-"in": 0.1824,
-"out": 10.1489,
+"in": 0.1662,
+"out": 10.1398,
 "modality": "text+image+video->text"
 },
 {
@@ -4036,8 +4054,8 @@
 "name": "Z.ai: GLM Flash Latest",
 "created": "2026-08-27",
 "context": 1048576,
-"in": 0.0284,
-"out": 0.0923,
+"in": 0.0335,
+"out": 0.083,
 "modality": "text+image+video->text"
 },
 {
