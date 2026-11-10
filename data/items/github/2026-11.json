@@ -203,7 +203,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 308,
+"score": 322,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -241,6 +241,32 @@
 "multimodal"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-Dwarfnode35715__Anilist_monitor_resp": {
+"id": "repo-Dwarfnode35715__Anilist_monitor_resp",
+"source": "github",
+"kind": "repo",
+"title": "Dwarfnode35715/Anilist_monitor_resp",
+"url": "https://github.com/Dwarfnode35715/Anilist_monitor_resp",
+"date": "2026-11-09",
+"summary": "A desktop-native Windows system tray Telegram bot that monitors AniList for new anime announcements and releases with network auto-recovery, single-instance protection, and zero-spam baseline caching…",
+"score": 40,
+"extra": {
+"lang": "HTML",
+"topics": [
+"acp",
+"agent-client-protocol",
+"aiogram",
+"computer-vision",
+"drone",
+"fastapi",
+"intellij-idea",
+"intellij-idea-ai",
+"notifier",
+"object-detection"
+],
+"license": ""
 }
 },
 "repo-EpicGiantite13205__ai--manus": {
@@ -303,7 +329,7 @@
 "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
 "date": "2026-11-04",
 "summary": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free…",
-"score": 68,
+"score": 81,
 "extra": {
 "lang": "Cypher",
 "topics": [
@@ -329,9 +355,9 @@
 "url": "https://github.com/JosssphZhou/poki",
 "date": "2026-11-05",
 "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-"score": 605,
+"score": 783,
 "extra": {
-"lang": "JavaScript",
+"lang": "Swift",
 "topics": [
 "ai-agents",
 "automation",
@@ -351,7 +377,7 @@
 "url": "https://github.com/Jumbomuffin777/Frontier-UI",
 "date": "2026-11-01",
 "summary": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoi…",
-"score": 65,
+"score": 66,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -377,7 +403,7 @@
 "url": "https://github.com/KKKKhazix/agent-autoloop",
 "date": "2026-11-03",
 "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-"score": 4098,
+"score": 4305,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -633,7 +659,7 @@
 "url": "https://github.com/RiventronLucky53535/crypto-rpocket-accumulation-scanner",
 "date": "2026-11-05",
 "summary": "Python crypto scanner: finds coins in quiet accumulation, back tested on 961 samples, rebuilt from the evidence, automated with Telegram alerts.",
-"score": 69,
+"score": 60,
 "extra": {
 "lang": "",
 "topics": [
@@ -659,7 +685,7 @@
 "url": "https://github.com/SAOS-3624/dsh-see-now",
 "date": "2026-11-01",
 "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-"score": 494,
+"score": 533,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -684,7 +710,7 @@
 "url": "https://github.com/Sandflow-ai/sand3d",
 "date": "2026-11-03",
 "summary": "3D modeling in Python, built for LLMs.",
-"score": 1384,
+"score": 1636,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -733,7 +759,7 @@
 "url": "https://github.com/StarTrail-org/DRPixel",
 "date": "2026-11-01",
 "summary": "DR Pixel: Page-Native Deep Research with Vision-Language Models — benchmark, evaluation harness and training code",
-"score": 42,
+"score": 43,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -746,6 +772,32 @@
 "scientific-papers",
 "visual-document-retrieval",
 "vlm"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TIGER-AI-Lab__WebsiteBench": {
+"id": "repo-TIGER-AI-Lab__WebsiteBench",
+"source": "github",
+"kind": "repo",
+"title": "TIGER-AI-Lab/WebsiteBench",
+"url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+"date": "2026-11-04",
+"summary": "Can AI agents rebuild websites through browser exploration?",
+"score": 168,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-evaluation",
+"ai",
+"ai-agents",
+"benchmark",
+"benchmarking",
+"browser-automation",
+"browser-use",
+"full-stack",
+"harbor",
+"harbor-framework"
 ],
 "license": "Apache-2.0"
 }
@@ -784,7 +836,7 @@
 "url": "https://github.com/Toyhom/awesome-computational-character-modeling",
 "date": "2026-11-02",
 "summary": "Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation, organized by the manuscript.",
-"score": 203,
+"score": 204,
 "extra": {
 "lang": "TeX",
 "topics": [
@@ -857,7 +909,7 @@
 "url": "https://github.com/YT-Proteus-bot/MineAgent",
 "date": "2026-11-05",
 "summary": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
-"score": 111,
+"score": 112,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -895,6 +947,29 @@
 "license": ""
 }
 },
+"repo-ZhikangNiu__VoxCanvas": {
+"id": "repo-ZhikangNiu__VoxCanvas",
+"source": "github",
+"kind": "repo",
+"title": "ZhikangNiu/VoxCanvas",
+"url": "https://github.com/ZhikangNiu/VoxCanvas",
+"date": "2026-11-03",
+"summary": "VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics",
+"score": 32,
+"extra": {
+"lang": "Python",
+"topics": [
+"pipeline",
+"python",
+"pytorch",
+"speech",
+"speech-edit",
+"speech-editing",
+"speech-processing"
+],
+"license": "MIT"
+}
+},
 "repo-abhinay-h__manus-ai": {
 "id": "repo-abhinay-h__manus-ai",
 "source": "github",
@@ -917,6 +992,30 @@
 "generative-ai",
 "llm",
 "multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-adventists-ai__sophon-realtime": {
+"id": "repo-adventists-ai__sophon-realtime",
+"source": "github",
+"kind": "repo",
+"title": "adventists-ai/sophon-realtime",
+"url": "https://github.com/adventists-ai/sophon-realtime",
+"date": "2026-11-04",
+"summary": "Sophon-Realtime v1: open full-duplex voice models that hear your tone and speak with one. Tag and Flash run on one GPU with vLLM-Omni; E2E in preview.",
+"score": 88,
+"extra": {
+"lang": "Python",
+"topics": [
+"full-duplex",
+"open-source",
+"paralinguistics",
+"realtime",
+"speech",
+"speech-to-speech",
+"vllm",
+"voice-assistant"
 ],
 "license": "Apache-2.0"
 }
@@ -955,7 +1054,7 @@
 "url": "https://github.com/bytedance/axion1_0",
 "date": "2026-11-02",
 "summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-"score": 62,
+"score": 64,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1005,7 +1104,7 @@
 "url": "https://github.com/didilili/mianstack",
 "date": "2026-11-02",
 "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-"score": 137,
+"score": 146,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1057,7 +1156,7 @@
 "url": "https://github.com/fedibenameur11/ai-manus",
 "date": "2026-11-06",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 44,
+"score": 54,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1187,7 +1286,7 @@
 "url": "https://github.com/johnpsasser/lifeboat",
 "date": "2026-11-03",
 "summary": "Offline emergency assistant: a local LLM and a 200 GB offline library on one Mac, with cited answers and no internet.",
-"score": 42,
+"score": 43,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1205,6 +1304,32 @@
 "license": "MIT"
 }
 },
+"repo-kubai087__kubai-icons": {
+"id": "repo-kubai087__kubai-icons",
+"source": "github",
+"kind": "repo",
+"title": "kubai087/kubai-icons",
+"url": "https://github.com/kubai087/kubai-icons",
+"date": "2026-11-03",
+"summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse t…",
+"score": 582,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agent-skills",
+"ai-agents",
+"animated-icons",
+"animation",
+"claude",
+"claude-skill",
+"codex",
+"design-system",
+"hover-effects",
+"icon-set"
+],
+"license": "NOASSERTION"
+}
+},
 "repo-liangjianshu__multimodal-image-retrieval": {
 "id": "repo-liangjianshu__multimodal-image-retrieval",
 "source": "github",
@@ -1213,7 +1338,7 @@
 "url": "https://github.com/liangjianshu/multimodal-image-retrieval",
 "date": "2026-11-02",
 "summary": "多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。",
-"score": 127,
+"score": 129,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1229,6 +1354,32 @@
 "lora"
 ],
 "license": "MIT"
+}
+},
+"repo-liujiaqi2024__Free-ClaudeOpus-5.5": {
+"id": "repo-liujiaqi2024__Free-ClaudeOpus-5.5",
+"source": "github",
+"kind": "repo",
+"title": "liujiaqi2024/Free-ClaudeOpus-5.5",
+"url": "https://github.com/liujiaqi2024/Free-ClaudeOpus-5.5",
+"date": "2026-11-09",
+"summary": "",
+"score": 71,
+"extra": {
+"lang": "",
+"topics": [
+"ai-assistants",
+"ai-model",
+"anthropic",
+"anthropic-api",
+"anthropic-claude",
+"chatbot",
+"claude-5-opus",
+"claude-api",
+"claude-cli",
+"claude-code"
+],
+"license": ""
 }
 },
 "repo-melkisedecksayi-gif__ai-manus": {
@@ -1291,7 +1442,7 @@
 "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
 "date": "2026-11-01",
 "summary": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
-"score": 348,
+"score": 350,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1307,6 +1458,32 @@
 "web-security"
 ],
 "license": "NOASSERTION"
+}
+},
+"repo-munitkala__selfsemester": {
+"id": "repo-munitkala__selfsemester",
+"source": "github",
+"kind": "repo",
+"title": "munitkala/selfsemester",
+"url": "https://github.com/munitkala/selfsemester",
+"date": "2026-11-04",
+"summary": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
+"score": 70,
+"extra": {
+"lang": "Rust",
+"topics": [
+"ai-education",
+"ai-tutor",
+"anthropic",
+"claude",
+"claude-code",
+"curriculum",
+"desktop-app",
+"edtech",
+"education",
+"generative-ai"
+],
+"license": "MIT"
 }
 },
 "repo-osarhiemenaiyevbosa-cloud__ai-manus": {
@@ -1417,7 +1594,7 @@
 "url": "https://github.com/reason-machines/aspen",
 "date": "2026-11-05",
 "summary": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
-"score": 84,
+"score": 100,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1439,7 +1616,7 @@
 "url": "https://github.com/silverdugongenhance/PromptReel",
 "date": "2026-11-04",
 "summary": "Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI text-to-video with Wan 2.2: type a scene, pick wide, vertical or square, get an MP4. No credits, no subscrip…",
-"score": 210,
+"score": 207,
 "extra": {
 "lang": "",
 "topics": [
@@ -1468,6 +1645,32 @@
 "score": 54,
 "extra": {
 "lang": "Python",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-thecoderrrer__ai_manus": {
+"id": "repo-thecoderrrer__ai_manus",
+"source": "github",
+"kind": "repo",
+"title": "thecoderrrer/ai_manus",
+"url": "https://github.com/thecoderrrer/ai_manus",
+"date": "2026-11-07",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 54,
+"extra": {
+"lang": "",
 "topics": [
 "ai",
 "ai-agents",
@@ -1569,7 +1772,7 @@
 "url": "https://github.com/viet140612/ai-manus",
 "date": "2026-11-06",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 44,
+"score": 54,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1595,7 +1798,7 @@
 "url": "https://github.com/voyager-so/vork",
 "date": "2026-11-05",
 "summary": "Headless 3D and VFX engine for agents. Research preview.",
-"score": 1115,
+"score": 1296,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1647,7 +1850,7 @@
 "url": "https://github.com/zaxiu88888/issue-rag",
 "date": "2026-11-01",
 "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-"score": 159,
+"score": 202,
 "extra": {
 "lang": "Python",
 "topics": [

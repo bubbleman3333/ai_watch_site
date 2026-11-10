@@ -7,13 +7,13 @@
 "url": "https://huggingface.co/ByteDance-Seed/Cola2",
 "date": "2026-11-06",
 "summary": "",
-"score": 9,
+"score": 12,
 "extra": {
 "org": "ByteDance-Seed",
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "text-generation",
-"downloads": 523,
+"downloads": 604,
 "lang": "en"
 }
 },
@@ -30,8 +30,8 @@
 "org": "ByteDance-Seed",
 "publisher": "ByteDance Seed",
 "jp": false,
-"task": "",
-"downloads": 325,
+"task": "feature-extraction",
+"downloads": 338,
 "lang": "en"
 }
 },
@@ -48,7 +48,7 @@
 "org": "ByteDance-Seed",
 "publisher": "ByteDance Seed",
 "jp": false,
-"task": "",
+"task": "feature-extraction",
 "downloads": 0,
 "lang": "en"
 }
@@ -67,7 +67,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 121,
+"downloads": 142,
 "lang": "ja"
 }
 },
@@ -103,7 +103,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 59,
+"downloads": 63,
 "lang": "en"
 }
 },
@@ -115,13 +115,13 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 1726,
+"score": 1800,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 25569,
+"downloads": 27926,
 "lang": "en"
 }
 },
@@ -133,14 +133,32 @@
 "url": "https://huggingface.co/nvidia/MetricTrail",
 "date": "2026-11-05",
 "summary": "",
-"score": 21,
+"score": 23,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 225,
+"downloads": 281,
 "lang": "en"
+}
+},
+"release-pfnet__plamo-3-8b-fin-instruct": {
+"id": "release-pfnet__plamo-3-8b-fin-instruct",
+"source": "releases",
+"kind": "release",
+"title": "pfnet/plamo-3-8b-fin-instruct",
+"url": "https://huggingface.co/pfnet/plamo-3-8b-fin-instruct",
+"date": "2026-11-08",
+"summary": "",
+"score": 8,
+"extra": {
+"org": "pfnet",
+"publisher": "Preferred Networks",
+"jp": true,
+"task": "text-generation",
+"downloads": 21,
+"lang": "ja"
 }
 },
 "release-tencent__Qwen3.8-27B-DSpine-b16": {
@@ -151,13 +169,13 @@
 "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
 "date": "2026-11-07",
 "summary": "",
-"score": 93,
+"score": 150,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 652,
+"downloads": 1464,
 "lang": "en"
 }
 }
