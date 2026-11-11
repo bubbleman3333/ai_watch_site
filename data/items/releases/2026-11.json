@@ -7,13 +7,13 @@
 "url": "https://huggingface.co/ByteDance-Seed/Cola2",
 "date": "2026-11-06",
 "summary": "",
-"score": 12,
+"score": 15,
 "extra": {
 "org": "ByteDance-Seed",
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "text-generation",
-"downloads": 604,
+"downloads": 720,
 "lang": "en"
 }
 },
@@ -31,7 +31,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "feature-extraction",
-"downloads": 338,
+"downloads": 391,
 "lang": "en"
 }
 },
@@ -53,6 +53,42 @@
 "lang": "en"
 }
 },
+"release-MiniMaxAI__MiniMax-H3-Image": {
+"id": "release-MiniMaxAI__MiniMax-H3-Image",
+"source": "releases",
+"kind": "release",
+"title": "MiniMaxAI/MiniMax-H3-Image",
+"url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+"date": "2026-11-03",
+"summary": "",
+"score": 376,
+"extra": {
+"org": "MiniMaxAI",
+"publisher": "MiniMax",
+"jp": false,
+"task": "text-to-image",
+"downloads": 667,
+"lang": "en"
+}
+},
+"release-MiniMaxAI__MiniMax-H3-Image-PE": {
+"id": "release-MiniMaxAI__MiniMax-H3-Image-PE",
+"source": "releases",
+"kind": "release",
+"title": "MiniMaxAI/MiniMax-H3-Image-PE",
+"url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE",
+"date": "2026-11-08",
+"summary": "",
+"score": 30,
+"extra": {
+"org": "MiniMaxAI",
+"publisher": "MiniMax",
+"jp": false,
+"task": "text-generation",
+"downloads": 0,
+"lang": "en"
+}
+},
 "release-Rakuten__RakutenAI-3.0.1": {
 "id": "release-Rakuten__RakutenAI-3.0.1",
 "source": "releases",
@@ -67,7 +103,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 142,
+"downloads": 185,
 "lang": "ja"
 }
 },
@@ -79,13 +115,13 @@
 "url": "https://huggingface.co/allenai/Molmo2-4B-tb",
 "date": "2026-11-05",
 "summary": "",
-"score": 2,
+"score": 1,
 "extra": {
 "org": "allenai",
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 60,
+"downloads": 66,
 "lang": "en"
 }
 },
@@ -97,13 +133,13 @@
 "url": "https://huggingface.co/allenai/maniflow-tb",
 "date": "2026-11-05",
 "summary": "",
-"score": 3,
+"score": 2,
 "extra": {
 "org": "allenai",
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 63,
+"downloads": 66,
 "lang": "en"
 }
 },
@@ -115,13 +151,13 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 1800,
+"score": 1867,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 27926,
+"downloads": 30721,
 "lang": "en"
 }
 },
@@ -133,13 +169,13 @@
 "url": "https://huggingface.co/nvidia/MetricTrail",
 "date": "2026-11-05",
 "summary": "",
-"score": 23,
+"score": 24,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 281,
+"downloads": 342,
 "lang": "en"
 }
 },
@@ -157,7 +193,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 21,
+"downloads": 301,
 "lang": "ja"
 }
 },
@@ -169,13 +205,13 @@
 "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
 "date": "2026-11-07",
 "summary": "",
-"score": 150,
+"score": 169,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 1464,
+"downloads": 2627,
 "lang": "en"
 }
 }

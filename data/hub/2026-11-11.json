@@ -1,0 +1,526 @@
+{
+"datasets": [
+{
+"downloads": 30689,
+"id": "Angais/pixel-art-atlas-1.4m",
+"likes": 318,
+"tags": [
+"task_categories:text-to-image",
+"language:en"
+]
+},
+{
+"downloads": 15479,
+"id": "Vyber07/cyber-security",
+"likes": 874,
+"tags": [
+"task_categories:text-generation",
+"task_categories:question-answering",
+"language:en"
+]
+},
+{
+"downloads": 1466686,
+"id": "nvidia/simready-assets",
+"likes": 1524,
+"tags": []
+},
+{
+"downloads": 475169,
+"id": "open-index/hacker-news",
+"likes": 572,
+"tags": [
+"task_categories:text-generation",
+"task_categories:feature-extraction",
+"task_categories:text-classification",
+"task_categories:question-answering",
+"language:en"
+]
+},
+{
+"downloads": 40394,
+"id": "codepawl/abo-glb",
+"likes": 107,
+"tags": []
+},
+{
+"downloads": 5101,
+"id": "tencent/TailorRig",
+"likes": 75,
+"tags": [
+"language:en"
+]
+},
+{
+"downloads": 1188,
+"id": "NousResearch/arete-data-pairs",
+"likes": 53,
+"tags": [
+"task_categories:text-generation",
+"task_categories:question-answering",
+"language:en"
+]
+},
+{
+"downloads": 13619,
+"id": "codepawl/scanned-objects-glb",
+"likes": 54,
+"tags": []
+},
+{
+"downloads": 1684,
+"id": "NousResearch/Propaganda_Eval",
+"likes": 51,
+"tags": [
+"task_categories:question-answering",
+"language:en"
+]
+},
+{
+"downloads": 8923,
+"id": "ccore/ThreeJS-3D-Scenes",
+"likes": 104,
+"tags": [
+"task_categories:text-generation",
+"language:en"
+]
+},
+{
+"downloads": 6800,
+"id": "PentesterFlow/OffsecCyber",
+"likes": 88,
+"tags": [
+"task_categories:text-generation",
+"task_categories:text-classification",
+"language:en"
+]
+},
+{
+"downloads": 8039,
+"id": "codepawl/plateau-city-glb",
+"likes": 40,
+"tags": []
+},
+{
+"downloads": 213957,
+"id": "venvoo/china-a-share-l2-level2-limit-order-book-tick-data",
+"likes": 675,
+"tags": []
+},
+{
+"downloads": 3412,
+"id": "nvidia/PhysicalAI-Human-1M-100K",
+"likes": 30,
+"tags": [
+"language:en"
+]
+},
+{
+"downloads": 464,
+"id": "israellaguan/codex-tool-use-trajectories",
+"likes": 37,
+"tags": [
+"task_categories:text-generation",
+"language:en"
+]
+},
+{
+"downloads": 147518,
+"id": "Sandflow/sand3d-objaverse",
+"likes": 35,
+"tags": [
+"task_categories:text-to-3d",
+"task_categories:image-to-3d"
+]
+},
+{
+"downloads": 8321,
+"id": "speechcolab/gigaspeech3",
+"likes": 27,
+"tags": [
+"task_categories:automatic-speech-recognition",
+"language:ar"
+]
+},
+{
+"downloads": 2281,
+"id": "Axion1-0/axion-training-data",
+"likes": 28,
+"tags": [
+"task_categories:text-generation",
+"task_categories:question-answering",
+"language:en"
+]
+},
+{
+"downloads": 2393,
+"id": "ccore/ThreeJS-3D-GLB-Assets",
+"likes": 27,
+"tags": [
+"task_categories:text-generation",
+"language:en"
+]
+},
+{
+"downloads": 733,
+"id": "arc4g/arc-art",
+"likes": 30,
+"tags": []
+},
+{
+"downloads": 1403,
+"id": "codepawl/pixel-atlas-glb",
+"likes": 23,
+"tags": []
+},
+{
+"downloads": 12198,
+"id": "bones-studio/seed",
+"likes": 418,
+"tags": [
+"task_categories:robotics",
+"task_categories:text-to-video",
+"task_categories:video-text-to-text",
+"language:en"
+]
+},
+{
+"downloads": 46717,
+"id": "scenario-labs/3d-collection",
+"likes": 400,
+"tags": []
+},
+{
+"downloads": 67727,
+"id": "nvidia/RFD4-Proteina",
+"likes": 28,
+"tags": []
+},
+{
+"downloads": 6867,
+"id": "MoreThought/Fable-5.1-Max-Reasoning-Filtered-10000x",
+"likes": 484,
+"tags": [
+"task_categories:text-generation",
+"task_categories:question-answering",
+"language:en"
+]
+},
+{
+"downloads": 454,
+"id": "codepawl/asset-index",
+"likes": 20,
+"tags": []
+},
+{
+"downloads": 24099,
+"id": "TacVerse/TacVerse",
+"likes": 26,
+"tags": [
+"task_categories:robotics"
+]
+},
+{
+"downloads": 30540,
+"id": "codepawl/simready-glb",
+"likes": 81,
+"tags": []
+},
+{
+"downloads": 242626,
+"id": "nvidia/PhysicalAI-Autonomous-Vehicles",
+"likes": 1194,
+"tags": []
+},
+{
+"downloads": 920323,
+"id": "DAGroup-PKU/Open-HumanWAM-50K",
+"likes": 19,
+"tags": [
+"task_categories:robotics"
+]
+}
+],
+"spaces": [
+{
+"desc": "",
+"id": "huggingface/moe-blogpost",
+"likes": 525,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "thea2026/image-to-video",
+"likes": 637,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "joelniklaus/harness-leaderboard",
+"likes": 271,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "kulkas2pintu/wan777",
+"likes": 1484,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "fendouai/free-ai-humanizer",
+"likes": 228,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "speridlabs/idol",
+"likes": 238,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "JCisHERE/wan2-2-i2v-v3",
+"likes": 306,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "hugging-apps/bfs-best-face-swap",
+"likes": 870,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "YuyaoTechnology/MatterSeek",
+"likes": 3157,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "umaircxnd/MiniMax-H3-Turbo-Lora-UNCENSORED-Workflow",
+"likes": 124,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "FelyaHuhing/qwen-image-21-uncensored",
+"likes": 96,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "PrunaAI/P-H3-Image",
+"likes": 92,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "wank3r/minimax-h3",
+"likes": 348,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "linoyts/qwen-image-2-1-realtime",
+"likes": 224,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "aaaa33311/wan2-2-fp8da-aoti-preview-2c-finishing",
+"likes": 122,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "Guaryn/qwen-image-2.1-uncensored-aio-loras",
+"likes": 128,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "LiquidAI/LFM3-Omni-2B-WebGPU",
+"likes": 150,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "AST-1320/Qwen-2511-Plus-Flux.2-klein",
+"likes": 389,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "Tanyakhan/pornflux-i2v-6e9et",
+"likes": 157,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "a-test-user-in-the-wrold/qwen-image-21-uncensored",
+"likes": 314,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "townbox/ava",
+"likes": 76,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "hide1/MOSS-Image-Character-Catalog",
+"likes": 77,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "nvidia/simready-central",
+"likes": 406,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "harness-hub/harness-lens",
+"likes": 95,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "multimodalart/jev-decision-index",
+"likes": 898,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "Pika-Labs/pika-h3-flex",
+"likes": 98,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "aet256/Qwen-Image-Edit-Rapid-AIO-Loras-Experimental",
+"likes": 558,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "baka999/MiniMax-H3-Turbo-Lora-UNCENSORED",
+"likes": 132,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "cfahlgren1/pixel-search",
+"likes": 34,
+"sdk": "static",
+"title": ""
+},
+{
+"desc": "",
+"id": "briaai/Fibo-2.0-editing",
+"likes": 242,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "HuggingFaceTB/smol-training-playbook",
+"likes": 3375,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "selfit-camera/Omni-Image-Editor",
+"likes": 2914,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "fafsaf1/FlowHMR",
+"likes": 39,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "Sandflow/sand3d-explorer",
+"likes": 24,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "CumaSystem/Omni-videos-custom",
+"likes": 67,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "nvidia/nemotron-transcribe",
+"likes": 59,
+"sdk": "docker",
+"title": ""
+},
+{
+"desc": "",
+"id": "rdata92/LTX-2.3-10Eros",
+"likes": 137,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+"likes": 3847,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "waitinghere/Krea2T-Revamped",
+"likes": 20,
+"sdk": "gradio",
+"title": ""
+},
+{
+"desc": "",
+"id": "webml-community/neuron-studio",
+"likes": 58,
+"sdk": "static",
+"title": ""
+}
+]
+}
