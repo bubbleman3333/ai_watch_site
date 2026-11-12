@@ -13,7 +13,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "text-generation",
-"downloads": 720,
+"downloads": 863,
 "lang": "en"
 }
 },
@@ -31,7 +31,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "feature-extraction",
-"downloads": 391,
+"downloads": 411,
 "lang": "en"
 }
 },
@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
 "date": "2026-11-03",
 "summary": "",
-"score": 376,
+"score": 725,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-to-image",
-"downloads": 667,
+"downloads": 142989,
 "lang": "en"
 }
 },
@@ -79,13 +79,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE",
 "date": "2026-11-08",
 "summary": "",
-"score": 30,
+"score": 53,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-generation",
-"downloads": 0,
+"downloads": 600,
 "lang": "en"
 }
 },
@@ -103,7 +103,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 185,
+"downloads": 212,
 "lang": "ja"
 }
 },
@@ -121,7 +121,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 66,
+"downloads": 75,
 "lang": "en"
 }
 },
@@ -139,7 +139,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 66,
+"downloads": 73,
 "lang": "en"
 }
 },
@@ -151,13 +151,31 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 1867,
+"score": 1936,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 30721,
+"downloads": 33617,
+"lang": "en"
+}
+},
+"release-nvidia__Kimi-K3.1-Pro-NVFP4": {
+"id": "release-nvidia__Kimi-K3.1-Pro-NVFP4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Kimi-K3.1-Pro-NVFP4",
+"url": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
+"date": "2026-11-11",
+"summary": "",
+"score": 5,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 0,
 "lang": "en"
 }
 },
@@ -169,13 +187,13 @@
 "url": "https://huggingface.co/nvidia/MetricTrail",
 "date": "2026-11-05",
 "summary": "",
-"score": 24,
+"score": 26,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 342,
+"downloads": 396,
 "lang": "en"
 }
 },
@@ -187,13 +205,13 @@
 "url": "https://huggingface.co/pfnet/plamo-3-8b-fin-instruct",
 "date": "2026-11-08",
 "summary": "",
-"score": 8,
+"score": 9,
 "extra": {
 "org": "pfnet",
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 301,
+"downloads": 758,
 "lang": "ja"
 }
 },
@@ -205,13 +223,13 @@
 "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
 "date": "2026-11-07",
 "summary": "",
-"score": 169,
+"score": 196,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 2627,
+"downloads": 3241,
 "lang": "en"
 }
 }

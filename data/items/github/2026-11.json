@@ -7,7 +7,7 @@
 "url": "https://github.com/21stware/bowel",
 "date": "2026-11-07",
 "summary": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-"score": 408,
+"score": 442,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -22,6 +22,30 @@
 "windows"
 ],
 "license": "NOASSERTION"
+}
+},
+"repo-8hjkkwikl8__ai-portfolio": {
+"id": "repo-8hjkkwikl8__ai-portfolio",
+"source": "github",
+"kind": "repo",
+"title": "8hjkkwikl8/ai-portfolio",
+"url": "https://github.com/8hjkkwikl8/ai-portfolio",
+"date": "2026-11-11",
+"summary": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
+"score": 46,
+"extra": {
+"lang": "Python",
+"topics": [
+"ai",
+"fastapi",
+"llm",
+"nl2sql",
+"portfolio",
+"prompt-engineering",
+"rag",
+"sqlite"
+],
+"license": ""
 }
 },
 "repo-Abdoandqsnk__ai-manus": {
@@ -58,7 +82,7 @@
 "url": "https://github.com/Abdul-Rehman7826/ai-manus",
 "date": "2026-11-06",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 53,
+"score": 54,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -220,6 +244,54 @@
 "license": "Apache-2.0"
 }
 },
+"repo-DKKD13__dsh-finance": {
+"id": "repo-DKKD13__dsh-finance",
+"source": "github",
+"kind": "repo",
+"title": "DKKD13/dsh-finance",
+"url": "https://github.com/DKKD13/dsh-finance",
+"date": "2026-11-01",
+"summary": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
+"score": 126,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai",
+"deepseek",
+"dsh",
+"finance",
+"local-first",
+"research"
+],
+"license": "MIT"
+}
+},
+"repo-Dodaios__ste80-humanizer": {
+"id": "repo-Dodaios__ste80-humanizer",
+"source": "github",
+"kind": "repo",
+"title": "Dodaios/ste80-humanizer",
+"url": "https://github.com/Dodaios/ste80-humanizer",
+"date": "2026-11-09",
+"summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+"score": 407,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-skills",
+"ai-writing",
+"asd-ste100",
+"claude-code",
+"claude-skills",
+"codex",
+"cursor",
+"humanize-ai-text",
+"humanizer",
+"karpathy"
+],
+"license": "MIT"
+}
+},
 "repo-DominikScholz__open-bot-avatar": {
 "id": "repo-DominikScholz__open-bot-avatar",
 "source": "github",
@@ -228,7 +300,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 331,
+"score": 377,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -320,6 +392,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-FrigadeHQ__yogurt": {
+"id": "repo-FrigadeHQ__yogurt",
+"source": "github",
+"kind": "repo",
+"title": "FrigadeHQ/yogurt",
+"url": "https://github.com/FrigadeHQ/yogurt",
+"date": "2026-11-10",
+"summary": "Private AI meeting notes. Free and open source.",
+"score": 425,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"electron",
+"linux",
+"llama-cpp",
+"local-ai",
+"macos",
+"mcp",
+"meeting-notes",
+"open-source",
+"privacy",
+"transcription"
+],
+"license": "MIT"
+}
+},
 "repo-Gigachad-byte__ai-manus": {
 "id": "repo-Gigachad-byte__ai-manus",
 "source": "github",
@@ -354,7 +452,7 @@
 "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
 "date": "2026-11-04",
 "summary": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free…",
-"score": 92,
+"score": 96,
 "extra": {
 "lang": "Cypher",
 "topics": [
@@ -380,7 +478,7 @@
 "url": "https://github.com/Incept5-AI/inferd",
 "date": "2026-11-03",
 "summary": "Native Apple Silicon inference engine for many AI agents at once: C++/Metal, agent-contexts API, 8-bit paged KV, SSD tier (Qwen3.8)",
-"score": 33,
+"score": 34,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -402,7 +500,7 @@
 "url": "https://github.com/JosssphZhou/poki",
 "date": "2026-11-05",
 "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-"score": 920,
+"score": 979,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -424,7 +522,7 @@
 "url": "https://github.com/Jumbomuffin777/Frontier-UI",
 "date": "2026-11-01",
 "summary": "ChatGPT-style generative UI for Open WebUI: photo galleries, live maps with real routes, multi-day trips, budgets, calculators, live weather & stocks, link previews, and one-click Word/Excel/PowerPoi…",
-"score": 67,
+"score": 68,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -450,7 +548,7 @@
 "url": "https://github.com/KKKKhazix/agent-autoloop",
 "date": "2026-11-03",
 "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-"score": 4428,
+"score": 4532,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -580,7 +678,7 @@
 "url": "https://github.com/MiniMax-AI/mcode-agent-table",
 "date": "2026-11-03",
 "summary": "BYOB Table Protocol v0.1 and reference implementation: bring your own agent (MiniMax Code and others) to one shared table for any-topology discussion and collaboration.",
-"score": 54,
+"score": 55,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -732,7 +830,7 @@
 "url": "https://github.com/SAOS-3624/dsh-see-now",
 "date": "2026-11-01",
 "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-"score": 567,
+"score": 591,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -757,7 +855,7 @@
 "url": "https://github.com/Sandflow-ai/sand3d",
 "date": "2026-11-03",
 "summary": "3D modeling in Python, built for LLMs.",
-"score": 1755,
+"score": 1858,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -831,7 +929,7 @@
 "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
 "date": "2026-11-04",
 "summary": "Can AI agents rebuild websites through browser exploration?",
-"score": 196,
+"score": 245,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -883,7 +981,7 @@
 "url": "https://github.com/Toyhom/awesome-computational-character-modeling",
 "date": "2026-11-02",
 "summary": "Survey companion for Computational Character Modeling: role-playing methods, data foundations, and evaluation, organized by the manuscript.",
-"score": 206,
+"score": 204,
 "extra": {
 "lang": "TeX",
 "topics": [
@@ -948,6 +1046,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-Xin-YuXiao__Awesome-AI-for-Astronomy": {
+"id": "repo-Xin-YuXiao__Awesome-AI-for-Astronomy",
+"source": "github",
+"kind": "repo",
+"title": "Xin-YuXiao/Awesome-AI-for-Astronomy",
+"url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
+"date": "2026-11-10",
+"summary": "A curated list of papers for AI in Astronomy & Astrophysics.",
+"score": 50,
+"extra": {
+"lang": "HTML",
+"topics": [
+"ai-for-science",
+"astronomy",
+"awesome",
+"awesome-list",
+"benchmark",
+"cosmology",
+"deep-learning",
+"large-language-models",
+"machine-learning",
+"planetary-science"
+],
+"license": "NOASSERTION"
+}
+},
 "repo-YT-Proteus-bot__MineAgent": {
 "id": "repo-YT-Proteus-bot__MineAgent",
 "source": "github",
@@ -956,7 +1080,7 @@
 "url": "https://github.com/YT-Proteus-bot/MineAgent",
 "date": "2026-11-05",
 "summary": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
-"score": 147,
+"score": 162,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1002,7 +1126,7 @@
 "url": "https://github.com/ZhikangNiu/VoxCanvas",
 "date": "2026-11-03",
 "summary": "VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics",
-"score": 33,
+"score": 34,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1051,18 +1175,20 @@
 "url": "https://github.com/adventists-ai/sophon-realtime",
 "date": "2026-11-04",
 "summary": "Sophon-Realtime v1: open full-duplex voice models that hear your tone and speak with one. Tag and Flash run on one GPU with vLLM-Omni; E2E in preview.",
-"score": 227,
+"score": 268,
 "extra": {
 "lang": "Python",
 "topics": [
 "full-duplex",
+"livekit",
 "open-source",
+"openai-realtime",
 "paralinguistics",
+"pipecat",
 "realtime",
 "speech",
 "speech-to-speech",
-"vllm",
-"voice-assistant"
+"tts"
 ],
 "license": "Apache-2.0"
 }
@@ -1101,7 +1227,7 @@
 "url": "https://github.com/bytedance/axion1_0",
 "date": "2026-11-02",
 "summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-"score": 68,
+"score": 70,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1125,7 +1251,7 @@
 "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
 "date": "2026-11-07",
 "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-"score": 552,
+"score": 665,
 "extra": {
 "lang": "",
 "topics": [
@@ -1172,7 +1298,7 @@
 "url": "https://github.com/didilili/mianstack",
 "date": "2026-11-02",
 "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-"score": 157,
+"score": 162,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1224,7 +1350,7 @@
 "url": "https://github.com/expo/exact",
 "date": "2026-11-02",
 "summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-"score": 2175,
+"score": 2945,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1250,7 +1376,7 @@
 "url": "https://github.com/fanhuayishiy/ai-crew-pass",
 "date": "2026-11-06",
 "summary": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
-"score": 175,
+"score": 181,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1394,6 +1520,26 @@
 "license": "Apache-2.0"
 }
 },
+"repo-joeseesun__xnews": {
+"id": "repo-joeseesun__xnews",
+"source": "github",
+"kind": "repo",
+"title": "joeseesun/xnews",
+"url": "https://github.com/joeseesun/xnews",
+"date": "2026-11-05",
+"summary": "X News — overseas founder posts & AI videos, rewritten in Qiaomu Chinese",
+"score": 127,
+"extra": {
+"lang": "HTML",
+"topics": [
+"ai",
+"cloudflare-workers",
+"news",
+"rss"
+],
+"license": ""
+}
+},
 "repo-johnpsasser__lifeboat": {
 "id": "repo-johnpsasser__lifeboat",
 "source": "github",
@@ -1428,7 +1574,7 @@
 "url": "https://github.com/kubai087/kubai-icons",
 "date": "2026-11-03",
 "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse t…",
-"score": 652,
+"score": 740,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1558,7 +1704,7 @@
 "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
 "date": "2026-11-01",
 "summary": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
-"score": 349,
+"score": 332,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1584,7 +1730,7 @@
 "url": "https://github.com/munitkala/selfsemester",
 "date": "2026-11-04",
 "summary": "Windows app that turns any subject into a full, scheduled, graded course, built and marked by your own Claude Code",
-"score": 76,
+"score": 80,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1710,7 +1856,7 @@
 "url": "https://github.com/reason-machines/aspen",
 "date": "2026-11-05",
 "summary": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
-"score": 116,
+"score": 119,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1722,6 +1868,29 @@
 "rust"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-shanselman__sandbox-mcp": {
+"id": "repo-shanselman__sandbox-mcp",
+"source": "github",
+"kind": "repo",
+"title": "shanselman/sandbox-mcp",
+"url": "https://github.com/shanselman/sandbox-mcp",
+"date": "2026-11-06",
+"summary": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+"score": 412,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-agents",
+"mcp",
+"mcp-server",
+"testing",
+"ui-automation",
+"windows",
+"windows-sandbox"
+],
+"license": "MIT"
 }
 },
 "repo-silverdugongenhance__PromptReel": {
@@ -1914,7 +2083,7 @@
 "url": "https://github.com/voyager-so/vork",
 "date": "2026-11-05",
 "summary": "Headless 3D and VFX engine for agents. Research preview.",
-"score": 1357,
+"score": 1450,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1940,7 +2109,7 @@
 "url": "https://github.com/weixijia/mas-office",
 "date": "2026-11-06",
 "summary": "See your multi-agent system work: a framework-agnostic protocol and live, animated office for AI agent teams.",
-"score": 46,
+"score": 56,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1992,7 +2161,7 @@
 "url": "https://github.com/zaxiu88888/issue-rag",
 "date": "2026-11-01",
 "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-"score": 247,
+"score": 290,
 "extra": {
 "lang": "Python",
 "topics": [
