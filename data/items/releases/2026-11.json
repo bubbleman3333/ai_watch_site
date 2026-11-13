@@ -13,7 +13,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "text-generation",
-"downloads": 863,
+"downloads": 1003,
 "lang": "en"
 }
 },
@@ -31,7 +31,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "feature-extraction",
-"downloads": 411,
+"downloads": 431,
 "lang": "en"
 }
 },
@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
 "date": "2026-11-03",
 "summary": "",
-"score": 725,
+"score": 869,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-to-image",
-"downloads": 142989,
+"downloads": 306718,
 "lang": "en"
 }
 },
@@ -79,13 +79,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE",
 "date": "2026-11-08",
 "summary": "",
-"score": 53,
+"score": 60,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-generation",
-"downloads": 600,
+"downloads": 1177,
 "lang": "en"
 }
 },
@@ -103,7 +103,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 212,
+"downloads": 243,
 "lang": "ja"
 }
 },
@@ -121,7 +121,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 75,
+"downloads": 78,
 "lang": "en"
 }
 },
@@ -139,7 +139,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 73,
+"downloads": 80,
 "lang": "en"
 }
 },
@@ -151,13 +151,13 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 1936,
+"score": 1975,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 33617,
+"downloads": 37486,
 "lang": "en"
 }
 },
@@ -169,13 +169,13 @@
 "url": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
 "date": "2026-11-11",
 "summary": "",
-"score": 5,
+"score": 10,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 0,
+"downloads": 370,
 "lang": "en"
 }
 },
@@ -193,7 +193,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 396,
+"downloads": 465,
 "lang": "en"
 }
 },
@@ -211,7 +211,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 758,
+"downloads": 813,
 "lang": "ja"
 }
 },
@@ -223,13 +223,13 @@
 "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
 "date": "2026-11-07",
 "summary": "",
-"score": 196,
+"score": 209,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 3241,
+"downloads": 3738,
 "lang": "en"
 }
 }
