@@ -13,7 +13,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "text-generation",
-"downloads": 1003,
+"downloads": 1166,
 "lang": "en"
 }
 },
@@ -31,7 +31,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "feature-extraction",
-"downloads": 431,
+"downloads": 443,
 "lang": "en"
 }
 },
@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
 "date": "2026-11-03",
 "summary": "",
-"score": 869,
+"score": 1017,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-to-image",
-"downloads": 306718,
+"downloads": 437039,
 "lang": "en"
 }
 },
@@ -79,13 +79,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE",
 "date": "2026-11-08",
 "summary": "",
-"score": 60,
+"score": 62,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-generation",
-"downloads": 1177,
+"downloads": 1668,
 "lang": "en"
 }
 },
@@ -103,7 +103,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 243,
+"downloads": 249,
 "lang": "ja"
 }
 },
@@ -115,13 +115,13 @@
 "url": "https://huggingface.co/allenai/Molmo2-4B-tb",
 "date": "2026-11-05",
 "summary": "",
-"score": 1,
+"score": 2,
 "extra": {
 "org": "allenai",
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 78,
+"downloads": 81,
 "lang": "en"
 }
 },
@@ -133,13 +133,13 @@
 "url": "https://huggingface.co/allenai/maniflow-tb",
 "date": "2026-11-05",
 "summary": "",
-"score": 2,
+"score": 3,
 "extra": {
 "org": "allenai",
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 80,
+"downloads": 87,
 "lang": "en"
 }
 },
@@ -151,13 +151,13 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 1975,
+"score": 2031,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 37486,
+"downloads": 40953,
 "lang": "en"
 }
 },
@@ -169,13 +169,13 @@
 "url": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
 "date": "2026-11-11",
 "summary": "",
-"score": 10,
+"score": 17,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 370,
+"downloads": 620,
 "lang": "en"
 }
 },
@@ -193,7 +193,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 465,
+"downloads": 515,
 "lang": "en"
 }
 },
@@ -211,7 +211,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 813,
+"downloads": 878,
 "lang": "ja"
 }
 },
@@ -223,13 +223,13 @@
 "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
 "date": "2026-11-07",
 "summary": "",
-"score": 209,
+"score": 240,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 3738,
+"downloads": 4332,
 "lang": "en"
 }
 }

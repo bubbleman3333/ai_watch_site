@@ -7,7 +7,7 @@
 "url": "https://github.com/21stware/bowel",
 "date": "2026-11-07",
 "summary": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-"score": 461,
+"score": 480,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -32,7 +32,7 @@
 "url": "https://github.com/8hjkkwikl8/ai-portfolio",
 "date": "2026-11-11",
 "summary": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
-"score": 91,
+"score": 100,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -244,6 +244,30 @@
 "license": "Apache-2.0"
 }
 },
+"repo-DIYgod__pinky": {
+"id": "repo-DIYgod__pinky",
+"source": "github",
+"kind": "repo",
+"title": "DIYgod/pinky",
+"url": "https://github.com/DIYgod/pinky",
+"date": "2026-11-06",
+"summary": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+"score": 2078,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai-agent",
+"android",
+"claude-code",
+"ios",
+"iphone",
+"mcp",
+"mcp-server",
+"phone-automation"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-DKKD13__dsh-finance": {
 "id": "repo-DKKD13__dsh-finance",
 "source": "github",
@@ -274,7 +298,7 @@
 "url": "https://github.com/Dodaios/ste80-humanizer",
 "date": "2026-11-09",
 "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-"score": 460,
+"score": 490,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -300,7 +324,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 570,
+"score": 596,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -400,20 +424,20 @@
 "url": "https://github.com/FrigadeHQ/yogurt",
 "date": "2026-11-10",
 "summary": "Private AI meeting notes. Free and open source.",
-"score": 958,
+"score": 1266,
 "extra": {
 "lang": "TypeScript",
 "topics": [
+"ai-meeting-assistant",
+"ai-notetaker",
 "electron",
+"granola-alternative",
 "linux",
 "llama-cpp",
 "local-ai",
+"local-first",
 "macos",
-"mcp",
-"meeting-notes",
-"open-source",
-"privacy",
-"transcription"
+"mcp"
 ],
 "license": "MIT"
 }
@@ -452,7 +476,7 @@
 "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
 "date": "2026-11-04",
 "summary": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free…",
-"score": 101,
+"score": 104,
 "extra": {
 "lang": "Cypher",
 "topics": [
@@ -468,6 +492,32 @@
 "threejs"
 ],
 "license": "MIT"
+}
+},
+"repo-ITprogamatikDedSec__ai--manus": {
+"id": "repo-ITprogamatikDedSec__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "ITprogamatikDedSec/ai--manus",
+"url": "https://github.com/ITprogamatikDedSec/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-Incept5-AI__inferd": {
@@ -500,7 +550,7 @@
 "url": "https://github.com/JosssphZhou/poki",
 "date": "2026-11-05",
 "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-"score": 1026,
+"score": 1089,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -548,7 +598,7 @@
 "url": "https://github.com/KKKKhazix/agent-autoloop",
 "date": "2026-11-03",
 "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-"score": 4781,
+"score": 5125,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -678,7 +728,7 @@
 "url": "https://github.com/Marcian15350/mt5-tradeprotocol",
 "date": "2026-11-06",
 "summary": "",
-"score": 1103,
+"score": 1104,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -848,6 +898,84 @@
 "license": "Apache-2.0"
 }
 },
+"repo-PrathmeshYa__ai--manus": {
+"id": "repo-PrathmeshYa__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "PrathmeshYa/ai--manus",
+"url": "https://github.com/PrathmeshYa/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Redderz-code__ai--manus": {
+"id": "repo-Redderz-code__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "Redderz-code/ai--manus",
+"url": "https://github.com/Redderz-code/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Redderz-code__manus--ai": {
+"id": "repo-Redderz-code__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "Redderz-code/manus--ai",
+"url": "https://github.com/Redderz-code/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-RiventronLucky53535__crypto-rpocket-accumulation-scanner": {
 "id": "repo-RiventronLucky53535__crypto-rpocket-accumulation-scanner",
 "source": "github",
@@ -874,6 +1002,32 @@
 "license": ""
 }
 },
+"repo-Ronni35__ai--manus": {
+"id": "repo-Ronni35__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "Ronni35/ai--manus",
+"url": "https://github.com/Ronni35/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-SAOS-3624__dsh-see-now": {
 "id": "repo-SAOS-3624__dsh-see-now",
 "source": "github",
@@ -882,7 +1036,7 @@
 "url": "https://github.com/SAOS-3624/dsh-see-now",
 "date": "2026-11-01",
 "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-"score": 610,
+"score": 626,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -907,7 +1061,7 @@
 "url": "https://github.com/Sandflow-ai/sand3d",
 "date": "2026-11-03",
 "summary": "3D modeling in Python, built for LLMs.",
-"score": 1920,
+"score": 1960,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -918,6 +1072,32 @@
 "procedural-modeling",
 "python",
 "usd"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-SandyPandyMandy__ai--manus": {
+"id": "repo-SandyPandyMandy__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "SandyPandyMandy/ai--manus",
+"url": "https://github.com/SandyPandyMandy/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
 ],
 "license": "Apache-2.0"
 }
@@ -981,7 +1161,7 @@
 "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
 "date": "2026-11-04",
 "summary": "Can AI agents rebuild websites through browser exploration?",
-"score": 293,
+"score": 339,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1072,6 +1252,58 @@
 "license": "MIT"
 }
 },
+"repo-WLfear__manus--ai": {
+"id": "repo-WLfear__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "WLfear/manus--ai",
+"url": "https://github.com/WLfear/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-XTwiNSaraX__manus--ai": {
+"id": "repo-XTwiNSaraX__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "XTwiNSaraX/manus--ai",
+"url": "https://github.com/XTwiNSaraX/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-XanegshredFalcon55771__ai--manus": {
 "id": "repo-XanegshredFalcon55771__ai--manus",
 "source": "github",
@@ -1106,7 +1338,7 @@
 "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
 "date": "2026-11-10",
 "summary": "A curated list of papers for AI in Astronomy & Astrophysics.",
-"score": 101,
+"score": 158,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1227,7 +1459,7 @@
 "url": "https://github.com/adventists-ai/sophon-realtime",
 "date": "2026-11-04",
 "summary": "Sophon-Realtime v1: open full-duplex voice models that hear your tone and speak with one. Tag and Flash run on one GPU with vLLM-Omni; E2E in preview.",
-"score": 298,
+"score": 313,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1245,6 +1477,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-agdinis__ai--manus": {
+"id": "repo-agdinis__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "agdinis/ai--manus",
+"url": "https://github.com/agdinis/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-agentes-chat__agentes-chat": {
 "id": "repo-agentes-chat__agentes-chat",
 "source": "github",
@@ -1253,7 +1511,7 @@
 "url": "https://github.com/agentes-chat/agentes-chat",
 "date": "2026-11-09",
 "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and…",
-"score": 1183,
+"score": 1342,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1279,7 +1537,7 @@
 "url": "https://github.com/alexeyw/lot-map",
 "date": "2026-11-09",
 "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
-"score": 611,
+"score": 734,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1294,6 +1552,58 @@
 "visualization"
 ],
 "license": "MIT"
+}
+},
+"repo-alphafalcongamer-creator__ai--manus": {
+"id": "repo-alphafalcongamer-creator__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "alphafalcongamer-creator/ai--manus",
+"url": "https://github.com/alphafalcongamer-creator/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-arberpilafi8-blip__ai--manus": {
+"id": "repo-arberpilafi8-blip__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "arberpilafi8-blip/ai--manus",
+"url": "https://github.com/arberpilafi8-blip/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-blixvip__BlendClone": {
@@ -1330,7 +1640,7 @@
 "url": "https://github.com/bytedance/axion1_0",
 "date": "2026-11-02",
 "summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-"score": 72,
+"score": 74,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1354,7 +1664,7 @@
 "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
 "date": "2026-11-07",
 "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-"score": 783,
+"score": 844,
 "extra": {
 "lang": "",
 "topics": [
@@ -1401,7 +1711,7 @@
 "url": "https://github.com/didilili/mianstack",
 "date": "2026-11-02",
 "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-"score": 171,
+"score": 186,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1417,6 +1727,32 @@
 "interview"
 ],
 "license": "MIT"
+}
+},
+"repo-eagrafki-byte__ai--manus": {
+"id": "repo-eagrafki-byte__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "eagrafki-byte/ai--manus",
+"url": "https://github.com/eagrafki-byte/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-elunboundfiremail__LiveWall---Live-Wallpaper-For-Desktop": {
@@ -1453,7 +1789,7 @@
 "url": "https://github.com/expo/exact",
 "date": "2026-11-02",
 "summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-"score": 3366,
+"score": 4007,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1479,7 +1815,7 @@
 "url": "https://github.com/fanhuayishiy/ai-crew-pass",
 "date": "2026-11-06",
 "summary": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
-"score": 185,
+"score": 186,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1569,6 +1905,31 @@
 "multimodal"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-hyperionaidev__smolmaxxing": {
+"id": "repo-hyperionaidev__smolmaxxing",
+"source": "github",
+"kind": "repo",
+"title": "hyperionaidev/smolmaxxing",
+"url": "https://github.com/hyperionaidev/smolmaxxing",
+"date": "2026-11-04",
+"summary": "maxxing the ability to run different LLMs on the smallest devices possible",
+"score": 638,
+"extra": {
+"lang": "C",
+"topics": [
+"edge-ai",
+"llama-cpp",
+"llama-cpp-alternative",
+"llm",
+"local-llm",
+"local-llm-support",
+"on-device",
+"quantization",
+"quantization-algorithms"
+],
+"license": "MIT"
 }
 },
 "repo-ianTPE__tetra-unfold": {
@@ -1669,6 +2030,58 @@
 "license": "MIT"
 }
 },
+"repo-jose-perez-thecloudgroup__ai--manus": {
+"id": "repo-jose-perez-thecloudgroup__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "jose-perez-thecloudgroup/ai--manus",
+"url": "https://github.com/jose-perez-thecloudgroup/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-kazim768__manus--ai": {
+"id": "repo-kazim768__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "kazim768/manus--ai",
+"url": "https://github.com/kazim768/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-kubai087__kubai-icons": {
 "id": "repo-kubai087__kubai-icons",
 "source": "github",
@@ -1677,7 +2090,7 @@
 "url": "https://github.com/kubai087/kubai-icons",
 "date": "2026-11-03",
 "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse t…",
-"score": 788,
+"score": 815,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1747,6 +2160,84 @@
 "license": ""
 }
 },
+"repo-lloweryfn-rgb__ai--manus": {
+"id": "repo-lloweryfn-rgb__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "lloweryfn-rgb/ai--manus",
+"url": "https://github.com/lloweryfn-rgb/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-melchersimon011-bot__ai--manus": {
+"id": "repo-melchersimon011-bot__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "melchersimon011-bot/ai--manus",
+"url": "https://github.com/melchersimon011-bot/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-melchersimon011-bot__manus--ai": {
+"id": "repo-melchersimon011-bot__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "melchersimon011-bot/manus--ai",
+"url": "https://github.com/melchersimon011-bot/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-melkisedecksayi-gif__ai-manus": {
 "id": "repo-melkisedecksayi-gif__ai-manus",
 "source": "github",
@@ -1807,7 +2298,7 @@
 "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
 "date": "2026-11-01",
 "summary": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
-"score": 329,
+"score": 330,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1823,6 +2314,32 @@
 "web-security"
 ],
 "license": "NOASSERTION"
+}
+},
+"repo-mtn-imran-khan__manus--ai": {
+"id": "repo-mtn-imran-khan__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "mtn-imran-khan/manus--ai",
+"url": "https://github.com/mtn-imran-khan/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-munitkala__selfsemester": {
@@ -1849,6 +2366,30 @@
 "generative-ai"
 ],
 "license": "MIT"
+}
+},
+"repo-native-bond-lab__Jev-Interaction": {
+"id": "repo-native-bond-lab__Jev-Interaction",
+"source": "github",
+"kind": "repo",
+"title": "native-bond-lab/Jev-Interaction",
+"url": "https://github.com/native-bond-lab/Jev-Interaction",
+"date": "2026-11-10",
+"summary": "System-One-controlled full-duplex voice interaction: turn-taking as plain-language decisions judged by Jev.",
+"score": 35,
+"extra": {
+"lang": "Python",
+"topics": [
+"conversational-ai",
+"full-duplex",
+"jev",
+"llm",
+"speech",
+"turn-taking",
+"voice-agent",
+"voice-ai"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-osarhiemenaiyevbosa-cloud__ai-manus": {
@@ -1925,6 +2466,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-python001-dev__manus--ai": {
+"id": "repo-python001-dev__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "python001-dev/manus--ai",
+"url": "https://github.com/python001-dev/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-quyetcao__ai-manus": {
 "id": "repo-quyetcao__ai-manus",
 "source": "github",
@@ -1951,6 +2518,84 @@
 "license": "Apache-2.0"
 }
 },
+"repo-qweqeqeqweqeqwe__ai--manus": {
+"id": "repo-qweqeqeqweqeqwe__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "qweqeqeqweqeqwe/ai--manus",
+"url": "https://github.com/qweqeqeqweqeqwe/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-qweqeqeqweqeqwe__manus--ai": {
+"id": "repo-qweqeqeqweqeqwe__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "qweqeqeqweqeqwe/manus--ai",
+"url": "https://github.com/qweqeqeqweqeqwe/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-rambotronado112-sudo__manus--ai": {
+"id": "repo-rambotronado112-sudo__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "rambotronado112-sudo/manus--ai",
+"url": "https://github.com/rambotronado112-sudo/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-reason-machines__aspen": {
 "id": "repo-reason-machines__aspen",
 "source": "github",
@@ -1959,7 +2604,7 @@
 "url": "https://github.com/reason-machines/aspen",
 "date": "2026-11-05",
 "summary": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
-"score": 121,
+"score": 126,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -2020,6 +2665,84 @@
 "text-to-video-generation"
 ],
 "license": "MIT"
+}
+},
+"repo-sofixleon-arch__ai--manus": {
+"id": "repo-sofixleon-arch__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "sofixleon-arch/ai--manus",
+"url": "https://github.com/sofixleon-arch/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-stancaedy10-glitch__ai--manus": {
+"id": "repo-stancaedy10-glitch__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "stancaedy10-glitch/ai--manus",
+"url": "https://github.com/stancaedy10-glitch/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-stancaedy10-glitch__manus--ai": {
+"id": "repo-stancaedy10-glitch__manus--ai",
+"source": "github",
+"kind": "repo",
+"title": "stancaedy10-glitch/manus--ai",
+"url": "https://github.com/stancaedy10-glitch/manus--ai",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-thecoderrrer__ai-manus": {
@@ -2160,7 +2883,7 @@
 "url": "https://github.com/varops/actp",
 "date": "2026-11-09",
 "summary": "Agent Communication Transport Protocol (ACP over HTTP)",
-"score": 52,
+"score": 89,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -2208,7 +2931,7 @@
 "url": "https://github.com/voyager-so/vork",
 "date": "2026-11-05",
 "summary": "Headless 3D and VFX engine for agents. Research preview.",
-"score": 1495,
+"score": 1518,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -2234,7 +2957,7 @@
 "url": "https://github.com/weixijia/mas-office",
 "date": "2026-11-06",
 "summary": "See your multi-agent system work: a framework-agnostic protocol and live, animated office for AI agent teams.",
-"score": 65,
+"score": 75,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2286,7 +3009,7 @@
 "url": "https://github.com/zaxiu88888/issue-rag",
 "date": "2026-11-01",
 "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-"score": 338,
+"score": 388,
 "extra": {
 "lang": "Python",
 "topics": [
