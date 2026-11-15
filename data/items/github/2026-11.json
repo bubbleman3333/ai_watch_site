@@ -7,7 +7,7 @@
 "url": "https://github.com/21stware/bowel",
 "date": "2026-11-07",
 "summary": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-"score": 480,
+"score": 497,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -32,7 +32,7 @@
 "url": "https://github.com/8hjkkwikl8/ai-portfolio",
 "date": "2026-11-11",
 "summary": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
-"score": 100,
+"score": 101,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -152,6 +152,84 @@
 "license": "Apache-2.0"
 }
 },
+"repo-AdvisorShake__ai--manus": {
+"id": "repo-AdvisorShake__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "AdvisorShake/ai--manus",
+"url": "https://github.com/AdvisorShake/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-AgentLobster__ai--manus": {
+"id": "repo-AgentLobster__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "AgentLobster/ai--manus",
+"url": "https://github.com/AgentLobster/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-ArcticPrawnEmporium__ai--manus": {
+"id": "repo-ArcticPrawnEmporium__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "ArcticPrawnEmporium/ai--manus",
+"url": "https://github.com/ArcticPrawnEmporium/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-Balanov__latch": {
 "id": "repo-Balanov__latch",
 "source": "github",
@@ -164,7 +242,42 @@
 "extra": {
 "lang": "JavaScript",
 "topics": [
-"agents"
+"agent-protocol",
+"agents",
+"api",
+"approval",
+"cli",
+"contract",
+"http",
+"javascript",
+"mcp",
+"protocol"
+],
+"license": "MIT"
+}
+},
+"repo-Balanov__shim": {
+"id": "repo-Balanov__shim",
+"source": "github",
+"kind": "repo",
+"title": "Balanov/shim",
+"url": "https://github.com/Balanov/shim",
+"date": "2026-11-02",
+"summary": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+"score": 192,
+"extra": {
+"lang": "Go",
+"topics": [
+"agent-skills",
+"agents",
+"ai",
+"cli",
+"developer-tools",
+"go",
+"harness",
+"llm",
+"local-first",
+"mcp"
 ],
 "license": "MIT"
 }
@@ -192,6 +305,58 @@
 "license": "MIT"
 }
 },
+"repo-Balanov__verdict": {
+"id": "repo-Balanov__verdict",
+"source": "github",
+"kind": "repo",
+"title": "Balanov/verdict",
+"url": "https://github.com/Balanov/verdict",
+"date": "2026-11-02",
+"summary": "A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.",
+"score": 94,
+"extra": {
+"lang": "Python",
+"topics": [
+"agent-security",
+"agents",
+"audit",
+"cli",
+"evaluation",
+"llm",
+"local-first",
+"policy",
+"python",
+"security"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-BarrierCenter__ai--manus": {
+"id": "repo-BarrierCenter__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "BarrierCenter/ai--manus",
+"url": "https://github.com/BarrierCenter/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-BesideRaelwave39799__ai--manus": {
 "id": "repo-BesideRaelwave39799__ai--manus",
 "source": "github",
@@ -201,6 +366,58 @@
 "date": "2026-11-07",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
 "score": 92,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-BrickMosquito__ai--manus": {
+"id": "repo-BrickMosquito__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "BrickMosquito/ai--manus",
+"url": "https://github.com/BrickMosquito/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-ClampOverlord46__ai--manus": {
+"id": "repo-ClampOverlord46__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "ClampOverlord46/ai--manus",
+"url": "https://github.com/ClampOverlord46/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
 "extra": {
 "lang": "",
 "topics": [
@@ -252,7 +469,7 @@
 "url": "https://github.com/DIYgod/pinky",
 "date": "2026-11-06",
 "summary": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-"score": 2078,
+"score": 2149,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -324,7 +541,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 596,
+"score": 611,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -372,7 +589,7 @@
 "url": "https://github.com/Dwarfnode35715/Anilist_monitor_resp",
 "date": "2026-11-09",
 "summary": "A desktop-native Windows system tray Telegram bot that monitors AniList for new anime announcements and releases with network auto-recovery, single-instance protection, and zero-spam baseline caching…",
-"score": 50,
+"score": 81,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -386,6 +603,32 @@
 "intellij-idea-ai",
 "notifier",
 "object-detection"
+],
+"license": ""
+}
+},
+"repo-ElysiumduskImmortal63439__resp-warden-desk": {
+"id": "repo-ElysiumduskImmortal63439__resp-warden-desk",
+"source": "github",
+"kind": "repo",
+"title": "ElysiumduskImmortal63439/resp-warden-desk",
+"url": "https://github.com/ElysiumduskImmortal63439/resp-warden-desk",
+"date": "2026-11-14",
+"summary": "An eight-agent rule engine for on-chain risk analysis. Seven rules propose, one vetoes. Read-only, no keys, no execution.",
+"score": 50,
+"extra": {
+"lang": "HTML",
+"topics": [
+"account-abstraction",
+"agent-framework",
+"agents",
+"aomi",
+"blockchain-gaming",
+"blockchain-monitoring",
+"codex-cli",
+"dead-stays-dead",
+"multi-agent",
+"not-a-minecraft-server"
 ],
 "license": ""
 }
@@ -424,7 +667,7 @@
 "url": "https://github.com/FrigadeHQ/yogurt",
 "date": "2026-11-10",
 "summary": "Private AI meeting notes. Free and open source.",
-"score": 1266,
+"score": 1486,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -468,6 +711,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-GryphonEmpress__ai--manus": {
+"id": "repo-GryphonEmpress__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "GryphonEmpress/ai--manus",
+"url": "https://github.com/GryphonEmpress/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-HimanshuMohanty-Git24__gitaviswa": {
 "id": "repo-HimanshuMohanty-Git24__gitaviswa",
 "source": "github",
@@ -476,7 +745,7 @@
 "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
 "date": "2026-11-04",
 "summary": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free…",
-"score": 104,
+"score": 106,
 "extra": {
 "lang": "Cypher",
 "topics": [
@@ -492,6 +761,32 @@
 "threejs"
 ],
 "license": "MIT"
+}
+},
+"repo-HurricaneMonarchDart__ai--manus": {
+"id": "repo-HurricaneMonarchDart__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "HurricaneMonarchDart/ai--manus",
+"url": "https://github.com/HurricaneMonarchDart/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-ITprogamatikDedSec__ai--manus": {
@@ -550,7 +845,7 @@
 "url": "https://github.com/JosssphZhou/poki",
 "date": "2026-11-05",
 "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-"score": 1089,
+"score": 1254,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -598,7 +893,7 @@
 "url": "https://github.com/KKKKhazix/agent-autoloop",
 "date": "2026-11-03",
 "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-"score": 5125,
+"score": 5335,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -694,6 +989,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-Lowbydemodulator__ai--manus": {
+"id": "repo-Lowbydemodulator__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "Lowbydemodulator/ai--manus",
+"url": "https://github.com/Lowbydemodulator/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-LumiVikinggard89137__ai--manus": {
 "id": "repo-LumiVikinggard89137__ai--manus",
 "source": "github",
@@ -728,7 +1049,7 @@
 "url": "https://github.com/Marcian15350/mt5-tradeprotocol",
 "date": "2026-11-06",
 "summary": "",
-"score": 1104,
+"score": 1105,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1036,7 +1357,7 @@
 "url": "https://github.com/SAOS-3624/dsh-see-now",
 "date": "2026-11-01",
 "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-"score": 626,
+"score": 645,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1061,7 +1382,7 @@
 "url": "https://github.com/Sandflow-ai/sand3d",
 "date": "2026-11-03",
 "summary": "3D modeling in Python, built for LLMs.",
-"score": 1960,
+"score": 1997,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1179,6 +1500,84 @@
 "license": "Apache-2.0"
 }
 },
+"repo-TarantulaCorrect__GitHub-Copilot-app": {
+"id": "repo-TarantulaCorrect__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "TarantulaCorrect/GitHub-Copilot-app",
+"url": "https://github.com/TarantulaCorrect/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 659,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TealAgentRevive__ai--manus": {
+"id": "repo-TealAgentRevive__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "TealAgentRevive/ai--manus",
+"url": "https://github.com/TealAgentRevive/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Tealplesense__GitHub-Copilot-app": {
+"id": "repo-Tealplesense__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "Tealplesense/GitHub-Copilot-app",
+"url": "https://github.com/Tealplesense/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 663,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-Teolimaof__ai-manus": {
 "id": "repo-Teolimaof__ai-manus",
 "source": "github",
@@ -1190,6 +1589,110 @@
 "score": 52,
 "extra": {
 "lang": "Python",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TitanShieldRavine__ai--manus2.0": {
+"id": "repo-TitanShieldRavine__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "TitanShieldRavine/ai--manus2.0",
+"url": "https://github.com/TitanShieldRavine/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 659,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Tonephorepair__ai--manus2.0": {
+"id": "repo-Tonephorepair__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "Tonephorepair/ai--manus2.0",
+"url": "https://github.com/Tonephorepair/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 650,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Topkiflare74__ai--manus2.0": {
+"id": "repo-Topkiflare74__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "Topkiflare74/ai--manus2.0",
+"url": "https://github.com/Topkiflare74/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 677,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Torusdrasocket__ai--manus2.0": {
+"id": "repo-Torusdrasocket__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "Torusdrasocket/ai--manus2.0",
+"url": "https://github.com/Torusdrasocket/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 653,
+"extra": {
+"lang": "",
 "topics": [
 "ai",
 "ai-agents",
@@ -1224,6 +1727,266 @@
 "survey"
 ],
 "license": "MIT"
+}
+},
+"repo-TradesmanRecord__GitHub-Copilot-app": {
+"id": "repo-TradesmanRecord__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "TradesmanRecord/GitHub-Copilot-app",
+"url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 665,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TrapAccountant__GitHub-Copilot-app": {
+"id": "repo-TrapAccountant__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "TrapAccountant/GitHub-Copilot-app",
+"url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 670,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TrapBladesmith__GitHub-Copilot-app": {
+"id": "repo-TrapBladesmith__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "TrapBladesmith/GitHub-Copilot-app",
+"url": "https://github.com/TrapBladesmith/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 664,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TrapBladesmith__ai--manus2.0": {
+"id": "repo-TrapBladesmith__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "TrapBladesmith/ai--manus2.0",
+"url": "https://github.com/TrapBladesmith/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 653,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Trapkrostride__GitHub-Copilot-app": {
+"id": "repo-Trapkrostride__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "Trapkrostride/GitHub-Copilot-app",
+"url": "https://github.com/Trapkrostride/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 660,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TremorRatTackle__ai--manus2.0": {
+"id": "repo-TremorRatTackle__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "TremorRatTackle/ai--manus2.0",
+"url": "https://github.com/TremorRatTackle/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 652,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TrueDefenderRouter__GitHub-Copilot-app": {
+"id": "repo-TrueDefenderRouter__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "TrueDefenderRouter/GitHub-Copilot-app",
+"url": "https://github.com/TrueDefenderRouter/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 660,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TurkeyDesignate__GitHub-Copilot-app": {
+"id": "repo-TurkeyDesignate__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "TurkeyDesignate/GitHub-Copilot-app",
+"url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 664,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TurquoiseConsultant__GitHub-Copilot-app": {
+"id": "repo-TurquoiseConsultant__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "TurquoiseConsultant/GitHub-Copilot-app",
+"url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 664,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Ultimateakiln__ai--manus2.0": {
+"id": "repo-Ultimateakiln__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "Ultimateakiln/ai--manus2.0",
+"url": "https://github.com/Ultimateakiln/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 654,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-UncensoredLabs__uncensored-ai-api": {
@@ -1261,6 +2024,58 @@
 "date": "2026-11-13",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
 "score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WebBookkeeper__GitHub-Copilot-app": {
+"id": "repo-WebBookkeeper__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "WebBookkeeper/GitHub-Copilot-app",
+"url": "https://github.com/WebBookkeeper/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 663,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WinnerBrokerBarrow__ai--manus": {
+"id": "repo-WinnerBrokerBarrow__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "WinnerBrokerBarrow/ai--manus",
+"url": "https://github.com/WinnerBrokerBarrow/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 297,
 "extra": {
 "lang": "",
 "topics": [
@@ -1338,7 +2153,7 @@
 "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
 "date": "2026-11-10",
 "summary": "A curated list of papers for AI in Astronomy & Astrophysics.",
-"score": 158,
+"score": 185,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1459,7 +2274,7 @@
 "url": "https://github.com/adventists-ai/sophon-realtime",
 "date": "2026-11-04",
 "summary": "Sophon-Realtime v1: open full-duplex voice models that hear your tone and speak with one. Tag and Flash run on one GPU with vLLM-Omni; E2E in preview.",
-"score": 313,
+"score": 326,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1511,7 +2326,7 @@
 "url": "https://github.com/agentes-chat/agentes-chat",
 "date": "2026-11-09",
 "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and…",
-"score": 1342,
+"score": 1400,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1537,7 +2352,7 @@
 "url": "https://github.com/alexeyw/lot-map",
 "date": "2026-11-09",
 "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
-"score": 734,
+"score": 831,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1606,6 +2421,58 @@
 "license": "Apache-2.0"
 }
 },
+"repo-armsworminterface__ai--manus": {
+"id": "repo-armsworminterface__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "armsworminterface/ai--manus",
+"url": "https://github.com/armsworminterface/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 297,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-assassinswandemolish__ai--manus": {
+"id": "repo-assassinswandemolish__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "assassinswandemolish/ai--manus",
+"url": "https://github.com/assassinswandemolish/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-blixvip__BlendClone": {
 "id": "repo-blixvip__BlendClone",
 "source": "github",
@@ -1640,7 +2507,7 @@
 "url": "https://github.com/bytedance/axion1_0",
 "date": "2026-11-02",
 "summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-"score": 74,
+"score": 79,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1656,6 +2523,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-ceilingthunderretort__ai--manus": {
+"id": "repo-ceilingthunderretort__ai--manus",
+"source": "github",
+"kind": "repo",
+"title": "ceilingthunderretort/ai--manus",
+"url": "https://github.com/ceilingthunderretort/ai--manus",
+"date": "2026-11-13",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 296,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-dabingfy-dot__solo-to-team-skills": {
 "id": "repo-dabingfy-dot__solo-to-team-skills",
 "source": "github",
@@ -1664,7 +2557,7 @@
 "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
 "date": "2026-11-07",
 "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-"score": 844,
+"score": 879,
 "extra": {
 "lang": "",
 "topics": [
@@ -1711,7 +2604,7 @@
 "url": "https://github.com/didilili/mianstack",
 "date": "2026-11-02",
 "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-"score": 186,
+"score": 189,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1789,7 +2682,7 @@
 "url": "https://github.com/expo/exact",
 "date": "2026-11-02",
 "summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-"score": 4007,
+"score": 4182,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -1915,7 +2808,7 @@
 "url": "https://github.com/hyperionaidev/smolmaxxing",
 "date": "2026-11-04",
 "summary": "maxxing the ability to run different LLMs on the smallest devices possible",
-"score": 638,
+"score": 698,
 "extra": {
 "lang": "C",
 "topics": [
@@ -2090,7 +2983,7 @@
 "url": "https://github.com/kubai087/kubai-icons",
 "date": "2026-11-03",
 "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse t…",
-"score": 815,
+"score": 828,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2392,6 +3285,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-orderesworks42213__crypto-rpocket-accumulation-scanner": {
+"id": "repo-orderesworks42213__crypto-rpocket-accumulation-scanner",
+"source": "github",
+"kind": "repo",
+"title": "orderesworks42213/crypto-rpocket-accumulation-scanner",
+"url": "https://github.com/orderesworks42213/crypto-rpocket-accumulation-scanner",
+"date": "2026-11-14",
+"summary": "Python crypto scanner: finds coins in quiet accumulation, back tested on 961 samples, rebuilt from the evidence, automated with Telegram alerts.",
+"score": 50,
+"extra": {
+"lang": "HTML",
+"topics": [
+"asyncio",
+"ats",
+"booking-system",
+"conversational-ai",
+"cryptocurrency",
+"data-analysis",
+"multi-agent-systems",
+"pandas",
+"pgvector",
+"rag"
+],
+"license": ""
+}
+},
 "repo-osarhiemenaiyevbosa-cloud__ai-manus": {
 "id": "repo-osarhiemenaiyevbosa-cloud__ai-manus",
 "source": "github",
@@ -2604,7 +3523,7 @@
 "url": "https://github.com/reason-machines/aspen",
 "date": "2026-11-05",
 "summary": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
-"score": 126,
+"score": 129,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -2626,7 +3545,7 @@
 "url": "https://github.com/shanselman/sandbox-mcp",
 "date": "2026-11-06",
 "summary": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-"score": 421,
+"score": 432,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2728,6 +3647,32 @@
 "date": "2026-11-13",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
 "score": 146,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-taboospecialistblade__ai--manus2.0": {
+"id": "repo-taboospecialistblade__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "taboospecialistblade/ai--manus2.0",
+"url": "https://github.com/taboospecialistblade/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 651,
 "extra": {
 "lang": "",
 "topics": [
@@ -2875,6 +3820,292 @@
 "license": "Apache-2.0"
 }
 },
+"repo-topapothecarycanal__ai--manus2.0": {
+"id": "repo-topapothecarycanal__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "topapothecarycanal/ai--manus2.0",
+"url": "https://github.com/topapothecarycanal/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 666,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-topconstableinlet67__GitHub-Copilot-app": {
+"id": "repo-topconstableinlet67__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "topconstableinlet67/GitHub-Copilot-app",
+"url": "https://github.com/topconstableinlet67/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 661,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-topconstableinlet67__ai--manus2.0": {
+"id": "repo-topconstableinlet67__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "topconstableinlet67/ai--manus2.0",
+"url": "https://github.com/topconstableinlet67/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 663,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-toppatronweave__GitHub-Copilot-app": {
+"id": "repo-toppatronweave__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "toppatronweave/GitHub-Copilot-app",
+"url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 665,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-toppatronweave__ai--manus2.0": {
+"id": "repo-toppatronweave__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "toppatronweave/ai--manus2.0",
+"url": "https://github.com/toppatronweave/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 665,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-tornadonovicewhirl40__ai--manus2.0": {
+"id": "repo-tornadonovicewhirl40__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "tornadonovicewhirl40/ai--manus2.0",
+"url": "https://github.com/tornadonovicewhirl40/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 659,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-trackboatwrightplan__GitHub-Copilot-app": {
+"id": "repo-trackboatwrightplan__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "trackboatwrightplan/GitHub-Copilot-app",
+"url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 672,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-trackboatwrightplan__ai--manus2.0": {
+"id": "repo-trackboatwrightplan__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "trackboatwrightplan/ai--manus2.0",
+"url": "https://github.com/trackboatwrightplan/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 649,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-trackersnailgrip__GitHub-Copilot-app": {
+"id": "repo-trackersnailgrip__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "trackersnailgrip/GitHub-Copilot-app",
+"url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 666,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-trackersnailgrip__ai--manus2.0": {
+"id": "repo-trackersnailgrip__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "trackersnailgrip/ai--manus2.0",
+"url": "https://github.com/trackersnailgrip/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 654,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-unitsenseimonitor__GitHub-Copilot-app": {
+"id": "repo-unitsenseimonitor__GitHub-Copilot-app",
+"source": "github",
+"kind": "repo",
+"title": "unitsenseimonitor/GitHub-Copilot-app",
+"url": "https://github.com/unitsenseimonitor/GitHub-Copilot-app",
+"date": "2026-11-14",
+"summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
+"score": 661,
+"extra": {
+"lang": "",
+"topics": [
+"adminlte",
+"agent-skills",
+"ai",
+"awesome",
+"chatgpt",
+"copilot",
+"github-copilot",
+"hacktoberfest",
+"microsoft-copilot",
+"openai"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-varops__actp": {
 "id": "repo-varops__actp",
 "source": "github",
@@ -2883,7 +4114,7 @@
 "url": "https://github.com/varops/actp",
 "date": "2026-11-09",
 "summary": "Agent Communication Transport Protocol (ACP over HTTP)",
-"score": 89,
+"score": 91,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -2923,6 +4154,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-violetkomodolimit__ai--manus2.0": {
+"id": "repo-violetkomodolimit__ai--manus2.0",
+"source": "github",
+"kind": "repo",
+"title": "violetkomodolimit/ai--manus2.0",
+"url": "https://github.com/violetkomodolimit/ai--manus2.0",
+"date": "2026-11-14",
+"summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"score": 651,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-agents",
+"ai-sdk",
+"anthropic",
+"chatbot",
+"function-calling",
+"gemeni",
+"generative-ai",
+"llm",
+"multimodal"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-voyager-so__vork": {
 "id": "repo-voyager-so__vork",
 "source": "github",
@@ -2931,7 +4188,7 @@
 "url": "https://github.com/voyager-so/vork",
 "date": "2026-11-05",
 "summary": "Headless 3D and VFX engine for agents. Research preview.",
-"score": 1518,
+"score": 1570,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3009,7 +4266,7 @@
 "url": "https://github.com/zaxiu88888/issue-rag",
 "date": "2026-11-01",
 "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-"score": 388,
+"score": 429,
 "extra": {
 "lang": "Python",
 "topics": [
