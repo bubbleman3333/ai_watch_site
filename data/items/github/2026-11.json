@@ -7,7 +7,7 @@
 "url": "https://github.com/21stware/bowel",
 "date": "2026-11-07",
 "summary": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-"score": 497,
+"score": 508,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -32,7 +32,7 @@
 "url": "https://github.com/8hjkkwikl8/ai-portfolio",
 "date": "2026-11-11",
 "summary": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
-"score": 101,
+"score": 105,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -469,7 +469,7 @@
 "url": "https://github.com/DIYgod/pinky",
 "date": "2026-11-06",
 "summary": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-"score": 2149,
+"score": 2214,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -515,7 +515,7 @@
 "url": "https://github.com/Dodaios/ste80-humanizer",
 "date": "2026-11-09",
 "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-"score": 490,
+"score": 693,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -541,7 +541,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 611,
+"score": 616,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -551,6 +551,32 @@
 "bot",
 "json",
 "svg"
+],
+"license": "MIT"
+}
+},
+"repo-Doug-218__blender-ai-copilot-forge": {
+"id": "repo-Doug-218__blender-ai-copilot-forge",
+"source": "github",
+"kind": "repo",
+"title": "Doug-218/blender-ai-copilot-forge",
+"url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+"date": "2026-11-12",
+"summary": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP serv…",
+"score": 508,
+"extra": {
+"lang": "",
+"topics": [
+"3d-automation",
+"3d-modeling",
+"blender",
+"blender-addon",
+"blender-agents",
+"blender-ai",
+"blender-assistant",
+"blender-automation",
+"blender-chatgpt",
+"blender-copilot"
 ],
 "license": "MIT"
 }
@@ -589,7 +615,7 @@
 "url": "https://github.com/Dwarfnode35715/Anilist_monitor_resp",
 "date": "2026-11-09",
 "summary": "A desktop-native Windows system tray Telegram bot that monitors AniList for new anime announcements and releases with network auto-recovery, single-instance protection, and zero-spam baseline caching…",
-"score": 81,
+"score": 80,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -667,7 +693,7 @@
 "url": "https://github.com/FrigadeHQ/yogurt",
 "date": "2026-11-10",
 "summary": "Private AI meeting notes. Free and open source.",
-"score": 1486,
+"score": 1644,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -745,7 +771,7 @@
 "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
 "date": "2026-11-04",
 "summary": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free…",
-"score": 106,
+"score": 111,
 "extra": {
 "lang": "Cypher",
 "topics": [
@@ -845,7 +871,7 @@
 "url": "https://github.com/JosssphZhou/poki",
 "date": "2026-11-05",
 "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-"score": 1254,
+"score": 1350,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -893,7 +919,7 @@
 "url": "https://github.com/KKKKhazix/agent-autoloop",
 "date": "2026-11-03",
 "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-"score": 5335,
+"score": 5497,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1357,7 +1383,7 @@
 "url": "https://github.com/SAOS-3624/dsh-see-now",
 "date": "2026-11-01",
 "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-"score": 645,
+"score": 661,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1382,7 +1408,7 @@
 "url": "https://github.com/Sandflow-ai/sand3d",
 "date": "2026-11-03",
 "summary": "3D modeling in Python, built for LLMs.",
-"score": 1997,
+"score": 2037,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1482,7 +1508,7 @@
 "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
 "date": "2026-11-04",
 "summary": "Can AI agents rebuild websites through browser exploration?",
-"score": 339,
+"score": 420,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1602,6 +1628,32 @@
 "multimodal"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-Timaga__noda-local-ai-notes": {
+"id": "repo-Timaga__noda-local-ai-notes",
+"source": "github",
+"kind": "repo",
+"title": "Timaga/noda-local-ai-notes",
+"url": "https://github.com/Timaga/noda-local-ai-notes",
+"date": "2026-11-13",
+"summary": "Local-first AI note-taking app for Windows: Markdown notes, a personal knowledge base, knowledge graph, semantic search and chat with cited sources.",
+"score": 104,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"ai-notes",
+"desktop-app",
+"electron",
+"gguf",
+"knowledge-base",
+"knowledge-graph",
+"knowledge-management",
+"local-ai",
+"local-first",
+"markdown"
+],
+"license": "NOASSERTION"
 }
 },
 "repo-TitanShieldRavine__ai--manus2.0": {
@@ -1885,6 +1937,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-TrooperFilter__Gemini-Config-Checker-": {
+"id": "repo-TrooperFilter__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "TrooperFilter/Gemini-Config-Checker-",
+"url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-TrueDefenderRouter__GitHub-Copilot-app": {
 "id": "repo-TrueDefenderRouter__GitHub-Copilot-app",
 "source": "github",
@@ -1963,6 +2041,58 @@
 "license": "Apache-2.0"
 }
 },
+"repo-TurtleReside__Gemini-Config-Checker-": {
+"id": "repo-TurtleReside__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "TurtleReside/Gemini-Config-Checker-",
+"url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-TypeTyrantScheme__Gemini-Config-Checker-": {
+"id": "repo-TypeTyrantScheme__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "TypeTyrantScheme/Gemini-Config-Checker-",
+"url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-Ultimateakiln__ai--manus2.0": {
 "id": "repo-Ultimateakiln__ai--manus2.0",
 "source": "github",
@@ -1971,7 +2101,7 @@
 "url": "https://github.com/Ultimateakiln/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 654,
+"score": 371,
 "extra": {
 "lang": "",
 "topics": [
@@ -2015,6 +2145,110 @@
 "license": "MIT"
 }
 },
+"repo-Violetnyudress__Gemini-Config-Checker-": {
+"id": "repo-Violetnyudress__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "Violetnyudress/Gemini-Config-Checker-",
+"url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-VisionWormStudio__Gemini-Config-Checker-": {
+"id": "repo-VisionWormStudio__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "VisionWormStudio/Gemini-Config-Checker-",
+"url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Visionbeyondtrack__Gemini-Config-Checker-": {
+"id": "repo-Visionbeyondtrack__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "Visionbeyondtrack/Gemini-Config-Checker-",
+"url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-VortexHostFeel__Gemini-Config-Checker-": {
+"id": "repo-VortexHostFeel__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "VortexHostFeel/Gemini-Config-Checker-",
+"url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-WLfear__manus--ai": {
 "id": "repo-WLfear__manus--ai",
 "source": "github",
@@ -2037,6 +2271,32 @@
 "generative-ai",
 "llm",
 "multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-Watchlespeed__Gemini-Config-Checker-": {
+"id": "repo-Watchlespeed__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "Watchlespeed/Gemini-Config-Checker-",
+"url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
 ],
 "license": "Apache-2.0"
 }
@@ -2067,6 +2327,162 @@
 "license": "Apache-2.0"
 }
 },
+"repo-WerewolfEmuHub__Gemini-Config-Checker-": {
+"id": "repo-WerewolfEmuHub__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WerewolfEmuHub/Gemini-Config-Checker-",
+"url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WestLocksmithSpout__Gemini-Config-Checker-": {
+"id": "repo-WestLocksmithSpout__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WestLocksmithSpout/Gemini-Config-Checker-",
+"url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WharfBoulderColander__Gemini-Config-Checker-": {
+"id": "repo-WharfBoulderColander__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WharfBoulderColander/Gemini-Config-Checker-",
+"url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WindGatorRise37__Gemini-Config-Checker-": {
+"id": "repo-WindGatorRise37__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WindGatorRise37/Gemini-Config-Checker-",
+"url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WindowStaffGate11__Gemini-Config-Checker-": {
+"id": "repo-WindowStaffGate11__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WindowStaffGate11/Gemini-Config-Checker-",
+"url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WingDataVacuum__Gemini-Config-Checker-": {
+"id": "repo-WingDataVacuum__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WingDataVacuum/Gemini-Config-Checker-",
+"url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-WinnerBrokerBarrow__ai--manus": {
 "id": "repo-WinnerBrokerBarrow__ai--manus",
 "source": "github",
@@ -2089,6 +2505,84 @@
 "generative-ai",
 "llm",
 "multimodal"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WinnerSpecialist__Gemini-Config-Checker-": {
+"id": "repo-WinnerSpecialist__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WinnerSpecialist/Gemini-Config-Checker-",
+"url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WireProvostPucker__Gemini-Config-Checker-": {
+"id": "repo-WireProvostPucker__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WireProvostPucker/Gemini-Config-Checker-",
+"url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-WyrmClimberManacle__Gemini-Config-Checker-": {
+"id": "repo-WyrmClimberManacle__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "WyrmClimberManacle/Gemini-Config-Checker-",
+"url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
 ],
 "license": "Apache-2.0"
 }
@@ -2153,7 +2647,7 @@
 "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
 "date": "2026-11-10",
 "summary": "A curated list of papers for AI in Astronomy & Astrophysics.",
-"score": 185,
+"score": 244,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2179,7 +2673,7 @@
 "url": "https://github.com/YT-Proteus-bot/MineAgent",
 "date": "2026-11-05",
 "summary": "agent定制自由化，agent流程可视化。在浏览器里用画布搭出工业级 Agent 流程，选框架自动生成架构图， 拖节点、连线、写代码、配模型，点「保存」就把整张画布编译成一个可独立运行的 Python Agent 项目， 点「运行」直接在你的机器上真实执行并流式回传每一步。欢迎各位同行二次开发，如有商用请说明出处。",
-"score": 173,
+"score": 174,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2187,6 +2681,32 @@
 "agentic-ai",
 "agentic-workflow",
 "agents"
+],
+"license": "Apache-2.0"
+}
+},
+"repo-YellowLaborerMarket__Gemini-Config-Checker-": {
+"id": "repo-YellowLaborerMarket__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "YellowLaborerMarket/Gemini-Config-Checker-",
+"url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
 ],
 "license": "Apache-2.0"
 }
@@ -2274,20 +2794,20 @@
 "url": "https://github.com/adventists-ai/sophon-realtime",
 "date": "2026-11-04",
 "summary": "Sophon-Realtime v1: open full-duplex voice models that hear your tone and speak with one. Tag and Flash run on one GPU with vLLM-Omni; E2E in preview.",
-"score": 326,
+"score": 378,
 "extra": {
 "lang": "Python",
 "topics": [
+"apple-silicon",
 "full-duplex",
 "livekit",
+"macos",
+"mlx",
+"offline",
 "open-source",
 "openai-realtime",
 "paralinguistics",
-"pipecat",
-"realtime",
-"speech",
-"speech-to-speech",
-"tts"
+"pipecat"
 ],
 "license": "Apache-2.0"
 }
@@ -2326,7 +2846,7 @@
 "url": "https://github.com/agentes-chat/agentes-chat",
 "date": "2026-11-09",
 "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and…",
-"score": 1400,
+"score": 1509,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2352,7 +2872,7 @@
 "url": "https://github.com/alexeyw/lot-map",
 "date": "2026-11-09",
 "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
-"score": 831,
+"score": 889,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2365,6 +2885,32 @@
 "svg-animation",
 "typescript",
 "visualization"
+],
+"license": "MIT"
+}
+},
+"repo-alicebrown323__pro-tools-desktop": {
+"id": "repo-alicebrown323__pro-tools-desktop",
+"source": "github",
+"kind": "repo",
+"title": "alicebrown323/pro-tools-desktop",
+"url": "https://github.com/alicebrown323/pro-tools-desktop",
+"date": "2026-11-14",
+"summary": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
+"score": 353,
+"extra": {
+"lang": "C++",
+"topics": [
+"ai-generation-tools",
+"ai-tools",
+"architecture",
+"command-line-tool",
+"developer-tools",
+"font",
+"hackingtools",
+"large-language-models",
+"leonardo-ai-tools",
+"network-tools"
 ],
 "license": "MIT"
 }
@@ -2481,7 +3027,7 @@
 "url": "https://github.com/blixvip/BlendClone",
 "date": "2026-11-05",
 "summary": "Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend export.",
-"score": 65,
+"score": 66,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2549,6 +3095,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-credoksopho1984__blender-ai-copilot-studio": {
+"id": "repo-credoksopho1984__blender-ai-copilot-studio",
+"source": "github",
+"kind": "repo",
+"title": "credoksopho1984/blender-ai-copilot-studio",
+"url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+"date": "2026-11-12",
+"summary": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene too…",
+"score": 513,
+"extra": {
+"lang": "",
+"topics": [
+"3d-automation",
+"3d-modeling",
+"blender",
+"blender-addon",
+"blender-agents",
+"blender-ai",
+"blender-assistant",
+"blender-automation",
+"blender-chatgpt",
+"blender-copilot"
+],
+"license": "MIT"
+}
+},
 "repo-dabingfy-dot__solo-to-team-skills": {
 "id": "repo-dabingfy-dot__solo-to-team-skills",
 "source": "github",
@@ -2557,9 +3129,9 @@
 "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
 "date": "2026-11-07",
 "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-"score": 879,
+"score": 913,
 "extra": {
-"lang": "",
+"lang": "HTML",
 "topics": [
 "agent-skills",
 "ai-agents",
@@ -2604,7 +3176,7 @@
 "url": "https://github.com/didilili/mianstack",
 "date": "2026-11-02",
 "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-"score": 189,
+"score": 192,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2674,6 +3246,32 @@
 "license": ""
 }
 },
+"repo-erkamyaman__unslopovich": {
+"id": "repo-erkamyaman__unslopovich",
+"source": "github",
+"kind": "repo",
+"title": "erkamyaman/unslopovich",
+"url": "https://github.com/erkamyaman/unslopovich",
+"date": "2026-11-09",
+"summary": "Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites.",
+"score": 126,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"accessibility",
+"agent-skills",
+"agent-skills-tools",
+"agents",
+"agentskills",
+"ai-slop",
+"claude",
+"claude-code",
+"claude-skills",
+"expo"
+],
+"license": "MIT"
+}
+},
 "repo-expo__exact": {
 "id": "repo-expo__exact",
 "source": "github",
@@ -2682,7 +3280,7 @@
 "url": "https://github.com/expo/exact",
 "date": "2026-11-02",
 "summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-"score": 4182,
+"score": 4312,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -2774,6 +3372,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-hitkeeen__blender-ai-mcp-addon": {
+"id": "repo-hitkeeen__blender-ai-mcp-addon",
+"source": "github",
+"kind": "repo",
+"title": "hitkeeen/blender-ai-mcp-addon",
+"url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+"date": "2026-11-12",
+"summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python script…",
+"score": 1093,
+"extra": {
+"lang": "",
+"topics": [
+"ai-agents",
+"ai-assistant",
+"blender",
+"blender-addon",
+"blender-ai",
+"blender-automation",
+"blender-mcp",
+"blender-plugin",
+"blender-scripting",
+"bpy"
+],
+"license": "MIT"
+}
+},
 "repo-hussein1labtop-jpg__ai-manus": {
 "id": "repo-hussein1labtop-jpg__ai-manus",
 "source": "github",
@@ -2808,7 +3432,7 @@
 "url": "https://github.com/hyperionaidev/smolmaxxing",
 "date": "2026-11-04",
 "summary": "maxxing the ability to run different LLMs on the smallest devices possible",
-"score": 698,
+"score": 745,
 "extra": {
 "lang": "C",
 "topics": [
@@ -2905,7 +3529,7 @@
 "url": "https://github.com/johnpsasser/lifeboat",
 "date": "2026-11-03",
 "summary": "Offline emergency assistant: a local LLM and a 200 GB offline library on one Mac, with cited answers and no internet.",
-"score": 43,
+"score": 44,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2983,7 +3607,7 @@
 "url": "https://github.com/kubai087/kubai-icons",
 "date": "2026-11-03",
 "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse t…",
-"score": 828,
+"score": 876,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3009,7 +3633,7 @@
 "url": "https://github.com/liangjianshu/multimodal-image-retrieval",
 "date": "2026-11-02",
 "summary": "多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索组件学习指南。",
-"score": 129,
+"score": 128,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3191,7 +3815,7 @@
 "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
 "date": "2026-11-01",
 "summary": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
-"score": 330,
+"score": 331,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3269,7 +3893,7 @@
 "url": "https://github.com/native-bond-lab/Jev-Interaction",
 "date": "2026-11-10",
 "summary": "System-One-controlled full-duplex voice interaction: turn-taking as plain-language decisions judged by Jev.",
-"score": 35,
+"score": 42,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3489,6 +4113,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-racdeufindurch198812__Blender-AI-MCP-Studio": {
+"id": "repo-racdeufindurch198812__Blender-AI-MCP-Studio",
+"source": "github",
+"kind": "repo",
+"title": "racdeufindurch198812/Blender-AI-MCP-Studio",
+"url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+"date": "2026-11-12",
+"summary": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with…",
+"score": 511,
+"extra": {
+"lang": "",
+"topics": [
+"3d-automation",
+"3d-modeling",
+"blender",
+"blender-addon",
+"blender-agents",
+"blender-ai",
+"blender-assistant",
+"blender-automation",
+"blender-chatgpt",
+"blender-copilot"
+],
+"license": "MIT"
+}
+},
 "repo-rambotronado112-sudo__manus--ai": {
 "id": "repo-rambotronado112-sudo__manus--ai",
 "source": "github",
@@ -3523,7 +4173,7 @@
 "url": "https://github.com/reason-machines/aspen",
 "date": "2026-11-05",
 "summary": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
-"score": 129,
+"score": 131,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3672,7 +4322,7 @@
 "url": "https://github.com/taboospecialistblade/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 651,
+"score": 371,
 "extra": {
 "lang": "",
 "topics": [
@@ -3768,6 +4418,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-tiobeharxi1987__blender-ai-copilot-flow": {
+"id": "repo-tiobeharxi1987__blender-ai-copilot-flow",
+"source": "github",
+"kind": "repo",
+"title": "tiobeharxi1987/blender-ai-copilot-flow",
+"url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+"date": "2026-11-12",
+"summary": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual st…",
+"score": 510,
+"extra": {
+"lang": "",
+"topics": [
+"3d-automation",
+"3d-modeling",
+"blender",
+"blender-addon",
+"blender-agents",
+"blender-ai",
+"blender-assistant",
+"blender-automation",
+"blender-chatgpt",
+"blender-copilot"
+],
+"license": "MIT"
+}
+},
 "repo-tireddwarf99__ai_manus": {
 "id": "repo-tireddwarf99__ai_manus",
 "source": "github",
@@ -3828,7 +4504,7 @@
 "url": "https://github.com/topapothecarycanal/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 666,
+"score": 381,
 "extra": {
 "lang": "",
 "topics": [
@@ -3880,7 +4556,7 @@
 "url": "https://github.com/topconstableinlet67/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 663,
+"score": 378,
 "extra": {
 "lang": "",
 "topics": [
@@ -3932,7 +4608,7 @@
 "url": "https://github.com/toppatronweave/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 665,
+"score": 380,
 "extra": {
 "lang": "",
 "topics": [
@@ -4010,7 +4686,7 @@
 "url": "https://github.com/trackboatwrightplan/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 649,
+"score": 370,
 "extra": {
 "lang": "",
 "topics": [
@@ -4036,7 +4712,7 @@
 "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
 "date": "2026-11-14",
 "summary": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.",
-"score": 666,
+"score": 385,
 "extra": {
 "lang": "",
 "topics": [
@@ -4062,7 +4738,7 @@
 "url": "https://github.com/trackersnailgrip/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 654,
+"score": 373,
 "extra": {
 "lang": "",
 "topics": [
@@ -4114,7 +4790,7 @@
 "url": "https://github.com/varops/actp",
 "date": "2026-11-09",
 "summary": "Agent Communication Transport Protocol (ACP over HTTP)",
-"score": 91,
+"score": 94,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -4162,7 +4838,7 @@
 "url": "https://github.com/violetkomodolimit/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 651,
+"score": 375,
 "extra": {
 "lang": "",
 "topics": [
@@ -4188,7 +4864,7 @@
 "url": "https://github.com/voyager-so/vork",
 "date": "2026-11-05",
 "summary": "Headless 3D and VFX engine for agents. Research preview.",
-"score": 1570,
+"score": 1597,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4206,6 +4882,32 @@
 "license": "NOASSERTION"
 }
 },
+"repo-weightcashiercupola__Gemini-Config-Checker-": {
+"id": "repo-weightcashiercupola__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "weightcashiercupola/Gemini-Config-Checker-",
+"url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-weixijia__mas-office": {
 "id": "repo-weixijia__mas-office",
 "source": "github",
@@ -4214,7 +4916,7 @@
 "url": "https://github.com/weixijia/mas-office",
 "date": "2026-11-06",
 "summary": "See your multi-agent system work: a framework-agnostic protocol and live, animated office for AI agent teams.",
-"score": 75,
+"score": 85,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -4230,6 +4932,32 @@
 "visualization"
 ],
 "license": "MIT"
+}
+},
+"repo-weldbladesmithwharf__Gemini-Config-Checker-": {
+"id": "repo-weldbladesmithwharf__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "weldbladesmithwharf/Gemini-Config-Checker-",
+"url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Makefile",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-willsmanuel123-creator__ai-manus": {
@@ -4258,6 +4986,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-wisemeadowlarkspike__Gemini-Config-Checker-": {
+"id": "repo-wisemeadowlarkspike__Gemini-Config-Checker-",
+"source": "github",
+"kind": "repo",
+"title": "wisemeadowlarkspike/Gemini-Config-Checker-",
+"url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+"date": "2026-11-15",
+"summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+"score": 473,
+"extra": {
+"lang": "Go",
+"topics": [
+"ai",
+"ai-search",
+"aichecker",
+"chatgpt",
+"cli",
+"config-checker",
+"gemeni",
+"gemeni-checker",
+"generative-ai",
+"lim-seo"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-zaxiu88888__issue-rag": {
 "id": "repo-zaxiu88888__issue-rag",
 "source": "github",
@@ -4266,7 +5020,7 @@
 "url": "https://github.com/zaxiu88888/issue-rag",
 "date": "2026-11-01",
 "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-"score": 429,
+"score": 452,
 "extra": {
 "lang": "Python",
 "topics": [

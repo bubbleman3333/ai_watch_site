@@ -133,9 +133,9 @@
 "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
 "date": "2026-11-12",
 "summary": "AI is getting better every day. As a software engineer, this is a topic that is often top of mind,...",
-"score": 39,
+"score": 41,
 "extra": {
-"comments": 27,
+"comments": 28,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -226,6 +226,27 @@
 "ai",
 "discuss",
 "devops"
+],
+"lang": "en"
+}
+},
+"devto-4942393": {
+"id": "devto-4942393",
+"source": "community",
+"kind": "community",
+"title": "Every new model has a 1M-token context window. Do you still need retrieval?",
+"url": "https://dev.to/rakno/every-new-model-has-a-1m-token-context-window-do-you-still-need-retrieval-49k5",
+"date": "2026-11-15",
+"summary": "Look at the model releases from October alone: DeepSeek V4.1 Flash, MiniMax M3.1 Flash, Kimi K3.1...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"llm",
+"rag",
+"architecture"
 ],
 "lang": "en"
 }
@@ -2583,7 +2604,7 @@
 "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
 "date": "2026-11-09",
 "summary": "A month ago, an average web request on DEV took about 70 milliseconds inside Rails, with P99 response...",
-"score": 142,
+"score": 143,
 "extra": {
 "comments": 39,
 "publisher": "DEV Community",
@@ -2688,7 +2709,7 @@
 "url": "https://dev.to/dannwaneri/ai-code-is-unmaintainable-so-is-ours-3mek",
 "date": "2026-11-11",
 "summary": "If you’ve been in the software industry for any length of time, you’ve probably heard people talking...",
-"score": 32,
+"score": 33,
 "extra": {
 "comments": 20,
 "publisher": "DEV Community",
@@ -2897,7 +2918,7 @@
 "url": "https://dev.to/dailycontext/ask-more-of-your-ui-2nf7",
 "date": "2026-11-11",
 "summary": "In my last post, I wrote about moving Forem’s performance and maintenance work into autonomous loops...",
-"score": 57,
+"score": 58,
 "extra": {
 "comments": 6,
 "publisher": "DEV Community",
@@ -4759,7 +4780,7 @@
 "url": "https://dev.to/gnomeman4201/what-unshare-n-leaves-behind-building-a-boundary-for-an-ai-recon-agent-75b",
 "date": "2026-11-09",
 "summary": "Why the boundary has to hold My AI agent's sandbox passed all 13 of its isolation tests on...",
-"score": 26,
+"score": 27,
 "extra": {
 "comments": 42,
 "publisher": "DEV Community",
@@ -5556,7 +5577,7 @@
 "summary": "The work should be easy to verify and continue after the conversation ends. An agent changes the...",
 "score": 16,
 "extra": {
-"comments": 8,
+"comments": 14,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -5575,9 +5596,9 @@
 "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm",
 "date": "2026-11-11",
 "summary": "The failure nobody demos The agent demo always works. The customer asks for a refund, the...",
-"score": 24,
+"score": 27,
 "extra": {
-"comments": 13,
+"comments": 14,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -5703,7 +5724,7 @@
 "summary": "Most multi-agent frameworks are benchmarked on 70B+ cloud models. Because frontier models have...",
 "score": 3,
 "extra": {
-"comments": 6,
+"comments": 7,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -5722,9 +5743,9 @@
 "url": "https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan",
 "date": "2026-11-10",
 "summary": "A few years ago (three years at most), one of the biggest challenges QA Engineers faced was: how do...",
-"score": 84,
+"score": 85,
 "extra": {
-"comments": 28,
+"comments": 29,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -5766,7 +5787,7 @@
 "summary": "Picture an internal expense agent. Someone asks whether a flight change fee is reimbursable....",
 "score": 15,
 "extra": {
-"comments": 36,
+"comments": 38,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -5785,7 +5806,7 @@
 "url": "https://dev.to/earlgreyhot1701d/a-small-laptop-is-a-full-build-kit-bootstrapping-with-a-chromebook-claude-and-github-4j16",
 "date": "2026-11-11",
 "summary": "A small laptop is a full build kit. Here's how far mine went. TL;DR: A reader suggested I publish...",
-"score": 23,
+"score": 26,
 "extra": {
 "comments": 9,
 "publisher": "DEV Community",
@@ -5911,7 +5932,7 @@
 "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
 "date": "2026-11-11",
 "summary": "An anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who...",
-"score": 110,
+"score": 111,
 "extra": {
 "comments": 110,
 "publisher": "DEV Community",
@@ -6037,7 +6058,7 @@
 "url": "https://dev.to/devopsdaily/we-gave-an-ai-agent-a-readonly-neon-role-here-is-what-it-blocked-o07",
 "date": "2026-11-11",
 "summary": "Teams now connect coding agents to their databases through the Neon MCP Server, and \"read-only\" is...",
-"score": 10,
+"score": 11,
 "extra": {
 "comments": 4,
 "publisher": "DEV Community",
@@ -6058,9 +6079,9 @@
 "url": "https://dev.to/akhourianmolkumar/removebg-is-shutting-down-heres-a-free-no-upload-alternative-4ebo",
 "date": "2026-11-13",
 "summary": "On December 1, 2026 at 9:00 AM CET, remove.bg — the site that turned \"one-click background removal\"...",
-"score": 52,
+"score": 72,
 "extra": {
-"comments": 102,
+"comments": 129,
 "publisher": "DEV Community",
 "topics": [
 "showdev",
@@ -6079,15 +6100,36 @@
 "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl",
 "date": "2026-11-12",
 "summary": "Why attaching dozens of Model Context Protocol (MCP) tools degrades LLM reasoning, inflates API bills, and how small, focused TypeScript micro-tools fix the problem.",
-"score": 51,
+"score": 54,
 "extra": {
-"comments": 45,
+"comments": 47,
 "publisher": "DEV Community",
 "topics": [
 "ai",
 "typescript",
 "opensource",
 "productivity"
+],
+"lang": "en"
+}
+},
+"devto-5017755": {
+"id": "devto-5017755",
+"source": "community",
+"kind": "community",
+"title": "Your LLM agent re-reads its history every step. We measured what that costs",
+"url": "https://dev.to/shalendra_gaur_ecd0567a49/your-llm-agent-re-reads-its-history-every-step-we-measured-what-that-costs-jjg",
+"date": "2026-11-11",
+"summary": "At turn 223, a Gemini 3.8 Flash chat started making mistakes. By turn 287 it was wrong. The same...",
+"score": 3,
+"extra": {
+"comments": 5,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"llm",
+"machinelearning",
+"aicost"
 ],
 "lang": "en"
 }
@@ -6163,7 +6205,7 @@
 "url": "https://dev.to/volodymyr_nehir/what-is-code-mode-how-to-cut-ai-agent-context-by-99-using-code-instead-of-json-rpc-4klf",
 "date": "2026-11-11",
 "summary": "If you have built autonomous AI agents over the past year, you have almost certainly embraced MCP...",
-"score": 6,
+"score": 7,
 "extra": {
 "comments": 3,
 "publisher": "DEV Community",
@@ -6205,9 +6247,9 @@
 "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
 "date": "2026-11-12",
 "summary": "What exactly is MCP? Is it some mysterious technology that requires secret knowledge to implement?...",
-"score": 159,
+"score": 174,
 "extra": {
-"comments": 136,
+"comments": 155,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -6234,6 +6276,48 @@
 "ai",
 "mcp",
 "startup"
+],
+"lang": "en"
+}
+},
+"devto-5019338": {
+"id": "devto-5019338",
+"source": "community",
+"kind": "community",
+"title": "One IPCC Page Gave Me Two Headings, or Eight. The Difference Was Which Pages I Asked For",
+"url": "https://dev.to/matveyg/one-ipcc-page-gave-me-two-headings-or-eight-the-difference-was-which-pages-i-asked-for-4373",
+"date": "2026-11-11",
+"summary": "A PDF file does not contain headings. It contains font sizes, and a Markdown extractor guesses the rest from the median size of the document you handed it. Change the page range and the same page com…",
+"score": 1,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"pdf",
+"rag",
+"python",
+"data"
+],
+"lang": "en"
+}
+},
+"devto-5019800": {
+"id": "devto-5019800",
+"source": "community",
+"kind": "community",
+"title": "The Case for Smart Software",
+"url": "https://dev.to/swyx/the-case-for-smart-software-329f",
+"date": "2026-11-12",
+"summary": "At a typical AI conference, there's usually much discussion of \"the future of software\", but it...",
+"score": 12,
+"extra": {
+"comments": 2,
+"publisher": "DEV Community",
+"topics": [
+"jev",
+"ai",
+"software",
+"aie"
 ],
 "lang": "en"
 }
@@ -6330,9 +6414,9 @@
 "url": "https://dev.to/annavi11arrea1/ultimate-ai-roast-168b",
 "date": "2026-11-12",
 "summary": "I asked my favorite AI to Roast me. Thanks @trickell for this idea. You need to try this with your...",
-"score": 69,
+"score": 84,
 "extra": {
-"comments": 26,
+"comments": 41,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -6393,9 +6477,9 @@
 "url": "https://dev.to/michalwolinski/how-to-evaluate-ai-agents-grade-the-world-not-the-transcript-2a44",
 "date": "2026-11-12",
 "summary": "A support agent tells a customer that order ORD-1010 \"was delivered on September 10th, and we're well...",
-"score": 2,
+"score": 3,
 "extra": {
-"comments": 13,
+"comments": 14,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -6519,9 +6603,9 @@
 "url": "https://dev.to/ben/long-live-rails-3p21",
 "date": "2026-11-12",
 "summary": "When DHH took the stage at Rails World 2026 and talked openly about going \"pencils down\" on...",
-"score": 123,
+"score": 131,
 "extra": {
-"comments": 19,
+"comments": 22,
 "publisher": "DEV Community",
 "topics": [
 "rails",
@@ -6582,9 +6666,9 @@
 "url": "https://dev.to/p0rt/five-of-my-eight-agents-left-out-the-same-caveat-a-vote-would-have-made-it-official-d5j",
 "date": "2026-11-12",
 "summary": "A 260-configuration study at matched token budgets: agent teams changed the score by 0.0% on average. When a swarm is worth it, and what my agents got wrong.",
-"score": 9,
+"score": 10,
 "extra": {
-"comments": 20,
+"comments": 22,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -6612,6 +6696,27 @@
 "llm",
 "architecture",
 "debugging"
+],
+"lang": "en"
+}
+},
+"devto-5025436": {
+"id": "devto-5025436",
+"source": "community",
+"kind": "community",
+"title": "Building a Resilient RAG System with .NET 10 and AWS Bedrock",
+"url": "https://dev.to/joaooliveiratech/building-a-resilient-rag-system-with-net-10-and-aws-bedrock-6mo",
+"date": "2026-11-12",
+"summary": "Large Language Models (LLMs) are remarkable reasoning engines, but they have two well-known...",
+"score": 1,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"csharp",
+"aws",
+"rag"
 ],
 "lang": "en"
 }
@@ -6645,9 +6750,9 @@
 "url": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok",
 "date": "2026-11-13",
 "summary": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
-"score": 84,
+"score": 93,
 "extra": {
-"comments": 36,
+"comments": 39,
 "publisher": "DEV Community",
 "topics": [
 "devchallenge",
@@ -6666,15 +6771,57 @@
 "url": "https://dev.to/earlgreyhot1701d/four-applications-and-one-ask-guess-which-one-scared-me-2ia3",
 "date": "2026-11-12",
 "summary": "Waitlisted once. Applied again anyway. TL;DR: In one day I sent four applications: three AI...",
-"score": 34,
+"score": 41,
 "extra": {
-"comments": 28,
+"comments": 38,
 "publisher": "DEV Community",
 "topics": [
 "ai",
 "career",
 "womenintech",
 "discuss"
+],
+"lang": "en"
+}
+},
+"devto-5026617": {
+"id": "devto-5026617",
+"source": "community",
+"kind": "community",
+"title": "I tried to break my AI song detector with covers, live recordings, lo-fi and Suno v6",
+"url": "https://dev.to/han_lou_493c3fecccc66c1f0/i-tried-to-break-my-ai-song-detector-with-covers-live-recordings-lo-fi-and-suno-v6-3pfg",
+"date": "2026-11-13",
+"summary": "In October I tested 8 AI song detectors on 65 songs. The winner caught 23 of 25 AI songs and flagged...",
+"score": 1,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"music",
+"machinelearning",
+"webdev"
+],
+"lang": "en"
+}
+},
+"devto-5026665": {
+"id": "devto-5026665",
+"source": "community",
+"kind": "community",
+"title": "MCP Tools Drain Less Context Than the Panic Suggests — 6,132 Tokens for 50 of Them",
+"url": "https://dev.to/aheadkit/mcp-tools-drain-less-context-than-the-panic-suggests-6132-tokens-for-50-of-them-1cli",
+"date": "2026-11-13",
+"summary": "4,204 tokens. That is what one MCP server costs before your agent reads a single file, runs a single...",
+"score": 3,
+"extra": {
+"comments": 11,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"mcp",
+"agents",
+"programming"
 ],
 "lang": "en"
 }
@@ -6708,9 +6855,9 @@
 "url": "https://dev.to/m_t_ramkrushna/does-your-ai-feature-ever-say-i-dont-know-friday-ai-question-57gf",
 "date": "2026-11-13",
 "summary": "Friday AI Question. This week's question is one I think most teams never ask out loud: When your AI...",
-"score": 3,
+"score": 8,
 "extra": {
-"comments": 7,
+"comments": 11,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -6876,9 +7023,9 @@
 "url": "https://dev.to/nestdaddy/we-tested-37000-mcp-servers-heres-how-many-actually-work-1pne",
 "date": "2026-11-13",
 "summary": "We connected to every remote server in the official MCP registry the way an MCP client does. 9 in 10 answered, 1 in 3 wants a key before it shows its tools, and 12% of the registry turned out to be s…",
-"score": 3,
+"score": 4,
 "extra": {
-"comments": 4,
+"comments": 5,
 "publisher": "DEV Community",
 "topics": [
 "mcp",
@@ -6918,7 +7065,7 @@
 "url": "https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b",
 "date": "2026-11-13",
 "summary": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, a local chat page that keeps the key off the browser, a terminal client, and a…",
-"score": 36,
+"score": 38,
 "extra": {
 "comments": 13,
 "publisher": "DEV Community",
@@ -6962,7 +7109,7 @@
 "summary": "It asks a tool for data, gets JSON, and acts on it. If that JSON says a price is \"twelve\" where a...",
 "score": 3,
 "extra": {
-"comments": 5,
+"comments": 6,
 "publisher": "DEV Community",
 "topics": [
 "agents",
@@ -6981,9 +7128,9 @@
 "url": "https://dev.to/framy2/how-an-8mb-mcp-tool-response-crashes-claude-code-and-how-to-debug-prompt-cache-misses-across-3kob",
 "date": "2026-11-13",
 "summary": "If you use Claude Code, OpenAI Codex CLI, Cursor, or VS Code Copilot with Model Context Protocol...",
-"score": 2,
+"score": 3,
 "extra": {
-"comments": 9,
+"comments": 17,
 "publisher": "DEV Community",
 "topics": [
 "claudecode",
@@ -7036,6 +7183,27 @@
 "lang": "en"
 }
 },
+"devto-5032399": {
+"id": "devto-5032399",
+"source": "community",
+"kind": "community",
+"title": "Benchmarking the Gemini Decisions API",
+"url": "https://dev.to/gde/benchmarking-the-gemini-decisions-api-l31",
+"date": "2026-11-13",
+"summary": "The Gemini Decisions API scores a fixed set of answers in one pass and returns probabilities. An ADK triage agent built on it, a 48-ticket benchmark against Gemini 3.8 Flash, Gemini 4 Hydrogen, Gemin…",
+"score": 15,
+"extra": {
+"comments": 4,
+"publisher": "DEV Community",
+"topics": [
+"gemini",
+"adk",
+"gemma",
+"ai"
+],
+"lang": "en"
+}
+},
 "devto-5032543": {
 "id": "devto-5032543",
 "source": "community",
@@ -7046,7 +7214,7 @@
 "summary": "AI agents now review code and write tests as a matter of routine. They do not read only the code....",
 "score": 9,
 "extra": {
-"comments": 6,
+"comments": 7,
 "publisher": "DEV Community",
 "topics": [
 "kiro",
@@ -7099,6 +7267,48 @@
 "lang": "en"
 }
 },
+"devto-5034268": {
+"id": "devto-5034268",
+"source": "community",
+"kind": "community",
+"title": "My Codex Agents Were Posting to Slack as Me",
+"url": "https://dev.to/shinpr/my-codex-agents-were-posting-to-slack-as-me-18e4",
+"date": "2026-11-15",
+"summary": "On the morning of November 13 I found a message in a Slack thread with my AI team, posted under my...",
+"score": 3,
+"extra": {
+"comments": 4,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"agents",
+"security",
+"llm"
+],
+"lang": "en"
+}
+},
+"devto-5034652": {
+"id": "devto-5034652",
+"source": "community",
+"kind": "community",
+"title": "Build a production-grade RAG Agent: Part 1",
+"url": "https://dev.to/yuvraj2112/building-a-production-grade-rag-agent-2eee",
+"date": "2026-11-14",
+"summary": "This is a guide sharing my experience on how to build a production-grade RAG AI agent that researches...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"rag",
+"agents",
+"tutorial"
+],
+"lang": "en"
+}
+},
 "devto-5034848": {
 "id": "devto-5034848",
 "source": "community",
@@ -7107,7 +7317,7 @@
 "url": "https://dev.to/manoj7ar/your-remote-mcp-server-needs-oauth-here-are-the-7-things-that-break-when-you-add-it-14po",
 "date": "2026-11-14",
 "summary": "A local MCP server is easy. You run it over stdio, point Claude Desktop or Cursor at it, done. The...",
-"score": 1,
+"score": 2,
 "extra": {
 "comments": 1,
 "publisher": "DEV Community",
@@ -7141,6 +7351,48 @@
 "lang": "en"
 }
 },
+"devto-5035872": {
+"id": "devto-5035872",
+"source": "community",
+"kind": "community",
+"title": "Our AI assistant can write to exactly one table. Postgres enforces it, not our code",
+"url": "https://dev.to/appwebseo/our-ai-assistant-can-write-to-exactly-one-table-postgres-enforces-it-not-our-code-4pp7",
+"date": "2026-11-14",
+"summary": "We build Reperline, a small system that tracks construction schedules, budgets and contracts. It also...",
+"score": 7,
+"extra": {
+"comments": 12,
+"publisher": "DEV Community",
+"topics": [
+"postgres",
+"security",
+"ai",
+"mcp"
+],
+"lang": "en"
+}
+},
+"devto-5036202": {
+"id": "devto-5036202",
+"source": "community",
+"kind": "community",
+"title": "AI Engineer Course: What a Practical Curriculum Should Include",
+"url": "https://dev.to/bcncodeschool/ai-engineer-course-what-a-practical-curriculum-should-include-1k6f",
+"date": "2026-11-14",
+"summary": "Use this AI engineer course curriculum checklist to compare foundations, agents, ML, evaluation, deployment, projects and career fit.",
+"score": 5,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"career",
+"machinelearning",
+"learning"
+],
+"lang": "en"
+}
+},
 "devto-5036392": {
 "id": "devto-5036392",
 "source": "community",
@@ -7151,7 +7403,7 @@
 "summary": "Autonomous coding agents, local developer tools, and edge robotics are bottlenecked by the...",
 "score": 9,
 "extra": {
-"comments": 2,
+"comments": 3,
 "publisher": "DEV Community",
 "topics": [
 "rust",
@@ -7212,9 +7464,9 @@
 "url": "https://dev.to/debs_obrien/one-tool-call-instead-of-four-pages-adding-webmcp-to-my-site-29g7",
 "date": "2026-11-14",
 "summary": "AI agents that open debbie.codes in a browser can now use tools on the page to find my videos, posts, podcasts and courses, instead of reading whole pages and guessing.",
-"score": 1,
+"score": 9,
 "extra": {
-"comments": 0,
+"comments": 2,
 "publisher": "DEV Community",
 "topics": [
 "ai",
@@ -7233,7 +7485,7 @@
 "url": "https://dev.to/debs_obrien/get-your-site-agent-ready-aa1",
 "date": "2026-11-14",
 "summary": "How to give AI agents a short map of your site, a full index, and clean markdown copies of your posts, and why that helps even if the big crawlers do not use the file yet.",
-"score": 2,
+"score": 6,
 "extra": {
 "comments": 0,
 "publisher": "DEV Community",
@@ -7242,6 +7494,300 @@
 "agents",
 "mcp",
 "webdev"
+],
+"lang": "en"
+}
+},
+"devto-5038166": {
+"id": "devto-5038166",
+"source": "community",
+"kind": "community",
+"title": "Securing Distributed JAX Clusters",
+"url": "https://dev.to/securitystefan/securing-distributed-jax-clusters-39l",
+"date": "2026-11-14",
+"summary": "Learn how to secure distributed JAX: configure coordinator mTLS, fix gRPC proxy hangs, isolate open collectives, and stop compilation cache poisoning.",
+"score": 1,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"python",
+"appsec",
+"machinelearning",
+"security"
+],
+"lang": "en"
+}
+},
+"devto-5038670": {
+"id": "devto-5038670",
+"source": "community",
+"kind": "community",
+"title": "The Polite Catastrophe of 'Read-Only': Connecting Coding Agents to a 300-Table Legacy SQL Database",
+"url": "https://dev.to/tomzafred/the-polite-catastrophe-of-read-only-connecting-coding-agents-to-a-300-table-legacy-sql-database-f6a",
+"date": "2026-11-15",
+"summary": "There is a particular, quiet melancholy in watching a sixty-line script bring a fifteen-year-old...",
+"score": 5,
+"extra": {
+"comments": 6,
+"publisher": "DEV Community",
+"topics": [
+"security",
+"database",
+"mcp",
+"architecture"
+],
+"lang": "en"
+}
+},
+"devto-5038913": {
+"id": "devto-5038913",
+"source": "community",
+"kind": "community",
+"title": "Zombies, a Gunship and a Judgment Model: What Could Go Wrong?",
+"url": "https://dev.to/copyleftdev/zombies-a-gunship-and-a-judgment-model-what-could-go-wrong-2k95",
+"date": "2026-11-15",
+"summary": "That's Jev, a judgment model, commanding an AC-130-style gunship over a zombie-infested downtown Los...",
+"score": 10,
+"extra": {
+"comments": 1,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"llm",
+"gamedev",
+"testing"
+],
+"lang": "en"
+}
+},
+"devto-5039203": {
+"id": "devto-5039203",
+"source": "community",
+"kind": "community",
+"title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+"url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+"date": "2026-11-15",
+"summary": "A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026. TL;DR: For NASA...",
+"score": 33,
+"extra": {
+"comments": 8,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"webdev",
+"hackathon",
+"showdev"
+],
+"lang": "en"
+}
+},
+"devto-5039243": {
+"id": "devto-5039243",
+"source": "community",
+"kind": "community",
+"title": "I Told My Agent Who Sent the Message. It Mostly Stopped Saying We Were Talking.",
+"url": "https://dev.to/kenielzep97/i-told-my-agent-who-sent-the-message-it-mostly-stopped-saying-we-were-talking-12o8",
+"date": "2026-11-15",
+"summary": "This is the line: AUTOMATED SCHEDULER CHECK: sender=scheduler, not Keniel; Keniel is not...",
+"score": 22,
+"extra": {
+"comments": 3,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"agents",
+"llm",
+"testing"
+],
+"lang": "en"
+}
+},
+"devto-5039358": {
+"id": "devto-5039358",
+"source": "community",
+"kind": "community",
+"title": "Building a Faster Playwright MCP Server: Compact DOM Deltas, 1-Turn Form Filling, and Submit Guards",
+"url": "https://dev.to/tthanh2k6/building-a-faster-playwright-mcp-server-compact-dom-deltas-1-turn-form-filling-and-submit-guards-2o2p",
+"date": "2026-11-15",
+"summary": "While using a browser automation agent over Model Context Protocol (MCP) to prefill job applications...",
+"score": 4,
+"extra": {
+"comments": 10,
+"publisher": "DEV Community",
+"topics": [
+"mcp",
+"playwright",
+"webdev",
+"opensource"
+],
+"lang": "en"
+}
+},
+"devto-5039723": {
+"id": "devto-5039723",
+"source": "community",
+"kind": "community",
+"title": "What Actually Happens When an AI Agent Loops: The ReAct Pattern, Context Window Poisoning, and How to Break the Failure Spiral",
+"url": "https://dev.to/syed_anzar/what-actually-happens-when-an-ai-agent-loops-the-react-pattern-context-window-poisoning-and-how-4lf0",
+"date": "2026-11-15",
+"summary": "Why autonomous AI agents get stuck in repetitive failure loops, how autoregressive attention and context poisoning reinforce bad actions, and how to build deterministic circuit breakers.",
+"score": 2,
+"extra": {
+"comments": 3,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"machinelearning",
+"programming",
+"architecture"
+],
+"lang": "en"
+}
+},
+"devto-5040409": {
+"id": "devto-5040409",
+"source": "community",
+"kind": "community",
+"title": "Gadsby-4B: The Model That Was Banned From Talking Normal, So It Learned to Shitpost Instead",
+"url": "https://dev.to/numbpill3d/gadsby-4b-the-model-that-was-banned-from-talking-normal-so-it-learned-to-shitpost-instead-1ei2",
+"date": "2026-11-15",
+"summary": "A 4-billion-parameter model was told it could never use any two words in a row from Simple...",
+"score": 1,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"programming",
+"machinelearning",
+"llm"
+],
+"lang": "en"
+}
+},
+"devto-5041118": {
+"id": "devto-5041118",
+"source": "community",
+"kind": "community",
+"title": "How I Built an 8-Skill Research Engineering Plugin, Studio MCP Server & Vector Comic Studio for Google Antigravity",
+"url": "https://dev.to/gde/how-i-built-an-8-skill-research-engineering-plugin-stdio-mcp-server-vector-comic-studio-for-lfb",
+"date": "2026-11-15",
+"summary": "Reading, auditing, and explaining dense machine learning or engineering papers shouldn't stop at a...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"mcp",
+"opensource",
+"googleantigravity"
+],
+"lang": "en"
+}
+},
+"devto-5041156": {
+"id": "devto-5041156",
+"source": "community",
+"kind": "community",
+"title": "RAG is a search problem first",
+"url": "https://dev.to/sayam_jain/rag-is-a-search-problem-first-3dkd",
+"date": "2026-11-15",
+"summary": "I copied my Nagamese glossary lookup into a demo with 24 labelled posts, then used an oracle to separate retrieval failures from generation failures.",
+"score": 2,
+"extra": {
+"comments": 4,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"rag",
+"llm",
+"search"
+],
+"lang": "en"
+}
+},
+"devto-5042568": {
+"id": "devto-5042568",
+"source": "community",
+"kind": "community",
+"title": "The clever retrieval trick lost. A boring if statement won.",
+"url": "https://dev.to/mekkial_bilal_e9f1a806a8d/the-clever-retrieval-trick-lost-a-boring-if-statement-won-12fd",
+"date": "2026-11-15",
+"summary": "I built a multi-agent freelance copilot, measured it properly, and the results embarrassed my...",
+"score": 1,
+"extra": {
+"comments": 2,
+"publisher": "DEV Community",
+"topics": [
+"agents",
+"ai",
+"llm",
+"rag"
+],
+"lang": "en"
+}
+},
+"devto-5042653": {
+"id": "devto-5042653",
+"source": "community",
+"kind": "community",
+"title": "My Retrieval Evaluation Lied to Me Three Times",
+"url": "https://dev.to/rauf17/my-retrieval-evaluation-lied-to-me-three-times-2l8n",
+"date": "2026-11-15",
+"summary": "I built GigBid for a university course (AI-4016): a LangGraph multi-agent copilot that finds...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"rag",
+"machinelearning",
+"python"
+],
+"lang": "en"
+}
+},
+"devto-5043345": {
+"id": "devto-5043345",
+"source": "community",
+"kind": "community",
+"title": "MCP, A2A, UCP, AP2... Confused? A Simple Map of AI Agent Protocols (November 2026)",
+"url": "https://dev.to/gde/mcp-a2a-ucp-ap2-confused-a-simple-map-of-ai-agent-protocols-november-2026-3ph",
+"date": "2026-11-15",
+"summary": "MCP. A2A. AG-UI. A2UI. UCP. AP2. ACP. x402. And as of this week, Poppy. If your head spins every...",
+"score": 4,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"ai",
+"agents",
+"mcp",
+"googlecloud"
+],
+"lang": "en"
+}
+},
+"devto-5043998": {
+"id": "devto-5043998",
+"source": "community",
+"kind": "community",
+"title": "Cite only what you need: building an offline document RAG on AMD ROCm",
+"url": "https://dev.to/miguel_morentedelasher/cite-only-what-you-need-building-an-offline-document-rag-on-amd-rocm-o6a",
+"date": "2026-11-16",
+"summary": "Part of my work in the AMD AI League by lablab.ai and AMD. #AMD #lablab Most RAG demos answer a...",
+"score": 0,
+"extra": {
+"comments": 0,
+"publisher": "DEV Community",
+"topics": [
+"amd",
+"rocm",
+"rag",
+"ai"
 ],
 "lang": "en"
 }
@@ -7255,7 +7801,7 @@
 "alt_url": "https://lobste.rs/s/0aungk/little_book_generative_ai_foundations",
 "date": "2026-11-13",
 "summary": "",
-"score": 7,
+"score": 12,
 "extra": {
 "comments": 0,
 "publisher": "Lobsters",
@@ -7377,6 +7923,26 @@
 ]
 }
 },
+"lob-tbpfcn": {
+"id": "lob-tbpfcn",
+"source": "community",
+"kind": "discussion",
+"title": "Designing nextest's install scripts",
+"url": "https://sunshowers.io/posts/nextest-install-scripts/",
+"alt_url": "https://lobste.rs/s/tbpfcn/designing_nextest_s_install_scripts",
+"date": "2026-11-15",
+"summary": "",
+"score": 1,
+"extra": {
+"comments": 0,
+"publisher": "Lobsters",
+"topics": [
+"ai",
+"programming",
+"rust"
+]
+}
+},
 "lob-tj73bq": {
 "id": "lob-tj73bq",
 "source": "community",
@@ -7407,9 +7973,9 @@
 "alt_url": "https://lobste.rs/s/u2h9as/you_could_have_invented_transformers",
 "date": "2026-11-13",
 "summary": "",
-"score": 3,
+"score": 4,
 "extra": {
-"comments": 0,
+"comments": 1,
 "publisher": "Lobsters",
 "topics": [
 "ai"
