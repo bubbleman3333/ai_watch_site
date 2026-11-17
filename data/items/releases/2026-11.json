@@ -13,7 +13,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "text-generation",
-"downloads": 1377,
+"downloads": 1463,
 "lang": "en"
 }
 },
@@ -31,7 +31,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "feature-extraction",
-"downloads": 469,
+"downloads": 480,
 "lang": "en"
 }
 },
@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
 "date": "2026-11-03",
 "summary": "",
-"score": 1183,
+"score": 1326,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-to-image",
-"downloads": 571067,
+"downloads": 609130,
 "lang": "en"
 }
 },
@@ -79,13 +79,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE",
 "date": "2026-11-08",
 "summary": "",
-"score": 72,
+"score": 120,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-generation",
-"downloads": 2360,
+"downloads": 2730,
 "lang": "en"
 }
 },
@@ -103,7 +103,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 264,
+"downloads": 266,
 "lang": "ja"
 }
 },
@@ -121,7 +121,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 85,
+"downloads": 90,
 "lang": "en"
 }
 },
@@ -151,13 +151,13 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 2106,
+"score": 2164,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 46766,
+"downloads": 49428,
 "lang": "en"
 }
 },
@@ -169,13 +169,13 @@
 "url": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
 "date": "2026-11-11",
 "summary": "",
-"score": 22,
+"score": 24,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 906,
+"downloads": 1662,
 "lang": "en"
 }
 },
@@ -193,7 +193,187 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 590,
+"downloads": 623,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-3B-nfe16": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-3B-nfe16",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe16",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-3B-nfe16",
+"date": "2026-11-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 7,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-3B-nfe2": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-3B-nfe2",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe2",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-3B-nfe2",
+"date": "2026-11-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 7,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-3B-nfe4": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-3B-nfe4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe4",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-3B-nfe4",
+"date": "2026-11-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 7,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-3B-nfe8": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-3B-nfe8",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-3B-nfe8",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-3B-nfe8",
+"date": "2026-11-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 7,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-8B-nfe16": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-8B-nfe16",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe16",
+"date": "2026-11-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 5,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-8B-nfe2": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-8B-nfe2",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe2",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe2",
+"date": "2026-11-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 10,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-8B-nfe4": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-8B-nfe4",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe4",
+"date": "2026-11-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 5,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-8B-nfe8": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-8B-nfe8",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-8B-nfe8",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-8B-nfe8",
+"date": "2026-11-09",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 5,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-spec-3B": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-spec-3B",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-spec-3B",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-3B",
+"date": "2026-11-09",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 6,
+"lang": "en"
+}
+},
+"release-nvidia__Nemotron-Labs-Sigma-distill-spec-8B": {
+"id": "release-nvidia__Nemotron-Labs-Sigma-distill-spec-8B",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Nemotron-Labs-Sigma-distill-spec-8B",
+"url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-8B",
+"date": "2026-11-09",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 8,
 "lang": "en"
 }
 },
@@ -211,7 +391,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 983,
+"downloads": 1018,
 "lang": "ja"
 }
 },
@@ -223,13 +403,13 @@
 "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
 "date": "2026-11-07",
 "summary": "",
-"score": 275,
+"score": 296,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 5590,
+"downloads": 5984,
 "lang": "en"
 }
 }

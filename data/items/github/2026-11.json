@@ -7,7 +7,7 @@
 "url": "https://github.com/21stware/bowel",
 "date": "2026-11-07",
 "summary": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-"score": 508,
+"score": 521,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -264,7 +264,7 @@
 "url": "https://github.com/Balanov/shim",
 "date": "2026-11-02",
 "summary": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-"score": 192,
+"score": 193,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -469,7 +469,7 @@
 "url": "https://github.com/DIYgod/pinky",
 "date": "2026-11-06",
 "summary": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-"score": 2214,
+"score": 2300,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -515,7 +515,7 @@
 "url": "https://github.com/Dodaios/ste80-humanizer",
 "date": "2026-11-09",
 "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-"score": 693,
+"score": 747,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -541,7 +541,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 616,
+"score": 628,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -555,6 +555,32 @@
 "license": "MIT"
 }
 },
+"repo-Domush__antigravity-plugin-context-mode": {
+"id": "repo-Domush__antigravity-plugin-context-mode",
+"source": "github",
+"kind": "repo",
+"title": "Domush/antigravity-plugin-context-mode",
+"url": "https://github.com/Domush/antigravity-plugin-context-mode",
+"date": "2026-11-14",
+"summary": "Reduce context size by 90%+ *and* make your agent smarter. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build log…",
+"score": 55,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agy",
+"agy-plugin",
+"agy-skill",
+"antigravity",
+"antigravity-extension",
+"antigravity-plugin",
+"antigravity-skill",
+"antigravity-skills",
+"antigravity-tools",
+"context-engineering"
+],
+"license": "MIT"
+}
+},
 "repo-Doug-218__blender-ai-copilot-forge": {
 "id": "repo-Doug-218__blender-ai-copilot-forge",
 "source": "github",
@@ -563,7 +589,7 @@
 "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
 "date": "2026-11-12",
 "summary": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP serv…",
-"score": 508,
+"score": 509,
 "extra": {
 "lang": "",
 "topics": [
@@ -615,7 +641,7 @@
 "url": "https://github.com/Dwarfnode35715/Anilist_monitor_resp",
 "date": "2026-11-09",
 "summary": "A desktop-native Windows system tray Telegram bot that monitors AniList for new anime announcements and releases with network auto-recovery, single-instance protection, and zero-spam baseline caching…",
-"score": 80,
+"score": 50,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -693,7 +719,7 @@
 "url": "https://github.com/FrigadeHQ/yogurt",
 "date": "2026-11-10",
 "summary": "Private AI meeting notes. Free and open source.",
-"score": 1644,
+"score": 1886,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -771,7 +797,7 @@
 "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
 "date": "2026-11-04",
 "summary": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free…",
-"score": 111,
+"score": 112,
 "extra": {
 "lang": "Cypher",
 "topics": [
@@ -871,7 +897,7 @@
 "url": "https://github.com/JosssphZhou/poki",
 "date": "2026-11-05",
 "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-"score": 1350,
+"score": 1515,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -919,7 +945,7 @@
 "url": "https://github.com/KKKKhazix/agent-autoloop",
 "date": "2026-11-03",
 "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-"score": 5497,
+"score": 5708,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1075,7 +1101,7 @@
 "url": "https://github.com/Marcian15350/mt5-tradeprotocol",
 "date": "2026-11-06",
 "summary": "",
-"score": 1105,
+"score": 1106,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1383,7 +1409,7 @@
 "url": "https://github.com/SAOS-3624/dsh-see-now",
 "date": "2026-11-01",
 "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-"score": 661,
+"score": 673,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1408,7 +1434,7 @@
 "url": "https://github.com/Sandflow-ai/sand3d",
 "date": "2026-11-03",
 "summary": "3D modeling in Python, built for LLMs.",
-"score": 2037,
+"score": 2092,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1508,7 +1534,7 @@
 "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
 "date": "2026-11-04",
 "summary": "Can AI agents rebuild websites through browser exploration?",
-"score": 420,
+"score": 479,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1867,7 +1893,7 @@
 "url": "https://github.com/TrapBladesmith/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 653,
+"score": 369,
 "extra": {
 "lang": "",
 "topics": [
@@ -2101,7 +2127,7 @@
 "url": "https://github.com/Ultimateakiln/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 371,
+"score": 370,
 "extra": {
 "lang": "",
 "topics": [
@@ -2647,7 +2673,7 @@
 "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
 "date": "2026-11-10",
 "summary": "A curated list of papers for AI in Astronomy & Astrophysics.",
-"score": 244,
+"score": 284,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2693,7 +2719,7 @@
 "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
 "date": "2026-11-15",
 "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-"score": 473,
+"score": 474,
 "extra": {
 "lang": "Makefile",
 "topics": [
@@ -2745,7 +2771,7 @@
 "url": "https://github.com/ZhikangNiu/VoxCanvas",
 "date": "2026-11-03",
 "summary": "VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics",
-"score": 34,
+"score": 35,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2794,7 +2820,7 @@
 "url": "https://github.com/adventists-ai/sophon-realtime",
 "date": "2026-11-04",
 "summary": "Sophon-Realtime v1: open full-duplex voice models that hear your tone and speak with one. Tag and Flash run on one GPU with vLLM-Omni; E2E in preview.",
-"score": 378,
+"score": 422,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2846,7 +2872,7 @@
 "url": "https://github.com/agentes-chat/agentes-chat",
 "date": "2026-11-09",
 "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and…",
-"score": 1509,
+"score": 1633,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2872,7 +2898,7 @@
 "url": "https://github.com/alexeyw/lot-map",
 "date": "2026-11-09",
 "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
-"score": 889,
+"score": 940,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2897,7 +2923,7 @@
 "url": "https://github.com/alicebrown323/pro-tools-desktop",
 "date": "2026-11-14",
 "summary": "Pro Tools 2026 desktop setup with multitrack editing, MIDI sequencing, VST hosting and a portable mode for Windows 11",
-"score": 353,
+"score": 248,
 "extra": {
 "lang": "C++",
 "topics": [
@@ -2993,6 +3019,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-aryamandarda__tamserve": {
+"id": "repo-aryamandarda__tamserve",
+"source": "github",
+"kind": "repo",
+"title": "aryamandarda/tamserve",
+"url": "https://github.com/aryamandarda/tamserve",
+"date": "2026-11-11",
+"summary": "Live, multi-camera object tracking with SAM 2 and EdgeTAM, on one GPU or many. One model per GPU serves every camera: faster than the original code, about 4x less GPU memory, identical masks.",
+"score": 35,
+"extra": {
+"lang": "Python",
+"topics": [
+"batching",
+"computer-vision",
+"edgetam",
+"gpu",
+"inference",
+"model-serving",
+"object-tracking",
+"pytorch",
+"sam2",
+"segment-anything"
+],
+"license": "Apache-2.0"
+}
+},
 "repo-assassinswandemolish__ai--manus": {
 "id": "repo-assassinswandemolish__ai--manus",
 "source": "github",
@@ -3017,6 +3069,32 @@
 "multimodal"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-berkantay__gpucanvas": {
+"id": "repo-berkantay__gpucanvas",
+"source": "github",
+"kind": "repo",
+"title": "berkantay/gpucanvas",
+"url": "https://github.com/berkantay/gpucanvas",
+"date": "2026-11-12",
+"summary": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at t…",
+"score": 508,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agents",
+"canvas",
+"design-tools",
+"editor",
+"html-in-canvas",
+"infinite-canvas",
+"react",
+"shaders",
+"transitions",
+"typescript"
+],
+"license": "MIT"
 }
 },
 "repo-blixvip__BlendClone": {
@@ -3045,6 +3123,32 @@
 "license": "MIT"
 }
 },
+"repo-boromat__polanon": {
+"id": "repo-boromat__polanon",
+"source": "github",
+"kind": "repo",
+"title": "boromat/polanon",
+"url": "https://github.com/boromat/polanon",
+"date": "2026-11-02",
+"summary": "Reversible PII masking for LLM calls and RAG, Polish-first: checksum-validated PESEL, NIP and IBAN, Polish names in every case, stable tokens, streaming restore and Haystack components.",
+"score": 35,
+"extra": {
+"lang": "Python",
+"topics": [
+"anonymization",
+"anthropic",
+"data-masking",
+"data-privacy",
+"gdpr",
+"haystack",
+"llm",
+"llm-security",
+"named-entity-recognition",
+"nlp"
+],
+"license": "MIT"
+}
+},
 "repo-bytedance__axion1_0": {
 "id": "repo-bytedance__axion1_0",
 "source": "github",
@@ -3053,7 +3157,7 @@
 "url": "https://github.com/bytedance/axion1_0",
 "date": "2026-11-02",
 "summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-"score": 79,
+"score": 83,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3103,7 +3207,7 @@
 "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
 "date": "2026-11-12",
 "summary": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene too…",
-"score": 513,
+"score": 516,
 "extra": {
 "lang": "",
 "topics": [
@@ -3129,7 +3233,7 @@
 "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
 "date": "2026-11-07",
 "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-"score": 913,
+"score": 976,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -3176,7 +3280,7 @@
 "url": "https://github.com/didilili/mianstack",
 "date": "2026-11-02",
 "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-"score": 192,
+"score": 197,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3254,7 +3358,7 @@
 "url": "https://github.com/erkamyaman/unslopovich",
 "date": "2026-11-09",
 "summary": "Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites.",
-"score": 126,
+"score": 174,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3280,7 +3384,7 @@
 "url": "https://github.com/expo/exact",
 "date": "2026-11-02",
 "summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-"score": 4312,
+"score": 4505,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3380,7 +3484,7 @@
 "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
 "date": "2026-11-12",
 "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python script…",
-"score": 1093,
+"score": 2243,
 "extra": {
 "lang": "",
 "topics": [
@@ -3432,7 +3536,7 @@
 "url": "https://github.com/hyperionaidev/smolmaxxing",
 "date": "2026-11-04",
 "summary": "maxxing the ability to run different LLMs on the smallest devices possible",
-"score": 745,
+"score": 882,
 "extra": {
 "lang": "C",
 "topics": [
@@ -3607,7 +3711,7 @@
 "url": "https://github.com/kubai087/kubai-icons",
 "date": "2026-11-03",
 "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse t…",
-"score": 876,
+"score": 900,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3623,6 +3727,25 @@
 "icon-set"
 ],
 "license": "NOASSERTION"
+}
+},
+"repo-leostera__git-twig": {
+"id": "repo-leostera__git-twig",
+"source": "github",
+"kind": "repo",
+"title": "leostera/git-twig",
+"url": "https://github.com/leostera/git-twig",
+"date": "2026-11-15",
+"summary": "lightweight git-worktrees for agents",
+"score": 182,
+"extra": {
+"lang": "Rust",
+"topics": [
+"agents",
+"git",
+"worktrees"
+],
+"license": "MIT"
 }
 },
 "repo-liangjianshu__multimodal-image-retrieval": {
@@ -3815,7 +3938,7 @@
 "url": "https://github.com/mrhlaingbwardev/agentic-hacking-skills",
 "date": "2026-11-01",
 "summary": "AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the 'Agentic Hacking' ebook (28 SKILL.md templates)",
-"score": 331,
+"score": 328,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3893,7 +4016,7 @@
 "url": "https://github.com/native-bond-lab/Jev-Interaction",
 "date": "2026-11-10",
 "summary": "System-One-controlled full-duplex voice interaction: turn-taking as plain-language decisions judged by Jev.",
-"score": 42,
+"score": 52,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3981,6 +4104,32 @@
 "search"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-precygtrucqui1981__blender-ai-copilot-lab": {
+"id": "repo-precygtrucqui1981__blender-ai-copilot-lab",
+"source": "github",
+"kind": "repo",
+"title": "precygtrucqui1981/blender-ai-copilot-lab",
+"url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+"date": "2026-11-12",
+"summary": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, name…",
+"score": 507,
+"extra": {
+"lang": "",
+"topics": [
+"3d-automation",
+"3d-modeling",
+"blender",
+"blender-addon",
+"blender-agents",
+"blender-ai",
+"blender-assistant",
+"blender-automation",
+"blender-chatgpt",
+"blender-copilot"
+],
+"license": "MIT"
 }
 },
 "repo-proteus1121__ai_manus": {
@@ -4121,7 +4270,7 @@
 "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
 "date": "2026-11-12",
 "summary": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with…",
-"score": 511,
+"score": 514,
 "extra": {
 "lang": "",
 "topics": [
@@ -4173,7 +4322,7 @@
 "url": "https://github.com/reason-machines/aspen",
 "date": "2026-11-05",
 "summary": "A self-hostable Git server for agent-scale traffic: packs in object storage, per-branch history in Postgres. Pre-alpha.",
-"score": 131,
+"score": 134,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4322,7 +4471,7 @@
 "url": "https://github.com/taboospecialistblade/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 371,
+"score": 370,
 "extra": {
 "lang": "",
 "topics": [
@@ -4426,7 +4575,7 @@
 "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
 "date": "2026-11-12",
 "summary": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual st…",
-"score": 510,
+"score": 514,
 "extra": {
 "lang": "",
 "topics": [
@@ -4504,7 +4653,7 @@
 "url": "https://github.com/topapothecarycanal/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 381,
+"score": 380,
 "extra": {
 "lang": "",
 "topics": [
@@ -4556,7 +4705,7 @@
 "url": "https://github.com/topconstableinlet67/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 378,
+"score": 377,
 "extra": {
 "lang": "",
 "topics": [
@@ -4608,7 +4757,7 @@
 "url": "https://github.com/toppatronweave/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 380,
+"score": 378,
 "extra": {
 "lang": "",
 "topics": [
@@ -4738,7 +4887,7 @@
 "url": "https://github.com/trackersnailgrip/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 373,
+"score": 372,
 "extra": {
 "lang": "",
 "topics": [
@@ -4790,9 +4939,9 @@
 "url": "https://github.com/varops/actp",
 "date": "2026-11-09",
 "summary": "Agent Communication Transport Protocol (ACP over HTTP)",
-"score": 94,
+"score": 93,
 "extra": {
-"lang": "Go",
+"lang": "Rust",
 "topics": [
 "acp",
 "agents",
@@ -4838,7 +4987,7 @@
 "url": "https://github.com/violetkomodolimit/ai--manus2.0",
 "date": "2026-11-14",
 "summary": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-"score": 375,
+"score": 374,
 "extra": {
 "lang": "",
 "topics": [
@@ -4856,6 +5005,29 @@
 "license": "Apache-2.0"
 }
 },
+"repo-voyager-so__vauss": {
+"id": "repo-voyager-so__vauss",
+"source": "github",
+"kind": "repo",
+"title": "voyager-so/vauss",
+"url": "https://github.com/voyager-so/vauss",
+"date": "2026-11-12",
+"summary": "Fast Gaussian splat reconstruction for Blender, agents, and reusable 3D worlds",
+"score": 32,
+"extra": {
+"lang": "Rust",
+"topics": [
+"3d-reconstruction",
+"ai-agents",
+"blender",
+"computer-vision",
+"gaussian-splatting",
+"rust",
+"structure-from-motion"
+],
+"license": "NOASSERTION"
+}
+},
 "repo-voyager-so__vork": {
 "id": "repo-voyager-so__vork",
 "source": "github",
@@ -4864,7 +5036,7 @@
 "url": "https://github.com/voyager-so/vork",
 "date": "2026-11-05",
 "summary": "Headless 3D and VFX engine for agents. Research preview.",
-"score": 1597,
+"score": 1605,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4916,7 +5088,7 @@
 "url": "https://github.com/weixijia/mas-office",
 "date": "2026-11-06",
 "summary": "See your multi-agent system work: a framework-agnostic protocol and live, animated office for AI agent teams.",
-"score": 85,
+"score": 98,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -5020,7 +5192,7 @@
 "url": "https://github.com/zaxiu88888/issue-rag",
 "date": "2026-11-01",
 "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-"score": 452,
+"score": 458,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -5031,6 +5203,32 @@
 "python",
 "rag",
 "retrieval-augmented-generation"
+],
+"license": "MIT"
+}
+},
+"repo-zovulrira1974__blender-ai-copilot-assets": {
+"id": "repo-zovulrira1974__blender-ai-copilot-assets",
+"source": "github",
+"kind": "repo",
+"title": "zovulrira1974/blender-ai-copilot-assets",
+"url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+"date": "2026-11-12",
+"summary": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server alon…",
+"score": 510,
+"extra": {
+"lang": "",
+"topics": [
+"3d-automation",
+"3d-modeling",
+"blender",
+"blender-addon",
+"blender-agents",
+"blender-ai",
+"blender-assistant",
+"blender-automation",
+"blender-chatgpt",
+"blender-copilot"
 ],
 "license": "MIT"
 }
