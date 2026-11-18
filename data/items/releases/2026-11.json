@@ -13,7 +13,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "text-generation",
-"downloads": 1463,
+"downloads": 1596,
 "lang": "en"
 }
 },
@@ -31,7 +31,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "feature-extraction",
-"downloads": 480,
+"downloads": 490,
 "lang": "en"
 }
 },
@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
 "date": "2026-11-03",
 "summary": "",
-"score": 1326,
+"score": 1470,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-to-image",
-"downloads": 609130,
+"downloads": 727110,
 "lang": "en"
 }
 },
@@ -79,13 +79,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE",
 "date": "2026-11-08",
 "summary": "",
-"score": 120,
+"score": 124,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-generation",
-"downloads": 2730,
+"downloads": 3181,
 "lang": "en"
 }
 },
@@ -103,7 +103,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 266,
+"downloads": 282,
 "lang": "ja"
 }
 },
@@ -121,7 +121,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 90,
+"downloads": 91,
 "lang": "en"
 }
 },
@@ -143,6 +143,60 @@
 "lang": "en"
 }
 },
+"release-apple__FastFrames-L": {
+"id": "release-apple__FastFrames-L",
+"source": "releases",
+"kind": "release",
+"title": "apple/FastFrames-L",
+"url": "https://huggingface.co/apple/FastFrames-L",
+"date": "2026-11-16",
+"summary": "",
+"score": 57,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "text-to-video",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-apple__FastFrames-S": {
+"id": "release-apple__FastFrames-S",
+"source": "releases",
+"kind": "release",
+"title": "apple/FastFrames-S",
+"url": "https://huggingface.co/apple/FastFrames-S",
+"date": "2026-11-16",
+"summary": "",
+"score": 13,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "text-to-video",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-black-forest-labs__hf-spaces-moderation-client": {
+"id": "release-black-forest-labs__hf-spaces-moderation-client",
+"source": "releases",
+"kind": "release",
+"title": "black-forest-labs/hf-spaces-moderation-client",
+"url": "https://huggingface.co/black-forest-labs/hf-spaces-moderation-client",
+"date": "2026-11-16",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "black-forest-labs",
+"publisher": "Black Forest Labs",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
 "release-moonshotai__Kimi-K3.1-Pro": {
 "id": "release-moonshotai__Kimi-K3.1-Pro",
 "source": "releases",
@@ -151,13 +205,13 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 2164,
+"score": 2198,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 49428,
+"downloads": 53224,
 "lang": "en"
 }
 },
@@ -169,13 +223,31 @@
 "url": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
 "date": "2026-11-11",
 "summary": "",
-"score": 24,
+"score": 25,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 1662,
+"downloads": 1987,
+"lang": "en"
+}
+},
+"release-nvidia__Llama-3.2-1B-Qwen3.8-27B-Draft": {
+"id": "release-nvidia__Llama-3.2-1B-Qwen3.8-27B-Draft",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft",
+"url": "https://huggingface.co/nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft",
+"date": "2026-11-11",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 8,
 "lang": "en"
 }
 },
@@ -193,7 +265,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 623,
+"downloads": 670,
 "lang": "en"
 }
 },
@@ -211,7 +283,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 7,
+"downloads": 67,
 "lang": "en"
 }
 },
@@ -229,7 +301,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 7,
+"downloads": 67,
 "lang": "en"
 }
 },
@@ -247,7 +319,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 7,
+"downloads": 72,
 "lang": "en"
 }
 },
@@ -265,7 +337,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 7,
+"downloads": 66,
 "lang": "en"
 }
 },
@@ -283,7 +355,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 5,
+"downloads": 71,
 "lang": "en"
 }
 },
@@ -301,7 +373,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 10,
+"downloads": 85,
 "lang": "en"
 }
 },
@@ -319,7 +391,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 5,
+"downloads": 74,
 "lang": "en"
 }
 },
@@ -337,7 +409,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 5,
+"downloads": 78,
 "lang": "en"
 }
 },
@@ -355,7 +427,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 6,
+"downloads": 105,
 "lang": "en"
 }
 },
@@ -367,13 +439,67 @@
 "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-8B",
 "date": "2026-11-09",
 "summary": "",
+"score": 2,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
+"downloads": 74,
+"lang": "en"
+}
+},
+"release-nvidia__Qwen3.5-0.8B-Qwen3.8-27B-Draft": {
+"id": "release-nvidia__Qwen3.5-0.8B-Qwen3.8-27B-Draft",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft",
+"url": "https://huggingface.co/nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft",
+"date": "2026-11-11",
+"summary": "",
 "score": 1,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
+"downloads": 7,
+"lang": "en"
+}
+},
+"release-nvidia__Qwen3.5-4B-Qwen3.8-27B-Draft": {
+"id": "release-nvidia__Qwen3.5-4B-Qwen3.8-27B-Draft",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
+"url": "https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
+"date": "2026-11-11",
+"summary": "",
+"score": 19,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "text-generation",
 "downloads": 8,
+"lang": "en"
+}
+},
+"release-nvidia__Qwen3.8-Flash-Next-NVFP4-QAD": {
+"id": "release-nvidia__Qwen3.8-Flash-Next-NVFP4-QAD",
+"source": "releases",
+"kind": "release",
+"title": "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+"url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+"date": "2026-11-17",
+"summary": "",
+"score": 41,
+"extra": {
+"org": "nvidia",
+"publisher": "NVIDIA",
+"jp": false,
+"task": "image-text-to-text",
+"downloads": 0,
 "lang": "en"
 }
 },
@@ -391,7 +517,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 1018,
+"downloads": 1048,
 "lang": "ja"
 }
 },
@@ -403,13 +529,13 @@
 "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
 "date": "2026-11-07",
 "summary": "",
-"score": 296,
+"score": 314,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 5984,
+"downloads": 6361,
 "lang": "en"
 }
 }
