@@ -7,13 +7,13 @@
 "url": "https://huggingface.co/ByteDance-Seed/Cola2",
 "date": "2026-11-06",
 "summary": "",
-"score": 16,
+"score": 17,
 "extra": {
 "org": "ByteDance-Seed",
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "text-generation",
-"downloads": 1692,
+"downloads": 1786,
 "lang": "en"
 }
 },
@@ -31,7 +31,7 @@
 "publisher": "ByteDance Seed",
 "jp": false,
 "task": "feature-extraction",
-"downloads": 544,
+"downloads": 558,
 "lang": "en"
 }
 },
@@ -61,13 +61,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
 "date": "2026-11-03",
 "summary": "",
-"score": 1583,
+"score": 1650,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-to-image",
-"downloads": 759661,
+"downloads": 821710,
 "lang": "en"
 }
 },
@@ -79,13 +79,13 @@
 "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image-PE",
 "date": "2026-11-08",
 "summary": "",
-"score": 129,
+"score": 131,
 "extra": {
 "org": "MiniMaxAI",
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-generation",
-"downloads": 3592,
+"downloads": 3885,
 "lang": "en"
 }
 },
@@ -103,7 +103,7 @@
 "publisher": "楽天",
 "jp": true,
 "task": "text-generation",
-"downloads": 288,
+"downloads": 290,
 "lang": "ja"
 }
 },
@@ -121,7 +121,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 94,
+"downloads": 104,
 "lang": "en"
 }
 },
@@ -139,7 +139,133 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "robotics",
-"downloads": 95,
+"downloads": 99,
+"lang": "en"
+}
+},
+"release-apple__DepthPro2": {
+"id": "release-apple__DepthPro2",
+"source": "releases",
+"kind": "release",
+"title": "apple/DepthPro2",
+"url": "https://huggingface.co/apple/DepthPro2",
+"date": "2026-11-03",
+"summary": "",
+"score": 6,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "depth-estimation",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-apple__DepthPro2-B": {
+"id": "release-apple__DepthPro2-B",
+"source": "releases",
+"kind": "release",
+"title": "apple/DepthPro2-B",
+"url": "https://huggingface.co/apple/DepthPro2-B",
+"date": "2026-11-05",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "depth-estimation",
+"downloads": 39,
+"lang": "en"
+}
+},
+"release-apple__DepthPro2-H": {
+"id": "release-apple__DepthPro2-H",
+"source": "releases",
+"kind": "release",
+"title": "apple/DepthPro2-H",
+"url": "https://huggingface.co/apple/DepthPro2-H",
+"date": "2026-11-05",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "depth-estimation",
+"downloads": 40,
+"lang": "en"
+}
+},
+"release-apple__DepthPro2-L": {
+"id": "release-apple__DepthPro2-L",
+"source": "releases",
+"kind": "release",
+"title": "apple/DepthPro2-L",
+"url": "https://huggingface.co/apple/DepthPro2-L",
+"date": "2026-11-05",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "depth-estimation",
+"downloads": 40,
+"lang": "en"
+}
+},
+"release-apple__DepthPro2-S": {
+"id": "release-apple__DepthPro2-S",
+"source": "releases",
+"kind": "release",
+"title": "apple/DepthPro2-S",
+"url": "https://huggingface.co/apple/DepthPro2-S",
+"date": "2026-11-05",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "depth-estimation",
+"downloads": 38,
+"lang": "en"
+}
+},
+"release-apple__DepthPro2-coreml": {
+"id": "release-apple__DepthPro2-coreml",
+"source": "releases",
+"kind": "release",
+"title": "apple/DepthPro2-coreml",
+"url": "https://huggingface.co/apple/DepthPro2-coreml",
+"date": "2026-11-09",
+"summary": "",
+"score": 1,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "depth-estimation",
+"downloads": 0,
+"lang": "en"
+}
+},
+"release-apple__DepthPro2-focal": {
+"id": "release-apple__DepthPro2-focal",
+"source": "releases",
+"kind": "release",
+"title": "apple/DepthPro2-focal",
+"url": "https://huggingface.co/apple/DepthPro2-focal",
+"date": "2026-11-19",
+"summary": "",
+"score": 2,
+"extra": {
+"org": "apple",
+"publisher": "Apple",
+"jp": false,
+"task": "depth-estimation",
+"downloads": 0,
 "lang": "en"
 }
 },
@@ -151,7 +277,7 @@
 "url": "https://huggingface.co/apple/FastFrames-L",
 "date": "2026-11-16",
 "summary": "",
-"score": 217,
+"score": 334,
 "extra": {
 "org": "apple",
 "publisher": "Apple",
@@ -169,7 +295,7 @@
 "url": "https://huggingface.co/apple/FastFrames-S",
 "date": "2026-11-16",
 "summary": "",
-"score": 41,
+"score": 88,
 "extra": {
 "org": "apple",
 "publisher": "Apple",
@@ -205,13 +331,13 @@
 "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
 "date": "2026-11-18",
 "summary": "",
-"score": 31,
+"score": 68,
 "extra": {
 "org": "microsoft",
 "publisher": "Microsoft",
 "jp": false,
 "task": "text-generation",
-"downloads": 0,
+"downloads": 788,
 "lang": "en"
 }
 },
@@ -223,13 +349,13 @@
 "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
 "date": "2026-11-18",
 "summary": "",
-"score": 1,
+"score": 5,
 "extra": {
 "org": "microsoft",
 "publisher": "Microsoft",
 "jp": false,
 "task": "text-generation",
-"downloads": 0,
+"downloads": 39,
 "lang": "en"
 }
 },
@@ -241,13 +367,13 @@
 "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
 "date": "2026-11-02",
 "summary": "",
-"score": 2232,
+"score": 2334,
 "extra": {
 "org": "moonshotai",
 "publisher": "Moonshot AI",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 56970,
+"downloads": 60920,
 "lang": "en"
 }
 },
@@ -265,7 +391,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 2095,
+"downloads": 2234,
 "lang": "en"
 }
 },
@@ -283,7 +409,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 144,
+"downloads": 232,
 "lang": "en"
 }
 },
@@ -301,7 +427,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 694,
+"downloads": 713,
 "lang": "en"
 }
 },
@@ -319,7 +445,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 119,
+"downloads": 173,
 "lang": "en"
 }
 },
@@ -337,7 +463,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 122,
+"downloads": 172,
 "lang": "en"
 }
 },
@@ -355,7 +481,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 132,
+"downloads": 188,
 "lang": "en"
 }
 },
@@ -373,7 +499,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 125,
+"downloads": 179,
 "lang": "en"
 }
 },
@@ -391,7 +517,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 129,
+"downloads": 174,
 "lang": "en"
 }
 },
@@ -409,7 +535,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 160,
+"downloads": 207,
 "lang": "en"
 }
 },
@@ -427,7 +553,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 154,
+"downloads": 200,
 "lang": "en"
 }
 },
@@ -445,7 +571,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 143,
+"downloads": 192,
 "lang": "en"
 }
 },
@@ -457,13 +583,13 @@
 "url": "https://huggingface.co/nvidia/Nemotron-Labs-Sigma-distill-spec-3B",
 "date": "2026-11-09",
 "summary": "",
-"score": 3,
+"score": 4,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 198,
+"downloads": 279,
 "lang": "en"
 }
 },
@@ -481,7 +607,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 151,
+"downloads": 216,
 "lang": "en"
 }
 },
@@ -499,7 +625,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 157,
+"downloads": 261,
 "lang": "en"
 }
 },
@@ -511,13 +637,13 @@
 "url": "https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
 "date": "2026-11-11",
 "summary": "",
-"score": 67,
+"score": 146,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 290,
+"downloads": 757,
 "lang": "en"
 }
 },
@@ -553,7 +679,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 1060,
+"downloads": 1076,
 "lang": "ja"
 }
 },
@@ -583,13 +709,13 @@
 "url": "https://huggingface.co/tencent/Hy4-flash",
 "date": "2026-11-17",
 "summary": "",
-"score": 236,
+"score": 347,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 159,
+"downloads": 2053,
 "lang": "en"
 }
 },
@@ -601,13 +727,13 @@
 "url": "https://huggingface.co/tencent/Hy4-flash-FP8",
 "date": "2026-11-17",
 "summary": "",
-"score": 18,
+"score": 21,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 121,
+"downloads": 766,
 "lang": "en"
 }
 },
@@ -619,13 +745,13 @@
 "url": "https://huggingface.co/tencent/Hy4-flash-base",
 "date": "2026-11-17",
 "summary": "",
-"score": 20,
+"score": 24,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 129,
+"downloads": 489,
 "lang": "en"
 }
 },
@@ -637,13 +763,31 @@
 "url": "https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16",
 "date": "2026-11-07",
 "summary": "",
-"score": 316,
+"score": 317,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "text-generation",
-"downloads": 6662,
+"downloads": 6918,
+"lang": "en"
+}
+},
+"release-tencent__WeVisForensics": {
+"id": "release-tencent__WeVisForensics",
+"source": "releases",
+"kind": "release",
+"title": "tencent/WeVisForensics",
+"url": "https://huggingface.co/tencent/WeVisForensics",
+"date": "2026-11-14",
+"summary": "",
+"score": 8,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "video-text-to-text",
+"downloads": 0,
 "lang": "en"
 }
 }
