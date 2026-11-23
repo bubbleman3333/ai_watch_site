@@ -7272,11 +7272,11 @@
 "alt_url": "https://arxiv.org/abs/2611.19230",
 "date": "2026-11-20",
 "summary": "We present CompoundingKernel, a self-improving agent system that writes GPU kernels by search. As of 2026-11-11, its generated kernels rank #1 on the public L1, L2 and Quantization boards of SOL-ExecBench (NVIDIA B200).",
-"score": 8,
+"score": 9,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 2
+"comments": 3
 }
 },
 "paper-2611.19244": {
@@ -7304,7 +7304,7 @@
 "alt_url": "https://arxiv.org/abs/2611.19499",
 "date": "2026-11-20",
 "summary": "A direction in a language model's hidden state can be used to probe whether a concept is present or to steer the model toward it.",
-"score": 4,
+"score": 5,
 "extra": {
 "github": "",
 "stars": 0,
@@ -7576,11 +7576,11 @@
 "alt_url": "https://arxiv.org/abs/2611.20455",
 "date": "2026-11-20",
 "summary": "Code-search benchmarks show dense encoders well ahead of BM25, yet coding agents do well with grep. What does this dense advantage measure? Existing benchmarks cannot tell: they use curated queries, old code and a handicapped BM25.",
-"score": 7,
+"score": 8,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 5
+"comments": 6
 }
 },
 "paper-2611.20595": {
@@ -7691,8 +7691,8 @@
 "score": 6,
 "extra": {
 "github": "https://github.com/eltzanis/SystemOneAgents",
-"stars": 12,
-"comments": 6
+"stars": 15,
+"comments": 7
 }
 },
 "paper-2611.21072": {
@@ -7816,10 +7816,10 @@
 "alt_url": "https://arxiv.org/abs/2611.21373",
 "date": "2026-11-20",
 "summary": "Recent advances in video generation call for reliable detection grounded in explicit forensic evidence.",
-"score": 52,
+"score": 55,
 "extra": {
 "github": "https://github.com/Tencent/WeVisForensics",
-"stars": 50,
+"stars": 59,
 "comments": 3
 }
 },
@@ -7848,10 +7848,10 @@
 "alt_url": "https://arxiv.org/abs/2611.21383",
 "date": "2026-11-20",
 "summary": "3D Gaussian Splatting enables object-level operations on Gaussian primitives, yet existing segmentation methods are largely trained and evaluated through rendered views.",
-"score": 32,
+"score": 33,
 "extra": {
 "github": "https://github.com/jhxcho/voda",
-"stars": 24,
+"stars": 26,
 "comments": 4
 }
 },
@@ -8024,7 +8024,7 @@
 "alt_url": "https://arxiv.org/abs/2611.21885",
 "date": "2026-11-20",
 "summary": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends.",
-"score": 8,
+"score": 19,
 "extra": {
 "github": "",
 "stars": 0,
@@ -8204,7 +8204,7 @@
 "extra": {
 "github": "https://github.com/suho-yoo/VSpark",
 "stars": 7,
-"comments": 3
+"comments": 4
 }
 },
 "paper-2611.22668": {
@@ -8616,7 +8616,7 @@
 "alt_url": "https://arxiv.org/abs/2611.24011",
 "date": "2026-11-20",
 "summary": "Arm-free quadrupeds can perform loco-manipulation, walking on three legs while manipulating with a front leg, yet no existing policy for it follows language instructions.",
-"score": 16,
+"score": 18,
 "extra": {
 "github": "https://github.com/AIGeeksGroup/WAM-Policy",
 "stars": 7,
@@ -8728,7 +8728,7 @@
 "alt_url": "https://arxiv.org/abs/2611.24193",
 "date": "2026-11-20",
 "summary": "Video world models keep the world in the context of a generator, so a revisit is synthesized again and earlier edits can drift or disappear.",
-"score": 15,
+"score": 16,
 "extra": {
 "github": "https://github.com/ztMotaLee/WM_mllm",
 "stars": 12,
@@ -8904,7 +8904,7 @@
 "alt_url": "https://arxiv.org/abs/2611.24809",
 "date": "2026-11-20",
 "summary": "Hybrid attention models combine full and linear attention to achieve a better quality--efficiency trade-off. Converting pretrained Transformers into such models requires identifying which layers should retain full attention under a prescribed budget.",
-"score": 13,
+"score": 14,
 "extra": {
 "github": "",
 "stars": 0,
@@ -9048,10 +9048,10 @@
 "alt_url": "https://arxiv.org/abs/2611.25279",
 "date": "2026-11-20",
 "summary": "Dense metric mapping from a single camera and IMU remains challenging: visual-inertial odometry (VIO) provides metric motion but sparse geometry, whereas feed-forward depth models predict dense structure without ensuring metric scale.",
-"score": 5,
+"score": 6,
 "extra": {
 "github": "https://github.com/be2rlab/ACCORD",
-"stars": 51,
+"stars": 72,
 "comments": 3
 }
 },
@@ -9080,11 +9080,11 @@
 "alt_url": "https://arxiv.org/abs/2611.25567",
 "date": "2026-11-20",
 "summary": "An assistant monitoring a person performing a procedure is most useful when it can detect mistakes while there is still time to recover.",
-"score": 11,
+"score": 12,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 2
+"comments": 3
 }
 },
 "paper-2611.25604": {
@@ -9099,7 +9099,7 @@
 "score": 3,
 "extra": {
 "github": "https://github.com/PerfectXu88/PAD",
-"stars": 3,
+"stars": 4,
 "comments": 2
 }
 },
@@ -9131,7 +9131,7 @@
 "score": 1,
 "extra": {
 "github": "https://github.com/yermandy/TwinD",
-"stars": 1,
+"stars": 2,
 "comments": 2
 }
 },
@@ -9144,11 +9144,11 @@
 "alt_url": "https://arxiv.org/abs/2611.25980",
 "date": "2026-11-20",
 "summary": "World models aim to predict environment dynamics under actions, enabling the prediction of action consequences without executing them in the real world.",
-"score": 15,
+"score": 17,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 2
+"comments": 3
 }
 },
 "paper-2611.26073": {
@@ -9179,7 +9179,7 @@
 "score": 23,
 "extra": {
 "github": "https://github.com/ernie-research/HiUni",
-"stars": 14,
+"stars": 15,
 "comments": 2
 }
 },
@@ -9192,7 +9192,7 @@
 "alt_url": "https://arxiv.org/abs/2611.26211",
 "date": "2026-11-20",
 "summary": "Recently, video world models have advanced interactive generation, with large models offering higher quality and smaller models enabling faster inference.",
-"score": 2,
+"score": 7,
 "extra": {
 "github": "",
 "stars": 0,
@@ -9212,7 +9212,7 @@
 "extra": {
 "github": "https://github.com/jmaasch/itpd",
 "stars": 1,
-"comments": 1
+"comments": 2
 }
 },
 "paper-2611.26239": {
@@ -9224,11 +9224,11 @@
 "alt_url": "https://arxiv.org/abs/2611.26239",
 "date": "2026-11-20",
 "summary": "Vision-language-action (VLA) models enable robots to perform diverse tasks from visual observations and language instructions.",
-"score": 7,
+"score": 9,
 "extra": {
 "github": "https://github.com/franciscoliu/SAFI",
-"stars": 0,
-"comments": 2
+"stars": 1,
+"comments": 3
 }
 },
 "paper-2611.26248": {
@@ -9240,7 +9240,7 @@
 "alt_url": "https://arxiv.org/abs/2611.26248",
 "date": "2026-11-20",
 "summary": "AI agents are increasingly expected to act as AI scientists, which requires three increasingly open abilities: carrying out a given computational workflow correctly, choosing the next measurements from a given design space, and designing their own experiments.",
-"score": 5,
+"score": 7,
 "extra": {
 "github": "https://github.com/ZJUSCL/TwinLab-Bench",
 "stars": 6,
@@ -9275,7 +9275,7 @@
 "score": 10,
 "extra": {
 "github": "https://github.com/IlyaGusev/twicetold",
-"stars": 1,
+"stars": 2,
 "comments": 2
 }
 },
@@ -9307,7 +9307,7 @@
 "score": 25,
 "extra": {
 "github": "https://github.com/cactusqq/EgoCaptioner",
-"stars": 6,
+"stars": 7,
 "comments": 2
 }
 },
@@ -9320,11 +9320,11 @@
 "alt_url": "https://arxiv.org/abs/2611.26408",
 "date": "2026-11-20",
 "summary": "It has been demonstrated that, in certain settings, large language models can perform weight-space programming to directly modify the weights of neural networks.",
-"score": 15,
+"score": 17,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 2
+"comments": 3
 }
 },
 "paper-2611.26409": {
@@ -9336,10 +9336,10 @@
 "alt_url": "https://arxiv.org/abs/2611.26409",
 "date": "2026-11-20",
 "summary": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence.",
-"score": 44,
+"score": 45,
 "extra": {
 "github": "https://github.com/Tencent/WeMM-Video",
-"stars": 62,
+"stars": 94,
 "comments": 3
 }
 },
@@ -9355,7 +9355,7 @@
 "score": 22,
 "extra": {
 "github": "https://github.com/hzx122/ZeroVLN",
-"stars": 21,
+"stars": 44,
 "comments": 2
 }
 },
@@ -9368,10 +9368,10 @@
 "alt_url": "https://arxiv.org/abs/2611.26444",
 "date": "2026-11-20",
 "summary": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the compositio…",
-"score": 50,
+"score": 52,
 "extra": {
 "github": "https://github.com/Mind2Act/Mind2Act_World",
-"stars": 30,
+"stars": 37,
 "comments": 4
 }
 },
@@ -9384,7 +9384,7 @@
 "alt_url": "https://arxiv.org/abs/2611.26450",
 "date": "2026-11-20",
 "summary": "Pretrained language models (LMs) remain unreliable on exact multi-digit arithmetic without gradient fine-tuning or external tool interpreters.",
-"score": 5,
+"score": 7,
 "extra": {
 "github": "",
 "stars": 0,
@@ -9403,7 +9403,7 @@
 "score": 14,
 "extra": {
 "github": "https://github.com/RUCAIBox/AutoMaster",
-"stars": 22,
+"stars": 29,
 "comments": 2
 }
 },
@@ -9416,10 +9416,10 @@
 "alt_url": "https://arxiv.org/abs/2611.26511",
 "date": "2026-11-20",
 "summary": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, from vecset and triplanes to structured sparse voxels.",
-"score": 4,
+"score": 6,
 "extra": {
 "github": "https://github.com/DreamTechAI/Direct3D-V3",
-"stars": 38,
+"stars": 56,
 "comments": 2
 }
 },
@@ -9432,11 +9432,11 @@
 "alt_url": "https://arxiv.org/abs/2611.26540",
 "date": "2026-11-20",
 "summary": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitable for streaming applications such as voice assistants and v…",
-"score": 1,
+"score": 3,
 "extra": {
 "github": "https://github.com/kyutai-labs/aura",
-"stars": 23,
-"comments": 2
+"stars": 30,
+"comments": 3
 }
 },
 "paper-2611.26590": {
@@ -9448,7 +9448,7 @@
 "alt_url": "https://arxiv.org/abs/2611.26590",
 "date": "2026-11-20",
 "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations.",
-"score": 42,
+"score": 43,
 "extra": {
 "github": "",
 "stars": 0,
@@ -9464,10 +9464,10 @@
 "alt_url": "https://arxiv.org/abs/2611.26595",
 "date": "2026-11-20",
 "summary": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics.",
-"score": 35,
+"score": 39,
 "extra": {
 "github": "https://github.com/FrankYang-17/Coda",
-"stars": 22,
+"stars": 25,
 "comments": 4
 }
 },
@@ -9480,11 +9480,11 @@
 "alt_url": "https://arxiv.org/abs/2611.26603",
 "date": "2026-11-20",
 "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution.",
-"score": 30,
+"score": 34,
 "extra": {
 "github": "https://github.com/apple-aiml-research/ml-depth-pro-2",
-"stars": 284,
-"comments": 2
+"stars": 444,
+"comments": 3
 }
 },
 "paper-2611.26617": {
@@ -9499,7 +9499,7 @@
 "score": 4,
 "extra": {
 "github": "https://github.com/showlab/O2LaF",
-"stars": 6,
+"stars": 7,
 "comments": 2
 }
 },
@@ -9512,7 +9512,7 @@
 "alt_url": "https://arxiv.org/abs/2611.26624",
 "date": "2026-11-20",
 "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning.",
-"score": 1,
+"score": 3,
 "extra": {
 "github": "https://github.com/xt4d/PlayCraft",
 "stars": 6,
@@ -9528,11 +9528,11 @@
 "alt_url": "https://arxiv.org/abs/2611.26627",
 "date": "2026-11-20",
 "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers.",
-"score": 17,
+"score": 20,
 "extra": {
 "github": "",
 "stars": 0,
-"comments": 2
+"comments": 4
 }
 },
 "paper-2611.26629": {
@@ -9544,10 +9544,10 @@
 "alt_url": "https://arxiv.org/abs/2611.26629",
 "date": "2026-11-20",
 "summary": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations.",
-"score": 37,
+"score": 39,
 "extra": {
 "github": "https://github.com/yesiltepe-hidir/PMD",
-"stars": 12,
+"stars": 14,
 "comments": 4
 }
 }

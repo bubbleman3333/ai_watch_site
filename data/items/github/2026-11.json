@@ -7,7 +7,7 @@
 "url": "https://github.com/21stware/bowel",
 "date": "2026-11-07",
 "summary": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
-"score": 612,
+"score": 617,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -56,7 +56,7 @@
 "url": "https://github.com/ATLURI0001/NeuroMirror",
 "date": "2026-11-13",
 "summary": "Real-time webcam-driven anatomical visualization with interactive X-ray simulations of cranial, neural, and muscular structures.",
-"score": 60,
+"score": 58,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -495,7 +495,7 @@
 "url": "https://github.com/DIYgod/pinky",
 "date": "2026-11-06",
 "summary": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-"score": 2640,
+"score": 2676,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -541,7 +541,7 @@
 "url": "https://github.com/Dodaios/ste80-humanizer",
 "date": "2026-11-09",
 "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-"score": 1053,
+"score": 1082,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -567,7 +567,7 @@
 "url": "https://github.com/DominikScholz/open-bot-avatar",
 "date": "2026-11-02",
 "summary": "A JSON spec and renderer for interactive agent avatars",
-"score": 753,
+"score": 768,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -589,7 +589,7 @@
 "url": "https://github.com/Domush/antigravity-plugin-context-mode",
 "date": "2026-11-14",
 "summary": "Reduce context size by 90%+ *and* make your agent smarter. Antigravity Context Mode is a local-first plugin built specifically for the Google Antigravity App. It prevents terminal commands, build log…",
-"score": 112,
+"score": 124,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -667,7 +667,7 @@
 "url": "https://github.com/DuskBotAI/duskbot",
 "date": "2026-11-05",
 "summary": "Free Grok Bot alternative that runs on your own models. Use the ChatGPT, Claude, or Grok subscription you already pay for, and get a team of bots each with its own memory and computer.",
-"score": 565,
+"score": 571,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -709,6 +709,32 @@
 "object-detection"
 ],
 "license": ""
+}
+},
+"repo-EL4CTEO__fast-anything": {
+"id": "repo-EL4CTEO__fast-anything",
+"source": "github",
+"kind": "repo",
+"title": "EL4CTEO/fast-anything",
+"url": "https://github.com/EL4CTEO/fast-anything",
+"date": "2026-11-21",
+"summary": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+"score": 1919,
+"extra": {
+"lang": "Rust",
+"topics": [
+"agent-skills",
+"ai-agents",
+"claude-code",
+"claude-code-plugin",
+"codex",
+"developer-tools",
+"ffi",
+"mcp",
+"mcp-server",
+"napi-rs"
+],
+"license": "MIT"
 }
 },
 "repo-ElysiumduskImmortal63439__resp-warden-desk": {
@@ -771,7 +797,7 @@
 "url": "https://github.com/FrigadeHQ/yogurt",
 "date": "2026-11-10",
 "summary": "Private AI meeting notes. Free and open source.",
-"score": 2868,
+"score": 2979,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -823,7 +849,7 @@
 "url": "https://github.com/Golden-66/agentic-rag-kb",
 "date": "2026-11-16",
 "summary": "基于 Agentic RAG 的企业级智能知识库：混合检索 + Reranker + LangGraph Agent + SSE 流式问答",
-"score": 38,
+"score": 40,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -871,7 +897,7 @@
 "url": "https://github.com/HimanshuMohanty-Git24/gitaviswa",
 "date": "2026-11-04",
 "summary": "GitaViśva (गीताविश्व): the Bhagavad Gita as a living knowledge graph. Explore all 700 verses in 3D, read 20 classical commentaries, listen to recitations, ask a GraphRAG companion with your own free…",
-"score": 120,
+"score": 123,
 "extra": {
 "lang": "Cypher",
 "topics": [
@@ -913,6 +939,32 @@
 "multimodal"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-INK-Q__agy-fast": {
+"id": "repo-INK-Q__agy-fast",
+"source": "github",
+"kind": "repo",
+"title": "INK-Q/agy-fast",
+"url": "https://github.com/INK-Q/agy-fast",
+"date": "2026-11-19",
+"summary": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+"score": 524,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agent",
+"ai-coding",
+"antigravity",
+"antigravity-cli",
+"antigravity-ide",
+"antigravity-plugins",
+"coding-agent",
+"context-optimization",
+"developer-productivity",
+"developer-tools"
+],
+"license": "MIT"
 }
 },
 "repo-ITprogamatikDedSec__ai--manus": {
@@ -971,7 +1023,7 @@
 "url": "https://github.com/JosssphZhou/poki",
 "date": "2026-11-05",
 "summary": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-"score": 1748,
+"score": 1833,
 "extra": {
 "lang": "Swift",
 "topics": [
@@ -987,6 +1039,32 @@
 "llm"
 ],
 "license": "AGPL-3.0"
+}
+},
+"repo-Juanlabs1989__descript-pro-win": {
+"id": "repo-Juanlabs1989__descript-pro-win",
+"source": "github",
+"kind": "repo",
+"title": "Juanlabs1989/descript-pro-win",
+"url": "https://github.com/Juanlabs1989/descript-pro-win",
+"date": "2026-11-21",
+"summary": "Descript - AI-powered video and podcast editor for text-based editing, transcription and screen recording on Windows 10/11",
+"score": 366,
+"extra": {
+"lang": "",
+"topics": [
+"ai",
+"ai-art",
+"ai-tools",
+"ai-writing",
+"artificial-intelligence",
+"descript",
+"descript-ai",
+"descript-free",
+"descript-macos",
+"descript-pc"
+],
+"license": "NOASSERTION"
 }
 },
 "repo-Jumbomuffin777__Frontier-UI": {
@@ -1023,7 +1101,7 @@
 "url": "https://github.com/KKKKhazix/agent-autoloop",
 "date": "2026-11-03",
 "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-"score": 6203,
+"score": 6287,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -1195,6 +1273,32 @@
 "mt4"
 ],
 "license": ""
+}
+},
+"repo-Minglink__dsh-jailbreak-workflow": {
+"id": "repo-Minglink__dsh-jailbreak-workflow",
+"source": "github",
+"kind": "repo",
+"title": "Minglink/dsh-jailbreak-workflow",
+"url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+"date": "2026-11-01",
+"summary": "Visual soft-workflow plugin for DeepSeek Harness (dsh-workflow-lite 0.11.0): canvas-to-plan-prompt engine paired with Minglink/dsh-workflows for LLM red-teaming & safety research.",
+"score": 1212,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai-agents",
+"ai-safety",
+"arxiv-research",
+"deepseek",
+"deepseek-harness",
+"dsh-plugin",
+"dsh-workflow-lite",
+"llm-evaluation",
+"llm-security",
+"mcp-security"
+],
+"license": "NOASSERTION"
 }
 },
 "repo-MiniMax-AI__mcode-agent-table": {
@@ -1513,7 +1617,7 @@
 "url": "https://github.com/SAOS-3624/dsh-see-now",
 "date": "2026-11-01",
 "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-"score": 730,
+"score": 740,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -1538,7 +1642,7 @@
 "url": "https://github.com/Sandflow-ai/sand3d",
 "date": "2026-11-03",
 "summary": "3D modeling in Python, built for LLMs.",
-"score": 2220,
+"score": 2232,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -1638,7 +1742,7 @@
 "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
 "date": "2026-11-04",
 "summary": "Can AI agents rebuild websites through browser exploration?",
-"score": 606,
+"score": 651,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -1768,7 +1872,7 @@
 "url": "https://github.com/Timaga/noda-local-ai-notes",
 "date": "2026-11-13",
 "summary": "Local-first AI note-taking app for Windows: Markdown notes, a personal knowledge base, knowledge graph, semantic search and chat with cited sources.",
-"score": 105,
+"score": 104,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -2387,7 +2491,7 @@
 "url": "https://github.com/VoxDance-Lab/VoxMel",
 "date": "2026-11-11",
 "summary": "VoxMel: Wavelet-Factorized Autoregressive Mel-Spectrogram Modeling for Zero-Shot Speech Synthesis",
-"score": 208,
+"score": 242,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2799,7 +2903,7 @@
 "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
 "date": "2026-11-10",
 "summary": "A curated list of papers for AI in Astronomy & Astrophysics.",
-"score": 408,
+"score": 411,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -2825,7 +2929,7 @@
 "url": "https://github.com/XinaTian/MROffice",
 "date": "2026-11-10",
 "summary": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
-"score": 1433,
+"score": 2141,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -2972,7 +3076,7 @@
 "url": "https://github.com/adventists-ai/sophon-realtime",
 "date": "2026-11-04",
 "summary": "Sophon-Realtime v1: open full-duplex voice models that hear your tone and speak with one. Tag and Flash run on one GPU with vLLM-Omni; E2E in preview.",
-"score": 511,
+"score": 522,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3045,7 +3149,7 @@
 "url": "https://github.com/agentes-chat/agentes-chat",
 "date": "2026-11-09",
 "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and…",
-"score": 1909,
+"score": 1954,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3071,7 +3175,7 @@
 "url": "https://github.com/ai-timon/timon",
 "date": "2026-11-06",
 "summary": "Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place",
-"score": 672,
+"score": 704,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3097,7 +3201,7 @@
 "url": "https://github.com/alexeyw/lot-map",
 "date": "2026-11-09",
 "summary": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
-"score": 1106,
+"score": 1128,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3226,7 +3330,7 @@
 "url": "https://github.com/aryamandarda/tamserve",
 "date": "2026-11-11",
 "summary": "Live, multi-camera object tracking with SAM 2 and EdgeTAM, on one GPU or many. One model per GPU serves every camera: faster than the original code, about 4x less GPU memory, identical masks.",
-"score": 269,
+"score": 273,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3304,7 +3408,7 @@
 "url": "https://github.com/beiwocaishijia/gezhi-sheets",
 "date": "2026-11-09",
 "summary": "格知 AI · Gezhi Sheets｜让表格听懂你的话。支持 GLM、Kimi、豆包、DeepSeek、Qwen 的本地 AI 表格助手。",
-"score": 542,
+"score": 560,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3326,7 +3430,7 @@
 "url": "https://github.com/berkantay/gpucanvas",
 "date": "2026-11-12",
 "summary": "Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an editor selects, moves and resizes them, shaders and transitions run on them, and an AI agent can read them and point at t…",
-"score": 546,
+"score": 549,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3378,7 +3482,7 @@
 "url": "https://github.com/bluesky-social/diderot",
 "date": "2026-11-20",
 "summary": "Search and ask across your organization's knowledge: Slack, coding-agent sessions, docs and tickets. Self-hosted.",
-"score": 40,
+"score": 48,
 "extra": {
 "lang": "Go",
 "topics": [
@@ -3399,7 +3503,7 @@
 "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
 "date": "2026-11-19",
 "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python script…",
-"score": 2400,
+"score": 2747,
 "extra": {
 "lang": "",
 "topics": [
@@ -3425,7 +3529,7 @@
 "url": "https://github.com/boringmarketer/boring-marketing-skills",
 "date": "2026-11-16",
 "summary": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-"score": 773,
+"score": 796,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3475,7 +3579,7 @@
 "url": "https://github.com/bytedance/axion1_0",
 "date": "2026-11-02",
 "summary": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OPD. Full recipe released.",
-"score": 102,
+"score": 103,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3525,7 +3629,7 @@
 "url": "https://github.com/chase1225/anythingllm-verona-document-chat",
 "date": "2026-11-19",
 "summary": "Document-grounded chat for Verona - AnythingLLM workspace integration.",
-"score": 149,
+"score": 146,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -3551,7 +3655,7 @@
 "url": "https://github.com/christinesoft17/claude-desktop-app-win",
 "date": "2026-11-21",
 "summary": "Anthropic Claude Desktop App - AI assistant application for conversational interaction, document analysis and task automation on Windows 10/11",
-"score": 44,
+"score": 357,
 "extra": {
 "lang": "",
 "topics": [
@@ -3567,6 +3671,29 @@
 "desktop"
 ],
 "license": "NOASSERTION"
+}
+},
+"repo-cognizant-ai-labs__agentic-web": {
+"id": "repo-cognizant-ai-labs__agentic-web",
+"source": "github",
+"kind": "repo",
+"title": "cognizant-ai-labs/agentic-web",
+"url": "https://github.com/cognizant-ai-labs/agentic-web",
+"date": "2026-11-04",
+"summary": "Build the open agentic web",
+"score": 33,
+"extra": {
+"lang": "JavaScript",
+"topics": [
+"agentic",
+"agents",
+"ai",
+"hackathon",
+"llm",
+"llm-agents",
+"web"
+],
+"license": "Apache-2.0"
 }
 },
 "repo-credoksopho1984__blender-ai-copilot-studio": {
@@ -3603,7 +3730,7 @@
 "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
 "date": "2026-11-07",
 "summary": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-"score": 1086,
+"score": 1095,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -3650,7 +3777,7 @@
 "url": "https://github.com/dickoyudha-netizen/adobe-firefly-image-creator",
 "date": "2026-11-19",
 "summary": "Generate images from text prompts with Adobe Firefly Image Creator.",
-"score": 150,
+"score": 147,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -3676,7 +3803,7 @@
 "url": "https://github.com/didilili/mianstack",
 "date": "2026-11-02",
 "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-"score": 212,
+"score": 214,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3702,7 +3829,7 @@
 "url": "https://github.com/dkaraush/tinyasr",
 "date": "2026-11-09",
 "summary": "Rust library for running small Zipformer models, trained for speech recognition on device.",
-"score": 63,
+"score": 66,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3780,7 +3907,7 @@
 "url": "https://github.com/erkamyaman/rust-anything",
 "date": "2026-11-16",
 "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-"score": 7424,
+"score": 8005,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3806,7 +3933,7 @@
 "url": "https://github.com/erkamyaman/unslopovich",
 "date": "2026-11-09",
 "summary": "Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites.",
-"score": 280,
+"score": 290,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -3832,7 +3959,7 @@
 "url": "https://github.com/expo/exact",
 "date": "2026-11-02",
 "summary": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-"score": 4878,
+"score": 4919,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -3906,7 +4033,7 @@
 "url": "https://github.com/fendouai/ViralForge",
 "date": "2026-11-11",
 "summary": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0.",
-"score": 476,
+"score": 536,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -3930,7 +4057,7 @@
 "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
 "date": "2026-11-12",
 "summary": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. · blender-ai-…",
-"score": 506,
+"score": 505,
 "extra": {
 "lang": "",
 "topics": [
@@ -3956,7 +4083,7 @@
 "url": "https://github.com/gogoymh/auto-ontology-mcp",
 "date": "2026-11-06",
 "summary": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
-"score": 520,
+"score": 536,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4006,7 +4133,7 @@
 "url": "https://github.com/han938/open-webui-private-ai-desk",
 "date": "2026-11-20",
 "summary": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
-"score": 151,
+"score": 148,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4083,7 +4210,7 @@
 "url": "https://github.com/hyeonsang010716/OpenDocKit",
 "date": "2026-11-11",
 "summary": "Convert PDF, Office, HWP/HWPX, OpenDocument, RTF, EPUB, HTML, email and images into clean, LLM-ready Markdown.",
-"score": 42,
+"score": 44,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4109,7 +4236,7 @@
 "url": "https://github.com/hyperionaidev/smolmaxxing",
 "date": "2026-11-04",
 "summary": "maxxing the ability to run different LLMs on the smallest devices possible",
-"score": 1089,
+"score": 1108,
 "extra": {
 "lang": "C",
 "topics": [
@@ -4284,7 +4411,7 @@
 "url": "https://github.com/kenzz-devv/open-webui-talora-ai-workspace",
 "date": "2026-11-18",
 "summary": "Streamlined workspace for organizing and running AI workflows in one place.",
-"score": 150,
+"score": 147,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4310,7 +4437,7 @@
 "url": "https://github.com/kleinicke/fastforks",
 "date": "2026-11-03",
 "summary": "Faster versions of published vision models behind one API. With optional custom kernels for even bigger speedup",
-"score": 31,
+"score": 32,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4336,7 +4463,7 @@
 "url": "https://github.com/kubai087/kubai-icons",
 "date": "2026-11-03",
 "summary": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse t…",
-"score": 1109,
+"score": 1164,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -4362,7 +4489,7 @@
 "url": "https://github.com/leostera/git-twig",
 "date": "2026-11-15",
 "summary": "lightweight git-worktrees for agents",
-"score": 275,
+"score": 283,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -4451,6 +4578,32 @@
 "license": "Apache-2.0"
 }
 },
+"repo-localixai__localix-terminal": {
+"id": "repo-localixai__localix-terminal",
+"source": "github",
+"kind": "repo",
+"title": "localixai/localix-terminal",
+"url": "https://github.com/localixai/localix-terminal",
+"date": "2026-11-01",
+"summary": "Localix Terminal: the terminal for you and your coding agents. Project sessions that come back as you left them; Claude Code, Codex or any CLI agent runs in them, beside a browser, a board and the St…",
+"score": 32,
+"extra": {
+"lang": "Rust",
+"topics": [
+"agents",
+"ai-agents",
+"ai-terminal",
+"browser",
+"claude-code",
+"codex",
+"coding-agents",
+"desktop-app",
+"developer-tools",
+"gemini-cli"
+],
+"license": "MIT"
+}
+},
 "repo-mankidev__antialgorithm": {
 "id": "repo-mankidev__antialgorithm",
 "source": "github",
@@ -4459,7 +4612,7 @@
 "url": "https://github.com/mankidev/antialgorithm",
 "date": "2026-11-14",
 "summary": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
-"score": 605,
+"score": 708,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4563,7 +4716,7 @@
 "url": "https://github.com/molly554/whiteboard-ai-tutor",
 "date": "2026-11-11",
 "summary": "Open-source whiteboard AI tutor with animated lessons and interactive playback. Compare Claude, Gemini & DeepSeek across 288 generation runs and 64 blind-reviewed boards.",
-"score": 546,
+"score": 549,
 "extra": {
 "lang": "HTML",
 "topics": [
@@ -4693,7 +4846,7 @@
 "url": "https://github.com/native-bond-lab/Jev-Interaction",
 "date": "2026-11-10",
 "summary": "System-One-controlled full-duplex voice interaction: turn-taking as plain-language decisions judged by Jev.",
-"score": 82,
+"score": 100,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4769,7 +4922,7 @@
 "url": "https://github.com/phasyn/phasyn-studio",
 "date": "2026-11-17",
 "summary": "AI filmmaking on your own GPUs: a self-hosted studio that generates short videos with sound and still images.",
-"score": 107,
+"score": 110,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -4805,6 +4958,32 @@
 "search"
 ],
 "license": "Apache-2.0"
+}
+},
+"repo-pierridotite__mobile-agent-testers": {
+"id": "repo-pierridotite__mobile-agent-testers",
+"source": "github",
+"kind": "repo",
+"title": "pierridotite/mobile-agent-testers",
+"url": "https://github.com/pierridotite/mobile-agent-testers",
+"date": "2026-11-16",
+"summary": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility b…",
+"score": 547,
+"extra": {
+"lang": "Python",
+"topics": [
+"accessibility-testing",
+"ai-agents",
+"ai-testing",
+"android",
+"android-emulator",
+"claude",
+"claude-code",
+"e2e-testing",
+"exploratory-testing",
+"expo"
+],
+"license": "MIT"
 }
 },
 "repo-precygtrucqui1981__blender-ai-copilot-lab": {
@@ -4867,7 +5046,7 @@
 "url": "https://github.com/punit2911/meridian-multimodal-rag",
 "date": "2026-11-16",
 "summary": "Evidence-grounded multimodal RAG for industrial maintenance documentation, with hybrid retrieval, citations, conflict resolution, claim verification and abstention. Includes an optional tool-using LL…",
-"score": 72,
+"score": 73,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -4997,7 +5176,7 @@
 "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
 "date": "2026-11-12",
 "summary": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — with…",
-"score": 516,
+"score": 517,
 "extra": {
 "lang": "",
 "topics": [
@@ -5095,7 +5274,7 @@
 "url": "https://github.com/senickimoro-art/pinokio-olvara-ai-workspace",
 "date": "2026-11-18",
 "summary": "A modular desktop workspace for configuring and running local AI models.",
-"score": 150,
+"score": 147,
 "extra": {
 "lang": "Dockerfile",
 "topics": [
@@ -5121,7 +5300,7 @@
 "url": "https://github.com/shanselman/sandbox-mcp",
 "date": "2026-11-06",
 "summary": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
-"score": 494,
+"score": 496,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -5248,7 +5427,7 @@
 "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
 "date": "2026-11-16",
 "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-"score": 1647,
+"score": 1962,
 "extra": {
 "lang": "Python",
 "topics": [
@@ -5366,6 +5545,27 @@
 "license": "Apache-2.0"
 }
 },
+"repo-thesysdev__opendashboards": {
+"id": "repo-thesysdev__opendashboards",
+"source": "github",
+"kind": "repo",
+"title": "thesysdev/opendashboards",
+"url": "https://github.com/thesysdev/opendashboards",
+"date": "2026-11-06",
+"summary": "Open Source Claude Dashboards",
+"score": 451,
+"extra": {
+"lang": "TypeScript",
+"topics": [
+"ai",
+"analytics",
+"claude",
+"dashboard",
+"dashboards"
+],
+"license": "MIT"
+}
+},
 "repo-tiobeharxi1987__blender-ai-copilot-flow": {
 "id": "repo-tiobeharxi1987__blender-ai-copilot-flow",
 "source": "github",
@@ -5374,7 +5574,7 @@
 "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
 "date": "2026-11-12",
 "summary": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual st…",
-"score": 514,
+"score": 515,
 "extra": {
 "lang": "",
 "topics": [
@@ -5712,7 +5912,7 @@
 "url": "https://github.com/trinity-works/frostwind",
 "date": "2026-11-19",
 "summary": "A nature-grounded world compiler for pixel art. Real physics, imaginary worlds.",
-"score": 84,
+"score": 87,
 "extra": {
 "lang": "JavaScript",
 "topics": [
@@ -5762,7 +5962,7 @@
 "url": "https://github.com/varops/actp",
 "date": "2026-11-09",
 "summary": "Agent Communication Transport Protocol (ACP over HTTP)",
-"score": 89,
+"score": 90,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -5859,7 +6059,7 @@
 "url": "https://github.com/voyager-so/vork",
 "date": "2026-11-05",
 "summary": "Headless 3D and VFX engine for agents. Research preview.",
-"score": 1679,
+"score": 1689,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -6015,7 +6215,7 @@
 "url": "https://github.com/ysunyang4/Nexus",
 "date": "2026-11-13",
 "summary": "Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions.",
-"score": 482,
+"score": 493,
 "extra": {
 "lang": "TypeScript",
 "topics": [
@@ -6064,7 +6264,7 @@
 "url": "https://github.com/yzsind/mydb",
 "date": "2026-11-16",
 "summary": "A high-performance MySQL-compatible database for HTAP and AI agents Mixed transactional and analytical workloads, with native AI retrieval.",
-"score": 88,
+"score": 95,
 "extra": {
 "lang": "Rust",
 "topics": [
@@ -6086,7 +6286,7 @@
 "url": "https://github.com/zaxiu88888/issue-rag",
 "date": "2026-11-01",
 "summary": "RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Reports the interval, not just the best number.",
-"score": 487,
+"score": 489,
 "extra": {
 "lang": "Python",
 "topics": [
