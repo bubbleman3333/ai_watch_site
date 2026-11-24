@@ -6175,6 +6175,22 @@
 "comments": 3
 }
 },
+"paper-2611.15449": {
+"id": "paper-2611.15449",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning",
+"url": "https://huggingface.co/papers/2611.15449",
+"alt_url": "https://arxiv.org/abs/2611.15449",
+"date": "2026-11-23",
+"summary": "Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content.",
+"score": 21,
+"extra": {
+"github": "https://github.com/jasonleex1995/TAISR_needs_Reasoning",
+"stars": 4,
+"comments": 2
+}
+},
 "paper-2611.15640": {
 "id": "paper-2611.15640",
 "source": "hf_papers",
@@ -7295,6 +7311,22 @@
 "comments": 11
 }
 },
+"paper-2611.19247": {
+"id": "paper-2611.19247",
+"source": "hf_papers",
+"kind": "paper",
+"title": "GameWM: Toward Next-Generation Video Games with Interaction-Centric World Models",
+"url": "https://huggingface.co/papers/2611.19247",
+"alt_url": "https://arxiv.org/abs/2611.19247",
+"date": "2026-11-23",
+"summary": "For more than half a century, video games have pursued better graphics, more natural interaction, and more engaging gameplay. Generative video models (VMs) now bear on all three.",
+"score": 3,
+"extra": {
+"github": "https://github.com/hebing-sjtu/GameWM",
+"stars": 5,
+"comments": 2
+}
+},
 "paper-2611.19499": {
 "id": "paper-2611.19499",
 "source": "hf_papers",
@@ -7935,6 +7967,22 @@
 "comments": 3
 }
 },
+"paper-2611.21485": {
+"id": "paper-2611.21485",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits",
+"url": "https://huggingface.co/papers/2611.21485",
+"alt_url": "https://arxiv.org/abs/2611.21485",
+"date": "2026-11-23",
+"summary": "Persistent spatial understanding is essential for embodied agents to operate reliably in environments they repeatedly encounter.",
+"score": 10,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 4
+}
+},
 "paper-2611.21553": {
 "id": "paper-2611.21553",
 "source": "hf_papers",
@@ -8143,6 +8191,22 @@
 "comments": 2
 }
 },
+"paper-2611.22343": {
+"id": "paper-2611.22343",
+"source": "hf_papers",
+"kind": "paper",
+"title": "PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching",
+"url": "https://huggingface.co/papers/2611.22343",
+"alt_url": "https://arxiv.org/abs/2611.22343",
+"date": "2026-11-23",
+"summary": "Identity matching asks whether two records denote the same identity, yet the answer depends on the target granularity.",
+"score": 6,
+"extra": {
+"github": "https://github.com/alibaba-multimodal-industrial-ai/PURE",
+"stars": 3,
+"comments": 2
+}
+},
 "paper-2611.22382": {
 "id": "paper-2611.22382",
 "source": "hf_papers",
@@ -8157,6 +8221,38 @@
 "github": "",
 "stars": 0,
 "comments": 3
+}
+},
+"paper-2611.22479": {
+"id": "paper-2611.22479",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence",
+"url": "https://huggingface.co/papers/2611.22479",
+"alt_url": "https://arxiv.org/abs/2611.22479",
+"date": "2026-11-23",
+"summary": "-05-X-03), Known Exploited Vulnerabilities (KEV) catalogs, and exploitation sightings.",
+"score": 3,
+"extra": {
+"github": "https://github.com/vulnerability-lookup/exploitation-patch-timeline-paper",
+"stars": 2,
+"comments": 4
+}
+},
+"paper-2611.22495": {
+"id": "paper-2611.22495",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Motion-Aware Reward Modeling for Instruction-Guided Video Editing",
+"url": "https://huggingface.co/papers/2611.22495",
+"alt_url": "https://arxiv.org/abs/2611.22495",
+"date": "2026-11-23",
+"summary": "Reward models for instruction-guided video editing can favor temporal consistency at the expense of motion. We study this failure, termed motion collapse, using controlled motion-suppression variants of real edits.",
+"score": 2,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
 }
 },
 "paper-2611.22563": {
@@ -8479,6 +8575,22 @@
 "comments": 2
 }
 },
+"paper-2611.23417": {
+"id": "paper-2611.23417",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Autoregressive View Model",
+"url": "https://huggingface.co/papers/2611.23417",
+"alt_url": "https://arxiv.org/abs/2611.23417",
+"date": "2026-11-23",
+"summary": "We present the Autoregressive View Model (AVM), which generates a scene as a stream of views without constructing an explicit 3D representation.",
+"score": 1,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
 "paper-2611.23499": {
 "id": "paper-2611.23499",
 "source": "hf_papers",
@@ -8623,6 +8735,22 @@
 "comments": 2
 }
 },
+"paper-2611.24025": {
+"id": "paper-2611.24025",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Intent Contracts: Taking Tools Away from Agents",
+"url": "https://huggingface.co/papers/2611.24025",
+"alt_url": "https://arxiv.org/abs/2611.24025",
+"date": "2026-11-23",
+"summary": "Intent contracts are an authorization interface for tool-using LLM agents in which the planning model holds no tools. For each step it submits a short logged contract: a goal, a verbatim quotation of the user, and scope fields.",
+"score": 4,
+"extra": {
+"github": "https://github.com/zwang-devv/intent-contracts",
+"stars": 1,
+"comments": 4
+}
+},
 "paper-2611.24059": {
 "id": "paper-2611.24059",
 "source": "hf_papers",
@@ -8653,6 +8781,22 @@
 "github": "https://github.com/Sachithx/PACT",
 "stars": 1,
 "comments": 3
+}
+},
+"paper-2611.24077": {
+"id": "paper-2611.24077",
+"source": "hf_papers",
+"kind": "paper",
+"title": "AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation",
+"url": "https://huggingface.co/papers/2611.24077",
+"alt_url": "https://arxiv.org/abs/2611.24077",
+"date": "2026-11-23",
+"summary": "Vision-language-action (VLA) models enable unmanned aerial vehicles (UAVs) to follow natural-language instructions, yet still fail frequently in closed-loop flight.",
+"score": 7,
+"extra": {
+"github": "https://github.com/starsholic/AeroRSI",
+"stars": 9,
+"comments": 2
 }
 },
 "paper-2611.24098": {
@@ -8735,6 +8879,22 @@
 "comments": 2
 }
 },
+"paper-2611.24249": {
+"id": "paper-2611.24249",
+"source": "hf_papers",
+"kind": "paper",
+"title": "From Points to Trajectories: Rethinking Multimodal Alignment for Physical Events",
+"url": "https://huggingface.co/papers/2611.24249",
+"alt_url": "https://arxiv.org/abs/2611.24249",
+"date": "2026-11-23",
+"summary": "Advancing physical artificial intelligence (Physical AI) requires moving beyond static object recognition to ground how real-world mechanics (e.g., impact, friction, and force transfer) unfold over time.",
+"score": 4,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
 "paper-2611.24362": {
 "id": "paper-2611.24362",
 "source": "hf_papers",
@@ -8781,6 +8941,22 @@
 "github": "https://github.com/Xalp/LateComer",
 "stars": 2,
 "comments": 2
+}
+},
+"paper-2611.24636": {
+"id": "paper-2611.24636",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Clover-35B-A3B-Preview Technical Report",
+"url": "https://huggingface.co/papers/2611.24636",
+"alt_url": "https://arxiv.org/abs/2611.24636",
+"date": "2026-11-23",
+"summary": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation.",
+"score": 37,
+"extra": {
+"github": "https://github.com/DiffuSpace/Clover-35B-A3B-Preview",
+"stars": 163,
+"comments": 4
 }
 },
 "paper-2611.24651": {
@@ -9039,6 +9215,22 @@
 "comments": 2
 }
 },
+"paper-2611.25252": {
+"id": "paper-2611.25252",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark",
+"url": "https://huggingface.co/papers/2611.25252",
+"alt_url": "https://arxiv.org/abs/2611.25252",
+"date": "2026-11-23",
+"summary": "Coding agents built on large language models (LLMs) now help develop many models published as general solutions. Should generality instead reside in the agent that builds a model for each new task?",
+"score": 4,
+"extra": {
+"github": "https://github.com/JialingRichard/nextunit-bench",
+"stars": 1,
+"comments": 4
+}
+},
 "paper-2611.25279": {
 "id": "paper-2611.25279",
 "source": "hf_papers",
@@ -9071,6 +9263,38 @@
 "comments": 2
 }
 },
+"paper-2611.25476": {
+"id": "paper-2611.25476",
+"source": "hf_papers",
+"kind": "paper",
+"title": "WeightCode: Installing New Capabilities into Neural Networks via Weight-Space Programming",
+"url": "https://huggingface.co/papers/2611.25476",
+"alt_url": "https://arxiv.org/abs/2611.25476",
+"date": "2026-11-24",
+"summary": "Neural networks encode learned capabilities in their weights, yet extending those capabilities with explicit task knowledge remains a fundamental challenge.",
+"score": 7,
+"extra": {
+"github": "https://github.com/Gen-Verse/WeightCode",
+"stars": 28,
+"comments": 1
+}
+},
+"paper-2611.25534": {
+"id": "paper-2611.25534",
+"source": "hf_papers",
+"kind": "paper",
+"title": "How Feedback-Free Self-Evolution Reshapes Agent Skills: A Systematic Study",
+"url": "https://huggingface.co/papers/2611.25534",
+"alt_url": "https://arxiv.org/abs/2611.25534",
+"date": "2026-11-23",
+"summary": "Agent skills are documents in which experts write down procedural knowledge, and models increasingly maintain them by rewriting them without feedback.",
+"score": 4,
+"extra": {
+"github": "https://github.com/LitaoGuo/How-Self-Evolution-Reshapes-Skills",
+"stars": 3,
+"comments": 1
+}
+},
 "paper-2611.25567": {
 "id": "paper-2611.25567",
 "source": "hf_papers",
@@ -9100,6 +9324,22 @@
 "extra": {
 "github": "https://github.com/PerfectXu88/PAD",
 "stars": 4,
+"comments": 2
+}
+},
+"paper-2611.25773": {
+"id": "paper-2611.25773",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Duopra: From Full-Duplex Conversation to Full-Duplex Agency",
+"url": "https://huggingface.co/papers/2611.25773",
+"alt_url": "https://arxiv.org/abs/2611.25773",
+"date": "2026-11-23",
+"summary": "Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions.",
+"score": 18,
+"extra": {
+"github": "https://github.com/cyChen2003/duopra",
+"stars": 56,
 "comments": 2
 }
 },
@@ -9423,6 +9663,22 @@
 "comments": 2
 }
 },
+"paper-2611.26516": {
+"id": "paper-2611.26516",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Plan4D: Generative Plannable 4D Worlds",
+"url": "https://huggingface.co/papers/2611.26516",
+"alt_url": "https://arxiv.org/abs/2611.26516",
+"date": "2026-11-24",
+"summary": "Most world models for future prediction prioritize aestetic quality of generated videos, but offer only weak physical grounding and limited geometric consistency over time, due to the lack of explicit 4D modeling.",
+"score": 25,
+"extra": {
+"github": "https://github.com/AMAP-ML/plan4d",
+"stars": 11,
+"comments": 1
+}
+},
 "paper-2611.26540": {
 "id": "paper-2611.26540",
 "source": "hf_papers",
@@ -9487,6 +9743,22 @@
 "comments": 3
 }
 },
+"paper-2611.26613": {
+"id": "paper-2611.26613",
+"source": "hf_papers",
+"kind": "paper",
+"title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+"url": "https://huggingface.co/papers/2611.26613",
+"alt_url": "https://arxiv.org/abs/2611.26613",
+"date": "2026-11-23",
+"summary": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives.",
+"score": 7,
+"extra": {
+"github": "https://github.com/cxcscmu/AgentRoboCritic",
+"stars": 4,
+"comments": 2
+}
+},
 "paper-2611.26617": {
 "id": "paper-2611.26617",
 "source": "hf_papers",
@@ -9549,6 +9821,278 @@
 "github": "https://github.com/yesiltepe-hidir/PMD",
 "stars": 14,
 "comments": 4
+}
+},
+"paper-2611.26809": {
+"id": "paper-2611.26809",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Search From the Start: Search-Native Pretraining for Language Models",
+"url": "https://huggingface.co/papers/2611.26809",
+"alt_url": "https://arxiv.org/abs/2611.26809",
+"date": "2026-11-23",
+"summary": "Modern language models (LMs) are increasingly deployed with access to search tools at inference. Yet pretraining remains predominantly focused on predicting static text, with search capabilities typically introduced during post-training.",
+"score": 4,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.26954": {
+"id": "paper-2611.26954",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation",
+"url": "https://huggingface.co/papers/2611.26954",
+"alt_url": "https://arxiv.org/abs/2611.26954",
+"date": "2026-11-23",
+"summary": "Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations.",
+"score": 40,
+"extra": {
+"github": "https://github.com/Jingchensun/future-opsd",
+"stars": 8,
+"comments": 2
+}
+},
+"paper-2611.27193": {
+"id": "paper-2611.27193",
+"source": "hf_papers",
+"kind": "paper",
+"title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+"url": "https://huggingface.co/papers/2611.27193",
+"alt_url": "https://arxiv.org/abs/2611.27193",
+"date": "2026-11-23",
+"summary": "Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polytope, the set of doubly stochastic matrices.",
+"score": 94,
+"extra": {
+"github": "https://github.com/Newiz430/cmHC",
+"stars": 0,
+"comments": 3
+}
+},
+"paper-2611.27211": {
+"id": "paper-2611.27211",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Explicit Style Extraction for Personalized Long-Form Text Generation",
+"url": "https://huggingface.co/papers/2611.27211",
+"alt_url": "https://arxiv.org/abs/2611.27211",
+"date": "2026-11-23",
+"summary": "Personalized long-form generation asks a language model to write new text the way a specific user would.",
+"score": 3,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.27229": {
+"id": "paper-2611.27229",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Prune to Expand: Training Prompt Enhancers with Less to Imitate",
+"url": "https://huggingface.co/papers/2611.27229",
+"alt_url": "https://arxiv.org/abs/2611.27229",
+"date": "2026-11-23",
+"summary": "Prompt enhancement (PE) refines concise user prompts into detailed descriptions to improve the compositional aesthetics of generated images while preserving user intent.",
+"score": 4,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.27319": {
+"id": "paper-2611.27319",
+"source": "hf_papers",
+"kind": "paper",
+"title": "SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation",
+"url": "https://huggingface.co/papers/2611.27319",
+"alt_url": "https://arxiv.org/abs/2611.27319",
+"date": "2026-11-24",
+"summary": "Optical Character Recognition (OCR) pipelines and vision-language models exhibit high accuracy on standard OCR and document-understanding benchmarks, yet they systematically underperform on document patterns that are operationally critical in financial workfl…",
+"score": 1,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.27398": {
+"id": "paper-2611.27398",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Taking Apart and Putting Together: Tracking Objects Through Physical Transformations",
+"url": "https://huggingface.co/papers/2611.27398",
+"alt_url": "https://arxiv.org/abs/2611.27398",
+"date": "2026-11-23",
+"summary": "We introduce Transformation Tracking and Understanding (TTU), extending video object tracking to environments where objects undergo physical assemblies and disassemblies.",
+"score": 5,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.27490": {
+"id": "paper-2611.27490",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval",
+"url": "https://huggingface.co/papers/2611.27490",
+"alt_url": "https://arxiv.org/abs/2611.27490",
+"date": "2026-11-23",
+"summary": "Most established instance-retrieval benchmarks emphasise landmarks; small sculptures from visually similar series offer a complementary challenge.",
+"score": 2,
+"extra": {
+"github": "https://github.com/turhancan97/doppeldwarf-306",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.27915": {
+"id": "paper-2611.27915",
+"source": "hf_papers",
+"kind": "paper",
+"title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+"url": "https://huggingface.co/papers/2611.27915",
+"alt_url": "https://arxiv.org/abs/2611.27915",
+"date": "2026-11-23",
+"summary": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world.",
+"score": 7,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 2
+}
+},
+"paper-2611.27963": {
+"id": "paper-2611.27963",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Non-penetrating World Models",
+"url": "https://huggingface.co/papers/2611.27963",
+"alt_url": "https://arxiv.org/abs/2611.27963",
+"date": "2026-11-23",
+"summary": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles.",
+"score": 55,
+"extra": {
+"github": "https://github.com/yuhangdai427/NoPeWorld",
+"stars": 20,
+"comments": 3
+}
+},
+"paper-2611.27973": {
+"id": "paper-2611.27973",
+"source": "hf_papers",
+"kind": "paper",
+"title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+"url": "https://huggingface.co/papers/2611.27973",
+"alt_url": "https://arxiv.org/abs/2611.27973",
+"date": "2026-11-23",
+"summary": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures.",
+"score": 21,
+"extra": {
+"github": "https://github.com/Clare-Nie/MemOnce",
+"stars": 18,
+"comments": 2
+}
+},
+"paper-2611.28123": {
+"id": "paper-2611.28123",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Seeing the Invisible: How Vision-Language Models Read, Predict and Trace Radio Fields",
+"url": "https://huggingface.co/papers/2611.28123",
+"alt_url": "https://arxiv.org/abs/2611.28123",
+"date": "2026-11-23",
+"summary": "Operating in the physical world requires reasoning beyond what cameras directly capture. In a city, radio signals are invisible to the lens, yet their strength is governed by the buildings and streets an image does show.",
+"score": 4,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2611.28202": {
+"id": "paper-2611.28202",
+"source": "hf_papers",
+"kind": "paper",
+"title": "AutoPILOT: A Visual Agent Harness for Real-Time Gameplay",
+"url": "https://huggingface.co/papers/2611.28202",
+"alt_url": "https://arxiv.org/abs/2611.28202",
+"date": "2026-11-24",
+"summary": "Multimodal foundation models can play video games well when the game waits for them, but often fail when it keeps running.",
+"score": 23,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2611.28833": {
+"id": "paper-2611.28833",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Self-WSP: Can Language Models Improve Themselves Through Weight-Space Programming?",
+"url": "https://huggingface.co/papers/2611.28833",
+"alt_url": "https://arxiv.org/abs/2611.28833",
+"date": "2026-11-24",
+"summary": "Frontier language models can now read and edit the weights of a neural network much like code and thereby improve a small model, an approach known as Weight-Space Programming (WSP).",
+"score": 9,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2611.29238": {
+"id": "paper-2611.29238",
+"source": "hf_papers",
+"kind": "paper",
+"title": "GameAnything: From Any Inspirations to Playable Game Worlds",
+"url": "https://huggingface.co/papers/2611.29238",
+"alt_url": "https://arxiv.org/abs/2611.29238",
+"date": "2026-11-24",
+"summary": "AI-driven game development holds the potential to transform diverse human inspirations into interactive experiences.",
+"score": 4,
+"extra": {
+"github": "https://github.com/AetherLabsAI/GameAnything",
+"stars": 2,
+"comments": 4
+}
+},
+"paper-2611.29338": {
+"id": "paper-2611.29338",
+"source": "hf_papers",
+"kind": "paper",
+"title": "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation",
+"url": "https://huggingface.co/papers/2611.29338",
+"alt_url": "https://arxiv.org/abs/2611.29338",
+"date": "2026-11-24",
+"summary": "Recently, GPT-6 Astra demonstrates strong generalization in robot control, yet limited disclosure of its training leaves open how such capabilities can be reproduced.",
+"score": 10,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
+}
+},
+"paper-2611.29361": {
+"id": "paper-2611.29361",
+"source": "hf_papers",
+"kind": "paper",
+"title": "Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Values",
+"url": "https://huggingface.co/papers/2611.29361",
+"alt_url": "https://arxiv.org/abs/2611.29361",
+"date": "2026-11-24",
+"summary": "Current MLLM methods largely focus on whether models attend to the right visual regions, implicitly treating spatial attention map as the primary key of effective visual perception.",
+"score": 1,
+"extra": {
+"github": "",
+"stars": 0,
+"comments": 1
 }
 }
 }
