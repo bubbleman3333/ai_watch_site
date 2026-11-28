@@ -85,7 +85,7 @@
 "publisher": "MiniMax",
 "jp": false,
 "task": "text-generation",
-"downloads": 5489,
+"downloads": 5895,
 "lang": "en"
 }
 },
@@ -121,7 +121,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "",
-"downloads": 320,
+"downloads": 358,
 "lang": "en"
 }
 },
@@ -139,7 +139,7 @@
 "publisher": "Ai2",
 "jp": false,
 "task": "",
-"downloads": 19,
+"downloads": 22,
 "lang": "en"
 }
 },
@@ -319,7 +319,7 @@
 "publisher": "Apple",
 "jp": false,
 "task": "depth-estimation",
-"downloads": 532,
+"downloads": 682,
 "lang": "en"
 }
 },
@@ -337,7 +337,7 @@
 "publisher": "Apple",
 "jp": false,
 "task": "depth-estimation",
-"downloads": 947,
+"downloads": 1181,
 "lang": "en"
 }
 },
@@ -349,7 +349,7 @@
 "url": "https://huggingface.co/apple/FastFrames-L",
 "date": "2026-11-16",
 "summary": "",
-"score": 659,
+"score": 682,
 "extra": {
 "org": "apple",
 "publisher": "Apple",
@@ -385,13 +385,13 @@
 "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
 "date": "2026-11-23",
 "summary": "",
-"score": 353,
+"score": 392,
 "extra": {
 "org": "baidu",
 "publisher": "Baidu",
 "jp": false,
 "task": "text-generation",
-"downloads": 1193,
+"downloads": 2609,
 "lang": "en"
 }
 },
@@ -403,13 +403,13 @@
 "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview-BF16",
 "date": "2026-11-23",
 "summary": "",
-"score": 24,
+"score": 25,
 "extra": {
 "org": "baidu",
 "publisher": "Baidu",
 "jp": false,
 "task": "text-generation",
-"downloads": 388,
+"downloads": 825,
 "lang": "en"
 }
 },
@@ -427,7 +427,7 @@
 "publisher": "Baidu",
 "jp": false,
 "task": "text-generation",
-"downloads": 374,
+"downloads": 792,
 "lang": "en"
 }
 },
@@ -457,13 +457,13 @@
 "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
 "date": "2026-11-18",
 "summary": "",
-"score": 379,
+"score": 408,
 "extra": {
 "org": "microsoft",
 "publisher": "Microsoft",
 "jp": false,
 "task": "text-generation",
-"downloads": 6005,
+"downloads": 7054,
 "lang": "en"
 }
 },
@@ -481,7 +481,7 @@
 "publisher": "Microsoft",
 "jp": false,
 "task": "text-generation",
-"downloads": 193,
+"downloads": 227,
 "lang": "en"
 }
 },
@@ -511,13 +511,13 @@
 "url": "https://huggingface.co/nvidia/BioReason-Pro-2-9B-RL",
 "date": "2026-11-09",
 "summary": "",
-"score": 4,
+"score": 5,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 71,
+"downloads": 223,
 "lang": "en"
 }
 },
@@ -535,7 +535,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "",
-"downloads": 61,
+"downloads": 167,
 "lang": "en"
 }
 },
@@ -547,13 +547,13 @@
 "url": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
 "date": "2026-11-11",
 "summary": "",
-"score": 30,
+"score": 32,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 2862,
+"downloads": 3051,
 "lang": "en"
 }
 },
@@ -571,7 +571,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 709,
+"downloads": 799,
 "lang": "en"
 }
 },
@@ -607,7 +607,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 94,
+"downloads": 214,
 "lang": "en"
 }
 },
@@ -619,13 +619,13 @@
 "url": "https://huggingface.co/nvidia/Nemotron-3.5-Rerank-1B-BF16",
 "date": "2026-11-13",
 "summary": "",
-"score": 4,
+"score": 6,
 "extra": {
 "org": "nvidia",
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-ranking",
-"downloads": 894,
+"downloads": 1547,
 "lang": "en"
 }
 },
@@ -643,7 +643,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 441,
+"downloads": 531,
 "lang": "en"
 }
 },
@@ -661,7 +661,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 442,
+"downloads": 536,
 "lang": "en"
 }
 },
@@ -679,7 +679,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 491,
+"downloads": 589,
 "lang": "en"
 }
 },
@@ -697,7 +697,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 477,
+"downloads": 571,
 "lang": "en"
 }
 },
@@ -715,7 +715,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 468,
+"downloads": 573,
 "lang": "en"
 }
 },
@@ -733,7 +733,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 491,
+"downloads": 585,
 "lang": "en"
 }
 },
@@ -751,7 +751,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 517,
+"downloads": 627,
 "lang": "en"
 }
 },
@@ -769,7 +769,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 591,
+"downloads": 739,
 "lang": "en"
 }
 },
@@ -787,7 +787,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 787,
+"downloads": 974,
 "lang": "en"
 }
 },
@@ -805,7 +805,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 631,
+"downloads": 733,
 "lang": "en"
 }
 },
@@ -823,7 +823,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 759,
+"downloads": 913,
 "lang": "en"
 }
 },
@@ -841,7 +841,7 @@
 "publisher": "NVIDIA",
 "jp": false,
 "task": "text-generation",
-"downloads": 2380,
+"downloads": 2667,
 "lang": "en"
 }
 },
@@ -877,7 +877,7 @@
 "publisher": "Preferred Networks",
 "jp": true,
 "task": "text-generation",
-"downloads": 1155,
+"downloads": 1188,
 "lang": "ja"
 }
 },
@@ -895,7 +895,7 @@
 "publisher": "SB Intuitions",
 "jp": true,
 "task": "token-classification",
-"downloads": 9,
+"downloads": 23,
 "lang": "ja"
 }
 },
@@ -913,7 +913,7 @@
 "publisher": "SB Intuitions",
 "jp": true,
 "task": "token-classification",
-"downloads": 9,
+"downloads": 28,
 "lang": "ja"
 }
 },
@@ -931,7 +931,7 @@
 "publisher": "SB Intuitions",
 "jp": true,
 "task": "token-classification",
-"downloads": 17,
+"downloads": 43,
 "lang": "ja"
 }
 },
@@ -949,7 +949,7 @@
 "publisher": "SB Intuitions",
 "jp": true,
 "task": "token-classification",
-"downloads": 9,
+"downloads": 19,
 "lang": "ja"
 }
 },
@@ -971,6 +971,24 @@
 "lang": "en"
 }
 },
+"release-tencent__Hy-Embodied-Apexio-1.0": {
+"id": "release-tencent__Hy-Embodied-Apexio-1.0",
+"source": "releases",
+"kind": "release",
+"title": "tencent/Hy-Embodied-Apexio-1.0",
+"url": "https://huggingface.co/tencent/Hy-Embodied-Apexio-1.0",
+"date": "2026-11-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tencent",
+"publisher": "Tencent",
+"jp": false,
+"task": "",
+"downloads": 0,
+"lang": "en"
+}
+},
 "release-tencent__Hy4-FP8": {
 "id": "release-tencent__Hy4-FP8",
 "source": "releases",
@@ -985,7 +1003,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 1147,
+"downloads": 1470,
 "lang": "en"
 }
 },
@@ -1003,7 +1021,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 993,
+"downloads": 1222,
 "lang": "en"
 }
 },
@@ -1069,13 +1087,13 @@
 "url": "https://huggingface.co/tencent/OmniEVIE-4B",
 "date": "2026-11-24",
 "summary": "",
-"score": 26,
+"score": 27,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "feature-extraction",
-"downloads": 399,
+"downloads": 688,
 "lang": "en"
 }
 },
@@ -1111,7 +1129,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 655,
+"downloads": 1361,
 "lang": "en"
 }
 },
@@ -1129,7 +1147,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 168,
+"downloads": 398,
 "lang": "en"
 }
 },
@@ -1147,7 +1165,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 547,
+"downloads": 1274,
 "lang": "en"
 }
 },
@@ -1165,7 +1183,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 437,
+"downloads": 886,
 "lang": "en"
 }
 },
@@ -1183,7 +1201,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 453,
+"downloads": 849,
 "lang": "en"
 }
 },
@@ -1201,7 +1219,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 166,
+"downloads": 366,
 "lang": "en"
 }
 },
@@ -1219,7 +1237,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 576,
+"downloads": 1323,
 "lang": "en"
 }
 },
@@ -1237,7 +1255,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 526,
+"downloads": 975,
 "lang": "en"
 }
 },
@@ -1249,13 +1267,13 @@
 "url": "https://huggingface.co/tencent/WeMM-Ecom-35B-A3B",
 "date": "2026-11-18",
 "summary": "",
-"score": 21,
+"score": 23,
 "extra": {
 "org": "tencent",
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 935,
+"downloads": 1771,
 "lang": "en"
 }
 },
@@ -1273,7 +1291,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 466,
+"downloads": 974,
 "lang": "en"
 }
 },
@@ -1291,7 +1309,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 3116,
+"downloads": 5548,
 "lang": "en"
 }
 },
@@ -1309,7 +1327,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 431,
+"downloads": 910,
 "lang": "en"
 }
 },
@@ -1327,7 +1345,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 513,
+"downloads": 1034,
 "lang": "en"
 }
 },
@@ -1345,7 +1363,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 239,
+"downloads": 466,
 "lang": "en"
 }
 },
@@ -1363,7 +1381,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 454,
+"downloads": 1397,
 "lang": "en"
 }
 },
@@ -1381,7 +1399,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 262,
+"downloads": 538,
 "lang": "en"
 }
 },
@@ -1399,7 +1417,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 597,
+"downloads": 1218,
 "lang": "en"
 }
 },
@@ -1417,7 +1435,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 173,
+"downloads": 445,
 "lang": "en"
 }
 },
@@ -1435,7 +1453,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 464,
+"downloads": 1706,
 "lang": "en"
 }
 },
@@ -1453,7 +1471,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 552,
+"downloads": 1102,
 "lang": "en"
 }
 },
@@ -1489,7 +1507,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "video-text-to-text",
-"downloads": 137,
+"downloads": 263,
 "lang": "en"
 }
 },
@@ -1507,7 +1525,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "video-text-to-text",
-"downloads": 155,
+"downloads": 174,
 "lang": "en"
 }
 },
@@ -1525,7 +1543,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "video-text-to-text",
-"downloads": 9149,
+"downloads": 12054,
 "lang": "en"
 }
 },
@@ -1543,7 +1561,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "video-text-to-text",
-"downloads": 145,
+"downloads": 166,
 "lang": "en"
 }
 },
@@ -1831,7 +1849,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 3,
+"downloads": 176,
 "lang": "en"
 }
 },
@@ -1849,7 +1867,7 @@
 "publisher": "Tencent",
 "jp": false,
 "task": "image-text-to-text",
-"downloads": 5,
+"downloads": 184,
 "lang": "en"
 }
 },
@@ -1869,6 +1887,186 @@
 "task": "video-text-to-text",
 "downloads": 60,
 "lang": "en"
+}
+},
+"release-tokyotech-llm__SwaFlow-150M": {
+"id": "release-tokyotech-llm__SwaFlow-150M",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-150M",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-150M",
+"date": "2026-11-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 8,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-1B": {
+"id": "release-tokyotech-llm__SwaFlow-1B",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-1B",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-1B",
+"date": "2026-11-28",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-3B": {
+"id": "release-tokyotech-llm__SwaFlow-3B",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-3B",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-3B",
+"date": "2026-11-28",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-3B-EMA": {
+"id": "release-tokyotech-llm__SwaFlow-3B-EMA",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-3B-EMA",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-3B-EMA",
+"date": "2026-11-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-3B-EMA-Instruct": {
+"id": "release-tokyotech-llm__SwaFlow-3B-EMA-Instruct",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-3B-EMA-Instruct",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-3B-EMA-Instruct",
+"date": "2026-11-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-3B-Instruct": {
+"id": "release-tokyotech-llm__SwaFlow-3B-Instruct",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-3B-Instruct",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-3B-Instruct",
+"date": "2026-11-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-500M": {
+"id": "release-tokyotech-llm__SwaFlow-500M",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-500M",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-500M",
+"date": "2026-11-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-AR-150M": {
+"id": "release-tokyotech-llm__SwaFlow-AR-150M",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-AR-150M",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-AR-150M",
+"date": "2026-11-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-AR-1B": {
+"id": "release-tokyotech-llm__SwaFlow-AR-1B",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-AR-1B",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-AR-1B",
+"date": "2026-11-28",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
+}
+},
+"release-tokyotech-llm__SwaFlow-AR-500M": {
+"id": "release-tokyotech-llm__SwaFlow-AR-500M",
+"source": "releases",
+"kind": "release",
+"title": "tokyotech-llm/SwaFlow-AR-500M",
+"url": "https://huggingface.co/tokyotech-llm/SwaFlow-AR-500M",
+"date": "2026-11-27",
+"summary": "",
+"score": 0,
+"extra": {
+"org": "tokyotech-llm",
+"publisher": "Swallow（科学大）",
+"jp": true,
+"task": "",
+"downloads": 0,
+"lang": "ja"
 }
 }
 }

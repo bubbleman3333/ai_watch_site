@@ -1,0 +1,352 @@
+[
+{
+"repo": "ollama/ollama",
+"stars": 188332,
+"forks": 19245,
+"desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+"lang": "Go",
+"pushed": "2026-11-27",
+"release": "v0.40.19",
+"release_date": "2026-11-26"
+},
+{
+"repo": "ggml-org/llama.cpp",
+"stars": 136459,
+"forks": 26188,
+"desc": "LLM inference in C/C++",
+"lang": "C++",
+"pushed": "2026-11-28",
+"release": "v1.1.0",
+"release_date": "2026-11-26"
+},
+{
+"repo": "vllm-project/vllm",
+"stars": 97716,
+"forks": 25391,
+"desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "v0.34.0",
+"release_date": "2026-11-16"
+},
+{
+"repo": "sgl-project/sglang",
+"stars": 39140,
+"forks": 10930,
+"desc": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "v0.5.23",
+"release_date": "2026-11-02"
+},
+{
+"repo": "huggingface/transformers",
+"stars": 169309,
+"forks": 35323,
+"desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference a…",
+"lang": "Python",
+"pushed": "2026-11-27",
+"release": "v5.24.1",
+"release_date": "2026-11-24"
+},
+{
+"repo": "langchain-ai/langchain",
+"stars": 150087,
+"forks": 25185,
+"desc": "The agent engineering platform.",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "langchain-core==1.8.5",
+"release_date": "2026-11-25"
+},
+{
+"repo": "langchain-ai/langgraph",
+"stars": 45517,
+"forks": 7875,
+"desc": "Build resilient agents.",
+"lang": "Python",
+"pushed": "2026-11-26",
+"release": "cli==0.4.44",
+"release_date": "2026-11-25"
+},
+{
+"repo": "run-llama/llama_index",
+"stars": 53030,
+"forks": 8658,
+"desc": "LlamaIndex is the document processing platform for AI",
+"lang": "Python",
+"pushed": "2026-11-26",
+"release": "v0.14.26",
+"release_date": "2026-11-13"
+},
+{
+"repo": "open-webui/open-webui",
+"stars": 159700,
+"forks": 23171,
+"desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+"lang": "Svelte",
+"pushed": "2026-11-27",
+"release": "v0.13.5",
+"release_date": "2026-11-25"
+},
+{
+"repo": "langgenius/dify",
+"stars": 162031,
+"forks": 25566,
+"desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move…",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "1.20.0",
+"release_date": "2026-11-18"
+},
+{
+"repo": "n8n-io/n8n",
+"stars": 212339,
+"forks": 61690,
+"desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+"lang": "TypeScript",
+"pushed": "2026-11-28",
+"release": "n8n@2.49.8",
+"release_date": "2026-11-27"
+},
+{
+"repo": "Comfy-Org/ComfyUI",
+"stars": 148936,
+"forks": 17755,
+"desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "v0.46.0",
+"release_date": "2026-11-18"
+},
+{
+"repo": "microsoft/autogen",
+"stars": 61966,
+"forks": 9426,
+"desc": "A programming framework for agentic AI",
+"lang": "Python",
+"pushed": "2026-11-12",
+"release": "python-v0.7.5",
+"release_date": "2025-09-30"
+},
+{
+"repo": "crewAIInc/crewAI",
+"stars": 61332,
+"forks": 9309,
+"desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, ta…",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "1.15.45",
+"release_date": "2026-11-24"
+},
+{
+"repo": "modelcontextprotocol/servers",
+"stars": 92300,
+"forks": 11999,
+"desc": "Model Context Protocol Reference Servers",
+"lang": "TypeScript",
+"pushed": "2026-11-27",
+"release": "v2.6.0",
+"release_date": "2026-11-27"
+},
+{
+"repo": "anthropics/claude-code",
+"stars": 157330,
+"forks": 25104,
+"desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining…",
+"lang": "TypeScript",
+"pushed": "2026-11-27",
+"release": "v2.1.332",
+"release_date": "2026-11-25"
+},
+{
+"repo": "openai/codex",
+"stars": 136646,
+"forks": 21660,
+"desc": "Lightweight coding agent that runs in your terminal",
+"lang": "Rust",
+"pushed": "2026-11-28",
+"release": "rust-v0.172.0",
+"release_date": "2026-11-24"
+},
+{
+"repo": "google-gemini/gemini-cli",
+"stars": 109256,
+"forks": 15017,
+"desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+"lang": "TypeScript",
+"pushed": "2026-11-28",
+"release": "v0.71.1",
+"release_date": "2026-11-24"
+},
+{
+"repo": "BerriAI/litellm",
+"stars": 64045,
+"forks": 13633,
+"desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and…",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "v1.111.0",
+"release_date": "2026-11-25"
+},
+{
+"repo": "unslothai/unsloth",
+"stars": 80395,
+"forks": 7498,
+"desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "v0.1.925-beta",
+"release_date": "2026-11-25"
+},
+{
+"repo": "infiniflow/ragflow",
+"stars": 94839,
+"forks": 11424,
+"desc": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+"lang": "Go",
+"pushed": "2026-11-27",
+"release": "v1.0.0",
+"release_date": "2026-11-06"
+},
+{
+"repo": "mem0ai/mem0",
+"stars": 69559,
+"forks": 8287,
+"desc": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+"lang": "Python",
+"pushed": "2026-11-27",
+"release": "ts-v3.3.1",
+"release_date": "2026-09-25"
+},
+{
+"repo": "browser-use/browser-use",
+"stars": 122243,
+"forks": 13677,
+"desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+"lang": "Python",
+"pushed": "2026-11-27",
+"release": "1.0.9",
+"release_date": "2026-11-26"
+},
+{
+"repo": "microsoft/markitdown",
+"stars": 198769,
+"forks": 15100,
+"desc": "Python tool for converting files and office documents to Markdown.",
+"lang": "Python",
+"pushed": "2026-11-07",
+"release": "v0.1.9",
+"release_date": "2026-10-21"
+},
+{
+"repo": "docling-project/docling",
+"stars": 71151,
+"forks": 5464,
+"desc": "Get your documents ready for gen AI",
+"lang": "Python",
+"pushed": "2026-11-27",
+"release": "v2.154.0",
+"release_date": "2026-11-26"
+},
+{
+"repo": "FlowiseAI/Flowise",
+"stars": 55603,
+"forks": 25100,
+"desc": "Build AI Agents, Visually",
+"lang": "TypeScript",
+"pushed": "2026-08-13",
+"release": "flowise@3.1.4",
+"release_date": "2026-07-29"
+},
+{
+"repo": "lobehub/lobehub",
+"stars": 86210,
+"forks": 16364,
+"desc": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
+"lang": "TypeScript",
+"pushed": "2026-11-28",
+"release": "v2.3.6",
+"release_date": "2026-11-24"
+},
+{
+"repo": "mudler/LocalAI",
+"stars": 50591,
+"forks": 4658,
+"desc": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+"lang": "Go",
+"pushed": "2026-11-28",
+"release": "v5.0.1",
+"release_date": "2026-11-20"
+},
+{
+"repo": "hiyouga/LlamaFactory",
+"stars": 76314,
+"forks": 9427,
+"desc": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+"lang": "Python",
+"pushed": "2026-11-25",
+"release": "v0.9.5",
+"release_date": "2026-05-30"
+},
+{
+"repo": "Mintplex-Labs/anything-llm",
+"stars": 68708,
+"forks": 7769,
+"desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+"lang": "JavaScript",
+"pushed": "2026-11-24",
+"release": "v1.20.0",
+"release_date": "2026-11-17"
+},
+{
+"repo": "pytorch/pytorch",
+"stars": 105694,
+"forks": 30643,
+"desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "v2.15.0",
+"release_date": "2026-10-28"
+},
+{
+"repo": "openai/whisper",
+"stars": 113593,
+"forks": 13758,
+"desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+"lang": "Python",
+"pushed": "2026-08-31",
+"release": "v20250625",
+"release_date": "2025-06-26"
+},
+{
+"repo": "huggingface/smolagents",
+"stars": 30572,
+"forks": 3260,
+"desc": "🤗 smolagents: a barebones library for agents that think in code.",
+"lang": "Python",
+"pushed": "2026-11-26",
+"release": "v1.26.0",
+"release_date": "2026-05-29"
+},
+{
+"repo": "stanfordnlp/dspy",
+"stars": 39266,
+"forks": 3564,
+"desc": "DSPy: The framework for programming—not prompting—language models",
+"lang": "Python",
+"pushed": "2026-11-25",
+"release": "3.5.0",
+"release_date": "2026-11-10"
+},
+{
+"repo": "pydantic/pydantic-ai",
+"stars": 21433,
+"forks": 3301,
+"desc": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+"lang": "Python",
+"pushed": "2026-11-28",
+"release": "v2.77.0",
+"release_date": "2026-11-27"
+}
+]
